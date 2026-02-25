@@ -1,0 +1,43 @@
+name: Fetch UniPop trainings.json hourly
+
+on:
+  schedule:
+    - cron: "5 * * * *"   # jede Stunde um Minute 05
+  workflow_dispatch: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create data dir
+        run: mkdir -p data
+
+      - name: Fetch JSON
+        run: |
+          curl -L --fail --silent --show-error \
+            "https://www.unipop.lu/private/trainings.json" \
+            -o data/trainings.json
+
+      - name: Validate JSON
+        run: |
+          python - <<'PY'
+          import json
+          with open("data/trainings.json","r",encoding="utf-8") as f:
+              json.load(f)
+          print("JSON OK")
+          PY
+
+      - name: Commit changes (if any)
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/trainings.json
+          git commit -m "Update trainings.json"
+          git push
