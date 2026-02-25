@@ -1,788 +1,5 @@
 [ {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2163",
-      "localite" : "Luxembourg",
-      "nom" : "via courriel ou site internet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "47 avenue Monterey"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-843",
-   "coursId" : "LA-FR-843",
-   "coursType" : "CLASSIQUE",
-   "cout" : 620.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "30/04/2026",
-   "dateInscription" : "Ouverture des inscriptions 3 semaines avant le début de la session",
-   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1- Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
-   "duree" : "30h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 18:30 (durée 2h),\nJeudi à 18:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 60355,
-   "intitule" : "Cours de français : cours du soir à distance",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2163",
-         "localite" : "Luxembourg",
-         "nom" : "Institut Français du Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "47, Avenue Monterey"
-      },
-      "code" : "IFL",
-      "mail" : "cours@ifluxembourg.lu",
-      "nom" : "Institut Français du Luxembourg",
-      "nomContact" : "Hausmesser",
-      "onlineReg" : false,
-      "prenomContact" : "Isabelle",
-      "statut" : "ASBL",
-      "telephone" : "462 166 39",
-      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
-   },
-   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
-   "renseignements" : "Cours organisés à distance via l'outil ZOOM. Groupes de niveaux homogènes composés de 4 à 8 apprenants.\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4036",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch/Alzette",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 Boulevard Charles de Gaulle"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
-   "coursCode" : "AR-MET-18",
-   "coursId" : "AR-MET-18",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "09/07/2026",
-   "description" : "Au terme de la formation avancée, l’apprenant sera capable :\r\n  >  De forger des outils (marteaux, pinces, burins, …).\r\n  >  De tremper les différentes sortes d’acier.\r\n  >  De souder au feu (acier rapporté, acier damassé).\r\n  >  De forger une pièce plus élaborée avec les outils confectionnés.\r\n  >  De couler des pièces en bronze/aluminium.",
-   "duree" : "48 leçons",
-   "enseignants" : [ {
-      "nom" : "Felten",
-      "prenom" : "Paul"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65039,
-   "intitule" : "Ferronnerie d'Art : Forge - Avancé 2Sem",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "MET",
-   "matiereNom" : "Métal",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Avancé",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwMzk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Formation disponible uniquement pour les personnes ayant déjà suivi la formation de base \" Ferronerie d'art / Forge - Débutant \"",
-   "renseignements" : "Matériels requis :\r\nObligatoire :\r\n  *  Vêtements de travail\r\n  *  Chaussures de sécurité\r\n  *  Lunettes de sécurité\r\n  *  Tablier de soudeur/forgeron en cuir.\r\nFacultatif :\r\n  *  Gants en cuir \r\n  *  Protection auditive."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-FS-3",
-   "coursId" : "AR-FS-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 36.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "19/03/2026",
-   "description" : "Le Feng Shui est un art aux techniques ancestrales, le Feng Shui favorise l'harmonie entre l'environnement et les individus, permettant ainsi de créer des espaces (maison, bureau etc) propices à la sérénité, à la créativité et son bien-être.\r\nLes participants découvriront comment l'agencement de leur espace de vie ou de travail peut influencer leur énergie, leur humeur et leurs relations. À l'issue de ce programme, chacun repartira avec des conseils pratiques pour réajuster son environnement, optimiser son bien-être physique et mental, et instaurer un équilibre durable. Ce parcours s'inscrit dans une démarche holistique, visant à reconnecter le corps, l'esprit et l'espace de vie.",
-   "duree" : "8 leçons",
-   "enseignants" : [ {
-      "nom" : "Zarcone",
-      "prenom" : "Magalie",
-      "presentation" : "https://www.instagram.com/g_concept_sa/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 26-02-2026 à 17:10 (durée 1h40), 17:10 (durée 1h40), 17:10 (durée 1h40) et 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63972,
-   "intitule" : "Transformez votre Intérieur avec le Feng Shui - 2 Partie",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FS",
-   "matiereNom" : "Feng Shui",
-   "nbInscrits" : 12,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NzI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "À apporter : carnet de notes, colle, ciseaux, stylo, feutres, et un plan de votre maison à l’échelle (si possible), pour les exercices pratiques pendant les séances"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119 rue du cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PINT-35",
-   "coursId" : "AR-PINT-35",
-   "coursType" : "CLASSIQUE",
-   "cout" : 148.5,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "04/06/2026",
-   "description" : "Cours de la peinture du paysage par époques : une analyse et une reconstruction des tableaux des maîtres de la peinture par périodes. Peinture à l’acrylique et à l’huile.\r\n1ère année : du gothique jusqu’à l’impressionnisme\r\n2ème année : le postimpressionnisme et le 20ème siècle\r\n3ème année : recherche du style personnel",
-   "duree" : "33 leçons",
-   "enseignants" : [ {
-      "nom" : "Cekovic",
-      "prenom" : "Ivana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63971,
-   "intitule" : "Peinture de paysage, du gothique à la fin du XXe siècle - 2 SEM",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PINT",
-   "matiereNom" : "Peinture",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Bloc A3 Figueras, bloc esquisses, fusains/crayons 2–5B, gommes, fixatif, pinceaux plats + pointu, médium, retardateur, récipients, palette, spatules, chiffon, nappe, chevalet, acryliques (blanc, jaune, ocre, rouges, bleus, vert, marron, noir)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-AG-21",
-   "coursId" : "AR-AG-21",
-   "coursType" : "CLASSIQUE",
-   "cout" : 144.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "09/07/2026",
-   "description" : "Le sumié est la peinture Japonaise traditionnelle réalisée à l’encre de Chine.\r\nVous apprendrez à jouer avec la dilution de l’encre pour obtenir des nuances de noirs. Vous exercerez votre habilité en travaillant la force et la vitesse appliquées au pinceau pour obtenir l’épaisseur et la netteté des lignes désirées. Vous apprendrez également à utiliser le matériel de Sumié, tout en améliorant votre posture et vos capacités de concentration.",
-   "duree" : "32 leçons",
-   "enseignants" : [ {
-      "nom" : "Hayashimoto",
-      "prenom" : "Rei",
-      "presentation" : "Rei Hayashimoto propose des cours de calligraphie japonaise et de sumi-e (peinture à l'encre), une discipline traditionnelle qui allie l'art du pinceau et la philosophie zen. Elle enseigne ces pratiques avec passion, permettant à ses élèves de découvrir la beauté et la sérénité de ces arts anciens. Pour en savoir plus, visitez https://reihayashimoto.wixsite.com/calligraphie\r\n"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:50 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63954,
-   "intitule" : "Cours de sumié (Peinture japonaise à l'encre de Chine)",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "AG",
-   "matiereNom" : "Arts graphiques",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "Matériel : pinceaux, papiers japonais, encre, encrier, presse-papier, feutrine, brouillon. La formatrice présentera le matériel au premier cours ; aucun achat n’est nécessaire avant la première séance."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-AG-20",
-   "coursId" : "AR-AG-20",
-   "coursType" : "CLASSIQUE",
-   "cout" : 144.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "09/07/2026",
-   "description" : "Découvrez le Japon via l’Art de la Calligraphie Japonaise.\r\nLa calligraphie vous permettra également de vous détendre grâce à la concentration, la maitrise de votre respiration et de votre posture.\r\nLe cours vous permettra également de découvrir le langue Japonaise et sa culture.\r\nVous y apprendrez l’histoire de calligraphie, l’utilisation du matériel de calligraphie, la technique d’écriture au pinceau et à l’encre de Chine. Vous pratiquez l’écriture des Kanji, les Hiragana et les Katakana.",
-   "duree" : "32 leçons",
-   "enseignants" : [ {
-      "nom" : "Hayashimoto",
-      "prenom" : "Rei",
-      "presentation" : "Rei Hayashimoto propose des cours de calligraphie japonaise et de sumi-e (peinture à l'encre), une discipline traditionnelle qui allie l'art du pinceau et la philosophie zen. Elle enseigne ces pratiques avec passion, permettant à ses élèves de découvrir la beauté et la sérénité de ces arts anciens. Pour en savoir plus, visitez https://reihayashimoto.wixsite.com/calligraphie\r\n"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63953,
-   "intitule" : "Cours de calligraphie japonaise",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "AG",
-   "matiereNom" : "Arts graphiques",
-   "nbInscrits" : 7,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "Matériel de calligraphie : pinceaux, papiers japonais, encre, encrier, presse-papier, feutrine, brouillon. La formatrice expliquera le matériel au premier cours ; aucun achat n’est nécessaire avant cette première séance"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Centre Bureck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "rue de la Fontaine"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Administration Communale de Bertrange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, beim Schlass"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-IT-158",
-   "coursId" : "LA-IT-158",
-   "coursType" : "CLASSIQUE",
-   "cout" : 153.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "www.bertrange.lu",
-   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats.\r\nPeut communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. \r\nPeut décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "duree" : "34h",
-   "enseignants" : [ {
-      "nom" : "Cama",
-      "prenom" : "Rosaria"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 64712,
-   "intitule" : "Italien",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "IT",
-   "matiereNom" : "Italien",
-   "nbInscrits" : 4,
-   "nbPlaces" : 8,
-   "niveau" : "B2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8058",
-         "localite" : "Bertrange",
-         "nom" : "Administration Communale de Bertrange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, beim Schlass"
-      },
-      "code" : "A.C. BERT",
-      "mail" : "cours@bertrange.lu",
-      "nom" : "Commune de Bertrange",
-      "nomContact" : "Flammang",
-      "onlineReg" : false,
-      "prenomContact" : "Joelle",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 26312 340 matin"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Centre Bureck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "rue de la Fontaine"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Administration Communale de Bertrange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, beim Schlass"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-ES-131",
-   "coursId" : "LA-ES-131",
-   "coursType" : "CLASSIQUE",
-   "cout" : 153.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "www.bertrange.lu",
-   "description" : "Peut comprendre les points essentiels quand un langage clair et standard est utilisé et s’il s’agit de choses familières dans le travail, à l’école, dans les loisirs, etc. Peut se débrouiller dans la plupart des situations rencontrées en voyage dans une région où la langue cible est parlée. Peut produire un discours simple et cohérent sur des sujets familiers et dans ses domaines d’intérêt. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des raisons ou explications pour un projet ou une idée.",
-   "duree" : "34h",
-   "enseignants" : [ {
-      "nom" : "San Jose Guasch",
-      "prenom" : "Maria Teresa"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 20:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "20:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 64697,
-   "intitule" : "Espagnol",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "ES",
-   "matiereNom" : "Espagnol",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "B1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8058",
-         "localite" : "Bertrange",
-         "nom" : "Administration Communale de Bertrange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, beim Schlass"
-      },
-      "code" : "A.C. BERT",
-      "mail" : "cours@bertrange.lu",
-      "nom" : "Commune de Bertrange",
-      "nomContact" : "Flammang",
-      "onlineReg" : false,
-      "prenomContact" : "Joelle",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 26312 340 matin"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Centre Bureck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "rue de la Fontaine"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Administration Communale de Bertrange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, beim Schlass"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-ES-129",
-   "coursId" : "LA-ES-129",
-   "coursType" : "CLASSIQUE",
-   "cout" : 153.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "www.bertrange.lu",
-   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité par exemple, informations personnelles et familiales simples, achats, environnement proche, travail. Peut communiquer lors de tâches simples et habituelles ne demandant qu’un échange d’informations simple et direct sur des sujets familiers et habituels. Peut décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "duree" : "34h",
-   "enseignants" : [ {
-      "nom" : "San Jose Guasch",
-      "prenom" : "Maria Teresa"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 64695,
-   "intitule" : "Espagnol",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "ES",
-   "matiereNom" : "Espagnol",
-   "nbInscrits" : 6,
-   "nbPlaces" : 8,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8058",
-         "localite" : "Bertrange",
-         "nom" : "Administration Communale de Bertrange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, beim Schlass"
-      },
-      "code" : "A.C. BERT",
-      "mail" : "cours@bertrange.lu",
-      "nom" : "Commune de Bertrange",
-      "nomContact" : "Flammang",
-      "onlineReg" : false,
-      "prenomContact" : "Joelle",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 26312 340 matin"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Centre Bureck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "rue de la Fontaine"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Administration Communale de Bertrange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, beim Schlass"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-ES-127",
-   "coursId" : "LA-ES-127",
-   "coursType" : "CLASSIQUE",
-   "cout" : 153.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "www.bertrange.lu",
-   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés très simples qui visent à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu’un et poser à une personne des questions concernant, par exemple, son lieu d’habitation, ses relations, ce qui lui appartient et peut répondre au même type de questions. Peut communiquer de façon simple si l’interlocuteur parle lentement et distinctement et se montre coopératif.",
-   "duree" : "34h",
-   "enseignants" : [ {
-      "nom" : "San Jose Guasch",
-      "prenom" : "Maria Teresa"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 16:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "16:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 64693,
-   "intitule" : "Espagnol",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "ES",
-   "matiereNom" : "Espagnol",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8058",
-         "localite" : "Bertrange",
-         "nom" : "Administration Communale de Bertrange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, beim Schlass"
-      },
-      "code" : "A.C. BERT",
-      "mail" : "cours@bertrange.lu",
-      "nom" : "Commune de Bertrange",
-      "nomContact" : "Flammang",
-      "onlineReg" : false,
-      "prenomContact" : "Joelle",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 26312 340 matin"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4036",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch/Alzette",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 Boulevard Charles de Gaulle"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
-   "coursCode" : "AR-MET-16",
-   "coursId" : "AR-MET-16",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "09/07/2026",
-   "description" : "Au terme de la formation de base l’apprenant sera capable :\r\n >   D’exécuter les techniques de base de la forge (étirer, refouler, trancher, dégorger, torsader, …). \r\n >   Réaliser une pièce reprenant toutes ces techniques est exécutée par les apprenants.\r\n >   D’utiliser un marteau pneumatique.\r\n >   De gérer un feu de forge.\r\n >   De forger avec un frappeur.\r\n\r\n1ière année : Techniques de base de la forge, pièce finale",
-   "duree" : "48 leçons",
-   "enseignants" : [ {
-      "nom" : "Schleich",
-      "prenom" : "Romain"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65037,
-   "intitule" : "Ferronnerie d'Art : Cours de base 2Sem",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "MET",
-   "matiereNom" : "Métal",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwMzc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Matériels requis :\r\nObligatoire :\r\n  *  Vêtements de travail\r\n  *  Chaussures de sécurité\r\n  *  Lunettes de sécurité\r\n  *  Tablier de soudeur/forgeron en cuir.\r\nFacultatif :\r\n  *  Gants en cuir \r\n  *  Protection auditive.",
-   "renseignements" : "Prérequis:\r\n  >  Avoir compléter le 1er semestre (Cours de base)\r\n  >  Age minimum 18 ans. \r\n  >  Une certaine expérience du travail manuel est un plus. \r\n  >  La chaleur intense et le bruit font partie de la forge."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch/Alzette",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
-   "coursCode" : "AR-BOI-50",
-   "coursId" : "AR-BOI-50",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "09/07/2026",
-   "description" : "La formation vise l'initiation au domaine de la menuiserie\r\n>  Les différentes techniques de travail du bois. \r\n>  Les outils \r\n>  Initiation artisanale concernant les différentes techniques de façonnage et d'assemblage\r\n>  Évaluation formative en continu \r\n>  Commentaire personnel en fin de formation si souhaité  \r\n>  Bilan commun le dernier jour",
-   "duree" : "48 leçons",
-   "enseignants" : [ {
-      "nom" : "Scheuer",
-      "prenom" : "Steve"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 62566,
-   "intitule" : "Menuiserie - Débutant",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "BOI",
-   "matiereNom" : "Bois",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjI1NjY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Chaussures de sécurité",
-   "renseignements" : "Remarque : Le cours se termine à 21h00\r\nUn montant de 70 € est à prévoir par participant pour le matériel utilisé durant le cours."
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -45178,6 +44395,517 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2163",
+      "localite" : "Luxembourg",
+      "nom" : "via courriel ou site internet",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "47 avenue Monterey"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-843",
+   "coursId" : "LA-FR-843",
+   "coursType" : "CLASSIQUE",
+   "cout" : 620.0,
+   "dateDebut" : "26/02/2026",
+   "dateFin" : "30/04/2026",
+   "dateInscription" : "Ouverture des inscriptions 3 semaines avant le début de la session",
+   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1- Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
+   "duree" : "30h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 18:30 (durée 2h),\nJeudi à 18:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 60355,
+   "intitule" : "Cours de français : cours du soir à distance",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2163",
+         "localite" : "Luxembourg",
+         "nom" : "Institut Français du Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "47, Avenue Monterey"
+      },
+      "code" : "IFL",
+      "mail" : "cours@ifluxembourg.lu",
+      "nom" : "Institut Français du Luxembourg",
+      "nomContact" : "Hausmesser",
+      "onlineReg" : false,
+      "prenomContact" : "Isabelle",
+      "statut" : "ASBL",
+      "telephone" : "462 166 39",
+      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
+   },
+   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
+   "renseignements" : "Cours organisés à distance via l'outil ZOOM. Groupes de niveaux homogènes composés de 4 à 8 apprenants.\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4036",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-Esch/Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 Boulevard Charles de Gaulle"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
+   "coursCode" : "AR-MET-18",
+   "coursId" : "AR-MET-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 216.0,
+   "dateDebut" : "26/02/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "Au terme de la formation avancée, l’apprenant sera capable :\r\n  >  De forger des outils (marteaux, pinces, burins, …).\r\n  >  De tremper les différentes sortes d’acier.\r\n  >  De souder au feu (acier rapporté, acier damassé).\r\n  >  De forger une pièce plus élaborée avec les outils confectionnés.\r\n  >  De couler des pièces en bronze/aluminium.",
+   "duree" : "48 leçons",
+   "enseignants" : [ {
+      "nom" : "Felten",
+      "prenom" : "Paul"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65039,
+   "intitule" : "Ferronnerie d'Art : Forge - Avancé 2Sem",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "MET",
+   "matiereNom" : "Métal",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Avancé",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwMzk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Formation disponible uniquement pour les personnes ayant déjà suivi la formation de base \" Ferronerie d'art / Forge - Débutant \"",
+   "renseignements" : "Matériels requis :\r\nObligatoire :\r\n  *  Vêtements de travail\r\n  *  Chaussures de sécurité\r\n  *  Lunettes de sécurité\r\n  *  Tablier de soudeur/forgeron en cuir.\r\nFacultatif :\r\n  *  Gants en cuir \r\n  *  Protection auditive."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-FS-3",
+   "coursId" : "AR-FS-3",
+   "coursType" : "CLASSIQUE",
+   "cout" : 36.0,
+   "dateDebut" : "26/02/2026",
+   "dateFin" : "19/03/2026",
+   "description" : "Le Feng Shui est un art aux techniques ancestrales, le Feng Shui favorise l'harmonie entre l'environnement et les individus, permettant ainsi de créer des espaces (maison, bureau etc) propices à la sérénité, à la créativité et son bien-être.\r\nLes participants découvriront comment l'agencement de leur espace de vie ou de travail peut influencer leur énergie, leur humeur et leurs relations. À l'issue de ce programme, chacun repartira avec des conseils pratiques pour réajuster son environnement, optimiser son bien-être physique et mental, et instaurer un équilibre durable. Ce parcours s'inscrit dans une démarche holistique, visant à reconnecter le corps, l'esprit et l'espace de vie.",
+   "duree" : "8 leçons",
+   "enseignants" : [ {
+      "nom" : "Zarcone",
+      "prenom" : "Magalie",
+      "presentation" : "https://www.instagram.com/g_concept_sa/"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 26-02-2026 à 17:10 (durée 1h40), 17:10 (durée 1h40), 17:10 (durée 1h40) et 17:10 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63972,
+   "intitule" : "Transformez votre Intérieur avec le Feng Shui - 2 Partie",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FS",
+   "matiereNom" : "Feng Shui",
+   "nbInscrits" : 12,
+   "nbPlaces" : 12,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NzI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "À apporter : carnet de notes, colle, ciseaux, stylo, feutres, et un plan de votre maison à l’échelle (si possible), pour les exercices pratiques pendant les séances"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1338",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée Bonnevoie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "119 rue du cimetière"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PINT-35",
+   "coursId" : "AR-PINT-35",
+   "coursType" : "CLASSIQUE",
+   "cout" : 148.5,
+   "dateDebut" : "26/02/2026",
+   "dateFin" : "04/06/2026",
+   "description" : "Cours de la peinture du paysage par époques : une analyse et une reconstruction des tableaux des maîtres de la peinture par périodes. Peinture à l’acrylique et à l’huile.\r\n1ère année : du gothique jusqu’à l’impressionnisme\r\n2ème année : le postimpressionnisme et le 20ème siècle\r\n3ème année : recherche du style personnel",
+   "duree" : "33 leçons",
+   "enseignants" : [ {
+      "nom" : "Cekovic",
+      "prenom" : "Ivana"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 17:30 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63971,
+   "intitule" : "Peinture de paysage, du gothique à la fin du XXe siècle - 2 SEM",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PINT",
+   "matiereNom" : "Peinture",
+   "nbInscrits" : 6,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Bloc A3 Figueras, bloc esquisses, fusains/crayons 2–5B, gommes, fixatif, pinceaux plats + pointu, médium, retardateur, récipients, palette, spatules, chiffon, nappe, chevalet, acryliques (blanc, jaune, ocre, rouges, bleus, vert, marron, noir)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-AG-21",
+   "coursId" : "AR-AG-21",
+   "coursType" : "CLASSIQUE",
+   "cout" : 144.0,
+   "dateDebut" : "26/02/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "Le sumié est la peinture Japonaise traditionnelle réalisée à l’encre de Chine.\r\nVous apprendrez à jouer avec la dilution de l’encre pour obtenir des nuances de noirs. Vous exercerez votre habilité en travaillant la force et la vitesse appliquées au pinceau pour obtenir l’épaisseur et la netteté des lignes désirées. Vous apprendrez également à utiliser le matériel de Sumié, tout en améliorant votre posture et vos capacités de concentration.",
+   "duree" : "32 leçons",
+   "enseignants" : [ {
+      "nom" : "Hayashimoto",
+      "prenom" : "Rei",
+      "presentation" : "Rei Hayashimoto propose des cours de calligraphie japonaise et de sumi-e (peinture à l'encre), une discipline traditionnelle qui allie l'art du pinceau et la philosophie zen. Elle enseigne ces pratiques avec passion, permettant à ses élèves de découvrir la beauté et la sérénité de ces arts anciens. Pour en savoir plus, visitez https://reihayashimoto.wixsite.com/calligraphie\r\n"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:50 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63954,
+   "intitule" : "Cours de sumié (Peinture japonaise à l'encre de Chine)",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "AG",
+   "matiereNom" : "Arts graphiques",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
+   "renseignements" : "Matériel : pinceaux, papiers japonais, encre, encrier, presse-papier, feutrine, brouillon. La formatrice présentera le matériel au premier cours ; aucun achat n’est nécessaire avant la première séance."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-AG-20",
+   "coursId" : "AR-AG-20",
+   "coursType" : "CLASSIQUE",
+   "cout" : 144.0,
+   "dateDebut" : "26/02/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "Découvrez le Japon via l’Art de la Calligraphie Japonaise.\r\nLa calligraphie vous permettra également de vous détendre grâce à la concentration, la maitrise de votre respiration et de votre posture.\r\nLe cours vous permettra également de découvrir le langue Japonaise et sa culture.\r\nVous y apprendrez l’histoire de calligraphie, l’utilisation du matériel de calligraphie, la technique d’écriture au pinceau et à l’encre de Chine. Vous pratiquez l’écriture des Kanji, les Hiragana et les Katakana.",
+   "duree" : "32 leçons",
+   "enseignants" : [ {
+      "nom" : "Hayashimoto",
+      "prenom" : "Rei",
+      "presentation" : "Rei Hayashimoto propose des cours de calligraphie japonaise et de sumi-e (peinture à l'encre), une discipline traditionnelle qui allie l'art du pinceau et la philosophie zen. Elle enseigne ces pratiques avec passion, permettant à ses élèves de découvrir la beauté et la sérénité de ces arts anciens. Pour en savoir plus, visitez https://reihayashimoto.wixsite.com/calligraphie\r\n"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 17:10 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63953,
+   "intitule" : "Cours de calligraphie japonaise",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "AG",
+   "matiereNom" : "Arts graphiques",
+   "nbInscrits" : 7,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
+   "renseignements" : "Matériel de calligraphie : pinceaux, papiers japonais, encre, encrier, presse-papier, feutrine, brouillon. La formatrice expliquera le matériel au premier cours ; aucun achat n’est nécessaire avant cette première séance"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4036",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-Esch/Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 Boulevard Charles de Gaulle"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
+   "coursCode" : "AR-MET-16",
+   "coursId" : "AR-MET-16",
+   "coursType" : "CLASSIQUE",
+   "cout" : 216.0,
+   "dateDebut" : "26/02/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "Au terme de la formation de base l’apprenant sera capable :\r\n >   D’exécuter les techniques de base de la forge (étirer, refouler, trancher, dégorger, torsader, …). \r\n >   Réaliser une pièce reprenant toutes ces techniques est exécutée par les apprenants.\r\n >   D’utiliser un marteau pneumatique.\r\n >   De gérer un feu de forge.\r\n >   De forger avec un frappeur.\r\n\r\n1ière année : Techniques de base de la forge, pièce finale",
+   "duree" : "48 leçons",
+   "enseignants" : [ {
+      "nom" : "Schleich",
+      "prenom" : "Romain"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65037,
+   "intitule" : "Ferronnerie d'Art : Cours de base 2Sem",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "MET",
+   "matiereNom" : "Métal",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwMzc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Matériels requis :\r\nObligatoire :\r\n  *  Vêtements de travail\r\n  *  Chaussures de sécurité\r\n  *  Lunettes de sécurité\r\n  *  Tablier de soudeur/forgeron en cuir.\r\nFacultatif :\r\n  *  Gants en cuir \r\n  *  Protection auditive.",
+   "renseignements" : "Prérequis:\r\n  >  Avoir compléter le 1er semestre (Cours de base)\r\n  >  Age minimum 18 ans. \r\n  >  Une certaine expérience du travail manuel est un plus. \r\n  >  La chaleur intense et le bruit font partie de la forge."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4354",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-Esch/Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "22, rue Henri Koch"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
+   "coursCode" : "AR-BOI-50",
+   "coursId" : "AR-BOI-50",
+   "coursType" : "CLASSIQUE",
+   "cout" : 216.0,
+   "dateDebut" : "26/02/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "La formation vise l'initiation au domaine de la menuiserie\r\n>  Les différentes techniques de travail du bois. \r\n>  Les outils \r\n>  Initiation artisanale concernant les différentes techniques de façonnage et d'assemblage\r\n>  Évaluation formative en continu \r\n>  Commentaire personnel en fin de formation si souhaité  \r\n>  Bilan commun le dernier jour",
+   "duree" : "48 leçons",
+   "enseignants" : [ {
+      "nom" : "Scheuer",
+      "prenom" : "Steve"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 62566,
+   "intitule" : "Menuiserie - Débutant",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "BOI",
+   "matiereNom" : "Bois",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjI1NjY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Chaussures de sécurité",
+   "renseignements" : "Remarque : Le cours se termine à 21h00\r\nUn montant de 70 € est à prévoir par participant pour le matériel utilisé durant le cours."
+}, {
+   "adresseCours" : {
       "codePostal" : "2163",
       "localite" : "Luxembourg",
       "nom" : "Institut français du Luxembourg",
@@ -48986,7 +48714,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -63921,79 +63649,6 @@
    "renseignements" : "- Toute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\n- Renseignements supplémentaires: www.cc-cdv.lu- \r\n- le cours s'adresse à des personnes ayant des beoins relatifs à la vue "
 }, {
    "adresseCours" : {
-      "codePostal" : "0000",
-      "localite" : "Luxembourg",
-      "nom" : "à préciser pour chaque conférence",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "à préciser pour chaque conférence"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-HIST-17",
-   "coursId" : "SCI-HIST-17",
-   "coursType" : "CLASSIQUE",
-   "cout" : 67.5,
-   "dateDebut" : "30/10/2025",
-   "dateFin" : "26/02/2026",
-   "description" : "Découvrez notre séminaire captivant : \"Histoire, Art et Société : Influences et Géopolitique\" ! Plongez au coeur de l'histoire fascinante du Luxembourg, un pays stratégique au centre de l'Europe, et explorez ses influences culturelles et géopolitiques à travers une conférence immersive. Cette présentation unique vous offrira une perspective enrichissante sur le patrimoine luxembourgeois et ses liens avec l'histoire de l'Europe. La conférence sera suivie d'une visite enrichissante et se clôturera par un débat interactif où vous pourrez échanger avec d'autres passionnés. Ne manquez pas cette occasion d'élargir vos connaissances et de partager vos idées.",
-   "duree" : "15 leçons",
-   "enseignants" : [ {
-      "nom" : "Crouzet",
-      "prenom" : "Corinne"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 22-01-2026 à 18:00 (durée 2h30), 18:00 (durée 2h30), 18:00 (durée 2h30) et 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61614,
-   "intitule" : "Voyage Passionné à Travers l'Histoire : L'Europe et le Luxembourg Dévoilés",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "HIST",
-   "matiereNom" : "Histoire",
-   "nbInscrits" : 7,
-   "nbPlaces" : 15,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE2MTQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Découvrez nos séminaires dans des lieux historiques uniques de Luxembourg-ville ! À chaque session, explorez un nouvel endroit emblématique. Alliez culture et découverte au coeur de la capitale ! "
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -64055,70 +63710,6 @@
    },
    "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
    "renseignements" : "Matériel à apporter : coton à broder type échevette (DMC), fil à coudre, tissu coton opaque (type popeline), chutes de tissu. Fournitures disponibles en mercerie ou en ligne (Rascol, Amazon, Mondial Tissus)"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC - Esch-sur-Alzette" ],
-   "coursCode" : "AR-CERA-35",
-   "coursId" : "AR-CERA-35",
-   "coursType" : "CLASSIQUE",
-   "cout" : 288.0,
-   "dateDebut" : "16/10/2025",
-   "dateFin" : "26/02/2026",
-   "description" : "Le cours de céramique est prévu pour toute personne voulant débuter ou approfondir la technique du modelage de la terre. En effet, il sera possible d'apprendre à confectionner différents objets (vase, tasse, pots, décorations,...) et d'apprendre également les techniques d'ornementations (applications des émaux, engobes,...).",
-   "duree" : "64 leçons",
-   "enseignants" : [ {
-      "nom" : "Demanet",
-      "prenom" : "Diane",
-      "presentation" : "Diane, diplômée en arts plastiques, est une artiste indépendante depuis 2018. Elle propose des ateliers de céramique, peinture, dessin, et création en volume, tout en mettant l'accent sur la créativité individuelle et l'écoresponsabilité. Grâce à son expérience et ses compétences, elle adapte ses cours aux besoins de chaque participant. Plus d'infos sur www.pierrepapiercrayon.com"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 62949,
-   "intitule" : "Cours de céramique",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CERA",
-   "matiereNom" : "Céramique",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjI5NDk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "La formatrice achète le matériel et se fait rembourser par les participants. "
 }, {
    "adresseCours" : {
       "codePostal" : "4354",
@@ -67845,68 +67436,6 @@
    },
    "prerequis" : "Bitte beachten Sie, dass während der Schulferien in Luxemburg kein Kurs stattfindet.",
    "renseignements" : "Bitte eine eigene Nähmaschine, Nähzubehör (Scheren, Nadeln etc.), passende Stoffe sowie ein Schnittmuster nach Wahl mitbringen."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119 rue de cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-62",
-   "coursId" : "AR-COUT-62",
-   "coursType" : "CLASSIQUE",
-   "cout" : 243.0,
-   "dateDebut" : "25/09/2025",
-   "dateFin" : "26/02/2026",
-   "description" : "In diesem Kurs lernen Anfängerinnen und Anfänger den sicheren Umgang mit der Nähmaschine, sammeln erste Näherfahrungen und realisieren ihr erstes eigenes Nähprojekt. Neben praktischen Übungen werden auch die grundlegenden Nähutensilien sowie verschiedene Materialien vorgestellt. Ziel ist es, Freude am Nähen zu entwickeln und eine solide Basis für weitere kreative Projekte zu schaffen – mit Spaß und Erfolgserlebnissen.",
-   "duree" : "54 leçons",
-   "enseignants" : [ {
-      "nom" : "Jost",
-      "prenom" : "Katja"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61518,
-   "intitule" : "Nähkurs für Anfänger",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 10,
-   "nbPlaces" : 11,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE1MTg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Bitte beachten Sie, dass während der Schulferien in Luxemburg kein Unterricht stattfindet.",
-   "renseignements" : "Mitzubringen: Nähmaschine, Stoff- und Papierscheren, Nahttrenner, Stecknadeln, Qualitätsgarn, Nadeln, Maßband, Schneiderkreide, Stoffmarker, Geodreieck, Schnittpapier, Bleistift, Stoff je nach Projekt."
 }, {
    "adresseCours" : {
       "codePostal" : "4277",
@@ -71636,132 +71165,6 @@
    },
    "prerequis" : "Niveau A1 déjà complété. Être prêt à réviser de façon autonome et à consolider les acquis.",
    "renseignements" : "Langue véhiculaire : français et anglais\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119 rue de cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-DAN-10",
-   "coursId" : "SO-DAN-10",
-   "coursType" : "CLASSIQUE",
-   "cout" : 171.0,
-   "dateDebut" : "18/09/2025",
-   "dateFin" : "26/02/2026",
-   "description" : "Introduction to Tango\r\nEvery Thursday | 18:00 – 19:40\r\n\r\nA journey into the world of Argentine Tango. Each class begins with a physical warm-up to reconnect with your body, followed by an exploration of the elegant, expressive language of tango.\r\n\r\nWe also focus on musicality and rhythm, working with traditional tango music as well as milonga and vals, to develop your sense of timing, connection, and expression.\r\n– Open to all levels, no experience needed\r\n– No partner required\r\n– Wear comfortable clothing that allows full movement\r\n– Heels are welcome but not required; any shoes suitable for pivoting are fine.\"",
-   "duree" : "38 leçons",
-   "enseignants" : [ {
-      "nom" : "Antico",
-      "prenom" : "Betania",
-      "presentation" : "https://www.instagram.com/betaniaantico/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61742,
-   "intitule" : "After Office - Introduction to Argentine Tango - Dance",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DAN",
-   "matiereNom" : "Danse",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE3NDI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Please note that there will be no classes during the Luxembourg school holidays. The trainer also speaks German, French and Spanish. ",
-   "renseignements" : "Wear comfortable clothing that allows full movement. Heels are welcome but not required; any shoes suitable for pivoting are fine. \r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "9085",
-      "localite" : "Ettelbrück",
-      "nom" : "CNFPC Ettelbrück",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "77, rue J.P. Thill (Z.I.)"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Ettelbruck" ],
-   "coursCode" : "AR-COUT-72",
-   "coursId" : "AR-COUT-72",
-   "coursType" : "CLASSIQUE",
-   "cout" : 342.0,
-   "dateDebut" : "18/09/2025",
-   "dateFin" : "26/02/2026",
-   "description" : "Am Ende dieses Kurses ist der Lernende in der Lage seine Kenntnisse für Anproben und Anpassung der Schnitte auf eigene Maße zu Vertiefen\r\n\r\nHier können Nähkenntnisse vertieft werden :\r\n    >  Vertiefung der Kenntnisse für Anproben und Anpassung der Schnitte auf eigene Maße\r\n    >  Zuschnitt\r\n    >  Vertiefung verschiedener Verarbeitungstechniken\r\n    >  Nähen von Strickstoffen\r\n    >  Professionelle Verarbeitungstipps für eigene Projekte",
-   "duree" : "76 leçons",
-   "enseignants" : [ {
-      "nom" : "Bijleveld",
-      "prenom" : "Céline"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 62070,
-   "intitule" : "Nähen Mittelstufe 1Sem",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 7,
-   "nbPlaces" : 8,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjIwNzA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Dieser Kurs richtet sich an alle, die bereits Nähkenntnisse haben.\r\nGenäht wird an der eigenen Nähmaschine",
-   "renseignements" : "Der.ie Kursleiter.in hat eine Liste für die Teilnehmer."
 }, {
    "adresseCours" : {
       "codePostal" : "9085",
