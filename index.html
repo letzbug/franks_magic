@@ -123,14 +123,11 @@
       width:100%;
       border-collapse: collapse;
       font-size: 13px;
-      table-layout: fixed; /* wichtig für feste Spaltenbreiten + Ellipsis */
     }
     th, td{
       padding:10px 8px;
       border-bottom: 1px solid var(--line);
       vertical-align: top;
-      overflow: hidden;
-      text-overflow: ellipsis;
     }
     th{
       text-align:left;
@@ -138,20 +135,6 @@
       font-weight:600;
       font-size:12px;
     }
-
-    /* ✅ Kurs-Spalte breiter + alles in einer Zeile */
-    th:nth-child(3), td:nth-child(3){
-      width: 520px;
-      white-space: nowrap;
-    }
-
-    /* Restliche Spaltenbreiten für Layout-Stabilität */
-    th:nth-child(1), td:nth-child(1){ width:120px; }
-    th:nth-child(2), td:nth-child(2){ width:120px; }
-    th:nth-child(4), td:nth-child(4){ width:220px; }
-    th:nth-child(5), td:nth-child(5){ width:180px; }
-    th:nth-child(6), td:nth-child(6){ width:140px; }
-
     .muted{color:var(--muted)}
     .tag{
       display:inline-flex; align-items:center; gap:6px;
@@ -171,26 +154,21 @@
     .right{display:flex; gap:8px; align-items:center; flex-wrap:wrap; justify-content:flex-end}
     .linklike{color:var(--accent); text-decoration:none}
 
-    /* Click-to-copy course id (inline, one-line) */
+    /* Click-to-copy course id */
     .courseid{
       display:inline-flex;
       align-items:center;
       gap:6px;
       cursor:pointer;
       user-select:none;
-      margin-left:10px;  /* inline neben dem Titel */
+      margin-top:6px;
       color: rgba(183,196,230,.95);
-      border: 1px solid rgba(255,255,255,.14);
-      background: rgba(255,255,255,.05);
-      border-radius: 999px;
-      padding: 2px 8px;
     }
-    .courseid:hover{color: var(--text); border-color: rgba(106,169,255,.45)}
+    .courseid:hover{color: var(--text)}
     .courseid .hint{
       opacity:.55;
       font-size:11px;
     }
-
     .toast{
       position: fixed;
       left: 50%;
@@ -206,10 +184,6 @@
       display:none;
       z-index: 9999;
       backdrop-filter: blur(10px);
-      max-width: 92vw;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
     }
   </style>
 </head>
@@ -288,12 +262,12 @@
           <table>
             <thead>
               <tr>
-                <th>Datum</th>
-                <th>Zeit</th>
+                <th style="width:120px;">Datum</th>
+                <th style="width:120px;">Zeit</th>
                 <th>Kurs</th>
-                <th>Ort</th>
-                <th>Trainer</th>
-                <th>Belegung</th>
+                <th style="width:220px;">Ort</th>
+                <th style="width:180px;">Trainer</th>
+                <th style="width:140px;">Belegung</th>
               </tr>
             </thead>
             <tbody id="tbody">
@@ -575,6 +549,7 @@ function rebuildSessions(){
     const dEnd = parseFRDateDDMMYYYY(c.dateFin);
     if(!dStart || !dEnd) continue;
 
+    // coarse intersection
     const dEndExclusive = new Date(dEnd.getTime() + 24*3600*1000);
     if(!overlaps(dStart, dEndExclusive, startRange, endRange)) continue;
 
@@ -590,6 +565,7 @@ function rebuildSessions(){
     const horaires = Array.isArray(c.horaires) ? c.horaires : [];
     if(!horaires.length) continue;
 
+    // iterate days in selected range
     for(let day = new Date(startRange); day <= endRange; day.setDate(day.getDate()+1)){
       const day0 = new Date(day);
       day0.setHours(0,0,0,0);
@@ -739,19 +715,19 @@ function renderTable(items){
       : `<span class="tag"><span class="${occDotClass(p)}"></span>${Math.round(p)}%</span>
          <div class="muted small">${it.booked}/${it.capacity}</div>`;
 
-    const idInline = it.courseId
-      ? `<span class="courseid mono" data-copy="${escapeHtml(it.courseId)}" title="Klicken zum Kopieren">
-           ${escapeHtml(it.courseId)} <span class="hint">copy</span>
-         </span>`
+    const idLine = it.courseId
+      ? `<div class="small mono courseid" data-copy="${escapeHtml(it.courseId)}" title="Klicken zum Kopieren">
+           ${escapeHtml(it.courseId)} <span class="hint">↗ copy</span>
+         </div>`
       : ``;
 
     return `<tr>
       <td>${d}</td>
       <td class="mono">${t}</td>
       <td>
-        <span>${escapeHtml(it.title)}</span>
-        ${idInline}
-        ${it.regUrl ? `<span class="small" style="margin-left:10px;"><a class="linklike" href="${it.regUrl}" target="_blank" rel="noopener">Inscription</a></span>` : ``}
+        ${escapeHtml(it.title)}
+        ${idLine}
+        ${it.regUrl ? `<div class="small"><a class="linklike" href="${it.regUrl}" target="_blank" rel="noopener">Inscription</a></div>` : ``}
       </td>
       <td>${escapeHtml(it.location || "")}</td>
       <td>${escapeHtml(it.trainer || "")}</td>
