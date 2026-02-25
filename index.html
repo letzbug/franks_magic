@@ -35,7 +35,8 @@
       background: linear-gradient(to bottom, rgba(11,18,32,.92), rgba(11,18,32,.65));
       border-bottom:1px solid var(--line);
     }
-    .wrap{max-width:1200px; margin:0 auto;}
+    /* ✅ mehr Platz: Dashboard breiter */
+    .wrap{max-width:1600px; margin:0 auto;}
     h1{margin:0; font-size:18px; letter-spacing:.2px;}
     .sub{margin-top:6px; color:var(--muted); font-size:13px; display:flex; gap:10px; flex-wrap:wrap}
     .pill{
@@ -48,7 +49,8 @@
     main{padding:16px 18px 26px;}
     .grid{
       display:grid;
-      grid-template-columns: 1.2fr .8fr;
+      /* ✅ links mehr Platz für Tabelle */
+      grid-template-columns: 1.35fr .65fr;
       gap:14px;
     }
     @media (max-width: 980px){
@@ -119,10 +121,13 @@
       font-size:12px;
       display:none;
     }
+
     table{
       width:100%;
       border-collapse: collapse;
       font-size: 13px;
+      /* ✅ NICHT fixed => weniger horizontale Scrolls */
+      table-layout: auto;
     }
     th, td{
       padding:10px 8px;
@@ -134,7 +139,29 @@
       color: var(--muted);
       font-weight:600;
       font-size:12px;
+      white-space:nowrap;
     }
+
+    /* ✅ Tabelle soll nicht horizontal scrollen */
+    .tableWrap{
+      margin-top:12px;
+      overflow-x:hidden;   /* kein horizontaler scrollbar */
+      overflow-y:auto;
+    }
+
+    /* Spaltenbreiten stabil, aber Kurs-Spalte darf umbrechen */
+    th:nth-child(1), td:nth-child(1){ width:120px; }
+    th:nth-child(2), td:nth-child(2){ width:120px; }
+    th:nth-child(4), td:nth-child(4){ width:240px; }
+    th:nth-child(5), td:nth-child(5){ width:200px; }
+    th:nth-child(6), td:nth-child(6){ width:160px; }
+
+    /* ✅ Kurs-Spalte: darf umbrechen, damit nix scrollt */
+    td:nth-child(3){
+      white-space: normal;
+      word-break: break-word;
+    }
+
     .muted{color:var(--muted)}
     .tag{
       display:inline-flex; align-items:center; gap:6px;
@@ -154,6 +181,19 @@
     .right{display:flex; gap:8px; align-items:center; flex-wrap:wrap; justify-content:flex-end}
     .linklike{color:var(--accent); text-decoration:none}
 
+    /* ✅ Titel + ID + Link in einer "Zeile", aber darf bei Bedarf umbrechen */
+    .courseLine{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      flex-wrap:wrap; /* verhindert horizontal scroll */
+      min-width: 0;
+    }
+    .courseTitle{
+      min-width: 220px;
+      flex: 1 1 320px; /* Titel nimmt Platz, darf umbrechen */
+    }
+
     /* Click-to-copy course id */
     .courseid{
       display:inline-flex;
@@ -161,14 +201,19 @@
       gap:6px;
       cursor:pointer;
       user-select:none;
-      margin-top:6px;
       color: rgba(183,196,230,.95);
+      border: 1px solid rgba(255,255,255,.14);
+      background: rgba(255,255,255,.05);
+      border-radius: 999px;
+      padding: 2px 8px;
+      white-space: nowrap; /* ✅ ID bleibt immer 1 Zeile */
     }
-    .courseid:hover{color: var(--text)}
+    .courseid:hover{color: var(--text); border-color: rgba(106,169,255,.45)}
     .courseid .hint{
       opacity:.55;
       font-size:11px;
     }
+
     .toast{
       position: fixed;
       left: 50%;
@@ -184,6 +229,10 @@
       display:none;
       z-index: 9999;
       backdrop-filter: blur(10px);
+      max-width: 92vw;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
   </style>
 </head>
@@ -258,16 +307,16 @@
 
         <div class="warnbox" id="warnBox"></div>
 
-        <div style="margin-top:12px; overflow:auto;">
+        <div class="tableWrap">
           <table>
             <thead>
               <tr>
-                <th style="width:120px;">Datum</th>
-                <th style="width:120px;">Zeit</th>
+                <th>Datum</th>
+                <th>Zeit</th>
                 <th>Kurs</th>
-                <th style="width:220px;">Ort</th>
-                <th style="width:180px;">Trainer</th>
-                <th style="width:140px;">Belegung</th>
+                <th>Ort</th>
+                <th>Trainer</th>
+                <th>Belegung</th>
               </tr>
             </thead>
             <tbody id="tbody">
@@ -549,7 +598,6 @@ function rebuildSessions(){
     const dEnd = parseFRDateDDMMYYYY(c.dateFin);
     if(!dStart || !dEnd) continue;
 
-    // coarse intersection
     const dEndExclusive = new Date(dEnd.getTime() + 24*3600*1000);
     if(!overlaps(dStart, dEndExclusive, startRange, endRange)) continue;
 
@@ -565,7 +613,6 @@ function rebuildSessions(){
     const horaires = Array.isArray(c.horaires) ? c.horaires : [];
     if(!horaires.length) continue;
 
-    // iterate days in selected range
     for(let day = new Date(startRange); day <= endRange; day.setDate(day.getDate()+1)){
       const day0 = new Date(day);
       day0.setHours(0,0,0,0);
@@ -715,19 +762,25 @@ function renderTable(items){
       : `<span class="tag"><span class="${occDotClass(p)}"></span>${Math.round(p)}%</span>
          <div class="muted small">${it.booked}/${it.capacity}</div>`;
 
-    const idLine = it.courseId
-      ? `<div class="small mono courseid" data-copy="${escapeHtml(it.courseId)}" title="Klicken zum Kopieren">
-           ${escapeHtml(it.courseId)} <span class="hint">↗ copy</span>
-         </div>`
+    const idInline = it.courseId
+      ? `<span class="courseid mono" data-copy="${escapeHtml(it.courseId)}" title="Klicken zum Kopieren">
+           ${escapeHtml(it.courseId)} <span class="hint">copy</span>
+         </span>`
+      : ``;
+
+    const linkInline = it.regUrl
+      ? `<a class="linklike small" href="${it.regUrl}" target="_blank" rel="noopener">Inscription</a>`
       : ``;
 
     return `<tr>
       <td>${d}</td>
       <td class="mono">${t}</td>
       <td>
-        ${escapeHtml(it.title)}
-        ${idLine}
-        ${it.regUrl ? `<div class="small"><a class="linklike" href="${it.regUrl}" target="_blank" rel="noopener">Inscription</a></div>` : ``}
+        <div class="courseLine">
+          <span class="courseTitle">${escapeHtml(it.title)}</span>
+          ${idInline}
+          ${linkInline}
+        </div>
       </td>
       <td>${escapeHtml(it.location || "")}</td>
       <td>${escapeHtml(it.trainer || "")}</td>
