@@ -164,6 +164,7 @@
       <span class="pill">Letzter Refresh: <code id="lastRefresh">–</code></span>
       <span class="pill">Items: <code id="itemCount">–</code></span>
       <span class="pill">TZ: <code>Europe/Luxembourg</code></span>
+      <span class="pill">Filter: <code id="orgFilterLabel">Alle</code></span>
     </div>
   </div>
 </header>
@@ -178,6 +179,7 @@
           <button class="secondary" id="btnWeek">Diese Woche</button>
           <button class="secondary" id="btnMonth">Dieser Monat</button>
           <button id="btnRun">Anwenden</button>
+          <button class="secondary" id="btnUniPop">Nur UniPop</button>
         </div>
       </div>
       <div class="bd">
@@ -288,6 +290,7 @@ const lastRefresh = el("lastRefresh");
 const itemCount = el("itemCount");
 const warnBox = el("warnBox");
 const tbody = el("tbody");
+const orgFilterLabel = el("orgFilterLabel");
 
 const rangePreset = el("rangePreset");
 const fromDate = el("fromDate");
@@ -306,8 +309,11 @@ const kpiCoursesSub = el("kpiCoursesSub");
 const kpiSlots = el("kpiSlots");
 const kpiSlotsSub = el("kpiSlotsSub");
 
+const btnUniPop = el("btnUniPop");
+
 let rawCourses = [];
 let sessions = [];
+let filterUniPopOnly = false;
 
 function luxNow(){
   return new Date(new Date().toLocaleString("en-US", { timeZone: TZ }));
@@ -482,11 +488,14 @@ function rebuildSessions(){
   for(const c of rawCourses){
     if(!c || typeof c !== "object") continue;
 
+    // ✅ NEW: UniPop filter
+    const orgCode = (c.organisateur && c.organisateur.code) ? String(c.organisateur.code) : "";
+    if(filterUniPopOnly && orgCode !== "UNIPOP") continue;
+
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
     const dEnd = parseFRDateDDMMYYYY(c.dateFin);
     if(!dStart || !dEnd) continue;
 
-    // coarse intersection
     const dEndExclusive = new Date(dEnd.getTime() + 24*3600*1000);
     if(!overlaps(dStart, dEndExclusive, startRange, endRange)) continue;
 
@@ -502,7 +511,6 @@ function rebuildSessions(){
     const horaires = Array.isArray(c.horaires) ? c.horaires : [];
     if(!horaires.length) continue;
 
-    // iterate days in selected range
     for(let day = new Date(startRange); day <= endRange; day.setDate(day.getDate()+1)){
       const day0 = new Date(day);
       day0.setHours(0,0,0,0);
@@ -574,8 +582,7 @@ function runQuery(){
   const locText = (loc.value || "").trim().toLowerCase();
 
   const filtered = sessions.filter(s => {
-    // FIX: local YYYY-MM-DD
-    const dayStr = ymdLocal(s.date);
+    const dayStr = ymdLocal(s.date); // ✅ FIX: local date (no UTC shift)
     const wStart = new Date(dayStr + "T" + fT + ":00");
     const wEnd   = new Date(dayStr + "T" + tT + ":00");
 
@@ -676,6 +683,27 @@ function renderKPIs(items, fd, td, fT, tT){
   }
 }
 
+/* === UniPop Toggle UI === */
+function updateUniPopButton(){
+  if(filterUniPopOnly){
+    btnUniPop.textContent = "Alle Kurse";
+    btnUniPop.style.borderColor = "rgba(53,208,127,.55)";
+    btnUniPop.style.background = "rgba(53,208,127,.12)";
+    orgFilterLabel.textContent = "Nur UNIPOP";
+  }else{
+    btnUniPop.textContent = "Nur UniPop";
+    btnUniPop.style.borderColor = "rgba(255,255,255,.10)";
+    btnUniPop.style.background = "rgba(255,255,255,.05)";
+    orgFilterLabel.textContent = "Alle";
+  }
+}
+
+btnUniPop.addEventListener("click", () => {
+  filterUniPopOnly = !filterUniPopOnly;
+  updateUniPopButton();
+  runQuery();
+});
+
 // UI wiring
 document.getElementById("btnRun").addEventListener("click", runQuery);
 document.getElementById("btnToday").addEventListener("click", () => { rangePreset.value="today"; applyPreset("today"); runQuery(); });
@@ -690,6 +718,7 @@ rangePreset.addEventListener("change", () => {
 // init
 (function init(){
   applyPreset("today");
+  updateUniPopButton();
   loadData().then(() => runQuery());
   setInterval(async () => { await loadData(); runQuery(); }, 5 * 60 * 1000);
 })();
