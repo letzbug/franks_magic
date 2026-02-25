@@ -3,7 +3,10 @@ name: Fetch UniPop trainings.json hourly
 on:
   schedule:
     - cron: "5 * * * *"   # jede Stunde um Minute 05
-  workflow_dispatch: {}
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   fetch:
@@ -30,10 +33,10 @@ jobs:
           print("JSON OK")
           PY
 
-      - name: Commit changes
-  run: |
-    git config user.name "github-actions"
-    git config user.email "github-actions@github.com"
-    git add data/trainings.json
-    git commit -m "Update trainings.json" || echo "Nothing to commit"
-    git push
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/trainings.json
+          git commit -m "Update trainings.json" || echo "Nothing to commit"
+          git push
