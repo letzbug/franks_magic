@@ -1,0 +1,672 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>UniPop Trainings Dashboard (intern)</title>
+  <style>
+    :root{
+      --bg:#0b1220;
+      --card:#0f1a2e;
+      --card2:#0c1628;
+      --text:#e7eefc;
+      --muted:#b7c4e6;
+      --line:rgba(255,255,255,.10);
+      --ok:#35d07f;
+      --warn:#ffcc66;
+      --bad:#ff6b6b;
+      --accent:#6aa9ff;
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
+      --radius:16px;
+      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      --sans: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0; font-family:var(--sans);
+      background: radial-gradient(1200px 600px at 10% -10%, rgba(106,169,255,.35), transparent 60%),
+                  radial-gradient(900px 500px at 110% 10%, rgba(53,208,127,.25), transparent 55%),
+                  var(--bg);
+      color:var(--text);
+    }
+    header{
+      padding:18px 18px 10px;
+      position:sticky; top:0; z-index:10;
+      backdrop-filter: blur(10px);
+      background: linear-gradient(to bottom, rgba(11,18,32,.92), rgba(11,18,32,.65));
+      border-bottom:1px solid var(--line);
+    }
+    .wrap{max-width:1200px; margin:0 auto;}
+    h1{margin:0; font-size:18px; letter-spacing:.2px;}
+    .sub{margin-top:6px; color:var(--muted); font-size:13px; display:flex; gap:10px; flex-wrap:wrap}
+    .pill{
+      display:inline-flex; align-items:center; gap:8px;
+      padding:6px 10px; border:1px solid var(--line); border-radius:999px;
+      background: rgba(255,255,255,.04);
+      font-size:12px;
+    }
+    .pill code{font-family:var(--mono); font-size:12px; color:var(--text)}
+    main{padding:16px 18px 26px;}
+    .grid{
+      display:grid;
+      grid-template-columns: 1.2fr .8fr;
+      gap:14px;
+    }
+    @media (max-width: 980px){
+      .grid{grid-template-columns:1fr}
+    }
+    .card{
+      background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03));
+      border:1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow:hidden;
+    }
+    .card .hd{
+      padding:14px 14px 10px;
+      border-bottom:1px solid var(--line);
+      display:flex; align-items:center; justify-content:space-between; gap:12px;
+    }
+    .card .hd h2{margin:0; font-size:14px;}
+    .card .bd{padding:14px;}
+    .row{display:flex; gap:10px; flex-wrap:wrap; align-items:end;}
+    label{display:block; font-size:12px; color:var(--muted); margin:0 0 6px;}
+    input, select, button{
+      font: inherit;
+      color: var(--text);
+      background: rgba(255,255,255,.05);
+      border:1px solid var(--line);
+      border-radius: 12px;
+      padding:10px 10px;
+      outline: none;
+    }
+    input[type="date"], input[type="time"]{padding:9px 10px;}
+    input::placeholder{color: rgba(231,238,252,.55)}
+    button{
+      cursor:pointer;
+      background: linear-gradient(180deg, rgba(106,169,255,.22), rgba(106,169,255,.08));
+      border-color: rgba(106,169,255,.45);
+    }
+    button:hover{filter:brightness(1.05)}
+    button.secondary{
+      background: rgba(255,255,255,.05);
+      border-color: var(--line);
+    }
+    .kpis{display:grid; grid-template-columns:repeat(3,1fr); gap:10px;}
+    @media (max-width: 720px){ .kpis{grid-template-columns:1fr} }
+    .kpi{
+      background: rgba(0,0,0,.18);
+      border:1px solid var(--line);
+      border-radius: 14px;
+      padding:12px;
+    }
+    .kpi .t{font-size:12px; color:var(--muted)}
+    .kpi .v{font-size:20px; font-weight:700; margin-top:6px}
+    .kpi .s{font-size:12px; color:var(--muted); margin-top:4px}
+    .bar{
+      margin-top:10px; height:10px; border-radius:999px;
+      background: rgba(255,255,255,.08);
+      overflow:hidden;
+      border:1px solid rgba(255,255,255,.10);
+    }
+    .bar > div{height:100%; width:0%;}
+    .note{font-size:12px; color:var(--muted); margin-top:10px; line-height:1.35}
+    .warnbox{
+      margin-top:10px;
+      padding:10px 12px;
+      border-radius: 12px;
+      border:1px dashed rgba(255,204,102,.5);
+      background: rgba(255,204,102,.08);
+      color: var(--text);
+      font-size:12px;
+      display:none;
+    }
+    table{
+      width:100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+    th, td{
+      padding:10px 8px;
+      border-bottom: 1px solid var(--line);
+      vertical-align: top;
+    }
+    th{
+      text-align:left;
+      color: var(--muted);
+      font-weight:600;
+      font-size:12px;
+    }
+    .muted{color:var(--muted)}
+    .tag{
+      display:inline-flex; align-items:center; gap:6px;
+      padding:4px 8px;
+      border-radius: 999px;
+      border:1px solid var(--line);
+      background: rgba(255,255,255,.04);
+      font-size:12px;
+      white-space:nowrap;
+    }
+    .dot{width:8px; height:8px; border-radius:999px; background: var(--accent);}
+    .dot.ok{background:var(--ok)}
+    .dot.warn{background:var(--warn)}
+    .dot.bad{background:var(--bad)}
+    .mono{font-family:var(--mono)}
+    .small{font-size:12px}
+    .right{display:flex; gap:8px; align-items:center; flex-wrap:wrap; justify-content:flex-end}
+    .linklike{color:var(--accent); text-decoration:none}
+  </style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>UniPop Trainings Dashboard (intern)</h1>
+    <div class="sub">
+      <span class="pill">Quelle: <code id="srcLabel">data/trainings.json</code></span>
+      <span class="pill">Letzter Refresh: <code id="lastRefresh">–</code></span>
+      <span class="pill">Items: <code id="itemCount">–</code></span>
+      <span class="pill">TZ: <code>Europe/Luxembourg</code></span>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap grid">
+    <!-- LEFT: results -->
+    <section class="card">
+      <div class="hd">
+        <h2>Abfragen & Ergebnisse</h2>
+        <div class="right">
+          <button class="secondary" id="btnToday">Heute</button>
+          <button class="secondary" id="btnWeek">Diese Woche</button>
+          <button class="secondary" id="btnMonth">Dieser Monat</button>
+          <button id="btnRun">Anwenden</button>
+        </div>
+      </div>
+      <div class="bd">
+        <div class="row">
+          <div style="min-width:220px; flex:1;">
+            <label>Zeitraum</label>
+            <select id="rangePreset">
+              <option value="custom">Custom</option>
+              <option value="today">Heute</option>
+              <option value="week">Diese Woche</option>
+              <option value="month">Dieser Monat</option>
+            </select>
+          </div>
+
+          <div style="min-width:150px;">
+            <label>Von Datum</label>
+            <input type="date" id="fromDate" />
+          </div>
+          <div style="min-width:150px;">
+            <label>Bis Datum</label>
+            <input type="date" id="toDate" />
+          </div>
+
+          <div style="min-width:130px;">
+            <label>Uhrzeit von</label>
+            <input type="time" id="fromTime" value="12:00" />
+          </div>
+          <div style="min-width:130px;">
+            <label>Uhrzeit bis</label>
+            <input type="time" id="toTime" value="15:00" />
+          </div>
+
+          <div style="min-width:240px; flex:1;">
+            <label>Suche (Titel / Ort / Trainer)</label>
+            <input type="text" id="q" placeholder="z.B. yoga, belval, dupont…" />
+          </div>
+
+          <div style="min-width:220px;">
+            <label>Standort/Ort (optional)</label>
+            <input type="text" id="loc" placeholder="z.B. Belval" />
+          </div>
+        </div>
+
+        <div class="warnbox" id="warnBox"></div>
+
+        <div style="margin-top:12px; overflow:auto;">
+          <table>
+            <thead>
+              <tr>
+                <th style="width:120px;">Datum</th>
+                <th style="width:120px;">Zeit</th>
+                <th>Kurs</th>
+                <th style="width:220px;">Ort</th>
+                <th style="width:180px;">Trainer</th>
+                <th style="width:140px;">Belegung</th>
+              </tr>
+            </thead>
+            <tbody id="tbody">
+              <tr><td colspan="6" class="muted">Noch keine Daten geladen…</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="note">
+          Hinweis: “Belegung” wird aus Feldern wie <span class="mono">booked/capacity</span> oder <span class="mono">registered/slots</span> berechnet.
+          Wenn deine JSON andere Feldnamen nutzt, sag mir kurz welche — dann mappe ich’s 1:1.
+        </div>
+      </div>
+    </section>
+
+    <!-- RIGHT: KPIs -->
+    <aside class="card">
+      <div class="hd">
+        <h2>Auslastung (alle Kurse zusammen)</h2>
+        <div class="right small muted" id="kpiScope">–</div>
+      </div>
+      <div class="bd">
+        <div class="kpis">
+          <div class="kpi">
+            <div class="t">Ø Belegung</div>
+            <div class="v" id="kpiOcc">–</div>
+            <div class="bar"><div id="occBar"></div></div>
+            <div class="s" id="kpiOccSub">–</div>
+          </div>
+          <div class="kpi">
+            <div class="t">Kurse im Zeitraum</div>
+            <div class="v" id="kpiCourses">–</div>
+            <div class="s" id="kpiCoursesSub">–</div>
+          </div>
+          <div class="kpi">
+            <div class="t">Plätze (gebucht / gesamt)</div>
+            <div class="v" id="kpiSlots">–</div>
+            <div class="s" id="kpiSlotsSub">–</div>
+          </div>
+        </div>
+
+        <div class="note" style="margin-top:12px;">
+          <div class="tag"><span class="dot ok"></span> ≥ 80%</div>
+          <div class="tag"><span class="dot warn"></span> 50–79%</div>
+          <div class="tag"><span class="dot bad"></span> &lt; 50%</div>
+        </div>
+
+        <div class="note" style="margin-top:12px;">
+          Wenn du willst, kann ich dir zusätzlich eine 2. Ansicht bauen:
+          <br>• “Top 10 am besten gebucht”
+          <br>• “Kurse mit freiem Platz”
+          <br>• Export CSV per Klick
+        </div>
+      </div>
+    </aside>
+  </div>
+</main>
+
+<script>
+/**
+ * Dashboard lädt standardmäßig data/trainings.json (wird per GitHub Action stündlich aktualisiert).
+ * Wenn du später CORS frei hast, kannst du direkt auf die UniPop-URL gehen.
+ */
+const DATA_URL = "data/trainings.json"; // empfohlen (kein CORS)
+const TZ = "Europe/Luxembourg";
+
+const el = (id) => document.getElementById(id);
+const srcLabel = el("srcLabel");
+const lastRefresh = el("lastRefresh");
+const itemCount = el("itemCount");
+const warnBox = el("warnBox");
+const tbody = el("tbody");
+
+const rangePreset = el("rangePreset");
+const fromDate = el("fromDate");
+const toDate = el("toDate");
+const fromTime = el("fromTime");
+const toTime = el("toTime");
+const q = el("q");
+const loc = el("loc");
+
+const kpiScope = el("kpiScope");
+const kpiOcc = el("kpiOcc");
+const occBar = el("occBar");
+const kpiOccSub = el("kpiOccSub");
+const kpiCourses = el("kpiCourses");
+const kpiCoursesSub = el("kpiCoursesSub");
+const kpiSlots = el("kpiSlots");
+const kpiSlotsSub = el("kpiSlotsSub");
+
+let rawItems = [];
+
+function luxNow(){
+  return new Date(new Date().toLocaleString("en-US", { timeZone: TZ }));
+}
+
+function fmtDate(d){
+  return d.toLocaleDateString("de-DE", { timeZone: TZ });
+}
+function fmtTime(d){
+  return d.toLocaleTimeString("de-DE", { timeZone: TZ, hour:"2-digit", minute:"2-digit" });
+}
+
+function startOfWeekLux(d){
+  const x = new Date(d);
+  const day = (x.getDay()+6)%7; // Mo=0
+  x.setDate(x.getDate() - day);
+  x.setHours(0,0,0,0);
+  return x;
+}
+function endOfWeekLux(d){
+  const s = startOfWeekLux(d);
+  const e = new Date(s);
+  e.setDate(e.getDate()+6);
+  e.setHours(23,59,59,999);
+  return e;
+}
+function startOfMonthLux(d){
+  const x = new Date(d);
+  x.setDate(1);
+  x.setHours(0,0,0,0);
+  return x;
+}
+function endOfMonthLux(d){
+  const x = startOfMonthLux(d);
+  const e = new Date(x);
+  e.setMonth(e.getMonth()+1);
+  e.setDate(0);
+  e.setHours(23,59,59,999);
+  return e;
+}
+
+function parseAnyDateTime(v){
+  if(!v) return null;
+  if(typeof v === "number"){
+    // epoch ms?
+    const dt = new Date(v);
+    return isNaN(dt) ? null : dt;
+  }
+  if(typeof v !== "string") return null;
+
+  const s = v.trim();
+  if(!s) return null;
+
+  // ISO parse
+  const dt = new Date(s);
+  if(!isNaN(dt)) return dt;
+
+  // "YYYY-MM-DD HH:MM"
+  const m = s.match(/^(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})(?::\d{2})?$/);
+  if(m){
+    const dt2 = new Date(m[1] + "T" + m[2] + ":00");
+    return isNaN(dt2) ? null : dt2;
+  }
+  return null;
+}
+
+function getItems(payload){
+  if(Array.isArray(payload)) return payload;
+  if(payload && typeof payload === "object"){
+    for(const k of ["items","data","trainings","results"]){
+      if(Array.isArray(payload[k])) return payload[k];
+    }
+    const vals = Object.values(payload);
+    if(vals.length && vals.slice(0, Math.min(vals.length,20)).every(v => v && typeof v === "object" && !Array.isArray(v))) return vals;
+  }
+  return [];
+}
+
+function pick(obj, ...keys){
+  for(const k of keys){
+    if(obj && Object.prototype.hasOwnProperty.call(obj,k) && obj[k] !== null && obj[k] !== "") return obj[k];
+  }
+  return null;
+}
+
+function overlaps(aStart, aEnd, bStart, bEnd){
+  return aStart < bEnd && aEnd > bStart;
+}
+
+function normalizeItem(it){
+  // start/end
+  let startRaw = pick(it, "start","start_at","startAt","starts_at","startsAt","date_start","begin","from");
+  let endRaw   = pick(it, "end","end_at","endAt","ends_at","endsAt","date_end","finish","to");
+
+  // separate date/time?
+  if(!startRaw){
+    const d = pick(it, "date","day","event_date");
+    const t = pick(it, "time","hour","start_time","startTime");
+    if(typeof d === "string" && typeof t === "string") startRaw = `${d} ${t}`;
+  }
+  if(!endRaw){
+    const d = pick(it, "date","day","event_date");
+    const t = pick(it, "end_time","endTime","time_end");
+    if(typeof d === "string" && typeof t === "string") endRaw = `${d} ${t}`;
+  }
+
+  const start = parseAnyDateTime(startRaw);
+  const end = parseAnyDateTime(endRaw);
+
+  const title = pick(it, "title","name","course","course_title") || "(ohne Titel)";
+  const location = pick(it, "location","place","room","salle","site") || "";
+  const trainer = pick(it, "trainer","speaker","formateur","intervenant") || "";
+
+  // occupancy fields (try common variants)
+  const booked = Number(pick(it, "booked","registered","inscriptions","enrolled","participants","nb_inscrits","nbInscrits"));
+  const capacity = Number(pick(it, "capacity","slots","places","max_participants","maxParticipants","nb_places","nbPlaces"));
+
+  const hasOcc = Number.isFinite(booked) && Number.isFinite(capacity) && capacity > 0;
+
+  return { raw: it, start, end, title, location, trainer, booked: hasOcc ? booked : null, capacity: hasOcc ? capacity : null };
+}
+
+function occPct(booked, capacity){
+  if(!(Number.isFinite(booked) && Number.isFinite(capacity) && capacity > 0)) return null;
+  return Math.max(0, Math.min(100, (booked / capacity) * 100));
+}
+
+function occDotClass(p){
+  if(p === null) return "dot";
+  if(p >= 80) return "dot ok";
+  if(p >= 50) return "dot warn";
+  return "dot bad";
+}
+
+function setWarn(msg){
+  if(!msg){
+    warnBox.style.display = "none";
+    warnBox.textContent = "";
+    return;
+  }
+  warnBox.style.display = "block";
+  warnBox.textContent = msg;
+}
+
+async function loadData(){
+  srcLabel.textContent = DATA_URL;
+  setWarn("");
+  try{
+    const res = await fetch(DATA_URL, { cache: "no-store" });
+    if(!res.ok) throw new Error(`HTTP ${res.status}`);
+    const payload = await res.json();
+    const items = getItems(payload);
+    rawItems = items.map(normalizeItem).filter(x => x.start && x.end);
+    itemCount.textContent = rawItems.length;
+    lastRefresh.textContent = new Date().toLocaleString("de-DE");
+    if(rawItems.length === 0){
+      setWarn("Keine Items gefunden oder Start/Ende-Felder nicht erkannt. Wenn du mir 1 Beispiel-Item aus der JSON schickst, mappe ich die Felder sofort korrekt.");
+    }
+  }catch(err){
+    setWarn("Fehler beim Laden der Daten. Wenn CORS blockt, nutze die GitHub-Action (data/trainings.json). Fehler: " + err.message);
+    itemCount.textContent = "–";
+    lastRefresh.textContent = "–";
+    rawItems = [];
+  }
+}
+
+function applyPreset(preset){
+  const now = luxNow();
+  if(preset === "today"){
+    const d = new Date(now); d.setHours(0,0,0,0);
+    const ds = d.toISOString().slice(0,10);
+    fromDate.value = ds;
+    toDate.value = ds;
+  }else if(preset === "week"){
+    const s = startOfWeekLux(now);
+    const e = endOfWeekLux(now);
+    fromDate.value = s.toISOString().slice(0,10);
+    toDate.value = e.toISOString().slice(0,10);
+  }else if(preset === "month"){
+    const s = startOfMonthLux(now);
+    const e = endOfMonthLux(now);
+    fromDate.value = s.toISOString().slice(0,10);
+    toDate.value = e.toISOString().slice(0,10);
+  }
+}
+
+function makeWindow(dayStr, tStr){
+  // dayStr: YYYY-MM-DD ; tStr: HH:MM
+  const iso = `${dayStr}T${tStr}:00`;
+  return new Date(iso);
+}
+
+function runQuery(){
+  setWarn("");
+
+  const fd = fromDate.value;
+  const td = toDate.value;
+  if(!fd || !td){
+    setWarn("Bitte Von/Bis Datum setzen.");
+    return;
+  }
+
+  const fT = fromTime.value || "00:00";
+  const tT = toTime.value || "23:59";
+
+  // window spans each day; we'll include items that overlap on ANY day in date range
+  const qText = (q.value || "").trim().toLowerCase();
+  const locText = (loc.value || "").trim().toLowerCase();
+
+  const startDay = new Date(fd + "T00:00:00");
+  const endDay = new Date(td + "T23:59:59");
+
+  // Filter by date-range first
+  let items = rawItems.filter(it => overlaps(it.start, it.end, startDay, endDay));
+
+  // Filter by time window within day (overlap with window on the item's start day)
+  items = items.filter(it => {
+    const day = it.start.toISOString().slice(0,10);
+    const wStart = makeWindow(day, fT);
+    const wEnd   = makeWindow(day, tT);
+    return overlaps(it.start, it.end, wStart, wEnd);
+  });
+
+  // Search filter
+  if(qText){
+    items = items.filter(it => {
+      const hay = `${it.title} ${it.location} ${it.trainer}`.toLowerCase();
+      return hay.includes(qText);
+    });
+  }
+  if(locText){
+    items = items.filter(it => (it.location || "").toLowerCase().includes(locText));
+  }
+
+  renderTable(items);
+  renderKPIs(items, fd, td, fT, tT);
+}
+
+function renderTable(items){
+  if(!items.length){
+    tbody.innerHTML = `<tr><td colspan="6" class="muted">Keine Kurse im gewählten Filter.</td></tr>`;
+    return;
+  }
+  items.sort((a,b)=>a.start-b.start);
+
+  tbody.innerHTML = items.map(it => {
+    const d = fmtDate(it.start);
+    const t = `${fmtTime(it.start)}–${fmtTime(it.end)}`;
+
+    const p = occPct(it.booked, it.capacity);
+    const occText = (p === null) ? `<span class="muted">n/a</span>`
+                                 : `<span class="tag"><span class="${occDotClass(p)}"></span>${Math.round(p)}%</span>
+                                    <div class="muted small">${it.booked}/${it.capacity}</div>`;
+
+    return `<tr>
+      <td>${d}</td>
+      <td class="mono">${t}</td>
+      <td>${escapeHtml(it.title)}</td>
+      <td>${escapeHtml(it.location || "")}</td>
+      <td>${escapeHtml(it.trainer || "")}</td>
+      <td>${occText}</td>
+    </tr>`;
+  }).join("");
+}
+
+function renderKPIs(items, fd, td, fT, tT){
+  kpiScope.textContent = `${fd} → ${td} | ${fT}–${tT}`;
+
+  const courses = items.length;
+
+  // Sum occupancy only where available
+  let bookedSum = 0;
+  let capSum = 0;
+  let occCount = 0;
+  let occSum = 0;
+
+  for(const it of items){
+    const p = occPct(it.booked, it.capacity);
+    if(p !== null){
+      bookedSum += it.booked;
+      capSum += it.capacity;
+      occSum += p;
+      occCount += 1;
+    }
+  }
+
+  const occAvg = occCount ? (occSum / occCount) : null;
+  const occAll = (capSum > 0) ? (bookedSum / capSum) * 100 : null;
+
+  kpiCourses.textContent = courses.toString();
+  kpiCoursesSub.textContent = courses ? "gefiltert nach Zeitfenster" : "–";
+
+  if(capSum > 0){
+    kpiSlots.textContent = `${bookedSum}/${capSum}`;
+    kpiSlotsSub.textContent = `Gesamtbelegung (gewichtete %) = ${Math.round(occAll)}%`;
+  }else{
+    kpiSlots.textContent = "–";
+    kpiSlotsSub.textContent = "Keine Belegungsdaten erkannt";
+  }
+
+  if(occAvg === null){
+    kpiOcc.textContent = "–";
+    occBar.style.width = "0%";
+    occBar.style.background = "rgba(255,255,255,.15)";
+    kpiOccSub.textContent = "Keine Belegungsdaten erkannt";
+    setWarn("Belegung konnte nicht berechnet werden, weil die JSON keine erkannten booked/capacity Felder hat. Schick mir 1 Beispiel-Item, dann mappe ich’s sofort korrekt.");
+  }else{
+    const p = Math.max(0, Math.min(100, occAvg));
+    kpiOcc.textContent = `${Math.round(p)}%`;
+    occBar.style.width = `${p}%`;
+    occBar.style.background = (p>=80) ? "var(--ok)" : (p>=50) ? "var(--warn)" : "var(--bad)";
+    kpiOccSub.textContent = `Ø über ${occCount} Kurse (ungewichtet)`;
+  }
+}
+
+function escapeHtml(s){
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+  }[c]));
+}
+
+// UI wiring
+document.getElementById("btnRun").addEventListener("click", runQuery);
+document.getElementById("btnToday").addEventListener("click", () => { rangePreset.value="today"; applyPreset("today"); runQuery(); });
+document.getElementById("btnWeek").addEventListener("click", () => { rangePreset.value="week"; applyPreset("week"); runQuery(); });
+document.getElementById("btnMonth").addEventListener("click", () => { rangePreset.value="month"; applyPreset("month"); runQuery(); });
+
+rangePreset.addEventListener("change", () => {
+  const p = rangePreset.value;
+  if(p !== "custom") applyPreset(p);
+});
+
+// init
+(function init(){
+  // default today
+  applyPreset("today");
+  loadData().then(() => runQuery());
+  // auto refresh every 5 minutes (dashboard only; data.json updates hourly by action)
+  setInterval(async () => { await loadData(); runQuery(); }, 5 * 60 * 1000);
+})();
+</script>
+</body>
+</html>
