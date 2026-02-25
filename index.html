@@ -153,6 +153,38 @@
     .small{font-size:12px}
     .right{display:flex; gap:8px; align-items:center; flex-wrap:wrap; justify-content:flex-end}
     .linklike{color:var(--accent); text-decoration:none}
+
+    /* Click-to-copy course id */
+    .courseid{
+      display:inline-flex;
+      align-items:center;
+      gap:6px;
+      cursor:pointer;
+      user-select:none;
+      margin-top:6px;
+      color: rgba(183,196,230,.95);
+    }
+    .courseid:hover{color: var(--text)}
+    .courseid .hint{
+      opacity:.55;
+      font-size:11px;
+    }
+    .toast{
+      position: fixed;
+      left: 50%;
+      bottom: 18px;
+      transform: translateX(-50%);
+      background: rgba(15,26,46,.92);
+      border: 1px solid rgba(255,255,255,.14);
+      border-radius: 12px;
+      padding: 10px 12px;
+      box-shadow: var(--shadow);
+      color: var(--text);
+      font-size: 12px;
+      display:none;
+      z-index: 9999;
+      backdrop-filter: blur(10px);
+    }
   </style>
 </head>
 <body>
@@ -164,7 +196,7 @@
       <span class="pill">Letzter Refresh: <code id="lastRefresh">–</code></span>
       <span class="pill">Items: <code id="itemCount">–</code></span>
       <span class="pill">TZ: <code>Europe/Luxembourg</code></span>
-      <span class="pill">Filter: <code id="orgFilterLabel">Alle</code></span>
+      <span class="pill">Filter: <code id="orgFilterLabel">–</code></span>
     </div>
   </div>
 </header>
@@ -180,6 +212,7 @@
           <button class="secondary" id="btnMonth">Dieser Monat</button>
           <button id="btnRun">Anwenden</button>
           <button class="secondary" id="btnUniPop">Nur UniPop</button>
+          <button class="secondary" id="btnUniPopActive">UniPop mit Einschreibungen</button>
         </div>
       </div>
       <div class="bd">
@@ -253,7 +286,7 @@
       <div class="bd">
         <div class="kpis">
           <div class="kpi">
-            <div class="t">Ø Belegung</div>
+            <div class="t">Ø Kursauslastung</div>
             <div class="v" id="kpiOcc">–</div>
             <div class="bar"><div id="occBar"></div></div>
             <div class="s" id="kpiOccSub">–</div>
@@ -280,6 +313,8 @@
   </div>
 </main>
 
+<div class="toast" id="toast">Kopiert</div>
+
 <script>
 const DATA_URL = "data/trainings.json";
 const TZ = "Europe/Luxembourg";
@@ -291,6 +326,7 @@ const itemCount = el("itemCount");
 const warnBox = el("warnBox");
 const tbody = el("tbody");
 const orgFilterLabel = el("orgFilterLabel");
+const toast = el("toast");
 
 const rangePreset = el("rangePreset");
 const fromDate = el("fromDate");
@@ -310,16 +346,26 @@ const kpiSlots = el("kpiSlots");
 const kpiSlotsSub = el("kpiSlotsSub");
 
 const btnUniPop = el("btnUniPop");
+const btnUniPopActive = el("btnUniPopActive");
 
 let rawCourses = [];
 let sessions = [];
-let filterUniPopOnly = false;
+
+/**
+ * Filter-Modus:
+ * - "all"           => alle Kurse
+ * - "unipop"        => organiser.code === "UNIPOP"
+ * - "unipop_active" => organiser.code === "UNIPOP" && nbInscrits > 0
+ *
+ * ✅ DEFAULT: "unipop"
+ */
+let orgMode = "unipop";
 
 function luxNow(){
   return new Date(new Date().toLocaleString("en-US", { timeZone: TZ }));
 }
 
-/** FIX: local YYYY-MM-DD (keine UTC toISOString()-Verschiebung) */
+/** local YYYY-MM-DD (keine UTC toISOString()-Verschiebung) */
 function ymdLocal(d){
   const y = d.getFullYear();
   const m = String(d.getMonth()+1).padStart(2,"0");
@@ -472,6 +518,16 @@ async function loadData(){
   }
 }
 
+function passesOrgFilter(c){
+  const orgCode = (c.organisateur && c.organisateur.code) ? String(c.organisateur.code) : "";
+  const nbInscrits = Number(c.nbInscrits);
+
+  if(orgMode === "all") return true;
+  if(orgMode === "unipop") return (orgCode === "UNIPOP");
+  if(orgMode === "unipop_active") return (orgCode === "UNIPOP" && Number.isFinite(nbInscrits) && nbInscrits > 0);
+  return true;
+}
+
 function rebuildSessions(){
   const fd = fromDate.value;
   const td = toDate.value;
@@ -487,15 +543,13 @@ function rebuildSessions(){
 
   for(const c of rawCourses){
     if(!c || typeof c !== "object") continue;
-
-    // ✅ NEW: UniPop filter
-    const orgCode = (c.organisateur && c.organisateur.code) ? String(c.organisateur.code) : "";
-    if(filterUniPopOnly && orgCode !== "UNIPOP") continue;
+    if(!passesOrgFilter(c)) continue;
 
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
     const dEnd = parseFRDateDDMMYYYY(c.dateFin);
     if(!dStart || !dEnd) continue;
 
+    // coarse intersection
     const dEndExclusive = new Date(dEnd.getTime() + 24*3600*1000);
     if(!overlaps(dStart, dEndExclusive, startRange, endRange)) continue;
 
@@ -511,6 +565,7 @@ function rebuildSessions(){
     const horaires = Array.isArray(c.horaires) ? c.horaires : [];
     if(!horaires.length) continue;
 
+    // iterate days in selected range
     for(let day = new Date(startRange); day <= endRange; day.setDate(day.getDate()+1)){
       const day0 = new Date(day);
       day0.setHours(0,0,0,0);
@@ -533,7 +588,7 @@ function rebuildSessions(){
         const edt = new Date(sdt.getTime() + durMin*60000);
 
         out.push({
-          courseId: c.id,
+          courseId: c.coursId || c.coursCode || c.id || "",
           title,
           date: new Date(day0),
           start: sdt,
@@ -563,6 +618,45 @@ function occDotClass(p){
   return "dot bad";
 }
 
+function showToast(msg){
+  toast.textContent = msg;
+  toast.style.display = "block";
+  clearTimeout(showToast._t);
+  showToast._t = setTimeout(() => {
+    toast.style.display = "none";
+  }, 1200);
+}
+
+async function copyToClipboard(text){
+  try{
+    if(navigator.clipboard && window.isSecureContext){
+      await navigator.clipboard.writeText(text);
+    }else{
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      ta.style.position = "fixed";
+      ta.style.left = "-9999px";
+      ta.style.top = "0";
+      document.body.appendChild(ta);
+      ta.focus();
+      ta.select();
+      document.execCommand("copy");
+      document.body.removeChild(ta);
+    }
+    showToast("ID kopiert: " + text);
+  }catch(e){
+    showToast("Konnte nicht kopieren");
+  }
+}
+
+tbody.addEventListener("click", (ev) => {
+  const target = ev.target.closest("[data-copy]");
+  if(!target) return;
+  const value = target.getAttribute("data-copy");
+  if(!value) return;
+  copyToClipboard(value);
+});
+
 function runQuery(){
   setWarn("");
 
@@ -582,14 +676,14 @@ function runQuery(){
   const locText = (loc.value || "").trim().toLowerCase();
 
   const filtered = sessions.filter(s => {
-    const dayStr = ymdLocal(s.date); // ✅ FIX: local date (no UTC shift)
+    const dayStr = ymdLocal(s.date);
     const wStart = new Date(dayStr + "T" + fT + ":00");
     const wEnd   = new Date(dayStr + "T" + tT + ":00");
 
     if(!overlaps(s.start, s.end, wStart, wEnd)) return false;
 
     if(qText){
-      const hay = `${s.title} ${s.location} ${s.trainer}`.toLowerCase();
+      const hay = `${s.title} ${s.location} ${s.trainer} ${s.courseId}`.toLowerCase();
       if(!hay.includes(qText)) return false;
     }
     if(locText){
@@ -621,11 +715,18 @@ function renderTable(items){
       : `<span class="tag"><span class="${occDotClass(p)}"></span>${Math.round(p)}%</span>
          <div class="muted small">${it.booked}/${it.capacity}</div>`;
 
+    const idLine = it.courseId
+      ? `<div class="small mono courseid" data-copy="${escapeHtml(it.courseId)}" title="Klicken zum Kopieren">
+           ${escapeHtml(it.courseId)} <span class="hint">↗ copy</span>
+         </div>`
+      : ``;
+
     return `<tr>
       <td>${d}</td>
       <td class="mono">${t}</td>
       <td>
         ${escapeHtml(it.title)}
+        ${idLine}
         ${it.regUrl ? `<div class="small"><a class="linklike" href="${it.regUrl}" target="_blank" rel="noopener">Inscription</a></div>` : ``}
       </td>
       <td>${escapeHtml(it.location || "")}</td>
@@ -663,7 +764,7 @@ function renderKPIs(items, fd, td, fT, tT){
 
   if(capSum > 0){
     kpiSlots.textContent = `${bookedSum}/${capSum}`;
-    kpiSlotsSub.textContent = `Gesamtbelegung (gewichtet) = ${Math.round(occAll)}%`;
+    kpiSlotsSub.textContent = `Platz-Auslastung gesamt = ${Math.round(occAll)}%`;
   }else{
     kpiSlots.textContent = "–";
     kpiSlotsSub.textContent = "Keine Belegungsdaten";
@@ -679,28 +780,57 @@ function renderKPIs(items, fd, td, fT, tT){
     kpiOcc.textContent = `${Math.round(p)}%`;
     occBar.style.width = `${p}%`;
     occBar.style.background = (p>=80) ? "var(--ok)" : (p>=50) ? "var(--warn)" : "var(--bad)";
-    kpiOccSub.textContent = `Ø über ${occCount} Sessions (ungewichtet)`;
+    kpiOccSub.textContent = `Ø über ${occCount} Sessions (Kurse im Schnitt)`;
   }
 }
 
-/* === UniPop Toggle UI === */
-function updateUniPopButton(){
-  if(filterUniPopOnly){
+/* === Filter Buttons UI === */
+function updateFilterUI(){
+  if(orgMode === "all"){
+    orgFilterLabel.textContent = "Alle";
+    btnUniPop.textContent = "Nur UniPop";
+    btnUniPopActive.textContent = "UniPop mit Einschreibungen";
+    btnUniPop.style.borderColor = "rgba(255,255,255,.10)";
+    btnUniPop.style.background = "rgba(255,255,255,.05)";
+    btnUniPopActive.style.borderColor = "rgba(255,255,255,.10)";
+    btnUniPopActive.style.background = "rgba(255,255,255,.05)";
+    return;
+  }
+
+  if(orgMode === "unipop"){
+    orgFilterLabel.textContent = "Nur UNIPOP";
     btnUniPop.textContent = "Alle Kurse";
     btnUniPop.style.borderColor = "rgba(53,208,127,.55)";
     btnUniPop.style.background = "rgba(53,208,127,.12)";
-    orgFilterLabel.textContent = "Nur UNIPOP";
-  }else{
+
+    btnUniPopActive.textContent = "UniPop mit Einschreibungen";
+    btnUniPopActive.style.borderColor = "rgba(255,255,255,.10)";
+    btnUniPopActive.style.background = "rgba(255,255,255,.05)";
+    return;
+  }
+
+  if(orgMode === "unipop_active"){
+    orgFilterLabel.textContent = "UNIPOP (mit Einschreibungen)";
+    btnUniPopActive.textContent = "Alle Kurse";
+    btnUniPopActive.style.borderColor = "rgba(106,169,255,.60)";
+    btnUniPopActive.style.background = "rgba(106,169,255,.15)";
+
     btnUniPop.textContent = "Nur UniPop";
     btnUniPop.style.borderColor = "rgba(255,255,255,.10)";
     btnUniPop.style.background = "rgba(255,255,255,.05)";
-    orgFilterLabel.textContent = "Alle";
+    return;
   }
 }
 
 btnUniPop.addEventListener("click", () => {
-  filterUniPopOnly = !filterUniPopOnly;
-  updateUniPopButton();
+  orgMode = (orgMode === "unipop") ? "all" : "unipop";
+  updateFilterUI();
+  runQuery();
+});
+
+btnUniPopActive.addEventListener("click", () => {
+  orgMode = (orgMode === "unipop_active") ? "all" : "unipop_active";
+  updateFilterUI();
   runQuery();
 });
 
@@ -718,7 +848,7 @@ rangePreset.addEventListener("change", () => {
 // init
 (function init(){
   applyPreset("today");
-  updateUniPopButton();
+  updateFilterUI();
   loadData().then(() => runQuery());
   setInterval(async () => { await loadData(); runQuery(); }, 5 * 60 * 1000);
 })();
