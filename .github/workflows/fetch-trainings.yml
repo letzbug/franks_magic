@@ -30,14 +30,10 @@ jobs:
           print("JSON OK")
           PY
 
-      - name: Commit changes (if any)
-        run: |
-          if git diff --quiet; then
-            echo "No changes."
-            exit 0
-          fi
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add data/trainings.json
-          git commit -m "Update trainings.json"
-          git push
+      - name: Commit changes
+  run: |
+    git config user.name "github-actions"
+    git config user.email "github-actions@github.com"
+    git add data/trainings.json
+    git commit -m "Update trainings.json" || echo "Nothing to commit"
+    git push
