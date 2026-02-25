@@ -21914,7 +21914,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "HIST",
    "matiereNom" : "Histoire",
-   "nbInscrits" : 6,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -22009,7 +22009,7 @@
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coOrganisateurs" : [ "GERO A.S.B.L." ],
+   "coOrganisateurs" : [ "GERO A.S.B.L.", "https://www.gero.lu/" ],
    "coursCode" : "SO-BE-10",
    "coursId" : "SO-BE-10",
    "coursType" : "CLASSIQUE",
@@ -22050,7 +22050,7 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "De Virtrag dauert 2 Stonnen an ass komplett gratis."
+   "renseignements" : "De Virtrag dauert 2 Stonnen an ass komplett gratis.\r\n\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "8473",
@@ -49620,7 +49620,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 24,
    "niveau" : "C1 du CECRL",
    "onlineRegistration" : false,
@@ -51199,81 +51199,77 @@
    "renseignements" : "Inscription jusqu'au 09-02-2026 !"
 }, {
    "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
+      "codePostal" : "9080",
+      "localite" : "Ettelbruck",
+      "nom" : "Lycée Technique d'Ettelbruck",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
+      "rueNumero" : "71, avenue Salentiny"
    },
    "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
+      "codePostal" : "9080",
+      "localite" : "Ettelbruck",
+      "nom" : "Lycée Technique d'Ettelbruck",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
+      "rueNumero" : "71, avenue Salentiny"
    },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "IN",
    "categorieCodeUnipop" : "TIC",
    "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TRT-118",
-   "coursId" : "IN-TRT-118",
+   "coursCode" : "IN-3DP-1",
+   "coursId" : "IN-3DP-1",
    "coursType" : "CLASSIQUE",
-   "cout" : 45.0,
+   "cout" : 108.0,
    "dateDebut" : "11/02/2026",
-   "dateFin" : "18/03/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "MS Word Modul 1 Einführung:\r\n-Das Programm Microsoft Word entdecken, die Arbeitsoberfläche, die Menüleiste, die Symbolleiste kennen lernen.\r\n-Basisumgang mit Word (Texte eingeben, markieren, kopieren, versetzen, löschen, usw.).\r\n-Briefe verfassen leicht gemacht, Texte formatieren, Seiten einrichten und ausdrucken.\r\n-Absatzformatierung, Bilder in einen Brief einfügen.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Fonction principales: saisie de données,enregistrer, copier, coller, effacer, imprimer.", " La mise en forme des caractères. La mise en forme des paragraphes.", "La mise en page" ],
-      "domaine" : "Traitement de texte"
-   } ],
-   "duree" : "10h",
+   "dateFin" : "03/06/2026",
+   "dateInscription" : "Jeudi, le 18 septembre 2025 à 19.00 heures au Lycée Technique d'Ettelbruck",
+   "description" : "Ce cours offre une initiation pratique à l'impression 3D : types d'imprimantes, matériaux, préparation de fichiers STL, tranchage, calibration et maintenance de base.\r\nL'objectif est de comprendre les principes de l'impression 3D : savoir préparer, lancer et suivre une impression 3D en toute autonomie.",
+   "duree" : "24h",
    "enseignants" : [ {
-      "nom" : "Toth",
-      "prenom" : "Laszlo",
-      "site" : "http://www.cigpetange.lu"
+      "nom" : "Malek",
+      "prenom" : "Cédric"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 10:00 (durée 1h30)",
+   "horairePrevu" : "Mercredi à 18:00 (durée 2h)",
    "horaires" : [ {
-      "duree" : "1h30",
-      "heure" : "10:00",
+      "duree" : "2h",
+      "heure" : "18:00",
       "jour" : "Mercredi"
    } ],
-   "id" : 61838,
-   "intitule" : "Word Modul 1-5",
+   "id" : 59975,
+   "intitule" : "Introduction à l'impression 3D",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TRT",
-   "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 5,
+   "matiereCode" : "3DP",
+   "matiereNom" : "3D-Printing",
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk5NzU%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
+         "codePostal" : "9080",
+         "localite" : "Ettelbruck",
+         "nom" : "Lycée Technique d'Ettelbruck",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
+         "rueNumero" : "71, avenue Salentiny"
       },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
+      "code" : "LTEtt",
+      "fax" : "+352 81 89 01",
+      "mail" : "education_adultes@ltett.lu",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "nomContact" : "Liégeois",
+      "onlineReg" : true,
+      "prenomContact" : "Valina",
+      "statut" : "MENFPS",
+      "telephone" : "81 92 01 307"
    },
-   "prerequis" : "Computer Grundkenntnisse sind erforderlich  --  Des connaissances de base en informatique sont nécessaires",
-   "renseignements" : "Inscription jusqu'au 09-02-2026 !"
+   "prerequis" : "Connaissances de base en modélisation 3D (Autodesk Inventor, Fusion 360, SolidWorks, etc.)",
+   "renseignements" : "Courriel:education_adultes@ltett.lu\r\nTéléphone. 819 201 307 (Valina Liégeois)  "
 }, {
    "adresseCours" : {
       "codePostal" : "4702",
@@ -51350,6 +51346,83 @@
       "websiteUrl" : "http://www.cigpetange.lu"
    },
    "prerequis" : "Minimal Anforderung: absolwierten Word Modul 1  --  Exigence minimale : avoir suivi le module 1 de Word",
+   "renseignements" : "Inscription jusqu'au 09-02-2026 !"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TRT-118",
+   "coursId" : "IN-TRT-118",
+   "coursType" : "CLASSIQUE",
+   "cout" : 45.0,
+   "dateDebut" : "11/02/2026",
+   "dateFin" : "18/03/2026",
+   "dateInscription" : "Lundi à vendredi 9h à 18h",
+   "description" : "MS Word Modul 1 Einführung:\r\n-Das Programm Microsoft Word entdecken, die Arbeitsoberfläche, die Menüleiste, die Symbolleiste kennen lernen.\r\n-Basisumgang mit Word (Texte eingeben, markieren, kopieren, versetzen, löschen, usw.).\r\n-Briefe verfassen leicht gemacht, Texte formatieren, Seiten einrichten und ausdrucken.\r\n-Absatzformatierung, Bilder in einen Brief einfügen.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Fonction principales: saisie de données,enregistrer, copier, coller, effacer, imprimer.", " La mise en forme des caractères. La mise en forme des paragraphes.", "La mise en page" ],
+      "domaine" : "Traitement de texte"
+   } ],
+   "duree" : "10h",
+   "enseignants" : [ {
+      "nom" : "Toth",
+      "prenom" : "Laszlo",
+      "site" : "http://www.cigpetange.lu"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 10:00 (durée 1h30)",
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "10:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 61838,
+   "intitule" : "Word Modul 1-5",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "TRT",
+   "matiereNom" : "Traitement de texte",
+   "nbInscrits" : 5,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4702",
+         "localite" : "Pétange",
+         "nom" : "CIGL - Pétange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "4, rue Pierre Grégoire"
+      },
+      "code" : "CIGL - P",
+      "fax" : "+352 23 65 20 03",
+      "mail" : "info@cyberhall.lu",
+      "nom" : "CIGL - Pétange",
+      "nomContact" : "Toth",
+      "onlineReg" : false,
+      "prenomContact" : "Laszlo",
+      "statut" : "ASBL",
+      "telephone" : "+352 23 65 17 33 33",
+      "websiteUrl" : "http://www.cigpetange.lu"
+   },
+   "prerequis" : "Computer Grundkenntnisse sind erforderlich  --  Des connaissances de base en informatique sont nécessaires",
    "renseignements" : "Inscription jusqu'au 09-02-2026 !"
 }, {
    "adresseCours" : {
