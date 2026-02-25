@@ -1285,68 +1285,6 @@
    "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-AY-4",
-   "coursId" : "SO-AY-4",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "28/02/2026",
-   "dateFin" : "14/03/2026",
-   "description" : "Plongez dans l’univers de l’Ayurvéda au cours de 3 séances d’introduction.\r\nDans une ambiance vivante et participative, vous découvrirez les grands principes de cette philosophie : les doshas, les gunas, les saveurs, ainsi que d’autres systèmes essentiels qui permettent de mieux comprendre le fonctionnement du corps et de l’esprit.\r\nUn voyage passionnant pour apprendre à vous connaître et à harmoniser votre quotidien.\r\nCours prévus le 28/02/2026 - 07/03/2026 - 14/03/2026",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Andreos",
-      "prenom" : "Aurélie",
-      "presentation" : "https://aurelie-yoga-ayurveda.com/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 09:20 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "09:20",
-      "jour" : "Samedi"
-   } ],
-   "id" : 65303,
-   "intitule" : "Introduction à l'Ayurvéda - l’art ancestral du bien-être",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "AY",
-   "matiereNom" : "Ayurveda",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzMDM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Merci d’apporter un cahier et un stylo pour prendre des notes."
-}, {
-   "adresseCours" : {
       "codePostal" : "4354",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
@@ -8208,67 +8146,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 30 euros."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCM",
-   "categorieCodeUnipop" : "SCM",
-   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
-   "coursCode" : "SCM-SCN-14",
-   "coursId" : "SCM-SCN-14",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "18/03/2026",
-   "dateFin" : "20/05/2026",
-   "description" : "In this class we will embark on a journey to discover the wonders of our Universe: from the origin of distant planets, life cycle of stars big and small. Learn about the latest scientific discoveries, and how you too can incorporate a small dose of astronomy in your daily life.",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Gárate Silva",
-      "prenom" : "Matias Ignacio"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63962,
-   "intitule" : "Discovering the Universe - Astronomy",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "SCN",
-   "matiereNom" : "Sciences naturelles",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NjI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "There will be no classes during the school holidays in Luxembourg."
 }, {
    "adresseCours" : {
       "codePostal" : "2309",
@@ -45854,7 +45731,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "BOI",
    "matiereNom" : "Bois",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 12,
    "niveau" : "Avancé",
    "onlineRegistration" : true,
@@ -48308,7 +48185,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 25,
    "niveau" : "B1.3 du CECRL",
    "onlineRegistration" : true,
