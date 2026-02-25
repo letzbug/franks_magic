@@ -8,7 +8,6 @@
     :root{
       --bg:#0b1220;
       --card:#0f1a2e;
-      --card2:#0c1628;
       --text:#e7eefc;
       --muted:#b7c4e6;
       --line:rgba(255,255,255,.10);
@@ -110,7 +109,6 @@
       border:1px solid rgba(255,255,255,.10);
     }
     .bar > div{height:100%; width:0%;}
-    .note{font-size:12px; color:var(--muted); margin-top:10px; line-height:1.35}
     .warnbox{
       margin-top:10px;
       padding:10px 12px;
@@ -172,7 +170,6 @@
 
 <main>
   <div class="wrap grid">
-    <!-- LEFT: results -->
     <section class="card">
       <div class="hd">
         <h2>Abfragen & Ergebnisse</h2>
@@ -243,15 +240,9 @@
             </tbody>
           </table>
         </div>
-
-        <div class="note">
-          Hinweis: “Belegung” wird aus Feldern wie <span class="mono">booked/capacity</span> oder <span class="mono">registered/slots</span> berechnet.
-          Wenn deine JSON andere Feldnamen nutzt, sag mir kurz welche — dann mappe ich’s 1:1.
-        </div>
       </div>
     </section>
 
-    <!-- RIGHT: KPIs -->
     <aside class="card">
       <div class="hd">
         <h2>Auslastung (alle Kurse zusammen)</h2>
@@ -277,17 +268,10 @@
           </div>
         </div>
 
-        <div class="note" style="margin-top:12px;">
+        <div style="margin-top:12px;">
           <div class="tag"><span class="dot ok"></span> ≥ 80%</div>
           <div class="tag"><span class="dot warn"></span> 50–79%</div>
           <div class="tag"><span class="dot bad"></span> &lt; 50%</div>
-        </div>
-
-        <div class="note" style="margin-top:12px;">
-          Wenn du willst, kann ich dir zusätzlich eine 2. Ansicht bauen:
-          <br>• “Top 10 am besten gebucht”
-          <br>• “Kurse mit freiem Platz”
-          <br>• Export CSV per Klick
         </div>
       </div>
     </aside>
@@ -322,11 +306,19 @@ const kpiCoursesSub = el("kpiCoursesSub");
 const kpiSlots = el("kpiSlots");
 const kpiSlotsSub = el("kpiSlotsSub");
 
-let rawCourses = [];   // original courses from JSON
-let sessions = [];     // expanded sessions (each matching day/time becomes one row)
+let rawCourses = [];
+let sessions = [];
 
 function luxNow(){
   return new Date(new Date().toLocaleString("en-US", { timeZone: TZ }));
+}
+
+/** FIX: local YYYY-MM-DD (keine UTC toISOString()-Verschiebung) */
+function ymdLocal(d){
+  const y = d.getFullYear();
+  const m = String(d.getMonth()+1).padStart(2,"0");
+  const day = String(d.getDate()).padStart(2,"0");
+  return `${y}-${m}-${day}`;
 }
 
 function fmtDate(d){
@@ -347,7 +339,6 @@ function setWarn(msg){
 }
 
 function parseFRDateDDMMYYYY(s){
-  // "26/02/2026"
   if(!s || typeof s !== "string") return null;
   const m = s.trim().match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
   if(!m) return null;
@@ -364,13 +355,12 @@ function parseTimeHHMM(s){
 }
 
 function parseDurationToMinutes(s){
-  // "1h40" / "2h" / "45" (fallback)
   if(!s) return null;
   if(typeof s === "number") return s;
   if(typeof s !== "string") return null;
   const t = s.trim().toLowerCase();
 
-  const mh = t.match(/^(\d+)\s*h(?:\s*(\d+))?$/);      // "1h40" or "2h"
+  const mh = t.match(/^(\d+)\s*h(?:\s*(\d+))?$/); // 1h40 / 2h
   if(mh){
     const h = Number(mh[1]);
     const min = mh[2] ? Number(mh[2]) : 0;
@@ -386,17 +376,19 @@ function parseDurationToMinutes(s){
 }
 
 const FR_DAY_TO_JS = {
-  "Lundi": 1,
-  "Mardi": 2,
-  "Mercredi": 3,
-  "Jeudi": 4,
-  "Vendredi": 5,
-  "Samedi": 6,
-  "Dimanche": 0,
+  "lundi": 1,
+  "mardi": 2,
+  "mercredi": 3,
+  "jeudi": 4,
+  "vendredi": 5,
+  "samedi": 6,
+  "dimanche": 0
 };
 
 function jsDayFromFR(fr){
-  return FR_DAY_TO_JS[fr] ?? null;
+  if(!fr) return null;
+  const key = String(fr).trim().toLowerCase();
+  return (key in FR_DAY_TO_JS) ? FR_DAY_TO_JS[key] : null;
 }
 
 function makeDateTimeOnDay(dayDate, hhmm){
@@ -417,28 +409,25 @@ function escapeHtml(s){
 
 function applyPreset(preset){
   const now = luxNow();
-  const iso = (d)=> d.toISOString().slice(0,10);
 
   if(preset === "today"){
     const d = new Date(now); d.setHours(0,0,0,0);
-    fromDate.value = iso(d);
-    toDate.value = iso(d);
+    fromDate.value = ymdLocal(d);
+    toDate.value = ymdLocal(d);
   }else if(preset === "week"){
     const d = new Date(now);
     const day = (d.getDay()+6)%7; // Mo=0
     d.setDate(d.getDate()-day);
     d.setHours(0,0,0,0);
     const s = new Date(d);
-    const e = new Date(d); e.setDate(e.getDate()+6); e.setHours(23,59,59,999);
-    fromDate.value = iso(s);
-    toDate.value = iso(e);
+    const e = new Date(d); e.setDate(e.getDate()+6);
+    fromDate.value = ymdLocal(s);
+    toDate.value = ymdLocal(e);
   }else if(preset === "month"){
     const s = new Date(now.getFullYear(), now.getMonth(), 1);
     const e = new Date(now.getFullYear(), now.getMonth()+1, 0);
-    s.setHours(0,0,0,0);
-    e.setHours(23,59,59,999);
-    fromDate.value = iso(s);
-    toDate.value = iso(e);
+    fromDate.value = ymdLocal(s);
+    toDate.value = ymdLocal(e);
   }
 }
 
@@ -466,12 +455,8 @@ async function loadData(){
     itemCount.textContent = rawCourses.length;
     lastRefresh.textContent = new Date().toLocaleString("de-DE");
 
-    // build session rows for the current selected range (initially today)
     rebuildSessions();
-
-    if(rawCourses.length === 0){
-      setWarn("Keine Kurse gefunden.");
-    }
+    if(rawCourses.length === 0) setWarn("Keine Kurse gefunden.");
   }catch(err){
     setWarn("Fehler beim Laden der Daten: " + err.message);
     itemCount.textContent = "–";
@@ -482,7 +467,6 @@ async function loadData(){
 }
 
 function rebuildSessions(){
-  // Expand weekly schedules into concrete sessions for each date in selected range
   const fd = fromDate.value;
   const td = toDate.value;
   if(!fd || !td){
@@ -502,12 +486,11 @@ function rebuildSessions(){
     const dEnd = parseFRDateDDMMYYYY(c.dateFin);
     if(!dStart || !dEnd) continue;
 
-    // course active window intersects selected range?
-    if(!overlaps(dStart, new Date(dEnd.getTime()+24*3600*1000), startRange, endRange)) continue;
+    // coarse intersection
+    const dEndExclusive = new Date(dEnd.getTime() + 24*3600*1000);
+    if(!overlaps(dStart, dEndExclusive, startRange, endRange)) continue;
 
-    const title = c.intitule || c.titre || c.title || "(sans intitulé)";
-    const lang = c.langueCoursNom || c.langueCoursCode || "";
-    const matiere = c.matiereNom || "";
+    const title = c.intitule || "(sans intitulé)";
     const location = (c.adresseCours && (c.adresseCours.nom || c.adresseCours.localite || "")) || "";
     const trainer = Array.isArray(c.enseignants) && c.enseignants.length
       ? c.enseignants.map(x => [x.prenom, x.nom].filter(Boolean).join(" ").trim()).filter(Boolean).join(", ")
@@ -519,12 +502,11 @@ function rebuildSessions(){
     const horaires = Array.isArray(c.horaires) ? c.horaires : [];
     if(!horaires.length) continue;
 
-    // iterate each day in selected range, check if matches FR weekday and within course dates
+    // iterate days in selected range
     for(let day = new Date(startRange); day <= endRange; day.setDate(day.getDate()+1)){
       const day0 = new Date(day);
       day0.setHours(0,0,0,0);
 
-      // within course date range
       if(day0 < dStart || day0 > dEnd) continue;
 
       const jsDay = day0.getDay();
@@ -536,7 +518,7 @@ function rebuildSessions(){
         const hhmm = parseTimeHHMM(h.heure);
         if(!hhmm) continue;
 
-        const durMin = parseDurationToMinutes(h.duree) ?? parseDurationToMinutes(c.duree) ?? null;
+        const durMin = parseDurationToMinutes(h.duree);
         if(!durMin) continue;
 
         const sdt = makeDateTimeOnDay(day0, hhmm);
@@ -552,8 +534,6 @@ function rebuildSessions(){
           trainer,
           booked,
           capacity,
-          lang,
-          matiere,
           regUrl: c.onlineRegistrationUrl || ""
         });
       }
@@ -585,7 +565,6 @@ function runQuery(){
     return;
   }
 
-  // rebuild concrete sessions for this range
   rebuildSessions();
 
   const fT = fromTime.value || "00:00";
@@ -594,15 +573,16 @@ function runQuery(){
   const qText = (q.value || "").trim().toLowerCase();
   const locText = (loc.value || "").trim().toLowerCase();
 
-  // time window applies per session date
   const filtered = sessions.filter(s => {
-    const dayStr = s.date.toISOString().slice(0,10);
+    // FIX: local YYYY-MM-DD
+    const dayStr = ymdLocal(s.date);
     const wStart = new Date(dayStr + "T" + fT + ":00");
     const wEnd   = new Date(dayStr + "T" + tT + ":00");
+
     if(!overlaps(s.start, s.end, wStart, wEnd)) return false;
 
     if(qText){
-      const hay = `${s.title} ${s.location} ${s.trainer} ${s.matiere} ${s.lang}`.toLowerCase();
+      const hay = `${s.title} ${s.location} ${s.trainer}`.toLowerCase();
       if(!hay.includes(qText)) return false;
     }
     if(locText){
@@ -613,6 +593,10 @@ function runQuery(){
 
   renderTable(filtered);
   renderKPIs(filtered, fd, td, fT, tT);
+
+  if(filtered.length === 0){
+    setWarn("Keine Kurse im gewählten Filter.");
+  }
 }
 
 function renderTable(items){
@@ -630,19 +614,15 @@ function renderTable(items){
       : `<span class="tag"><span class="${occDotClass(p)}"></span>${Math.round(p)}%</span>
          <div class="muted small">${it.booked}/${it.capacity}</div>`;
 
-    const title = escapeHtml(it.title);
-    const loc = escapeHtml(it.location || "");
-    const tr = escapeHtml(it.trainer || "");
-
     return `<tr>
       <td>${d}</td>
       <td class="mono">${t}</td>
       <td>
-        ${title}
+        ${escapeHtml(it.title)}
         ${it.regUrl ? `<div class="small"><a class="linklike" href="${it.regUrl}" target="_blank" rel="noopener">Inscription</a></div>` : ``}
       </td>
-      <td>${loc}</td>
-      <td>${tr}</td>
+      <td>${escapeHtml(it.location || "")}</td>
+      <td>${escapeHtml(it.trainer || "")}</td>
       <td>${occText}</td>
     </tr>`;
   }).join("");
@@ -714,3 +694,5 @@ rangePreset.addEventListener("change", () => {
   setInterval(async () => { await loadData(); runQuery(); }, 5 * 60 * 1000);
 })();
 </script>
+</body>
+</html>
