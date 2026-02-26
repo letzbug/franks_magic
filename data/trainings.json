@@ -1327,6 +1327,74 @@
    "renseignements" : "Apportez une couverture, un coussin et des vêtements confortables. Le cours se déroule en position allongée ou assise. \r\n"
 }, {
    "adresseCours" : {
+      "codePostal" : "-",
+      "localite" : "-",
+      "nom" : "En ligne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "En ligne"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "BP",
+   "categorieCodeUnipop" : "CIT",
+   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
+   "coursCode" : "BP-EN-34",
+   "coursId" : "BP-EN-34",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "02/03/2026",
+   "dateFin" : "09/03/2026",
+   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Mate Roback",
+      "prenom" : "Lorien"
+   } ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi 09-03-2026 à 09:00 (durée 3h) et 09:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 58125,
+   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Découvrir le GDL en anglais",
+   "nbInscrits" : 11,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxMjU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1273",
+         "localite" : "Luxembourg-Hamm",
+         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "13c, rue de Bitbourg"
+      },
+      "code" : "MFSVA",
+      "fax" : "+352 247-85730",
+      "mail" : "programme.zesummeliewen@fm.etat.lu",
+      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+      "nomContact" : "Programme",
+      "onlineReg" : true,
+      "prenomContact" : "Equipe",
+      "statut" : "MENFPS",
+      "telephone" : ".",
+      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+   },
+   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -1628,7 +1696,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CTB",
    "matiereNom" : "Création textiles",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 8,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -2025,7 +2093,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PINT",
    "matiereNom" : "Peinture",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2257,77 +2325,72 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
+      "codePostal" : "-",
+      "localite" : "-",
+      "nom" : "En ligne",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
+      "rueNumero" : "En ligne"
    },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville de Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "B.P. 73"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-54",
-   "coursId" : "IN-BUR-54",
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "BP",
+   "categorieCodeUnipop" : "CIT",
+   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
+   "coursCode" : "BP-EN-35",
+   "coursId" : "BP-EN-35",
    "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
+   "cout" : 0.0,
    "dateDebut" : "04/03/2026",
-   "dateFin" : "29/04/2026",
-   "dateInscription" : "Hôtel de Dudelange\r\ncoursinformatiques@dudelange.lu\r\n51 61 21 538",
-   "description" : "Maîtriser les fonctions principales du logiciel de traitement de texte et du tableur: Familiarisation, création, mise en forme et gestion des extensions des documents Word/Excel. Paramétrer et sécuriser le tableau en vue de l'impression ou de partage en ligne.",
-   "duree" : "24h",
+   "dateFin" : "11/03/2026",
+   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
+   "duree" : "6h",
    "enseignants" : [ {
-      "nom" : "Casanova E Silva",
-      "prenom" : "Marisa"
+      "nom" : "Alhajjaji",
+      "prenom" : "Shamsaldin Ahmed Shamsaldin"
    } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
+   "format" : "BLENDED",
+   "horairePrevu" : "Mercredi 11-03-2026 à 14:00 (durée 3h),\nMercredi 04-03-2026 à 14:00 (durée 3h)",
    "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
+      "duree" : "3h",
+      "heure" : "14:00",
       "jour" : "Mercredi"
    }, {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Jeudi"
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
    } ],
-   "id" : 63208,
-   "intitule" : "Bureautique: Word-Excel",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 6,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
+   "id" : 58127,
+   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Découvrir le GDL en anglais",
+   "nbInscrits" : 17,
+   "nbPlaces" : 18,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxMjc%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
+         "codePostal" : "1273",
+         "localite" : "Luxembourg-Hamm",
+         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
+         "rueNumero" : "13c, rue de Bitbourg"
       },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
+      "code" : "MFSVA",
+      "fax" : "+352 247-85730",
+      "mail" : "programme.zesummeliewen@fm.etat.lu",
+      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+      "nomContact" : "Programme",
+      "onlineReg" : true,
+      "prenomContact" : "Equipe",
+      "statut" : "MENFPS",
+      "telephone" : ".",
+      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
-   "renseignements" : "Accessible aux personnes à mobilité réduite. "
+   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
       "codePostal" : "4354",
@@ -2578,6 +2641,79 @@
    "renseignements" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
 }, {
    "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "B.P. 73"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-54",
+   "coursId" : "IN-BUR-54",
+   "coursType" : "CLASSIQUE",
+   "cout" : 72.0,
+   "dateDebut" : "04/03/2026",
+   "dateFin" : "29/04/2026",
+   "dateInscription" : "Hôtel de Dudelange\r\ncoursinformatiques@dudelange.lu\r\n51 61 21 538",
+   "description" : "Maîtriser les fonctions principales du logiciel de traitement de texte et du tableur: Familiarisation, création, mise en forme et gestion des extensions des documents Word/Excel. Paramétrer et sécuriser le tableau en vue de l'impression ou de partage en ligne.",
+   "duree" : "24h",
+   "enseignants" : [ {
+      "nom" : "Casanova E Silva",
+      "prenom" : "Marisa"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63208,
+   "intitule" : "Bureautique: Word-Excel",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 7,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "renseignements" : "Accessible aux personnes à mobilité réduite. "
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -2740,7 +2876,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DAN",
    "matiereNom" : "Danse",
-   "nbInscrits" : 6,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -4946,7 +5082,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PINT",
    "matiereNom" : "Peinture",
-   "nbInscrits" : 10,
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
@@ -11049,6 +11185,82 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "tout le niveau B1 acquis"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1457",
+   "coursId" : "LA-LB-1457",
+   "coursType" : "CLASSIQUE",
+   "cout" : 360.0,
+   "dateDebut" : "13/04/2026",
+   "dateFin" : "02/07/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \r\n", " d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\r\n ", "d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ) : Wéi ass een oder eppes ?", "d'Auerzäite verstoen (5 Minuttenofstänn)\r\n" ],
+      "domaine" : "Héierverstoen "
+   }, {
+      "competences" : [ "verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\r\n    \r\n", "ganz einfach Froen zu senger oder enger anerer Persoun verstoen\r\n\r\n", " einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen " ],
+      "domaine" : "Liesverstoen "
+   }, {
+      "competences" : [ "« Moien » an « Äddi » soen a froe wéi et engem geet an äntwere wann ee gefrot gett\r\n\r\n  ", "sech oder eng aner Persoun kuerz presentéieren : de Vir- a Familljennumm, den Alter, d'Nationalitéit, d'Sproochen, wou ech/si hierkommen/kënnt, d'Address, de Beruff, d'Familljesituatioun\r\n", "eng aner Persoun no deene Saache froen", "seng perséinlech Donnéeë ginn an eng aner Persoun dono froen : d'Adress, d'Telefonsnummer, d'Emailaddress, de Gebuertsdatum", "d'Negatioun benotzen : « net » a « keen / keng »", "d'Auerzäit an den Datum (Dag a Mount) soe wann ech dono gefrot ginn", "d'Wochendeeg, d'Méint an d'Joreszäite benennen", "en Objet oder eng Persoun kuerz beschreiwen", " e kuerzen Text haart virliesen\r\n" ],
+      "domaine" : "Mëndlechen Ausdrock "
+   }, {
+      "competences" : [ "eng kuerz Email / SMS schreiwe fir ze froe wéi et geet\r\n\r\n ", "  einfach Sätz am Present schreiwen\r\n", "  een einfache Formulaire ausfëllen\r\n" ],
+      "domaine" : "Schrëftlechen Ausdrock "
+   } ],
+   "duree" : "120h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 08:00 (durée 3h), Mardi à 08:00 (durée 3h), Jeudi à 08:00 (durée 3h), Vendredi à 08:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 65413,
+   "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation requise"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -23347,7 +23559,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -48629,7 +48841,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 17,
+   "nbInscrits" : 18,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -49139,7 +49351,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 17,
+   "nbInscrits" : 16,
    "nbPlaces" : 24,
    "niveau" : "B2.2 du CECRL",
    "onlineRegistration" : false,
