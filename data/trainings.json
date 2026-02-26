@@ -502,6 +502,80 @@
    "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
 }, {
    "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-60",
+   "coursId" : "IN-BUR-60",
+   "coursType" : "CLASSIQUE",
+   "cout" : 240.0,
+   "dateDebut" : "28/02/2026",
+   "dateFin" : "18/07/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 14h00 à 17h30",
+   "description" : "Apprendre à créer et à formater un document de texte court et être en mesure de copier et de déplacer du texte au sein d'un document ou entre les documents. \r\nAcquérir des connaissances dans l'utilisation d'un programme de présentation à l'ordinateur. \r\nComprendre les termes fondamentaux concernant le traitement de calcul à l'ordinateur.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Connaître les principales commandes du groupe POLICE, du groupe PRESSE-PAPIERS, PARAGRAPHE et STYLES, créer des couleurs personnalisés en utilisant le RVB et insérer un saut de page", "Prendre des captures d'écran, insérer des images, modifier les propriétés de l'image, supprimer l'arrière-plan d'une image, insérer des formes et des icônes, modifier les propriétés de la forme/icône, insérer des formes et des modèles 3D, insérer des graphiques smartArt, modifier leurs propriétés et comment insérer des zones de texte et modifier leurs propriétés ", "Insérer les différents types de retrait, insérer des tableaux, modifier les caractéristiques des tableaux, insérer des fonctions de calcul dans les cellules d'un tableau, convertir du texte en tableau", "Insérer une table des matières et la mettre à jour, utiliser les taquets de tabulation, publipostage pour lettres et étiquettes et les procédures à suivre, recherches simples et recherches avancées, recherches et remplacements en utilisant les caractères génériques, insérer des bordures de page décoratives, insérer des sauts de section, alterner les pages en orientation portrait et paysage" ],
+      "domaine" : "MS WORD"
+   }, {
+      "competences" : [ "Les bases d'Excel, des concepts de feuille de calcul, de classeur, de cellule, dupliquer et incrémenter des cellules à l'aide de la poignée de saisie semi-automatique et comment manipuler des lignes, des colonnes et des cellules, formater le style dans les feuilles de calcul, remplir automatiquement des feuilles de calcul à l'aide de la fonction de génération de nombres aléatoires, créer des formules de calcul personnalisées", "Créer des tableaux transposés, introduire des séries de données, la mise en forme conditionnelle, modifier et utiliser des références relatives et absolues, opérateurs de comparaison, création et insertion de fonctions logiques", "Figer les volets, des graphiques simples, personnalisés et sparkline, utiliser les fonctions logiques OU et ET, création et intégration des formules conditionnelles SI imbriquées avec de fonctions OU et ET", "Validation des données par une liste, utiliser la fonction de statistiques MOYENNE.SI et MOYENNE.SI.ENS, fonction de recherche verticale RECHERCHEV exacte et approximative", "Fonction de recherche horizontale RECHERCHEH exacte et approximative, selon différents critères, faire des recherches horizontales dans plusieurs bases de données et diverses feuilles de calcul, les principales fonctions de date et d'heure, les principales fonctions de texte" ],
+      "domaine" : "MS EXCEL"
+   }, {
+      "competences" : [ "Gérer les transitions entre les diapositives, connaître les différents types de transitions, insérer des formes, organiser des formes, aligner et distribuer des formes, regrouper et dissocier des formes, insérer des graphiques, et du texte virtuel, insérer et formater SmartArt", "Comment créer les animations, minuter et synchroniser les animations, insérer du son pour chaque transition, insérer une vidéo et audio", "Meilleurs pratiques pour les présentations, le ruban, les affichages, les couleurs, les polices, les mots, les puces, les modèles utilisées, insertion d'images, supprimer l'arrière-plan d'une image de contour non bien définie, encadrer une image, insertion d'une zone de texte, ajouter et modifier des diapositives, recadrer des images, insérer un tableau, fusionner et diviser des cellules, formater des cellules de tableau, grouper et dissocier des cellules de tableau" ],
+      "domaine" : "MS POWER POINT"
+   } ],
+   "duree" : "80h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 15:00 (durée 4h)",
+   "horaires" : [ ],
+   "id" : 63663,
+   "intitule" : "Applications bureautiques",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "CONNAISSANCES DE BASE EN INFORMATIQUE REQUISES",
+   "renseignements" : "Pas accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
       "codePostal" : "4354",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
@@ -1846,7 +1920,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 8,
    "nbPlaces" : 20,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -5655,76 +5729,98 @@
    "renseignements" : "Le cours inclut également deux visites de musée (Villa Vauban et MNHA) pour admirer l’art de près et comprendre son évolution directement devant les tableaux"
 }, {
    "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
+      "rueNumero" : "coursdelangues@walfer.lu"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-39",
-   "coursId" : "BP-EN-39",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-68",
+   "coursId" : "LA-LB-68",
    "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
+   "cout" : 180.0,
    "dateDebut" : "16/03/2026",
-   "dateFin" : "20/03/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Simpson",
-      "prenom" : "Anne"
+   "dateFin" : "22/05/2026",
+   "dateInscription" : "toute l'année de 08:00-11:30 et 13:30-16:00",
+   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann einfach technesch Informatioune verstoen, wéi z.B. Instruktioune fir en Apparat, deen een all Dag benotzt, ze bedéngen.", "Kann detailléiert Weebeschreiwunge suivéieren.", "Ka konkret Erklärungen, Uweisungen an Opdräg verstoen, z.B. op der Aarbecht am Cours, bei Fräizäitaktivitéiten.", "Kann an enger kuerzer, einfacher, linearer Erzielung d'Handlung suivéieren a wichteg Detailer verstoen.", "Ka bei Gespréicher tëscht Mammesproochler iwwer Themen aus Beräicher wéi Aarbecht, Schoul/Formatioun, Fräizäit, déi e/se/et gutt kennt an déi en/se/et intresséieren, d'Haaptpunkte matkréien, wa kloer Standardsprooch geschwat gëtt.", "Kann och méi laang an/oder méi komplex Messagë verstoen, wa se a kloer artikuléierter Standardsprooch geschwat sinn.", "Kann d'Haaptpunkten aus Toundokumenter iwwer einfach Theme vu perséinlechem oder allgemengem Interessi verstoen, wa kloer Standardsprooch an zimlech lues geschwat gëtt.", "Kann, soulaang se onkomplizéiert bleiwen a kloer an an einfacher Standardsprooch presentéiert ginn, Beschreiwunge vu Saache verstoen, déi e/se/et gutt kennt oder déi e/se/et perséinlech intresséieren." ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Ka kloer formuléiert, onkomplizéiert Instruktioune fir d'Benotzung vun engem Apparat verstoen.", "Kann a Beschreiwunge vu Saachen, déi en/se/et intresséieren, Haaptinformatioune verstoen.", "Kann an onkomplizéierten, alldeeglechen Noriichten an Zeitungsartikelen wichteg Eenzelinformatioune verstoen, z.B. wie wat wou gemaach huet oder wat wéini wou geschitt ass (ë.a. Fait-diversë wéi :Noriichten iwwer d'Liewen an d'Carrière vu prominente Leit; Accidenter, Delikter a Verbriechen zu Lëtzebuerg; Katastrophen uechter d'Welt,...).", "Kann an einfachen, privaten oder héichoffizielle Standardbréiwer dat Wiesentlecht verstoen (z.B.Convocatioun op d'Versammlung vun engem Veräin mat der Dagesuerdnung).", "Kann an alldeeglechen Texten, déi - dacks a Form vu Lëschten - eng Offer presentéieren, wichteg Informatioune lokaliséieren a verstoen, resp.erausfannen, ob eppes derbäi ass, wat en/se/et intresséiert.", "Kann a kuerzen normativen Texter, déi fir de breede Public bestëmmt sinn, relevant Informatioune lokaliséieren a verstoen." ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Plazen, Saachen a Persounen, déi e/se/et gutt kennt oder déi en/se/et intresséieren, einfach beschreiwen (z.B. d'Uertschaft aus där e/se/et kënnt, déi eege Wunneng, e Familljemember, d'Aarbechtsplaz).", "Kann einfach Informatioune ginn, déi en/se/et direkt betreffen (z.B. iwwer Hobbyen oder wou e/se/et mat enger Aarbecht drun ass), a kloer maachen, wat em/er dobäi am wichtegsten ass oder wat déi wichtegst Vir - an Nodeeler sinn.", "Kann e kuerzen, ageübten Text iwwer en einfacht Thema, dat e/se/et gutt kennt, esou virdroen, dass en/se/et trotz friemer Intonatioun a Betounung kloer ze verstoen ass.", "Kann Usiichten, Pläng, Ziler oder Handlunge kuerz an einfach justifiéieren oder erklären.", "Kann Dreem an Hoffnungen einfach beschreiwen, z.B. säin/hiert Dramhaus, seng/hir Hoffnunge vis-à-vis vun enger neier Aarbechtsplaz, seng/hir Ziler an engem Cours.", "Ka vun Erfahrungen an Evenementer einfach a linear erzielen an dobäi eege Reaktiounen a Meenungen abezéien.", "Ka linear vun der eegener berufflecher Carrière, vu perséinleche Projeten schwätzen." ],
+      "domaine" : "Monologescht Schwätzen"
+   }, {
+      "competences" : [ "Ka mat Hëllef vun engem Questionnaire, dee virbereet gouf, e staark gesteierten Interview mat e puer spontanen Zousazfroe féieren.", "Kann an einfache Froe Rotschléi ginn an der froen.", "Ka bei informellen Diskussiounen iwwer Themen, déi en/se/et intresséieren, am Allgemengen déi wiesentlech Punkte verstoen, virausgesat, et gëtt däitlech Standardsprooch geschwat, a ka selwer op eng einfach Manéier Meenungen ausdrécken oder Leit no hirer Meenung froen.", "Kann an einfache Situatioune mat Verwaltungen eens ginn z.B. um Policebüro mellen, dass een eppes geklaut krut; eng Aarbechtserlaabnes froen an an deem Kontext op Froen äntweren; iwwer Telefon Renseignementer froen an eng Brochure froen.", "Kann an de meeschte Situatiounen zuwee kommen, mat deenen een als Benotzer vum ëffentlechen Transport, als «Tourist fir een Dag» zu Lëtzebuergoder beim Organiséiere vun Auslandsreese konfrontéiert gëtt (z.B. beim Schalter op der Gare, am Touristebüro, an enger Reesagence Renseignementerfroen, Billjeeë kafen, Reservatioune maachen).", "Kann ouni Virbereedung u Gespréicher iwwer Themen deelhuelen, déi e/se/et gutt kennt (z.B. iwwer en neie Restaurant, e friemt Land, Erfahrungen op der Aarbecht, am Cours), wann d'Gespréichspartner hir Ausdrocksweis a Schwätzvitesse upassen a Gedold weisen.", "Kann einfach faktuell Informatiounen austauschen iwwer Themen, déi e/se/et gutt kennt an iwwer Themen aus sengem/hirem Fach oder Interessegebitt.", "Kann Deeler vun deem, wat en anere gesot huet, widderhuelen, fir dat géigesäitegt Versteesdemech ze sécheren. Kann anerer opfuerderen, um Gespréich deelzehuelen." ],
+      "domaine" : "Mëndlech Interactioun"
+   }, {
+      "competences" : [ "Kann an einfache Situatioune mat Verwaltunge korrespondéieren z.B. fir Informatiounsbroschüren ze froen oder ze mellen dass een eppes geklaut krut.", "Kann einfach a verständlech Saachen, Plazen, Persoune beschreiwen, déi e/se/et perséinlech intresséieren oder déi e/se/et gutt kennt an dobäi z.D. och perséinlech Meenungen ausdrécken.", "Kann eng einfach Annonce opsetzen. Ka schrëftlech op Annoncë reagéieren a méi oder méi genee Informatioune verlaangen.", "Kann an engem einfache Virtrag (Konferenz, Visite guidée, Cours,...) Notizen a Form vun enger Lëscht vun Haaptpunkte maachen, souwäit en/se/et d'Thema kennt an einfach an däitlech Standardsproochgeschwat gëtt.", "Kann e perséinleche Bréif schreiwe fir Neiegkeete matzedeelen, an doranner am Detail, awer einfach iwwer Erfahrungen, Gefiller, Evenementer erzielen.", "Ka fir Frënn, Employéën, Léierpersounen oder anerer, mat deenen en/se/et am alldeegleche Liewen ze dinn huet, Notize schreiwe mat einfachen Informatiounen, déi hie/si/hatt selwer oder den Empfänger direkt betreffen, a ka verständlech maache wat em/er dobäi am Wichtegsten ass. Kann och Notize schreiwe fir Informatiounen ze froen.", "Kann eng einfach strukturéiert Geschicht, eng Anekdot linear erzielen." ],
+      "domaine" : "Schrëfltechen Ausdrock"
    } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi 16-03-2026 à 12:00 (durée 2h),\nMercredi 18-03-2026 à 12:00 (durée 2h),\nVendredi 20-03-2026 à 12:00 (durée 2h)",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Sartini",
+      "prenom" : "Massimo Sauro"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 20:00 (durée 2h),\nMardi à 20:00 (durée 2h),\nJeudi à 20:00 (durée 2h),\nVendredi à 20:00 (durée 2h)",
    "horaires" : [ {
       "duree" : "2h",
-      "heure" : "12:00",
+      "heure" : "20:00",
       "jour" : "Lundi"
    }, {
       "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
+      "heure" : "20:00",
+      "jour" : "Mardi"
    }, {
       "duree" : "2h",
-      "heure" : "12:00",
+      "heure" : "20:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "20:00",
       "jour" : "Vendredi"
    } ],
-   "id" : 58135,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 17,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxMzU%3D",
+   "id" : 61468,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 18,
+   "nbPlaces" : 20,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
+         "rueNumero" : "B.P. 1"
       },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Almeida",
+      "onlineReg" : false,
+      "prenomContact" : "Kevin",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "2132",
@@ -7187,100 +7283,6 @@
       "prenomContact" : "Maria Delfina",
       "statut" : "ASBL",
       "telephone" : "+352 691 500 047"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-68",
-   "coursId" : "LA-LB-68",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "16/03/2026",
-   "dateFin" : "22/05/2026",
-   "dateInscription" : "toute l'année de 08:00-11:30 et 13:30-16:00",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
-   "domainesCompetences" : [ {
-      "competences" : [ "Kann einfach technesch Informatioune verstoen, wéi z.B. Instruktioune fir en Apparat, deen een all Dag benotzt, ze bedéngen.", "Kann detailléiert Weebeschreiwunge suivéieren.", "Ka konkret Erklärungen, Uweisungen an Opdräg verstoen, z.B. op der Aarbecht am Cours, bei Fräizäitaktivitéiten.", "Kann an enger kuerzer, einfacher, linearer Erzielung d'Handlung suivéieren a wichteg Detailer verstoen.", "Ka bei Gespréicher tëscht Mammesproochler iwwer Themen aus Beräicher wéi Aarbecht, Schoul/Formatioun, Fräizäit, déi e/se/et gutt kennt an déi en/se/et intresséieren, d'Haaptpunkte matkréien, wa kloer Standardsprooch geschwat gëtt.", "Kann och méi laang an/oder méi komplex Messagë verstoen, wa se a kloer artikuléierter Standardsprooch geschwat sinn.", "Kann d'Haaptpunkten aus Toundokumenter iwwer einfach Theme vu perséinlechem oder allgemengem Interessi verstoen, wa kloer Standardsprooch an zimlech lues geschwat gëtt.", "Kann, soulaang se onkomplizéiert bleiwen a kloer an an einfacher Standardsprooch presentéiert ginn, Beschreiwunge vu Saache verstoen, déi e/se/et gutt kennt oder déi e/se/et perséinlech intresséieren." ],
-      "domaine" : "Héierverstoen"
-   }, {
-      "competences" : [ "Ka kloer formuléiert, onkomplizéiert Instruktioune fir d'Benotzung vun engem Apparat verstoen.", "Kann a Beschreiwunge vu Saachen, déi en/se/et intresséieren, Haaptinformatioune verstoen.", "Kann an onkomplizéierten, alldeeglechen Noriichten an Zeitungsartikelen wichteg Eenzelinformatioune verstoen, z.B. wie wat wou gemaach huet oder wat wéini wou geschitt ass (ë.a. Fait-diversë wéi :Noriichten iwwer d'Liewen an d'Carrière vu prominente Leit; Accidenter, Delikter a Verbriechen zu Lëtzebuerg; Katastrophen uechter d'Welt,...).", "Kann an einfachen, privaten oder héichoffizielle Standardbréiwer dat Wiesentlecht verstoen (z.B.Convocatioun op d'Versammlung vun engem Veräin mat der Dagesuerdnung).", "Kann an alldeeglechen Texten, déi - dacks a Form vu Lëschten - eng Offer presentéieren, wichteg Informatioune lokaliséieren a verstoen, resp.erausfannen, ob eppes derbäi ass, wat en/se/et intresséiert.", "Kann a kuerzen normativen Texter, déi fir de breede Public bestëmmt sinn, relevant Informatioune lokaliséieren a verstoen." ],
-      "domaine" : "Liesverstoen"
-   }, {
-      "competences" : [ "Ka Plazen, Saachen a Persounen, déi e/se/et gutt kennt oder déi en/se/et intresséieren, einfach beschreiwen (z.B. d'Uertschaft aus där e/se/et kënnt, déi eege Wunneng, e Familljemember, d'Aarbechtsplaz).", "Kann einfach Informatioune ginn, déi en/se/et direkt betreffen (z.B. iwwer Hobbyen oder wou e/se/et mat enger Aarbecht drun ass), a kloer maachen, wat em/er dobäi am wichtegsten ass oder wat déi wichtegst Vir - an Nodeeler sinn.", "Kann e kuerzen, ageübten Text iwwer en einfacht Thema, dat e/se/et gutt kennt, esou virdroen, dass en/se/et trotz friemer Intonatioun a Betounung kloer ze verstoen ass.", "Kann Usiichten, Pläng, Ziler oder Handlunge kuerz an einfach justifiéieren oder erklären.", "Kann Dreem an Hoffnungen einfach beschreiwen, z.B. säin/hiert Dramhaus, seng/hir Hoffnunge vis-à-vis vun enger neier Aarbechtsplaz, seng/hir Ziler an engem Cours.", "Ka vun Erfahrungen an Evenementer einfach a linear erzielen an dobäi eege Reaktiounen a Meenungen abezéien.", "Ka linear vun der eegener berufflecher Carrière, vu perséinleche Projeten schwätzen." ],
-      "domaine" : "Monologescht Schwätzen"
-   }, {
-      "competences" : [ "Ka mat Hëllef vun engem Questionnaire, dee virbereet gouf, e staark gesteierten Interview mat e puer spontanen Zousazfroe féieren.", "Kann an einfache Froe Rotschléi ginn an der froen.", "Ka bei informellen Diskussiounen iwwer Themen, déi en/se/et intresséieren, am Allgemengen déi wiesentlech Punkte verstoen, virausgesat, et gëtt däitlech Standardsprooch geschwat, a ka selwer op eng einfach Manéier Meenungen ausdrécken oder Leit no hirer Meenung froen.", "Kann an einfache Situatioune mat Verwaltungen eens ginn z.B. um Policebüro mellen, dass een eppes geklaut krut; eng Aarbechtserlaabnes froen an an deem Kontext op Froen äntweren; iwwer Telefon Renseignementer froen an eng Brochure froen.", "Kann an de meeschte Situatiounen zuwee kommen, mat deenen een als Benotzer vum ëffentlechen Transport, als «Tourist fir een Dag» zu Lëtzebuergoder beim Organiséiere vun Auslandsreese konfrontéiert gëtt (z.B. beim Schalter op der Gare, am Touristebüro, an enger Reesagence Renseignementerfroen, Billjeeë kafen, Reservatioune maachen).", "Kann ouni Virbereedung u Gespréicher iwwer Themen deelhuelen, déi e/se/et gutt kennt (z.B. iwwer en neie Restaurant, e friemt Land, Erfahrungen op der Aarbecht, am Cours), wann d'Gespréichspartner hir Ausdrocksweis a Schwätzvitesse upassen a Gedold weisen.", "Kann einfach faktuell Informatiounen austauschen iwwer Themen, déi e/se/et gutt kennt an iwwer Themen aus sengem/hirem Fach oder Interessegebitt.", "Kann Deeler vun deem, wat en anere gesot huet, widderhuelen, fir dat géigesäitegt Versteesdemech ze sécheren. Kann anerer opfuerderen, um Gespréich deelzehuelen." ],
-      "domaine" : "Mëndlech Interactioun"
-   }, {
-      "competences" : [ "Kann an einfache Situatioune mat Verwaltunge korrespondéieren z.B. fir Informatiounsbroschüren ze froen oder ze mellen dass een eppes geklaut krut.", "Kann einfach a verständlech Saachen, Plazen, Persoune beschreiwen, déi e/se/et perséinlech intresséieren oder déi e/se/et gutt kennt an dobäi z.D. och perséinlech Meenungen ausdrécken.", "Kann eng einfach Annonce opsetzen. Ka schrëftlech op Annoncë reagéieren a méi oder méi genee Informatioune verlaangen.", "Kann an engem einfache Virtrag (Konferenz, Visite guidée, Cours,...) Notizen a Form vun enger Lëscht vun Haaptpunkte maachen, souwäit en/se/et d'Thema kennt an einfach an däitlech Standardsproochgeschwat gëtt.", "Kann e perséinleche Bréif schreiwe fir Neiegkeete matzedeelen, an doranner am Detail, awer einfach iwwer Erfahrungen, Gefiller, Evenementer erzielen.", "Ka fir Frënn, Employéën, Léierpersounen oder anerer, mat deenen en/se/et am alldeegleche Liewen ze dinn huet, Notize schreiwe mat einfachen Informatiounen, déi hie/si/hatt selwer oder den Empfänger direkt betreffen, a ka verständlech maache wat em/er dobäi am Wichtegsten ass. Kann och Notize schreiwe fir Informatiounen ze froen.", "Kann eng einfach strukturéiert Geschicht, eng Anekdot linear erzielen." ],
-      "domaine" : "Schrëfltechen Ausdrock"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Sartini",
-      "prenom" : "Massimo Sauro"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 20:00 (durée 2h),\nMardi à 20:00 (durée 2h),\nJeudi à 20:00 (durée 2h),\nVendredi à 20:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "20:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "20:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "20:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "20:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 61468,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
-   "nbPlaces" : 20,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Almeida",
-      "onlineReg" : false,
-      "prenomContact" : "Kevin",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
    }
 }, {
    "adresseCours" : {
@@ -34294,10 +34296,10 @@
       "prenom" : "Sónia Isabel"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 13-06-2026 à 12:00 (durée 1h40)",
+   "horairePrevu" : "Samedi 13-06-2026 à 10:20 (durée 1h40)",
    "horaires" : [ {
       "duree" : "1h40",
-      "heure" : "12:00",
+      "heure" : "10:20",
       "jour" : "Samedi"
    } ],
    "id" : 64048,
@@ -35558,10 +35560,10 @@
       "prenom" : "Sónia Isabel"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 27-06-2026 à 12:00 (durée 1h40)",
+   "horairePrevu" : "Samedi 27-06-2026 à 10:20 (durée 1h40)",
    "horaires" : [ {
       "duree" : "1h40",
-      "heure" : "12:00",
+      "heure" : "10:20",
       "jour" : "Samedi"
    } ],
    "id" : 64051,
@@ -36236,10 +36238,10 @@
       "prenom" : "Sónia Isabel"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 04-07-2026 à 12:00 (durée 1h40)",
+   "horairePrevu" : "Samedi 04-07-2026 à 10:20 (durée 1h40)",
    "horaires" : [ {
       "duree" : "1h40",
-      "heure" : "12:00",
+      "heure" : "10:20",
       "jour" : "Samedi"
    } ],
    "id" : 64053,
@@ -49851,7 +49853,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -49949,7 +49951,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -54403,80 +54405,6 @@
       "statut" : "Administration Communale",
       "telephone" : "+352 516 121-538"
    }
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-60",
-   "coursId" : "IN-BUR-60",
-   "coursType" : "CLASSIQUE",
-   "cout" : 240.0,
-   "dateDebut" : "24/01/2026",
-   "dateFin" : "11/07/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 14h00 à 17h30",
-   "description" : "Apprendre à créer et à formater un document de texte court et être en mesure de copier et de déplacer du texte au sein d'un document ou entre les documents. \r\nAcquérir des connaissances dans l'utilisation d'un programme de présentation à l'ordinateur. \r\nComprendre les termes fondamentaux concernant le traitement de calcul à l'ordinateur.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Connaître les principales commandes du groupe POLICE, du groupe PRESSE-PAPIERS, PARAGRAPHE et STYLES, créer des couleurs personnalisés en utilisant le RVB et insérer un saut de page", "Prendre des captures d'écran, insérer des images, modifier les propriétés de l'image, supprimer l'arrière-plan d'une image, insérer des formes et des icônes, modifier les propriétés de la forme/icône, insérer des formes et des modèles 3D, insérer des graphiques smartArt, modifier leurs propriétés et comment insérer des zones de texte et modifier leurs propriétés ", "Insérer les différents types de retrait, insérer des tableaux, modifier les caractéristiques des tableaux, insérer des fonctions de calcul dans les cellules d'un tableau, convertir du texte en tableau", "Insérer une table des matières et la mettre à jour, utiliser les taquets de tabulation, publipostage pour lettres et étiquettes et les procédures à suivre, recherches simples et recherches avancées, recherches et remplacements en utilisant les caractères génériques, insérer des bordures de page décoratives, insérer des sauts de section, alterner les pages en orientation portrait et paysage" ],
-      "domaine" : "MS WORD"
-   }, {
-      "competences" : [ "Les bases d'Excel, des concepts de feuille de calcul, de classeur, de cellule, dupliquer et incrémenter des cellules à l'aide de la poignée de saisie semi-automatique et comment manipuler des lignes, des colonnes et des cellules, formater le style dans les feuilles de calcul, remplir automatiquement des feuilles de calcul à l'aide de la fonction de génération de nombres aléatoires, créer des formules de calcul personnalisées", "Créer des tableaux transposés, introduire des séries de données, la mise en forme conditionnelle, modifier et utiliser des références relatives et absolues, opérateurs de comparaison, création et insertion de fonctions logiques", "Figer les volets, des graphiques simples, personnalisés et sparkline, utiliser les fonctions logiques OU et ET, création et intégration des formules conditionnelles SI imbriquées avec de fonctions OU et ET", "Validation des données par une liste, utiliser la fonction de statistiques MOYENNE.SI et MOYENNE.SI.ENS, fonction de recherche verticale RECHERCHEV exacte et approximative", "Fonction de recherche horizontale RECHERCHEH exacte et approximative, selon différents critères, faire des recherches horizontales dans plusieurs bases de données et diverses feuilles de calcul, les principales fonctions de date et d'heure, les principales fonctions de texte" ],
-      "domaine" : "MS EXCEL"
-   }, {
-      "competences" : [ "Gérer les transitions entre les diapositives, connaître les différents types de transitions, insérer des formes, organiser des formes, aligner et distribuer des formes, regrouper et dissocier des formes, insérer des graphiques, et du texte virtuel, insérer et formater SmartArt", "Comment créer les animations, minuter et synchroniser les animations, insérer du son pour chaque transition, insérer une vidéo et audio", "Meilleurs pratiques pour les présentations, le ruban, les affichages, les couleurs, les polices, les mots, les puces, les modèles utilisées, insertion d'images, supprimer l'arrière-plan d'une image de contour non bien définie, encadrer une image, insertion d'une zone de texte, ajouter et modifier des diapositives, recadrer des images, insérer un tableau, fusionner et diviser des cellules, formater des cellules de tableau, grouper et dissocier des cellules de tableau" ],
-      "domaine" : "MS POWER POINT"
-   } ],
-   "duree" : "80h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 15:00 (durée 4h)",
-   "horaires" : [ ],
-   "id" : 63663,
-   "intitule" : "Applications bureautiques",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "CONNAISSANCES DE BASE EN INFORMATIQUE REQUISES",
-   "renseignements" : "Pas accessible aux personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
