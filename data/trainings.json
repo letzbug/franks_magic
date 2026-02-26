@@ -1583,7 +1583,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 14,
+   "nbInscrits" : 16,
    "nbPlaces" : 20,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3986,6 +3986,67 @@
    "renseignements" : "Merci d’apporter des crayons, une gomme, des pastels secs, un bloc DIN 2 de papier à dessin, le reste sera précisé au cours de l’année scolaire."
 }, {
    "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-EXCO-11",
+   "coursId" : "SO-EXCO-11",
+   "coursType" : "CLASSIQUE",
+   "cout" : 81.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "18/05/2026",
+   "description" : "Ce cours s'adresse aux personnes qui souhaitent mieux comprendre comment le corps parle, que ce soit pour un développement personnel ou pour une meilleure aisance lors de prises de parole en public. Les séances proposeront une exploration des postures corporelles, de leur impact sur la présence, la confiance et la relation à l’autre. À travers des jeux, des exercices ludiques et de courtes mises en situation, chacun pourra découvrir comment le langage extra-verbal (gestes, ancrage, respiration, direction du regard) influence la communication autant que les mots eux-mêmes. Le cours offrira un cadre bienveillant pour expérimenter, ajuster et enrichir sa manière d’être dans l’espace, afin de développer une posture plus consciente, expressive et alignée avec ce que l’on souhaite transmettre.",
+   "duree" : "18 leçons",
+   "enseignants" : [ {
+      "nom" : "Mesager",
+      "prenom" : "Mélanie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 63929,
+   "intitule" : "Corps en Mouvement : mieux s’exprimer sans mots",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "EXCO",
+   "matiereNom" : "Expression corporelle",
+   "nbInscrits" : 6,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Veuillez noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -4136,6 +4197,67 @@
       "statut" : "ASBL",
       "telephone" : "621 534 221"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-DAN-18",
+   "coursId" : "SO-DAN-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 81.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "18/05/2026",
+   "description" : "Né au Japon dans les années 1960, le Butô a profondément influencé la danse contemporaine européenne, notamment par son rapport singulier au corps, au temps et à la présence. Chaque séance offrira un équilibre entre travail technique (ancrage, lenteur, précision des gestes, écoute sensorielle) et expression libre à travers des moments d’improvisation, permettant à chacun de développer sa propre poétique du mouvement. Ce cours vise à instaurer une routine corporelle douce mais profonde, tout en proposant une véritable initiation à cet art à la fois mystérieux, sensible et puissant. Un espace bienveillant sera consacré à l’exploration personnelle, au rythme de chacun, pour découvrir ce que le Butoh peut révéler du corps, de l’imaginaire et de la présence.",
+   "duree" : "18 leçons",
+   "enseignants" : [ {
+      "nom" : "Mesager",
+      "prenom" : "Mélanie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 16:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "16:20",
+      "jour" : "Lundi"
+   } ],
+   "id" : 63928,
+   "intitule" : "Butoh - Danse japonaise",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DAN",
+   "matiereNom" : "Danse",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Aucun niveau de danse n’est requis."
 }, {
    "adresseCours" : {
       "codePostal" : "9089",
