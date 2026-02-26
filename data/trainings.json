@@ -1,382 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-AG-18",
-   "coursId" : "AR-AG-18",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "27/02/2026",
-   "dateFin" : "22/05/2026",
-   "description" : "Workshop de pluridisciplinaire 6 séances autour du thème du bestiaire. Au programme : création d'un bestiaire illustré à partir de différentes techniques graphiques : dessin à l'encre, au fusain, au crayons ou encore initiation à la gravure.",
-   "duree" : "20 leçons",
-   "enseignants" : [ {
-      "nom" : "Valet",
-      "prenom" : "Léa"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 18:50 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 62940,
-   "intitule" : "Bestiaire illustré  - Créatures réelles et imaginaires - dessin, gravure",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "AG",
-   "matiereNom" : "Arts graphiques",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjI5NDA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "À apporter : bloc de papier A3, crayons graphites, stylos feutres, colle, ciseaux, gomme mie de pain, fusains/crayons fusains, gouge à graver (kit d’initiation). "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-102",
-   "coursId" : "SO-YOG-102",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "27/02/2026",
-   "dateFin" : "10/07/2026",
-   "description" : "Offrez-vous une parenthèse énergisante en plein cœur de la journée avec un cours de yoga Vinyasa, accessible aux débutants. Pendant 50 minutes, venez explorer un flow fluide et rythmé, alliant mouvement et respiration, pour libérer les tensions, retrouver de la vitalité et améliorer votre posture. Dans ce cours, l'accent est mis sur les bases essentielles du Vinyasa, enrichi avec les connaissances posturales de la méthode du Dr Bernadette de Gasquet. Vous apprendrez à pratiquer en respectant votre corps, à renforcer votre centre et à gagner en souplesse, tout en profitant d'un moment pour vous recentrer. Que vous soyez novice ou simplement en quête d'un moment de bien-être et de dynamisme, ce cours est fait pour vous.",
-   "duree" : "16 leçons",
-   "enseignants" : [ {
-      "nom" : "Andreos",
-      "prenom" : "Aurélie",
-      "presentation" : "https://aurelie-yoga-ayurveda.com/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 13:00 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "13:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64463,
-   "intitule" : "Yoga Vinyasa Lunch 2",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ0NjM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Merci d’apporter un tapis de yoga ainsi qu’une sangle et une brique de yoga.\r\nVeuillez noter qu’il n’y a ni vestiaires ni douches disponibles sur notre site."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-AAS-3",
-   "coursId" : "AR-AAS-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "27/02/2026",
-   "dateFin" : "22/05/2026",
-   "description" : "Atelier pluridisciplinaire centré sur le développement de l'imaginaire à travers différentes techniques : collage, gravure, illustrations et micro-édition. Cet atelier s'adresse aussi bien aux débutants souhaitant exercer leur imaginaire qu'aux personnes plus expérimentées désirant étendre leur univers à de nouvelles formes (impressions, livres-objets, microédition).",
-   "duree" : "20 leçons",
-   "enseignants" : [ {
-      "nom" : "Valet",
-      "prenom" : "Léa"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64678,
-   "intitule" : "Imaginaire et processus créatifs - collage, gravure, illustrations",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "AAS",
-   "matiereNom" : "Arts et artisanat",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ2Nzg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Le cours n’aura pas lieu pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "À apporter : bloc de papier A3, crayons graphites, gomme, ciseaux, cutter, kit d’initiation à la gravure (gouge) et papier calque. Matériel disponible dans les magasins de beaux-arts."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-QIG-6",
-   "coursId" : "SO-QIG-6",
-   "coursType" : "CLASSIQUE",
-   "cout" : 144.0,
-   "dateDebut" : "27/02/2026",
-   "dateFin" : "10/07/2026",
-   "description" : "This is a course on fitness Qi Gong. At the outset, I will explain to participants the concepts of qi and energy within traditional Chinese culture, helping them embrace these ideas. Then I will teach specific movements and exercises to cultivate energy, using this energy to heal the body and maintain health. Simultaneously, this practice alleviates symptoms of certain illnesses.",
-   "duree" : "32 leçons",
-   "enseignants" : [ {
-      "nom" : "Cheng",
-      "prenom" : "Aixia"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63963,
-   "intitule" : "Qigong - Chinese culture",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "QIG",
-   "matiereNom" : "Qi Gong",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NjM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "There will be no classes during the school holidays in Luxembourg.\r\nThe instructor will inform you about the materials needed for the course."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119 rue du cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-84",
-   "coursId" : "AR-COUT-84",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "27/02/2026",
-   "dateFin" : "10/07/2026",
-   "description" : "Les participants ayant déjà les bases, pourront apporter leur propre projet et les séances seront tournées sur un accompagnement avec des conseils (sur les tissus, sur la machine à coudre), des astuces et la marche à suivre afin de réaliser au mieux leur projet couture. Si les participants n'ont pas d'idées de projets, des livres de couture et de patronage leur seront proposés.\r\nLes apprenants débutants découvriront les bases de la couture :\r\nCe cours vise à initier les participants à l'art de la couture, tout en explorant les bases à travers son vocabulaire, l’utilisation des machines, leurs accessoires, les tissus et par la réalisation de pièce d’études et accessoires.\r\nVous apprendrez à maîtriser les bases de la couture avec la découverte de la machine à coudre et de la surjeteuse, comprendre leurs fonctionnalités. Vous réaliserez des accessoires simples ; des trousses, des tote-bags, des pochettes, afin de découvrir la pose d'accessoires (type : zip, boutons..)\r\nVous découvrirez les différentes coutures de finitions et de montage mais, également le montage des différents cols et des différentes poches. Vous apprendrez à lire des patronages industriels, à retoucher vos vêtements mais surtout à réaliser vos propres pièces.\r\nAlors, venez découvrir l'art de la couture et passer un bon moment de partage.",
-   "duree" : "48 leçons",
-   "enseignants" : [ {
-      "nom" : "Brilli",
-      "prenom" : "Julie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63949,
-   "intitule" : "Cours de couture – Niveau débutant & intermédiaire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NDk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "Matériel : mètre ruban, ciseaux, coupe-fil/découd-vite, épingles, fil blanc/noir, règle, toile coton, craie ou stylo frixion, papier patron, aiguilles machine (70–100)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Centre Bureck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "rue de la Fontaine"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8058",
-      "localite" : "Bertrange",
-      "nom" : "Administration communale de Bertrange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2 beim Schlass"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-IT-160",
-   "coursId" : "LA-IT-160",
-   "coursType" : "CLASSIQUE",
-   "cout" : 153.0,
-   "dateDebut" : "27/02/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "www.bertrange.lu",
-   "description" : "Peut comprendre le contenu essentiel de sujets concrets ou abstraits dans un texte complexe, y compris une discussion technique dans sa spécialité. \r\nPeut s'exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d'actualité et exposer les avantages et les inconvénients de différentes possibilités.",
-   "duree" : "34h",
-   "enseignants" : [ {
-      "nom" : "Cama",
-      "prenom" : "Rosaria"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64714,
-   "intitule" : "Italien",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "IT",
-   "matiereNom" : "Italien",
-   "nbInscrits" : 4,
-   "nbPlaces" : 6,
-   "niveau" : "C1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8058",
-         "localite" : "Bertrange",
-         "nom" : "Administration Communale de Bertrange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, beim Schlass"
-      },
-      "code" : "A.C. BERT",
-      "mail" : "cours@bertrange.lu",
-      "nom" : "Commune de Bertrange",
-      "nomContact" : "Flammang",
-      "onlineReg" : false,
-      "prenomContact" : "Joelle",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 26312 340 matin"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Lycée Athénée ",
@@ -44731,6 +44354,315 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-AG-18",
+   "coursId" : "AR-AG-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "27/02/2026",
+   "dateFin" : "22/05/2026",
+   "description" : "Workshop de pluridisciplinaire 6 séances autour du thème du bestiaire. Au programme : création d'un bestiaire illustré à partir de différentes techniques graphiques : dessin à l'encre, au fusain, au crayons ou encore initiation à la gravure.",
+   "duree" : "20 leçons",
+   "enseignants" : [ {
+      "nom" : "Valet",
+      "prenom" : "Léa"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 18:50 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 62940,
+   "intitule" : "Bestiaire illustré  - Créatures réelles et imaginaires - dessin, gravure",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "AG",
+   "matiereNom" : "Arts graphiques",
+   "nbInscrits" : 2,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjI5NDA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "À apporter : bloc de papier A3, crayons graphites, stylos feutres, colle, ciseaux, gomme mie de pain, fusains/crayons fusains, gouge à graver (kit d’initiation). "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-102",
+   "coursId" : "SO-YOG-102",
+   "coursType" : "CLASSIQUE",
+   "cout" : 72.0,
+   "dateDebut" : "27/02/2026",
+   "dateFin" : "10/07/2026",
+   "description" : "Offrez-vous une parenthèse énergisante en plein cœur de la journée avec un cours de yoga Vinyasa, accessible aux débutants. Pendant 50 minutes, venez explorer un flow fluide et rythmé, alliant mouvement et respiration, pour libérer les tensions, retrouver de la vitalité et améliorer votre posture. Dans ce cours, l'accent est mis sur les bases essentielles du Vinyasa, enrichi avec les connaissances posturales de la méthode du Dr Bernadette de Gasquet. Vous apprendrez à pratiquer en respectant votre corps, à renforcer votre centre et à gagner en souplesse, tout en profitant d'un moment pour vous recentrer. Que vous soyez novice ou simplement en quête d'un moment de bien-être et de dynamisme, ce cours est fait pour vous.",
+   "duree" : "16 leçons",
+   "enseignants" : [ {
+      "nom" : "Andreos",
+      "prenom" : "Aurélie",
+      "presentation" : "https://aurelie-yoga-ayurveda.com/"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 13:00 (durée 0h50)",
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "13:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64463,
+   "intitule" : "Yoga Vinyasa Lunch 2",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ0NjM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Merci d’apporter un tapis de yoga ainsi qu’une sangle et une brique de yoga.\r\nVeuillez noter qu’il n’y a ni vestiaires ni douches disponibles sur notre site."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-AAS-3",
+   "coursId" : "AR-AAS-3",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "27/02/2026",
+   "dateFin" : "22/05/2026",
+   "description" : "Atelier pluridisciplinaire centré sur le développement de l'imaginaire à travers différentes techniques : collage, gravure, illustrations et micro-édition. Cet atelier s'adresse aussi bien aux débutants souhaitant exercer leur imaginaire qu'aux personnes plus expérimentées désirant étendre leur univers à de nouvelles formes (impressions, livres-objets, microédition).",
+   "duree" : "20 leçons",
+   "enseignants" : [ {
+      "nom" : "Valet",
+      "prenom" : "Léa"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 17:10 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64678,
+   "intitule" : "Imaginaire et processus créatifs - collage, gravure, illustrations",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "AAS",
+   "matiereNom" : "Arts et artisanat",
+   "nbInscrits" : 3,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ2Nzg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Le cours n’aura pas lieu pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "À apporter : bloc de papier A3, crayons graphites, gomme, ciseaux, cutter, kit d’initiation à la gravure (gouge) et papier calque. Matériel disponible dans les magasins de beaux-arts."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-QIG-6",
+   "coursId" : "SO-QIG-6",
+   "coursType" : "CLASSIQUE",
+   "cout" : 144.0,
+   "dateDebut" : "27/02/2026",
+   "dateFin" : "10/07/2026",
+   "description" : "This is a course on fitness Qi Gong. At the outset, I will explain to participants the concepts of qi and energy within traditional Chinese culture, helping them embrace these ideas. Then I will teach specific movements and exercises to cultivate energy, using this energy to heal the body and maintain health. Simultaneously, this practice alleviates symptoms of certain illnesses.",
+   "duree" : "32 leçons",
+   "enseignants" : [ {
+      "nom" : "Cheng",
+      "prenom" : "Aixia"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 16:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "16:20",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 63963,
+   "intitule" : "Qigong - Chinese culture",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "QIG",
+   "matiereNom" : "Qi Gong",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NjM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "There will be no classes during the school holidays in Luxembourg.\r\nThe instructor will inform you about the materials needed for the course."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1338",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée Bonnevoie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "119 rue du cimetière"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-COUT-84",
+   "coursId" : "AR-COUT-84",
+   "coursType" : "CLASSIQUE",
+   "cout" : 216.0,
+   "dateDebut" : "27/02/2026",
+   "dateFin" : "10/07/2026",
+   "description" : "Les participants ayant déjà les bases, pourront apporter leur propre projet et les séances seront tournées sur un accompagnement avec des conseils (sur les tissus, sur la machine à coudre), des astuces et la marche à suivre afin de réaliser au mieux leur projet couture. Si les participants n'ont pas d'idées de projets, des livres de couture et de patronage leur seront proposés.\r\nLes apprenants débutants découvriront les bases de la couture :\r\nCe cours vise à initier les participants à l'art de la couture, tout en explorant les bases à travers son vocabulaire, l’utilisation des machines, leurs accessoires, les tissus et par la réalisation de pièce d’études et accessoires.\r\nVous apprendrez à maîtriser les bases de la couture avec la découverte de la machine à coudre et de la surjeteuse, comprendre leurs fonctionnalités. Vous réaliserez des accessoires simples ; des trousses, des tote-bags, des pochettes, afin de découvrir la pose d'accessoires (type : zip, boutons..)\r\nVous découvrirez les différentes coutures de finitions et de montage mais, également le montage des différents cols et des différentes poches. Vous apprendrez à lire des patronages industriels, à retoucher vos vêtements mais surtout à réaliser vos propres pièces.\r\nAlors, venez découvrir l'art de la couture et passer un bon moment de partage.",
+   "duree" : "48 leçons",
+   "enseignants" : [ {
+      "nom" : "Brilli",
+      "prenom" : "Julie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 17:10 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:10",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 63949,
+   "intitule" : "Cours de couture – Niveau débutant & intermédiaire",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NDk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
+   "renseignements" : "Matériel : mètre ruban, ciseaux, coupe-fil/découd-vite, épingles, fil blanc/noir, règle, toile coton, craie ou stylo frixion, papier patron, aiguilles machine (70–100)."
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -46217,88 +46149,6 @@
    },
    "prerequis" : "NON",
    "renseignements" : "Des renseignements compl. peuvent être obtenus: info@esf.lu / en cas d'urgence, au GSM: 621 288 749\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1278",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-71",
-   "coursId" : "IN-BUR-71",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "24/02/2026",
-   "dateFin" : "27/02/2026",
-   "dateInscription" : "Inscription sur place avant le début de la formation.",
-   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
-   "domainesCompetences" : [ {
-      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
-      "domaine" : "Compétences informatiques"
-   } ],
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Hazizaj",
-      "prenom" : "Bashkim"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64075,
-   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1617",
-         "localite" : "Luxembourg",
-         "nom" : "Clae services asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "26, rue de Gasperich"
-      },
-      "code" : "CLAE",
-      "mail" : "patricia.lopes@clae.lu",
-      "nom" : "Clae services asbl",
-      "nomContact" : "Lopes",
-      "onlineReg" : false,
-      "prenomContact" : "Patricia",
-      "statut" : "ASBL",
-      "telephone" : "+352 29 86 86 1",
-      "websiteUrl" : "https://www.clae.lu/"
-   },
-   "prerequis" : "Connaissance de base de l'utilisation du numérique"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -55207,104 +55057,6 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1302",
-   "coursId" : "LA-FR-1302",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "19/01/2026",
-   "dateFin" : "27/02/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Aptitude à accéder à diverses formes d'écrit (personnel, administratif) et à produire dans des structures justes des écrits dans une situation de communication écrite quotidienne, en révisant les règles de grammaire basiques",
-   "domainesCompetences" : [ {
-      "competences" : [ "suivre une conversation quotidienne sur des sujets familiers rencontrés régulièrement au travail, à l'école, pendant les loisirs si l'interlocuteur s'exprime clairement, bien qu'il soit parfois nécessaire de faire répéter certains mots ou expression.", " suivre les points principaux d'une longue discussion se déroulant en sa présence, à condition que la langue soit standard et clairement articulée", "comprendre des informations techniques simples, tels que des modes d'emploi, des recettes de cuisine", "comprendre l'information contenue dans la plupart des documents enregistrés ou radiodiffusés (chansons)." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "parcourir un texte assez long pour y localiser une information cherchée et réunir des informations provenant de différentes parties du texte afin d'accomplir une tâche spécifique.", "reconnaître les points significatifs d'un article de journal direct et non complexe sur un sujet familier\r\n", "identifier des mots inconnus à l'aide du contexte sur des sujets relatifs à son domaine et à ses intérêts. \r\n" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "communiquer avec une certaine assurance sur des sujets familiers habituels ou non en relation avec ses intérêts et son domaine professionnel. ", "exprimer sa pensée sur un sujet abstrait ou culturel comme un film, des livres, de la musique, etc.", "aborder sans préparation une conversation sur un sujet familier\r\n", "relater en détail ses expériences en décrivant ses sentiments et ses réactions.\r\n", "raconter l'intrigue d'un livre ou d'un film et décrire ses propres réactions, ", "décrire un rêve, un espoir ,une ambition, des peurs \r\n", "décrire un événement, réel ou imaginaire. \r\n", "raconter une histoire.\r\n", "développer une argumentation suffisamment bien pour être compris sans difficulté la plupart du temps." ],
-      "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "réagir à des sentiments tels que la surprise, la joie, la tristesse, la curiosité et l'indifférence et les exprimer.", "soutenir une conversation ou une discussion\r\n", " échanger de l'information sur des sujets familiers, d'intérêt personnel ou pertinents pour la vie quotidienne (par exemple, la famille, les loisirs, le travail, les voyages et les faits d'actualité).", "commenter brièvement le point de vue d'autrui.\r\n", "comparer et opposer des alternatives \r\n", "émettre ou solliciter un point de vue personnel ou une opinion sur des points d'intérêt général.\r\n", "exprimer poliment ses convictions, ses opinions, son accord et son désaccord.\r\n", "commenter brièvement le point de vue d'autrui\r\n", "commencer, poursuivre et terminer une simple conversation en tête-à-tête sur des sujets familiers ou d'intérêt personnel" ],
-      "domaine" : "Interaction orale"
-   }, {
-      "competences" : [ "écrire des descriptions détaillées simples et directes sur une gamme étendue de sujets familiers (centre d'intérêt, famille, aspects culturels) ", "rédiger un programme ( de sorties, de lieux à visiter, ..)\r\n", "rédiger un questionnaire \r\n", "comparer des gens, des pays, des situations..\r\n", "faire le compte rendu d'expériences en décrivant ses souvenirs, ses sentiments, ses réactions, \r\n", "écrire la description d'un évènement, d'un voyage \r\n", "raconter une histoire \r\n", "paraphraser ( écrire à la manière de )\r\n" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "conjuguer les principaux verbes au temps de l'indicatif \r\n", "utiliser le comparatif et le superlatif ", "utiliser les pronoms compléments simples et doubles \r\n", "utiliser l'impératif, les pronoms compléments à l'impératif ", "utiliser les temps du passé ", "utiliser le conditionnel présent et passé \r\n", "utiliser le passif", " utiliser le subjonctif ", "utiliser le gérondif et le participe présent\r\n" ],
-      "domaine" : "Grammaire"
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Jacquet",
-      "prenom" : "Annie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63741,
-   "intitule" : "Cours de renforcement grammatical",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 14,
-   "nbPlaces" : 18,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau A2 oral acquis",
-   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
-}, {
-   "adresseCours" : {
       "codePostal" : "6210",
       "localite" : "Consdorf",
       "nom" : "Varäinsbau",
@@ -57495,195 +57247,6 @@
    "adresseInscription" : {
       "codePostal" : "2132",
       "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "AL",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "COMPÉTENCES DE BASE",
-   "coursCode" : "AL-ALFR-254",
-   "coursId" : "AL-ALFR-254",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "12/01/2026",
-   "dateFin" : "27/02/2026",
-   "dateInscription" : "secrétariat: vendredi de 9h30 à 13h00 et lundi et jeudi de 14h00 à 17h30\r\nou sur notre site internet, cflh.lu",
-   "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul",
-   "domainesCompetences" : [ {
-      "competences" : [ " compter \r\n\r\n", " utiliser la calculatrice \r\n", "maîtriser des additions et soustractions de nombres entiers et décimaux avec et sans retenue\r\n", " lire l'heure avec les aiguilles d'une montre" ],
-      "domaine" : "calculer"
-   }, {
-      "competences" : [ "identifier des formules de politesse et de salutations \r\n", "réagir à des consignes et messages de la vie quotidienne\r\n" ],
-      "domaine" : "comprendre"
-   }, {
-      "competences" : [ " écrire les lettres en majuscules d'imprimerie\r\n", " copier des lettres et des mots en écriture cursive\r\n\t", " écrire les nombres\r\n", " recomposer des mots à partir de lettres ou de syllabes\r\n", "écrire les graphèmes on/om, en/em, an/am, in/im\r\n", " écrire le graphème ill\r\n", " écrire le graphème eil/ eill\r\n", "écrire le graphème ail/ aill  /  ull \r\n", " écrire les graphèmes euil/ euill et ouil/ ouill ", "écrire le graphème gn", " écrire le graphème ç\r\n", "remplir un formulaire\r\n", " \r\n écrire une liste de mots", "recomposer des phrases à partir de mots dans le désordre.\r\n", " écrire à un rythme normal (chronométrage du temps d'écriture d'un même mot, d'une même phrase)\r\n" ],
-      "domaine" : "écrire"
-   }, {
-      "competences" : [ " lire le graphème ill                     \r\n\r\n", " lire le graphème eil/l\r\n", " lire le graphème ail/aill \r\n", " lire le graphème gn\r\n", " lire le graphème ç \r\n", " lire le graphème ein\r\n", " déchiffrer des mots inconnus \r\n", " utiliser un dictionnaire\r\n", " lire et comprendre des phrases courtes avec des mots familiers et courants\r\n", " lire des titres de journaux" ],
-      "domaine" : "lire"
-   }, {
-      "competences" : [ "utiliser des formules de politesse et de salutations\r\n", "manifester sa compréhension ou son incompréhension verbalement", " se présenter simplement ou prendre rendez-vous\r\n" ],
-      "domaine" : "parler"
-   }, {
-      "competences" : [ " maîtriser l'ordre élémentaire d'une phrase\r\n\r\n\r\n", " identifier la fonction de chaque mot dans une phrase", "identifier les symboles de ponctuation" ],
-      "domaine" : "grammaire et syntaxe"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 08:45 (durée 2h30), Mardi à 08:45 (durée 2h30), Mercredi à 08:45 (durée 2h30), Jeudi à 08:45 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 63682,
-   "intitule" : "Alphabétisation en langue française",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "ALFR",
-   "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Alphabétisation de niveau intermédiaire acquise",
-   "renseignements" : "Accès pour personnes à mobilité réduite "
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "AL",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "COMPÉTENCES DE BASE",
-   "coursCode" : "AL-ALFR-253",
-   "coursId" : "AL-ALFR-253",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "12/01/2026",
-   "dateFin" : "27/02/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul",
-   "domainesCompetences" : [ {
-      "competences" : [ "compter jusqu'à 100\r\n", "utiliser la calculatrice \r\n", "maîtriser des additions et soustractions de nombres entiers et décimaux\r\n", "calculer avec de l'argent\r\n", "lire l'heure digitale\r\n" ],
-      "domaine" : "calculer"
-   }, {
-      "competences" : [ "identifier des formules de politesse et de salutations \r\n", "réagir à des messages simples (identité, rendez-vous..)\r\n" ],
-      "domaine" : "comprendre"
-   }, {
-      "competences" : [ "écrire les lettres en majuscules d'imprimerie\r\n", "écrire les lettres en minuscules cursives\r\n", "écrire les chiffres jusqu'à 100\r\n", "recomposer des mots à partir de lettres ou de syllabes\r\n", "écrire le graphème ch\r\n", "écrire le graphème ph\r\n", "écrire les graphèmes s et ss\r\n", "écrire le graphème qu\r\n", "écrire les graphèmes é, er, ez et es, et, ê\r\n", "écrire les graphèmes oi, ai, ei, ui\r\n", "écrire les graphèmes on, en, an\r\n", "écrire les graphèmes ou , eu, au, eau \r\n", "écrire les graphèmes in, un, ain, ien   \r\n", "écrire les graphèmes g/e-i  et g/a-o-u\r\n", "écrire les graphèmes c/e-i et c/a-o-u\r\n", "écrire le graphème ç\r\n", "écrire des lettres  et des mots en écriture scripte  \r\n", "copier des lettres et des mots en écriture cursive\r\n", "copier une liste de mots en rapport avec des champs lexicaux ou des catégories grammaticales.", "remplir un formulaire     \r\n", "écrire à un rythme normal (chronométrage du temps d'écriture d'un même mot)" ],
-      "domaine" : "écrire"
-   }, {
-      "competences" : [ "prononcer toutes les lettres de l'alphabet\r\n", "lire des mots en écriture scripte\r\n", "lire et comprendre des phrases courtes avec des mots familiers et courants\r\n", "utiliser un dictionnaire\r\n", "ire le graphème ch, \r\n", "lire le graphème ph\r\n", "lire les graphèmes  s et ss\r\n", "lire le graphème qu\r\n", " lire les graphèmes é, er, ez et es, et, ê\r\n", " lire les graphèmes oi, ai, ei, ui\r\n", " lire les graphèmes on/om, en/em, an/am\r\n", " lire les graphèmes ou , eu, au, eau\r\n", "lire les graphèmes in, un, ain, ien\r\n", " lire les graphèmes g/e-i  et g/a-o-u\r\n", "lire les graphèmes c/e-i et c/a-o-u\r\n", " lire le graphème ç" ],
-      "domaine" : "lire"
-   }, {
-      "competences" : [ "utiliser des formules de politesse et de salutations\r\n", "manifester sa compréhension ou son incompréhension verbalement\r\n", "se présenter simplement et prendre rendez-vous" ],
-      "domaine" : "parler"
-   }, {
-      "competences" : [ "identifier la nature des mots", "identifier les symboles de ponctuation" ],
-      "domaine" : "Grammaire et syntaxe"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Jacquet",
-      "prenom" : "Annie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 13:00 (durée 2h), Mardi à 13:00 (durée 2h), Mercredi à 13:00 (durée 2h), Jeudi à 13:00 (durée 2h), Vendredi à 13:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63681,
-   "intitule" : "Alphabétisation en langue française",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "ALFR",
-   "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 20,
-   "nbPlaces" : 22,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "alphabétisation de niveau débutant requise",
-   "renseignements" : "non accessible aux personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
       "nom" : "C.F. Lucien Huss a.s.b.l",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
@@ -58096,211 +57659,6 @@
    },
    "prerequis" : "A2.1 requis",
    "renseignements" : "Accessible aux personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie-Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1279",
-   "coursId" : "LA-FR-1279",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "12/01/2026",
-   "dateFin" : "27/02/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre la description simple d’une personne ou d’un objet.\r\n", "comprendre des questions simples : registre formel ou familier. ", "comprendre des indications simples (toutes heures, orientation.…) \r\n", "comprendre des expressions de quantité" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "comprendre des textes simples et courts. ", "comprendre des messages simples (liste de courses – recette- menu..)\r\n", "suivre des indications brèves et simples\r\n" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "parler simplement : - de son environnement quotidien ; - de sa famille et de ses amis ; - de son travail ; - de sa santé ; - de ses goûts et loisirs.", " décrire simplement quelqu’un ou quelque chose \r\n", "parler simplement d’actions futures. \r\n", "utiliser des formules de politesse\r\n" ],
-      "domaine" : "expression orale en continu"
-   }, {
-      "competences" : [ "parler simplement de soi et de ses proches et répondre à des questions", " prendre un rendez-vous, le reporter ou l’annuler (se situer dans le temps) ", "répondre par l’affirmative ou la négative \r\n", "demander un service ou une information ", "utiliser des formules d’adresse et de congé\r\n" ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "écrire un texte très simple parler de sa famille et de son environnement et de son travail \r\n", "écrire un texte très simple pour présenter quelqu’un d’autre et parler de sa famille et de son environnement et de son travail ", "écrire des messages courts pour communiquer ou demander des informations.\r\n" ],
-      "domaine" : "expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Jacquet",
-      "prenom" : "Annie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 16:00 (durée 2h), Mardi à 16:00 (durée 2h), Mercredi à 16:00 (durée 2h), Jeudi à 16:00 (durée 2h), Vendredi à 16:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "16:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "16:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "16:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "16:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "16:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63713,
-   "intitule" : "Français, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 19,
-   "nbPlaces" : 24,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Niveau A1.1 acquis",
-   "renseignements" : "non accessible aux personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1277",
-   "coursId" : "LA-FR-1277",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "12/01/2026",
-   "dateFin" : "27/02/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
-   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
-   "domainesCompetences" : [ {
-      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "reconnaître des noms, mots et expressions courants", "comprendre des messages simples (sms ou de type « carte postale ») ", "suivre des indications brèves et simples" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) ", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
-      "domaine" : "expression orale en continu"
-   }, {
-      "competences" : [ "questionner quelqu’un sur son identité, son travail, ses loisirs, son environnement et répondre à des questions analogues ", "utiliser des formules (basiques) d’adresse et de congé \r\n", "demander un prix\r\n" ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "écrire un SMS/message basique (pour donner rdv par exemple)\r\n", " remplir un formulaire d’inscription \r\n", "se présenter brièvement\r\n" ],
-      "domaine" : "expression écrite"
-   } ],
-   "duree" : "60 leçons",
-   "enseignants" : [ {
-      "nom" : "Duka",
-      "prenom" : "Chiara"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 12:00 (durée 1h40), Mardi à 12:00 (durée 1h40), Mercredi à 12:00 (durée 1h40), Jeudi à 12:00 (durée 1h40), Vendredi à 12:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63711,
-   "intitule" : "Français, culture et citoyenneté Intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 18,
-   "nbPlaces" : 22,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "alphabétisation acquise"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
