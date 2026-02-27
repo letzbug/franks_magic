@@ -1,335 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Athénée ",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "24 Boulevard Pierre Dupong"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2163",
-      "localite" : "Luxembourg",
-      "nom" : "Institut Français du Luxembourg - site internet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "47, Avenue Monterey"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-840",
-   "coursId" : "LA-FR-840",
-   "coursType" : "CLASSIQUE",
-   "cout" : 670.0,
-   "dateDebut" : "28/02/2026",
-   "dateFin" : "11/07/2026",
-   "dateInscription" : "Ouverture des inscriptions 3 semaines avant le début de la session",
-   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1.2 - Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
-   "duree" : "30h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 09:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 60352,
-   "intitule" : "Cours de français - session extensive samedi matin",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 50,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2163",
-         "localite" : "Luxembourg",
-         "nom" : "Institut Français du Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "47, Avenue Monterey"
-      },
-      "code" : "IFL",
-      "mail" : "cours@ifluxembourg.lu",
-      "nom" : "Institut Français du Luxembourg",
-      "nomContact" : "Hausmesser",
-      "onlineReg" : false,
-      "prenomContact" : "Isabelle",
-      "statut" : "ASBL",
-      "telephone" : "462 166 39",
-      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
-   },
-   "prerequis" : "débutant/ test de placement/ attestation de niveau ",
-   "renseignements" : "Groupes de niveaux homogènes composés de 5 à 10 apprenants. Cours organisés les samedi matin hors vacances scolaires luxembourgeoises\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-91",
-   "coursId" : "SO-YOG-91",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "28/02/2026",
-   "dateFin" : "28/02/2026",
-   "description" : "Libérez vos tensions et laissez la joie envahir votre quotidien.\r\nCet atelier ludique et dynamique vous invite à découvrir le Yoga du Rire comme véritable source de bien-être et de légèreté. À travers des exercices collectifs, des jeux interactifs et des rires spontanés, vous expérimenterez la puissance du rire pour relâcher les tensions, booster votre énergie et créer des liens authentiques avec les autres.\r\nVenez partager des moments de joie, de convivialité et de complicité, tout en apprenant à mieux communiquer et à renforcer votre confiance en vous. Que ce soit entre amis, en famille ou dans un cadre professionnel, cet atelier transforme chaque interaction en un instant positif et mémorable.\r\nUne expérience unique où bien-être, plaisir et rire contagieux se rencontrent pour vous offrir un véritable moment de bonheur partagé.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Dos Santos Tomás",
-      "prenom" : "Sónia Isabel"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 28-02-2026 à 12:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 64035,
-   "intitule" : "Workshop - Libérer les tensions et cultiver la joie grâce au Yoga du Rire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMzU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-60",
-   "coursId" : "IN-BUR-60",
-   "coursType" : "CLASSIQUE",
-   "cout" : 240.0,
-   "dateDebut" : "28/02/2026",
-   "dateFin" : "18/07/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 14h00 à 17h30",
-   "description" : "Apprendre à créer et à formater un document de texte court et être en mesure de copier et de déplacer du texte au sein d'un document ou entre les documents. \r\nAcquérir des connaissances dans l'utilisation d'un programme de présentation à l'ordinateur. \r\nComprendre les termes fondamentaux concernant le traitement de calcul à l'ordinateur.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Connaître les principales commandes du groupe POLICE, du groupe PRESSE-PAPIERS, PARAGRAPHE et STYLES, créer des couleurs personnalisés en utilisant le RVB et insérer un saut de page", "Prendre des captures d'écran, insérer des images, modifier les propriétés de l'image, supprimer l'arrière-plan d'une image, insérer des formes et des icônes, modifier les propriétés de la forme/icône, insérer des formes et des modèles 3D, insérer des graphiques smartArt, modifier leurs propriétés et comment insérer des zones de texte et modifier leurs propriétés ", "Insérer les différents types de retrait, insérer des tableaux, modifier les caractéristiques des tableaux, insérer des fonctions de calcul dans les cellules d'un tableau, convertir du texte en tableau", "Insérer une table des matières et la mettre à jour, utiliser les taquets de tabulation, publipostage pour lettres et étiquettes et les procédures à suivre, recherches simples et recherches avancées, recherches et remplacements en utilisant les caractères génériques, insérer des bordures de page décoratives, insérer des sauts de section, alterner les pages en orientation portrait et paysage" ],
-      "domaine" : "MS WORD"
-   }, {
-      "competences" : [ "Les bases d'Excel, des concepts de feuille de calcul, de classeur, de cellule, dupliquer et incrémenter des cellules à l'aide de la poignée de saisie semi-automatique et comment manipuler des lignes, des colonnes et des cellules, formater le style dans les feuilles de calcul, remplir automatiquement des feuilles de calcul à l'aide de la fonction de génération de nombres aléatoires, créer des formules de calcul personnalisées", "Créer des tableaux transposés, introduire des séries de données, la mise en forme conditionnelle, modifier et utiliser des références relatives et absolues, opérateurs de comparaison, création et insertion de fonctions logiques", "Figer les volets, des graphiques simples, personnalisés et sparkline, utiliser les fonctions logiques OU et ET, création et intégration des formules conditionnelles SI imbriquées avec de fonctions OU et ET", "Validation des données par une liste, utiliser la fonction de statistiques MOYENNE.SI et MOYENNE.SI.ENS, fonction de recherche verticale RECHERCHEV exacte et approximative", "Fonction de recherche horizontale RECHERCHEH exacte et approximative, selon différents critères, faire des recherches horizontales dans plusieurs bases de données et diverses feuilles de calcul, les principales fonctions de date et d'heure, les principales fonctions de texte" ],
-      "domaine" : "MS EXCEL"
-   }, {
-      "competences" : [ "Gérer les transitions entre les diapositives, connaître les différents types de transitions, insérer des formes, organiser des formes, aligner et distribuer des formes, regrouper et dissocier des formes, insérer des graphiques, et du texte virtuel, insérer et formater SmartArt", "Comment créer les animations, minuter et synchroniser les animations, insérer du son pour chaque transition, insérer une vidéo et audio", "Meilleurs pratiques pour les présentations, le ruban, les affichages, les couleurs, les polices, les mots, les puces, les modèles utilisées, insertion d'images, supprimer l'arrière-plan d'une image de contour non bien définie, encadrer une image, insertion d'une zone de texte, ajouter et modifier des diapositives, recadrer des images, insérer un tableau, fusionner et diviser des cellules, formater des cellules de tableau, grouper et dissocier des cellules de tableau" ],
-      "domaine" : "MS POWER POINT"
-   } ],
-   "duree" : "80h",
-   "enseignants" : [ {
-      "nom" : "Peseiro",
-      "prenom" : "Donzilio"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 15:00 (durée 4h)",
-   "horaires" : [ {
-      "duree" : "4h",
-      "heure" : "15:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 63663,
-   "intitule" : "Applications bureautiques",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 7,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "CONNAISSANCES DE BASE EN INFORMATIQUE REQUISES",
-   "renseignements" : "Pas accessible aux personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-61",
-   "coursId" : "AR-COUT-61",
-   "coursType" : "CLASSIQUE",
-   "cout" : 252.0,
-   "dateDebut" : "28/02/2026",
-   "dateFin" : "11/07/2026",
-   "description" : "Für alle nähbegeisterten Menschen mit Erfahrung: Vertiefe deine Nähkenntnisse, entdecke neue Techniken und arbeite an kreativen Projekten, die deine Fertigkeiten auf das nächste Level bringen. Ideal für alle, die ihre Fähigkeiten gezielt erweitern möchten.",
-   "duree" : "56 leçons",
-   "enseignants" : [ {
-      "nom" : "Jost",
-      "prenom" : "Katja"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 13:40 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "13:40",
-      "jour" : "Samedi"
-   } ],
-   "id" : 61517,
-   "intitule" : "Nähkurs für Fortgeschrittene",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE1MTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Bitte beachten Sie, dass während der Schulferien in Luxemburg kein Unterricht stattfindet.",
-   "renseignements" : "Nähmaschine, Verlängerungskabel, Stoff- & Papierschere, kleine spitze Schere, Auftrenner, Stecknadeln, Qualitätsgarn, Nadeln, Massband, Schneiderkreide, Stoffmarker, Geodreieck, Schneiderpapier, Bleistift, Stoff je nach Projekt. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC- Esch-sur-Alzette",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22 rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-78",
-   "coursId" : "AR-COUT-78",
-   "coursType" : "CLASSIQUE",
-   "cout" : 252.0,
-   "dateDebut" : "28/02/2026",
-   "dateFin" : "11/07/2026",
-   "description" : "In diesem Kurs lernen Anfängerinnen und Anfänger den sicheren Umgang mit der Nähmaschine, sammeln erste Näherfahrungen und realisieren ihr erstes eigenes Nähprojekt. Neben praktischen Übungen werden auch die grundlegenden Nähutensilien sowie verschiedene Materialien vorgestellt. Ziel ist es, Freude am Nähen zu entwickeln und eine solide Basis für weitere kreative Projekte zu schaffen – mit Spaß und Erfolgserlebnissen.",
-   "duree" : "56 leçons",
-   "enseignants" : [ {
-      "nom" : "Jost",
-      "prenom" : "Katja"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 09:20 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "09:20",
-      "jour" : "Samedi"
-   } ],
-   "id" : 63802,
-   "intitule" : "Nähkurs für Anfänger",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MDI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Bitte beachten Sie, dass während der Schulferien in Luxemburg und am 28/3; 9/5; 23/5 kein Unterricht stattfindet.",
-   "renseignements" : "Mitzubringen: Nähmaschine, Stoff- und Papierscheren, Nahttrenner, Stecknadeln, Qualitätsgarn, Nadeln, Maßband, Schneiderkreide, Stoffmarker, Geodreieck, Schnittpapier, Bleistift, Stoff je nach Projekt."
-}, {
-   "adresseCours" : {
       "codePostal" : "2163",
       "localite" : "Luxembourg",
       "nom" : "Institut français du Luxembourg",
@@ -44326,6 +43996,275 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée Athénée ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24 Boulevard Pierre Dupong"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2163",
+      "localite" : "Luxembourg",
+      "nom" : "Institut Français du Luxembourg - site internet",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "47, Avenue Monterey"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-840",
+   "coursId" : "LA-FR-840",
+   "coursType" : "CLASSIQUE",
+   "cout" : 670.0,
+   "dateDebut" : "28/02/2026",
+   "dateFin" : "11/07/2026",
+   "dateInscription" : "Ouverture des inscriptions 3 semaines avant le début de la session",
+   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1.2 - Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
+   "duree" : "30h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 09:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 60352,
+   "intitule" : "Cours de français - session extensive samedi matin",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 50,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2163",
+         "localite" : "Luxembourg",
+         "nom" : "Institut Français du Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "47, Avenue Monterey"
+      },
+      "code" : "IFL",
+      "mail" : "cours@ifluxembourg.lu",
+      "nom" : "Institut Français du Luxembourg",
+      "nomContact" : "Hausmesser",
+      "onlineReg" : false,
+      "prenomContact" : "Isabelle",
+      "statut" : "ASBL",
+      "telephone" : "462 166 39",
+      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
+   },
+   "prerequis" : "débutant/ test de placement/ attestation de niveau ",
+   "renseignements" : "Groupes de niveaux homogènes composés de 5 à 10 apprenants. Cours organisés les samedi matin hors vacances scolaires luxembourgeoises\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-60",
+   "coursId" : "IN-BUR-60",
+   "coursType" : "CLASSIQUE",
+   "cout" : 240.0,
+   "dateDebut" : "28/02/2026",
+   "dateFin" : "18/07/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 14h00 à 17h30",
+   "description" : "Apprendre à créer et à formater un document de texte court et être en mesure de copier et de déplacer du texte au sein d'un document ou entre les documents. \r\nAcquérir des connaissances dans l'utilisation d'un programme de présentation à l'ordinateur. \r\nComprendre les termes fondamentaux concernant le traitement de calcul à l'ordinateur.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Connaître les principales commandes du groupe POLICE, du groupe PRESSE-PAPIERS, PARAGRAPHE et STYLES, créer des couleurs personnalisés en utilisant le RVB et insérer un saut de page", "Prendre des captures d'écran, insérer des images, modifier les propriétés de l'image, supprimer l'arrière-plan d'une image, insérer des formes et des icônes, modifier les propriétés de la forme/icône, insérer des formes et des modèles 3D, insérer des graphiques smartArt, modifier leurs propriétés et comment insérer des zones de texte et modifier leurs propriétés ", "Insérer les différents types de retrait, insérer des tableaux, modifier les caractéristiques des tableaux, insérer des fonctions de calcul dans les cellules d'un tableau, convertir du texte en tableau", "Insérer une table des matières et la mettre à jour, utiliser les taquets de tabulation, publipostage pour lettres et étiquettes et les procédures à suivre, recherches simples et recherches avancées, recherches et remplacements en utilisant les caractères génériques, insérer des bordures de page décoratives, insérer des sauts de section, alterner les pages en orientation portrait et paysage" ],
+      "domaine" : "MS WORD"
+   }, {
+      "competences" : [ "Les bases d'Excel, des concepts de feuille de calcul, de classeur, de cellule, dupliquer et incrémenter des cellules à l'aide de la poignée de saisie semi-automatique et comment manipuler des lignes, des colonnes et des cellules, formater le style dans les feuilles de calcul, remplir automatiquement des feuilles de calcul à l'aide de la fonction de génération de nombres aléatoires, créer des formules de calcul personnalisées", "Créer des tableaux transposés, introduire des séries de données, la mise en forme conditionnelle, modifier et utiliser des références relatives et absolues, opérateurs de comparaison, création et insertion de fonctions logiques", "Figer les volets, des graphiques simples, personnalisés et sparkline, utiliser les fonctions logiques OU et ET, création et intégration des formules conditionnelles SI imbriquées avec de fonctions OU et ET", "Validation des données par une liste, utiliser la fonction de statistiques MOYENNE.SI et MOYENNE.SI.ENS, fonction de recherche verticale RECHERCHEV exacte et approximative", "Fonction de recherche horizontale RECHERCHEH exacte et approximative, selon différents critères, faire des recherches horizontales dans plusieurs bases de données et diverses feuilles de calcul, les principales fonctions de date et d'heure, les principales fonctions de texte" ],
+      "domaine" : "MS EXCEL"
+   }, {
+      "competences" : [ "Gérer les transitions entre les diapositives, connaître les différents types de transitions, insérer des formes, organiser des formes, aligner et distribuer des formes, regrouper et dissocier des formes, insérer des graphiques, et du texte virtuel, insérer et formater SmartArt", "Comment créer les animations, minuter et synchroniser les animations, insérer du son pour chaque transition, insérer une vidéo et audio", "Meilleurs pratiques pour les présentations, le ruban, les affichages, les couleurs, les polices, les mots, les puces, les modèles utilisées, insertion d'images, supprimer l'arrière-plan d'une image de contour non bien définie, encadrer une image, insertion d'une zone de texte, ajouter et modifier des diapositives, recadrer des images, insérer un tableau, fusionner et diviser des cellules, formater des cellules de tableau, grouper et dissocier des cellules de tableau" ],
+      "domaine" : "MS POWER POINT"
+   } ],
+   "duree" : "80h",
+   "enseignants" : [ {
+      "nom" : "Peseiro",
+      "prenom" : "Donzilio"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 15:00 (durée 4h)",
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "15:00",
+      "jour" : "Samedi"
+   } ],
+   "id" : 63663,
+   "intitule" : "Applications bureautiques",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 7,
+   "nbPlaces" : 18,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "CONNAISSANCES DE BASE EN INFORMATIQUE REQUISES",
+   "renseignements" : "Pas accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4354",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "22, rue Henri Koch"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-COUT-61",
+   "coursId" : "AR-COUT-61",
+   "coursType" : "CLASSIQUE",
+   "cout" : 252.0,
+   "dateDebut" : "28/02/2026",
+   "dateFin" : "11/07/2026",
+   "description" : "Für alle nähbegeisterten Menschen mit Erfahrung: Vertiefe deine Nähkenntnisse, entdecke neue Techniken und arbeite an kreativen Projekten, die deine Fertigkeiten auf das nächste Level bringen. Ideal für alle, die ihre Fähigkeiten gezielt erweitern möchten.",
+   "duree" : "56 leçons",
+   "enseignants" : [ {
+      "nom" : "Jost",
+      "prenom" : "Katja"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 13:40 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "13:40",
+      "jour" : "Samedi"
+   } ],
+   "id" : 61517,
+   "intitule" : "Nähkurs für Fortgeschrittene",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 3,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE1MTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Bitte beachten Sie, dass während der Schulferien in Luxemburg kein Unterricht stattfindet.",
+   "renseignements" : "Nähmaschine, Verlängerungskabel, Stoff- & Papierschere, kleine spitze Schere, Auftrenner, Stecknadeln, Qualitätsgarn, Nadeln, Massband, Schneiderkreide, Stoffmarker, Geodreieck, Schneiderpapier, Bleistift, Stoff je nach Projekt. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4354",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC- Esch-sur-Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "22 rue Henri Koch"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-COUT-78",
+   "coursId" : "AR-COUT-78",
+   "coursType" : "CLASSIQUE",
+   "cout" : 252.0,
+   "dateDebut" : "28/02/2026",
+   "dateFin" : "11/07/2026",
+   "description" : "In diesem Kurs lernen Anfängerinnen und Anfänger den sicheren Umgang mit der Nähmaschine, sammeln erste Näherfahrungen und realisieren ihr erstes eigenes Nähprojekt. Neben praktischen Übungen werden auch die grundlegenden Nähutensilien sowie verschiedene Materialien vorgestellt. Ziel ist es, Freude am Nähen zu entwickeln und eine solide Basis für weitere kreative Projekte zu schaffen – mit Spaß und Erfolgserlebnissen.",
+   "duree" : "56 leçons",
+   "enseignants" : [ {
+      "nom" : "Jost",
+      "prenom" : "Katja"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 09:20 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "09:20",
+      "jour" : "Samedi"
+   } ],
+   "id" : 63802,
+   "intitule" : "Nähkurs für Anfänger",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 9,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MDI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Bitte beachten Sie, dass während der Schulferien in Luxemburg und am 28/3; 9/5; 23/5 kein Unterricht stattfindet.",
+   "renseignements" : "Mitzubringen: Nähmaschine, Stoff- und Papierscheren, Nahttrenner, Stecknadeln, Qualitätsgarn, Nadeln, Maßband, Schneiderkreide, Stoffmarker, Geodreieck, Schnittpapier, Bleistift, Stoff je nach Projekt."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -66841,132 +66780,6 @@
    "renseignements" : "Toute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu"
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-57",
-   "coursId" : "SO-YOG-57",
-   "coursType" : "CLASSIQUE",
-   "cout" : 162.0,
-   "dateDebut" : "26/09/2025",
-   "dateFin" : "28/02/2026",
-   "description" : "Évitez les bouchons et offrez-vous un vrai moment pour souffler après la semaine. Ce cours de yoga doux vous permet de relâcher les tensions, d’apaiser le mental et de détendre le corps en profondeur. À travers des mouvements simples, des étirements libérateurs et des respirations conscientes, vous commencez votre week-end plus léger, plus serein… et sans stress ni embouteillages.",
-   "duree" : "36 leçons",
-   "enseignants" : [ {
-      "nom" : "Iannantuoni",
-      "prenom" : "Céline",
-      "presentation" : "Céline enseigne le Hatha Yoga Sivananda, l'Ayurvéda, ainsi que des cours spécifiques comme le yoga sur chaise, le yoga pour partir zen en weekend et le yoga lunch pour une pause bien-être en journée. Elle propose aussi des découvertes de l'Ayurvéda, la science de la longévité, ainsi que des séances de respiration, méditation et pensée positive pour améliorer l'équilibre et la santé globale. Plus d'infos sur www.celine-yoga-ayurveda.com"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 61479,
-   "intitule" : "Yoga du Vendredi Soir : Partir Zen en Week-end",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 1,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE0Nzk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Merci d’apporter un tapis et un coussin d'assise.\r\nVeuillez noter qu’il n’y a ni vestiaires ni douches disponibles sur notre site."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-56",
-   "coursId" : "SO-YOG-56",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "25/09/2025",
-   "dateFin" : "28/02/2026",
-   "description" : "Offrez à votre corps et à votre esprit une vraie pause en milieu de journée. Ce cours de yoga, accessible à tous, vous permet de relâcher les tensions, de respirer pleinement et de vous recentrer, le temps d’une heure. Une alternative revitalisante à la pause déjeuner, pour repartir léger, concentré et détendu.",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Iannantuoni",
-      "prenom" : "Céline",
-      "presentation" : "Céline enseigne le Hatha Yoga Sivananda, l'Ayurvéda, ainsi que des cours spécifiques comme le yoga sur chaise, le yoga pour partir zen en weekend et le yoga lunch pour une pause bien-être en journée. Elle propose aussi des découvertes de l'Ayurvéda, la science de la longévité, ainsi que des séances de respiration, méditation et pensée positive pour améliorer l'équilibre et la santé globale. Plus d'infos sur www.celine-yoga-ayurveda.com"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 13:00 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "13:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61478,
-   "intitule" : "Yoga Lunch 2 : ressourcez-vous à la pause de midi",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 9,
-   "nbPlaces" : 11,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE0Nzg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Merci d’apporter un tapis et un coussin d'assise.\r\nVeuillez noter qu’il n’y a ni vestiaires ni douches disponibles sur notre site."
-}, {
-   "adresseCours" : {
       "codePostal" : "4354",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "CNFPC-ESCH-SUR-ALZETTE",
@@ -67107,69 +66920,6 @@
    },
    "prerequis" : "Niveau A2.1 déjà complété. Être prêt à réviser de façon autonome et à mettre en pratique les acquis.",
    "renseignements" : "Langue véhiculaire : français et anglais\r\nRenseignement : Manuel «Marugoto A2.2» à acheter; il peut également être acquis lors du premier cours.   "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-17",
-   "coursId" : "SO-MED-17",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "24/09/2025",
-   "dateFin" : "28/02/2026",
-   "description" : "Ce cours vous invite à explorer des techniques simples et puissantes pour apaiser l’esprit, réguler les émotions et cultiver une énergie positive au quotidien. À travers des exercices de respiration consciente (pranayama), la pratique de la méditation guidée et l’apprentissage de mantras, vous découvrirez comment vous recentrer et élever votre vibration. Le cycle inclut également des séances autour des chakras, pour mieux comprendre et harmoniser vos centres d’énergie.",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Iannantuoni",
-      "prenom" : "Céline",
-      "presentation" : "Céline enseigne le Hatha Yoga Sivananda, l'Ayurvéda, ainsi que des cours spécifiques comme le yoga sur chaise, le yoga pour partir zen en weekend et le yoga lunch pour une pause bien-être en journée. Elle propose aussi des découvertes de l'Ayurvéda, la science de la longévité, ainsi que des séances de respiration, méditation et pensée positive pour améliorer l'équilibre et la santé globale. Plus d'infos sur www.celine-yoga-ayurveda.com"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 17:10 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 61475,
-   "intitule" : "Respiration, méditation et pensée positive",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE0NzU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Merci d’apporter un tapis (de préférence en tissu ou fibres naturelles : liège, caoutchouc), un châle et un coussin de méditation pour votre confort durant le cours."
 }, {
    "adresseCours" : {
       "codePostal" : "9080",
@@ -67321,68 +67071,6 @@
    },
    "prerequis" : "Niveau A2.2 déjà complété. Être prêt à réviser de façon autonome et à utiliser activement les acquis.",
    "renseignements" : "Langue véhiculaire: français et anglais \r\nRenseignements : Manuel «Marugoto A2/B1 » à acheter; il peut également être acquis lors du premier cours.   "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-AY-1",
-   "coursId" : "SO-AY-1",
-   "coursType" : "CLASSIQUE",
-   "cout" : 162.0,
-   "dateDebut" : "23/09/2025",
-   "dateFin" : "28/02/2026",
-   "description" : "Ce cours propose une immersion progressive dans l’univers de l’Ayurveda, une sagesse millénaire indienne dédiée à l’harmonie du corps, de l’esprit et de l’environnement. Chaque semaine, vous découvrirez des principes fondamentaux et des pratiques concrètes pour mieux comprendre votre constitution (doshas), apaiser le stress, améliorer votre digestion, renforcer votre immunité, adapter votre rythme de vie aux saisons et intégrer des rituels simples dans votre quotidien.\r\nÀ travers des apports théoriques, des exercices pratiques et des moments d’échange, vous apprendrez à cultiver un équilibre durable, à l’écoute de votre propre nature. Ce cours ne nécessite aucun prérequis et s’adresse à toute personne souhaitant prendre soin de soi de manière naturelle et consciente",
-   "duree" : "36 leçons",
-   "enseignants" : [ {
-      "nom" : "Iannantuoni",
-      "prenom" : "Céline",
-      "presentation" : "Céline enseigne le Hatha Yoga Sivananda, l'Ayurvéda, ainsi que des cours spécifiques comme le yoga sur chaise, le yoga pour partir zen en weekend et le yoga lunch pour une pause bien-être en journée. Elle propose aussi des découvertes de l'Ayurvéda, la science de la longévité, ainsi que des séances de respiration, méditation et pensée positive pour améliorer l'équilibre et la santé globale. Plus d'infos sur www.celine-yoga-ayurveda.com"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Mardi"
-   } ],
-   "id" : 61731,
-   "intitule" : "Équilibre et Vitalité : Explorer l’Ayurveda pour un mieux-être au quotidien",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "AY",
-   "matiereNom" : "Ayurveda",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE3MzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Il aura pas de cours pendant les vacances scolaires au luxembourg."
 }, {
    "adresseCours" : {
       "codePostal" : "4277",
