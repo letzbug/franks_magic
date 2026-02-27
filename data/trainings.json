@@ -162,17 +162,24 @@
       "domaine" : "MS POWER POINT"
    } ],
    "duree" : "80h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Peseiro",
+      "prenom" : "Donzilio"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi à 15:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "15:00",
+      "jour" : "Samedi"
+   } ],
    "id" : 63663,
    "intitule" : "Applications bureautiques",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 7,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -1067,8 +1074,8 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "DI",
    "matiereNom" : "Design d'intérieur",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
+   "nbInscrits" : 11,
+   "nbPlaces" : 11,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ0NTA%3D",
