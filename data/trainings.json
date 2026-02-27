@@ -25035,17 +25035,36 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Postel-Cognoli",
+      "prenom" : "Bénédicte"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:30 (durée 2h30), Mardi à 14:30 (durée 2h30), Mercredi à 14:30 (durée 2h30), Jeudi à 14:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65263,
    "intitule" : "Français, pratique de l'oral dans la vie quotidienne",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 6,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -47216,7 +47235,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
+   "nbInscrits" : 21,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
