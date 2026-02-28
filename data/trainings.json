@@ -51700,10 +51700,17 @@
       "domaine" : "Reading comprehension"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Nekic",
+      "prenom" : "Marina"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mercredi à 19:45 (durée 1h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "19:45",
+      "jour" : "Mercredi"
+   } ],
    "id" : 65275,
    "intitule" : "Croate",
    "langueCoursCode" : "EN",
@@ -51762,10 +51769,17 @@
       "domaine" : "Reading comprehension"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Potnar",
+      "prenom" : "Bozica"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mercredi à 19:15 (durée 1h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "19:15",
+      "jour" : "Mercredi"
+   } ],
    "id" : 65274,
    "intitule" : "Croate",
    "langueCoursCode" : "EN",
@@ -51991,10 +52005,17 @@
       "domaine" : "Reading comprehension"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Nekic",
+      "prenom" : "Marina"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 18:00 (durée 1h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   } ],
    "id" : 65276,
    "intitule" : "Croate",
    "langueCoursCode" : "EN",
