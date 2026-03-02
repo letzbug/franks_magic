@@ -240,7 +240,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "COUT",
    "matiereNom" : "Couture",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -722,76 +722,6 @@
    },
    "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
    "renseignements" : "Chaque participant devra apporter des tubes de peinture acrylique variés, 2 à 3 pinceaux, une palette, un récipient pour l’eau, des serviettes pour les pinceaux, ainsi qu’une toile ou un support pour les exercices."
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-EN-175",
-   "coursId" : "LA-EN-175",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "03/03/2026",
-   "dateFin" : "07/05/2026",
-   "description" : "A ce niveau vous êtes capable de communiquer avec des mots et des phrases simples dans vos activités quotidiennes.",
-   "domainesCompetences" : [ {
-      "competences" : [ " Recognize names, the most common words or expressions in simple situations of the everyday life: signs, handwritten indications doubled by icons, prices, schedules; spot and understand quantified data, proper nouns and other very simple information.\r\n" ],
-      "domaine" : "Reading "
-   }, {
-      "competences" : [ "Copy words or brief messages, write figures and dates; recognize various written forms: printed characters, scripts, capital letters and readable handwritten forms; give information about himself: his name, his nationality, his address, his age, his date of birth, in questionnaires or index cards of information; write a very simple message .\r\n" ],
-      "domaine" : "Writing "
-   }, {
-      "competences" : [ " Communicate, in a very simple way, provided that his interlocutor shows himself comprehensive, speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave; answer simple questions on information as the age, the origin, the language, the place of residence, understand, agree / refuse and execute very simple instructions; ask somebody of its news and react;\r\n" ],
-      "domaine" : "Speaking "
-   }, {
-      "competences" : [ " understand public announcements (schedules, departure, arrival...), predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good (either noise, or music...), if messages are pronounced slowly ." ],
-      "domaine" : "Listening "
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 18:30 (durée 3h), Jeudi à 18:30 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 63468,
-   "intitule" : "Anglais",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Anglais",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Ammari",
-      "onlineReg" : false,
-      "prenomContact" : "Hedi",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "5530",
@@ -2185,19 +2115,19 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "8018",
-      "localite" : "Strassen",
-      "nom" : "Pavillon de l'École Hueflach",
+      "codePostal" : "-",
+      "localite" : "-",
+      "nom" : "En ligne",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "7, rue du Cimetière"
+      "rueNumero" : "En ligne"
    },
    "anneeScolaire" : "2025/2026",
    "categorieCode" : "BP",
    "categorieCodeUnipop" : "CIT",
    "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-38",
-   "coursId" : "BP-EN-38",
+   "coursCode" : "BP-EN-37",
+   "coursId" : "BP-EN-37",
    "coursType" : "CLASSIQUE",
    "cout" : 0.0,
    "dateDebut" : "07/03/2026",
@@ -2205,31 +2135,31 @@
    "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
    "duree" : "6h",
    "enseignants" : [ {
-      "nom" : "Mribah",
-      "prenom" : "Mehdi"
+      "nom" : "Hiéronimus",
+      "prenom" : "Céline Anne"
    } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 07-03-2026 à 09:00 (durée 3h),\nSamedi 14-03-2026 à 09:00 (durée 3h)",
+   "format" : "BLENDED",
+   "horairePrevu" : "Samedi 14-03-2026 à 13:00 (durée 3h),\nSamedi 07-03-2026 à 13:00 (durée 3h)",
    "horaires" : [ {
       "duree" : "3h",
-      "heure" : "09:00",
+      "heure" : "13:00",
       "jour" : "Samedi"
    }, {
       "duree" : "3h",
-      "heure" : "09:00",
+      "heure" : "13:00",
       "jour" : "Samedi"
    } ],
-   "id" : 58133,
+   "id" : 58131,
    "intitule" : "Découvrir le Grand-Duché de Luxembourg",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 11,
-   "nbPlaces" : 12,
+   "nbInscrits" : 17,
+   "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxMzM%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxMzE%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "1273",
@@ -2485,7 +2415,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "EXCO",
    "matiereNom" : "Expression corporelle",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -3679,7 +3609,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "COUT",
    "matiereNom" : "Couture",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3928,7 +3858,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "COUT",
    "matiereNom" : "Couture",
-   "nbInscrits" : 0,
+   "nbInscrits" : 3,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -6196,7 +6126,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 0,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -18005,7 +17935,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LIT",
    "matiereNom" : "Littérature",
-   "nbInscrits" : 0,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -22529,7 +22459,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "NUT",
    "matiereNom" : "Nutrition",
-   "nbInscrits" : 0,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -25387,7 +25317,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 0,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -46333,7 +46263,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "BOI",
    "matiereNom" : "Bois",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 12,
    "niveau" : "Avancé",
    "onlineRegistration" : true,
