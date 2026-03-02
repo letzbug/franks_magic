@@ -177,7 +177,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 4,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -5911,7 +5911,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -6854,7 +6854,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "BOI",
    "matiereNom" : "Bois",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 15,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -8055,6 +8055,82 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "niveau C1.1 acquis"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73 "
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-87",
+   "coursId" : "IN-BUR-87",
+   "coursType" : "CLASSIQUE",
+   "cout" : 120.0,
+   "dateDebut" : "13/04/2026",
+   "dateFin" : "29/06/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21-538\r\nCoursinformatiques@dudelange.lu",
+   "description" : "Compétences en traitement de texte, tableur et présentation et gestion Outlook.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Maîtriser les fonctions de base de Word. Maîtriser le ruban, les principales onglets, groupes de commandes et les raccourcis.", "Créer et saisir de documents. ", "Mettre en forme des caractères et introduire effets de texte et typographie. Modifier la casse, indice, exposant, couleur pour texte et pour arrière-plan. ", "Faire de l'insertion: des puces, liste ordonnée et non-ordonnée, entête de page et de pied de page, numérotation de pages, saut de pages, bordures, caractères spéciaux et symboles. ", "Introduire des marges, reproduire la mise en forme des caractères. ", "Mettre en forme des paragraphes, faire glisser les différentes marques de retrait. ", "Créer, modifier, mettre à jour les styles de police et de paragraphe, faire les captures des images, insertion des images, comment positionner les images par rapport au texte, changer style d'affichage des images. ", "Créer des tableaux, appliquer un format ou style automatique à un tableau, fusionner, fractionner les cellules d'un tableau, mise en forme des tableaux. " ],
+      "domaine" : "Traitement de Texte"
+   }, {
+      "competences" : [ "Connaître les principes de base d'Excel, les notions de tableur, classeur, cellule et feuille de calcul.", "Dupliquer automatiquement des cellules et manipuler des lignes, des colonnes et des cellules. ", "Créer une de table de calcul et de planning hebdomadaire. ", "Mettre en forme le style dans les feuilles de calcul. ", "Maîtriser les raccourcis de base. ", "Remplir automatiquement des feuilles de calcul à l'aide de la fonction de génération de nombres aléatoires à des intervalles prédéfinis. ", "Présenter des formes des cellules spécifiques et utiliser des fonctions fournies par la base de données du logiciel d'application Excel. ", "Créer des formules de calcul personnalisées en tenant compte des opérateurs mathématiques utilisés et de l'ordre des opérations. ", "Réaliser une mise en forme conditionnelle. Créer et insérer des fonctions logiques conditionnelles.", "Comprendre et utiliser des références (valeurs) relatives et absolues en Excel." ],
+      "domaine" : "Tableur"
+   }, {
+      "competences" : [ "Maîtriser les fonctions de base de PowerPoint. Maîtriser le ruban, les principales onglets, groupes de commandes et les raccourcis.", "Créer des diapositives, insérer des images, supprimer l'arrière-plan d'une image de contour non bien définie, encadrer une image.", "Insérer une zone de texte. ", "Ajouter et modifier des diapositives, recadrer des images, grouper et dissocier les éléments. ", "Insérer du son (mp3 et wav), un clip vidéo (mp4), utiliser des guides pour cadrer correctement les objets sur la diapositive, insérer et formater SmartArt. ", "Gérer les transitions entre les diapositives, connaître les différents types de transitions, insérer des formes, organiser des formes, aligner et distribuer des formes, regrouper et dissocier des formes, insérer du texte virtuel. ", "Créer des animations pour mouvement d'images et animations pour textes. " ],
+      "domaine" : "Présentation"
+   }, {
+      "competences" : [ "Informations générales sur le courrier électronique : les serveurs de courrier entrant/sortant, comment créer un compte Outlook. ", "Mail gratuit, envoyer/recevoir des messages, planifier l'envoi, joindre des fichiers.\r\n" ],
+      "domaine" : "Messagerie"
+   } ],
+   "duree" : "40h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65458,
+   "intitule" : "Word, Excel, Powerpoint",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "prerequis" : "Accessible aux personnes ayant une base en informatique\r\nInitiation PC& Internet acquis. ",
+   "renseignements" : "Accessible aux personnes à mobilité réduite\r\n"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -17015,91 +17091,6 @@
    },
    "prerequis" : "Niveau A 1.1. acquis",
    "renseignements" : "Formateur Mme. Hintgen"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9151",
-      "localite" : "Eschdorf",
-      "nom" : "Landakademie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, am Foumichterwee"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1193",
-   "coursId" : "LA-FR-1193",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "14/04/2026",
-   "dateFin" : "03/07/2026",
-   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
-   "description" : "comprendre le contenu essentiel au travail, à l'école et aux loisirs. Se débrouiller lors d'un voyage. Tenir un discours simple et cohérent sur des sujets divers. Raconter et décrire un évènement, rêve ou un projet. Expliquer une idée",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des nouvelles", "comprendre des différents dialogues", "comprendre un message téléphonique enregistré", "comprendre un petit documentaire" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "comprendre des annonces publicitaires", "comprendre des informations et instructions", "comprendre l'horoscope", "comprendre des menus", "comprendre des articles de presse et différents genres de textes" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "se présenter, donner et demander des informations de caractère personnel, professionnel et des loisirs", "faire des déscriptions au passé", "donner son avis, poser des questions, conseiller", "faire des comparaisons, faire un résumé", "donner des informations simples sur un problème de santé", "parler des expériences personnelles", "parler des fêtes et traditions de son pays" ],
-      "domaine" : "expression orale"
-   }, {
-      "competences" : [ "répondre à des questions d'interprétation, à une enquête", "remplir des documents" ],
-      "domaine" : "expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Bergmans",
-      "prenom" : "Miranda"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 09:30 (durée 2h30),\nVendredi à 09:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63474,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
-         "nom" : "Landakademie",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
-      },
-      "code" : "LANAKA",
-      "fax" : "+352 89 95 68-40",
-      "mail" : "fabio@landakademie.lu",
-      "nom" : "Landakademie",
-      "nomContact" : "Da Silva Loureiro",
-      "onlineReg" : false,
-      "prenomContact" : "Fabio",
-      "statut" : "ASBL",
-      "telephone" : "89 95 68 28",
-      "websiteUrl" : "https://www.landakademie.lu/"
-   },
-   "prerequis" : "connaissances en français",
-   "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "codePostal" : "1617",
