@@ -114,7 +114,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 16,
+   "nbInscrits" : 18,
    "nbPlaces" : 20,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12238,90 +12238,6 @@
    "prerequis" : "A2 du CECRL "
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9151",
-      "localite" : "Eschdorf",
-      "nom" : "Landakademie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, am Foumichterwee"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1194",
-   "coursId" : "LA-FR-1194",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "02/07/2026",
-   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui concerne l'apprenant de très près (par exemple, lui-même, sa famille, ses achats, son environnement proche, son travail)\r\n", "saisir l'essentiel d'annonces, de messages, de dialogues ou de textes simples et clairs\r\n", "comprendre les points essentiels d'une discussion quand un langage clair et standard est utilisé et s'il s'agit de choses familières au travail, à l'école, aux loisirs, etc\r\n" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "lire et comprendre des textes courts et simples\r\n", "trouver une information particulière prévisible dans des documents simples et courants comme le prospectus, les petites annonces, les menus\r\n", "comprendre des consignes et des textes courts et simples\r\n", "être autonome dans la plupart des situations rencontrées en voyage dans une région où la langue cible est parlée\r\n" ],
-      "domaine" : "compréhension de l'écrit"
-   }, {
-      "competences" : [ "communiquer lors des tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers\r\n", "avoir des échanges très brefs sans pour autant poursuivre une conversation\r\n", "utiliser une série de phrases ou d'expressions simples pour décrire sa famille et d'autres gens, ses conditions de vie, sa formation et son activité professionnelle actuelle, récente ou passée\r\n", "pouvoir produire un discours simple et cohérent sur des sujets familiers et dans ses domaines d'intérêt\r\n", "savoir raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des raisons ou explications pour un projet ou une idée\r\n" ],
-      "domaine" : "production orale"
-   }, {
-      "competences" : [ "écrire des notes et des messages simples et courts\r\n", "écrire une lettre ou un récit personnel en phrases très simples\r\n", "écrire une dictée très simple\r\n" ],
-      "domaine" : "production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Bergmans",
-      "prenom" : "Miranda"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:30 (durée 2h30),\nJeudi à 09:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63475,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "B1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
-         "nom" : "Landakademie",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
-      },
-      "code" : "LANAKA",
-      "fax" : "+352 89 95 68-40",
-      "mail" : "fabio@landakademie.lu",
-      "nom" : "Landakademie",
-      "nomContact" : "Da Silva Loureiro",
-      "onlineReg" : false,
-      "prenomContact" : "Fabio",
-      "statut" : "ASBL",
-      "telephone" : "89 95 68 28",
-      "websiteUrl" : "https://www.landakademie.lu/"
-   },
-   "prerequis" : "très bonnes connaissances en français",
-   "renseignements" : "renseignements complémentaires lors de l'inscription"
-}, {
-   "adresseCours" : {
       "codePostal" : "2132",
       "localite" : "Luxembourg",
       "nom" : "centre Convict",
@@ -24317,7 +24233,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -43451,67 +43367,6 @@
    "niveau" : "Débutant",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NjA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Matériel à apporter : Feuilles A4, papier 200 g, crayons HB–6B, stylos Bic, fusains, gommes (mie de pain et classique), règle, estompe, taille-crayon."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DESS-44",
-   "coursId" : "AR-DESS-44",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "02/03/2026",
-   "dateFin" : "18/05/2026",
-   "description" : "Comme nos empreintes, chaque personne tient son crayon à sa manière. Dessiner, c’est aussi une façon de s’exprimer, de se découvrir, et de raconter sans mots. Ce cours propose une approche complète, à la fois technique et expressive, du dessin d’observation. Il permet à chacun de reconnecter le regard et la main, tout en développant une oeuvre personnelle aboutie. Chaque élève repart avec un portrait final encadré ainsi que de nombreux exercices, reflets de son chemin artistique. Ce programme met en lumière la singularité de chaque geste, et l’importance de l’expression dans le dessin. Il s’adresse à tous ceux qui souhaitent apprendre à dessiner avec le coeur et les yeux.",
-   "duree" : "30 leçons",
-   "enseignants" : [ {
-      "nom" : "Yagbasan",
-      "prenom" : "Rengin"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 10:20 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "10:20",
-      "jour" : "Lundi"
-   } ],
-   "id" : 63959,
-   "intitule" : "Cours de Dessin - Observer et exprimer le corps humain",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DESS",
-   "matiereNom" : "Dessin",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTk%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
