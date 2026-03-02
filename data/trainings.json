@@ -21565,17 +21565,32 @@
       "domaine" : "PRESENTATION"
    } ],
    "duree" : "40h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65350,
    "intitule" : "Word, Excel, Powerpoint",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
