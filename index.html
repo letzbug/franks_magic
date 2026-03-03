@@ -398,7 +398,7 @@
         <!-- ✅ NEU: Overshoot / Schwellen rechts -->
         <div class="goals">
           <div class="goalTitle">
-            <h3>Ziele 2026 (aus Datenbank)</h3>
+            <h3 id="goalsTitle">Ziele (aus Datenbank)</h3>
             <div class="small muted" id="goalScope">–</div>
           </div>
 
@@ -424,9 +424,7 @@
             </div>
           </div>
 
-          <div class="small muted" style="margin-top:10px; line-height:1.35">
-            Hinweis: Berechnung basiert auf <b>dateDebut</b> + Counts in <b>trainings.json</b>.
-            </div>
+          <!-- (Hinweis-Text entfernt wie gewünscht) -->
         </div>
       </div>
     </aside>
@@ -470,6 +468,7 @@ const btnUniPopActive = el("btnUniPopActive");
 
 /* ✅ Ziele-Elemente */
 const goalScope = el("goalScope");
+const goalsTitle = el("goalsTitle");
 
 const goalCoursesNow = el("goalCoursesNow");
 const goalCoursesBar = el("goalCoursesBar");
@@ -789,7 +788,7 @@ tbody.addEventListener("click", (ev) => {
 });
 
 /* =========================
-   ✅ Ziele / Overshoot
+   ✅ Ziele / Overshoot (Excel-like: unique coursCode, stattgefunden = dateDebut < heute)
    ========================= */
 function clamp(n,min,max){ return Math.max(min, Math.min(max, n)); }
 
@@ -814,17 +813,16 @@ function computeMilestones(){
     if(!passesOrgFilter(c)) continue;
 
     const code = (c.coursCode ? String(c.coursCode).trim() : "");
-    if(!code) continue; // ✅ wir zählen nur echte coursCode
+    if(!code) continue;
 
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
-    const dEnd   = parseFRDateDDMMYYYY(c.dateFin);
-    if(!dStart || !dEnd) continue;
+    if(!dStart) continue;
 
     // ✅ nur Kurse im aktuellen Jahr (nach Startdatum)
     if(dStart < yearStart || dStart > yearEnd) continue;
 
-    // ✅ NUR "stattgefunden": Kurs ist vorbei (dateFin < heute)
-    if(dEnd >= today0) continue;
+    // ✅ "stattgefunden": Startdatum liegt vor heute
+    if(dStart >= today0) continue;
 
     const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
 
@@ -838,7 +836,7 @@ function computeMilestones(){
   // sort by dateDebut then code
   list.sort((a,b)=> (a.d - b.d) || (a.code.localeCompare(b.code)));
 
-  // ✅ dedupe by coursCode (EXACT wie Excel)
+  // ✅ dedupe by coursCode (wie Excel)
   const seen = new Set();
   const uniq = [];
   for(const it of list){
@@ -866,7 +864,7 @@ function computeMilestones(){
     coursesYear += 1;
     partsYear += it.booked;
 
-    coursesYTD += 1;     // ✅ weil wir nur "stattgefunden" drin haben, ist YTD = total
+    coursesYTD += 1;     // weil wir nur stattgefunden zählen
     partsYTD += it.booked;
 
     coursesCum += 1;
@@ -892,6 +890,8 @@ function computeMilestones(){
 function renderGoals(){
   const m = computeMilestones();
 
+  goalsTitle.textContent = `Ziele ${m.year} (aus Datenbank)`;
+
   goalScope.textContent = (orgMode === "all")
     ? "Scope: Alle"
     : (orgMode === "unipop_active")
@@ -908,15 +908,14 @@ function renderGoals(){
 
   const cMilestone = m.dateCourse350
     ? `<b>${fmtShortDate(m.dateCourse350)}</b>`
-    : `<b>nicht erreicht</b> (mit aktuellen Kursdaten)`;
+    : `<b>nicht erreicht</b> (mit “stattgefunden”-Logik)`;
 
   goalCoursesMeta.innerHTML =
-    `YTD: <b>${cNow}</b> Kurse · Jahr gesamt (geplant laut DB): <b>${m.coursesYear}</b><br>` +
+    `YTD (stattgefunden): <b>${cNow}</b> Kurse<br>` +
     `Overshoot Day (350): ${cMilestone}`;
 
-  goalCoursesHint.innerHTML = m.dateCourse350
-    ? `<span class="miniTag"><span class="dot ok"></span> Datum fix</span> basiert auf <b>dateDebut</b> der Kurse`
-    : `<span class="miniTag"><span class="dot warn"></span> Hinweis</span> DB hat aktuell <b>${m.coursesYear}</b> Kurse im Jahr ${m.year}`;
+  goalCoursesHint.innerHTML =
+    `<span class="miniTag"><span class="dot ok"></span> Excel-like</span> unique <b>coursCode</b>, nur <b>dateDebut &lt; heute</b>`;
 
   // --- Participants 2400
   const pNow = m.partsYTD;
@@ -928,15 +927,14 @@ function renderGoals(){
 
   const pMilestone = m.dateParts2400
     ? `<b>${fmtShortDate(m.dateParts2400)}</b>`
-    : `<b>nicht erreicht</b> (mit aktuellen nbInscrits)`;
+    : `<b>nicht erreicht</b> (mit “stattgefunden”-Logik)`;
 
   goalPartsMeta.innerHTML =
-    `YTD: <b>${Math.round(pNow)}</b> Participants · Jahr gesamt (Summe nbInscrits): <b>${Math.round(m.partsYear)}</b><br>` +
+    `YTD (stattgefunden): <b>${Math.round(pNow)}</b> Participants<br>` +
     `Schwelle (2400): ${pMilestone}`;
 
-  goalPartsHint.innerHTML = m.dateParts2400
-    ? `<span class="miniTag"><span class="dot ok"></span> Datum aus DB</span> basiert auf kumulierter <b>nbInscrits</b>`
-    : `<span class="miniTag"><span class="dot warn"></span> Hinweis</span> Für viele zukünftige Kurse ist <b>nbInscrits</b> noch 0`;
+  goalPartsHint.innerHTML =
+    `<span class="miniTag"><span class="dot ok"></span> Summe</span> Σ <b>nbInscrits</b> über unique <b>coursCode</b>`;
 }
 
 /* ========================= */
@@ -979,7 +977,7 @@ function runQuery(){
   renderTable(filtered);
   renderKPIs(filtered, fd, td, fT, tT);
 
-  // ✅ NEU: Ziele rechts immer mitrendern (abhängig von orgMode + DB)
+  // ✅ Ziele rechts
   renderGoals();
 
   if(filtered.length === 0){
