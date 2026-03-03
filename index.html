@@ -904,6 +904,8 @@ function computeMilestones(){
 
 function renderGoals(){
   const m = computeMilestones();
+  goalDebug.textContent =
+  `DBG: rawCourses=${rawCourses.length} | total=${m.dbg.total} | passOrg=${m.dbg.passOrg} | added=${m.dbg.added} | dupeKey=${m.dbg.dupeKey} | noDateDebut=${m.dbg.noDateDebut} | outsideYear=${m.dbg.outsideYear} | noAnyId=${m.dbg.noAnyId} | ytd=${m.dbg.ytd}`;
   console.log("DEBUG:", m);
 console.log("RAW COURSES:", rawCourses.length);
 
