@@ -806,7 +806,7 @@ function computeMilestones(){
 
   const today0 = new Date(now); today0.setHours(0,0,0,0);
 
-  const list = [];
+  const listAllYear = [];
 
   for(const c of rawCourses){
     if(!c || typeof c !== "object") continue;
@@ -816,100 +816,63 @@ function computeMilestones(){
     if(!code) continue;
 
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
-    const dEnd   = parseFRDateDDMMYYYY(c.dateFin);
-    if(!dStart || !dEnd) continue;
+    if(!dStart) continue;
 
-    // nur Kurse, die ins Jahr reinfallen (wie rebuildSessions)
-    const dEndExclusive = new Date(dEnd.getTime() + 24*3600*1000);
-    if(!overlaps(dStart, dEndExclusive, yearStart, yearEnd)) continue;
-
-    const horaires = Array.isArray(c.horaires) ? c.horaires : [];
-    if(!horaires.length) continue;
+    // ✅ nur Kurse im aktuellen Jahr (nach Startdatum)
+    if(dStart < yearStart || dStart > yearEnd) continue;
 
     const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
 
-    // wir laufen nur über Tage im gültigen Fenster
-    const loopStart = new Date(Math.max(dStart.getTime(), yearStart.getTime()));
-    loopStart.setHours(0,0,0,0);
+    // ✅ Excel-like “Zeile” = coursCode + dateDebut (1x zählen)
+    const key = `${code}|${ymdLocal(dStart)}`;
 
-    const loopEnd = new Date(Math.min(dEnd.getTime(), yearEnd.getTime()));
-    loopEnd.setHours(0,0,0,0);
-
-    for(let day = new Date(loopStart); day <= loopEnd; day.setDate(day.getDate()+1)){
-      const day0 = new Date(day);
-      day0.setHours(0,0,0,0);
-
-      // "stattgefunden": nur Termine vor heute
-      if(day0 >= today0) continue;
-
-      const jsDay = day0.getDay();
-
-      for(const h of horaires){
-        const targetJsDay = jsDayFromFR(h.jour);
-        if(targetJsDay === null || targetJsDay !== jsDay) continue;
-
-        const hhmm = parseTimeHHMM(h.heure);
-        if(!hhmm) continue;
-
-        // Session start (für Overshoot-Reihenfolge)
-        const sdt = makeDateTimeOnDay(day0, hhmm);
-
-        // Session key: coursCode + Datum + Uhrzeit (damit nix doppelt zählt)
-        const key = `${code}|${ymdLocal(day0)}|${String(hhmm.h).padStart(2,"0")}:${String(hhmm.m).padStart(2,"0")}`;
-
-        list.push({
-          key,
-          code,
-          d: new Date(sdt.getTime()),
-          booked
-        });
-      }
-    }
+    listAllYear.push({
+      key,
+      code,
+      d: new Date(dStart.getTime()),
+      booked
+    });
   }
 
-  // sort by session datetime then code
-  list.sort((a,b)=> (a.d - b.d) || (a.code.localeCompare(b.code)));
+  // sort by dateDebut then code
+  listAllYear.sort((a,b)=> (a.d - b.d) || (a.code.localeCompare(b.code)));
 
-  // dedupe by session key
+  // ✅ dedupe by key (coursCode + dateDebut)
   const seen = new Set();
-  const uniq = [];
-  for(const it of list){
+  const uniqYear = [];
+  for(const it of listAllYear){
     if(seen.has(it.key)) continue;
     seen.add(it.key);
-    uniq.push(it);
+    uniqYear.push(it);
   }
 
-  const TARGET_COURSES = 350;   // hier = 350 Termine/Sessions
-  const TARGET_PARTS   = 2400;
+  // ✅ YTD = nur bis heute (stattgefunden)
+  const uniqYTD = uniqYear.filter(it => it.d < today0);
 
-  let coursesCum = 0;
-  let partsCum = 0;
+  const TARGET_COURSES = 350;
+  const TARGET_PARTS = 2400;
 
+  // Year totals (geplant laut DB im Jahr)
+  const coursesYear = uniqYear.length;
+  const partsYear = uniqYear.reduce((s,it)=> s + it.booked, 0);
+
+  // YTD totals (bis heute)
+  const coursesYTD = uniqYTD.length;
+  const partsYTD = uniqYTD.reduce((s,it)=> s + it.booked, 0);
+
+  // Milestones basierend auf YTD-Reihenfolge (chronologisch)
   let dateCourse350 = null;
   let dateParts2400 = null;
 
-  let coursesYTD = 0;
-  let partsYTD = 0;
+  let cCum = 0;
+  let pCum = 0;
 
-  // ⚠️ Participants NICHT pro Session addieren (sonst überzählst du massiv),
-  // daher dedupe separat pro Kurs-Instanz (coursCode + dateDebut)
-  const seenCourseInstance = new Set();
-  let partsYear = 0;
+  for(const it of uniqYTD){
+    cCum += 1;
+    pCum += it.booked;
 
-  for(const it of uniq){
-    coursesCum += 1;
-    coursesYTD += 1;
-
-    if(!dateCourse350 && coursesCum >= TARGET_COURSES) dateCourse350 = it.d;
-
-    const instKey = `${it.code}|${ymdLocal(it.d)}`; // grob: code+tag (reicht meist)
-    if(!seenCourseInstance.has(instKey)){
-      seenCourseInstance.add(instKey);
-      partsYear += it.booked;
-      partsCum += it.booked;
-      partsYTD += it.booked;
-      if(!dateParts2400 && partsCum >= TARGET_PARTS) dateParts2400 = it.d;
-    }
+    if(!dateCourse350 && cCum >= TARGET_COURSES) dateCourse350 = it.d;
+    if(!dateParts2400 && pCum >= TARGET_PARTS) dateParts2400 = it.d;
   }
 
   return {
@@ -918,13 +881,12 @@ function computeMilestones(){
     TARGET_PARTS,
     coursesYTD,
     partsYTD,
-    coursesYear: coursesYTD,
+    coursesYear,
     partsYear,
     dateCourse350,
     dateParts2400
   };
 }
-
 function renderGoals(){
   const m = computeMilestones();
 
