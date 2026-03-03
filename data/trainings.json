@@ -1,326 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville de Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "B.P. 73"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-54",
-   "coursId" : "IN-BUR-54",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "04/03/2026",
-   "dateFin" : "29/04/2026",
-   "dateInscription" : "Hôtel de Dudelange\r\ncoursinformatiques@dudelange.lu\r\n51 61 21 538",
-   "description" : "Maîtriser les fonctions principales du logiciel de traitement de texte et du tableur: Familiarisation, création, mise en forme et gestion des extensions des documents Word/Excel. Paramétrer et sécuriser le tableau en vue de l'impression ou de partage en ligne.",
-   "duree" : "24h",
-   "enseignants" : [ {
-      "nom" : "Casanova E Silva",
-      "prenom" : "Marisa"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63208,
-   "intitule" : "Bureautique: Word-Excel",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 9,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "renseignements" : "Accessible aux personnes à mobilité réduite. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch/Alzette",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
-   "coursCode" : "AR-COUT-92",
-   "coursId" : "AR-COUT-92",
-   "coursType" : "CLASSIQUE",
-   "cout" : 162.0,
-   "dateDebut" : "04/03/2026",
-   "dateFin" : "10/06/2026",
-   "description" : ">  Vertiefung der Kenntnisse beim Nähen\r\n>  Anprobe und Anpassungen\r\n>  Zuschneiden\r\n>  Vertiefung der Verarbeitungstechniken für ein Projekt\r\n>  Eigene Projekte",
-   "duree" : "36 leçons",
-   "enseignants" : [ {
-      "nom" : "Engel",
-      "prenom" : "Yvette"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65051,
-   "intitule" : "Couture - Intermédiaire",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 12,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwNTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC - Esch-sur-Alzette" ],
-   "coursCode" : "AR-CERA-39",
-   "coursId" : "AR-CERA-39",
-   "coursType" : "CLASSIQUE",
-   "cout" : 306.0,
-   "dateDebut" : "04/03/2026",
-   "dateFin" : "15/07/2026",
-   "description" : "Le cours de céramique est prévu pour toute personne voulant débuter ou approfondir la technique du modelage de la terre. En effet, il sera possible d'apprendre à confectionner différents objets (vase, tasse, pots, décorations,...) et d'apprendre également les techniques d'ornementations (applications des émaux, engobes,...).",
-   "duree" : "68 leçons",
-   "enseignants" : [ {
-      "nom" : "Demanet",
-      "prenom" : "Diane",
-      "presentation" : "Diane, diplômée en arts plastiques, est une artiste indépendante depuis 2018. Elle propose des ateliers de céramique, peinture, dessin, et création en volume, tout en mettant l'accent sur la créativité individuelle et l'écoresponsabilité. Grâce à son expérience et ses compétences, elle adapte ses cours aux besoins de chaque participant. Plus d'infos sur www.pierrepapiercrayon.com"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 64493,
-   "intitule" : "Cours de céramique",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CERA",
-   "matiereNom" : "Céramique",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ0OTM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "La formatrice achète le matériel et se fait rembourser par les participants. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-28",
-   "coursId" : "SO-MED-28",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "04/03/2026",
-   "dateFin" : "08/07/2026",
-   "description" : "Un parcours progressif pour apprendre à mieux respirer, à méditer simplement et à développer une attitude intérieure plus sereine. Séance après séance, vous découvrirez des techniques de respiration apaisantes, des méditations guidées accessibles à tous et des outils de pensée positive issus du yoga. Un cours idéal pour réduire le stress, clarifier l'esprit et retrouver calme et énergie, confortablement assis sur une chaise.",
-   "duree" : "16 leçons",
-   "enseignants" : [ {
-      "nom" : "Iannantuoni",
-      "prenom" : "Céline",
-      "presentation" : "Céline enseigne le Hatha Yoga Sivananda, l'Ayurvéda, ainsi que des cours spécifiques comme le yoga sur chaise, le yoga pour partir zen en weekend et le yoga lunch pour une pause bien-être en journée. Elle propose aussi des découvertes de l'Ayurvéda, la science de la longévité, ainsi que des séances de respiration, méditation et pensée positive pour améliorer l'équilibre et la santé globale. Plus d'infos sur www.celine-yoga-ayurveda.com"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 17:10 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63869,
-   "intitule" : "Respiration, méditation et pensée positive",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4Njk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-FISC-11",
-   "coursId" : "SCI-FISC-11",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "04/03/2026",
-   "dateFin" : "22/04/2026",
-   "description" : "Ce cours propose une explication claire et structurée de la déclaration fiscale, page par page, afin de comprendre quelles informations y renseigner et où trouver les documents nécessaires. Il aborde également d'autres formulaires spécifiques, tels que ceux relatifs aux revenus locatifs, à la vente de biens immobiliers ou à l’activité indépendante. L’objectif est de permettre aux participant·e·s de mieux comprendre leurs obligations fiscales et de remplir leur déclaration en toute autonomie.",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Keiser",
-      "prenom" : "Romain"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63851,
-   "intitule" : "Comment faire sa déclaration d'impôts personnelle",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FISC",
-   "matiereNom" : "Fiscalité",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4NTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -42412,6 +42091,327 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "B.P. 73"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-54",
+   "coursId" : "IN-BUR-54",
+   "coursType" : "CLASSIQUE",
+   "cout" : 72.0,
+   "dateDebut" : "04/03/2026",
+   "dateFin" : "29/04/2026",
+   "dateInscription" : "Hôtel de Dudelange\r\ncoursinformatiques@dudelange.lu\r\n51 61 21 538",
+   "description" : "Maîtriser les fonctions principales du logiciel de traitement de texte et du tableur: Familiarisation, création, mise en forme et gestion des extensions des documents Word/Excel. Paramétrer et sécuriser le tableau en vue de l'impression ou de partage en ligne.",
+   "duree" : "24h",
+   "enseignants" : [ {
+      "nom" : "Casanova E Silva",
+      "prenom" : "Marisa"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63208,
+   "intitule" : "Bureautique: Word-Excel",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 9,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "renseignements" : "Accessible aux personnes à mobilité réduite. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4354",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-Esch/Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "22, rue Henri Koch"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
+   "coursCode" : "AR-COUT-92",
+   "coursId" : "AR-COUT-92",
+   "coursType" : "CLASSIQUE",
+   "cout" : 162.0,
+   "dateDebut" : "04/03/2026",
+   "dateFin" : "10/06/2026",
+   "description" : ">  Vertiefung der Kenntnisse beim Nähen\r\n>  Anprobe und Anpassungen\r\n>  Zuschneiden\r\n>  Vertiefung der Verarbeitungstechniken für ein Projekt\r\n>  Eigene Projekte",
+   "duree" : "36 leçons",
+   "enseignants" : [ {
+      "nom" : "Engel",
+      "prenom" : "Yvette"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 65051,
+   "intitule" : "Couture - Intermédiaire",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 12,
+   "nbPlaces" : 12,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwNTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4354",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "22, rue Henri Koch"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coOrganisateurs" : [ "CNFPC - Esch-sur-Alzette" ],
+   "coursCode" : "AR-CERA-39",
+   "coursId" : "AR-CERA-39",
+   "coursType" : "CLASSIQUE",
+   "cout" : 306.0,
+   "dateDebut" : "04/03/2026",
+   "dateFin" : "15/07/2026",
+   "description" : "Le cours de céramique est prévu pour toute personne voulant débuter ou approfondir la technique du modelage de la terre. En effet, il sera possible d'apprendre à confectionner différents objets (vase, tasse, pots, décorations,...) et d'apprendre également les techniques d'ornementations (applications des émaux, engobes,...).",
+   "duree" : "68 leçons",
+   "enseignants" : [ {
+      "nom" : "Demanet",
+      "prenom" : "Diane",
+      "presentation" : "Diane, diplômée en arts plastiques, est une artiste indépendante depuis 2018. Elle propose des ateliers de céramique, peinture, dessin, et création en volume, tout en mettant l'accent sur la créativité individuelle et l'écoresponsabilité. Grâce à son expérience et ses compétences, elle adapte ses cours aux besoins de chaque participant. Plus d'infos sur www.pierrepapiercrayon.com"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 17:10 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 64493,
+   "intitule" : "Cours de céramique",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "CERA",
+   "matiereNom" : "Céramique",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ0OTM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
+   "renseignements" : "La formatrice achète le matériel et se fait rembourser par les participants. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-MED-28",
+   "coursId" : "SO-MED-28",
+   "coursType" : "CLASSIQUE",
+   "cout" : 72.0,
+   "dateDebut" : "04/03/2026",
+   "dateFin" : "08/07/2026",
+   "description" : "Un parcours progressif pour apprendre à mieux respirer, à méditer simplement et à développer une attitude intérieure plus sereine. Séance après séance, vous découvrirez des techniques de respiration apaisantes, des méditations guidées accessibles à tous et des outils de pensée positive issus du yoga. Un cours idéal pour réduire le stress, clarifier l'esprit et retrouver calme et énergie, confortablement assis sur une chaise.",
+   "duree" : "16 leçons",
+   "enseignants" : [ {
+      "nom" : "Iannantuoni",
+      "prenom" : "Céline",
+      "presentation" : "Céline enseigne le Hatha Yoga Sivananda, l'Ayurvéda, ainsi que des cours spécifiques comme le yoga sur chaise, le yoga pour partir zen en weekend et le yoga lunch pour une pause bien-être en journée. Elle propose aussi des découvertes de l'Ayurvéda, la science de la longévité, ainsi que des séances de respiration, méditation et pensée positive pour améliorer l'équilibre et la santé globale. Plus d'infos sur www.celine-yoga-ayurveda.com"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 17:10 (durée 0h50)",
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 63869,
+   "intitule" : "Respiration, méditation et pensée positive",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "MED",
+   "matiereNom" : "Méditation",
+   "nbInscrits" : 9,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4Njk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-FISC-11",
+   "coursId" : "SCI-FISC-11",
+   "coursType" : "CLASSIQUE",
+   "cout" : 54.0,
+   "dateDebut" : "04/03/2026",
+   "dateFin" : "22/04/2026",
+   "description" : "Ce cours propose une explication claire et structurée de la déclaration fiscale, page par page, afin de comprendre quelles informations y renseigner et où trouver les documents nécessaires. Il aborde également d'autres formulaires spécifiques, tels que ceux relatifs aux revenus locatifs, à la vente de biens immobiliers ou à l’activité indépendante. L’objectif est de permettre aux participant·e·s de mieux comprendre leurs obligations fiscales et de remplir leur déclaration en toute autonomie.",
+   "duree" : "12 leçons",
+   "enseignants" : [ {
+      "nom" : "Keiser",
+      "prenom" : "Romain"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 63851,
+   "intitule" : "Comment faire sa déclaration d'impôts personnelle",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FISC",
+   "matiereNom" : "Fiscalité",
+   "nbInscrits" : 6,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4NTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -63369,68 +63369,6 @@
    },
    "prerequis" : "Le niveau du cours est A2-B1 ce qui implique comme prérequis un niveau A1-A2.",
    "renseignements" : "Tél. 819 201 307 (Valina Liégeois) ou 819 201 300 (Max Petit) ou par courriel à l'adresse education_adultes@ltett.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119, rue du Cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PINT-33",
-   "coursId" : "AR-PINT-33",
-   "coursType" : "CLASSIQUE",
-   "cout" : 153.0,
-   "dateDebut" : "01/10/2025",
-   "dateFin" : "04/03/2026",
-   "description" : "Les élèves ont le choix de travailler avec l'acrylique ou avec l'aquarelle.\r\nLes deux techniques seront expliquées dans le cours, puisque la manière de travailler la couleur est très différente.\r\nLa possiblilité de travailler sur le modèle proposé par la chargée de cours, ou d'après la photo choisie.\r\nPour ceux qui préfèrent l'art abstrait, la chargée de cours puisse guider les élèves.",
-   "duree" : "34 leçons",
-   "enseignants" : [ {
-      "nom" : "Mrazkova",
-      "prenom" : "Iva",
-      "presentation" : "https://www.atelier-iva.eu/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:20",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 62765,
-   "intitule" : "Peinture l'aquarelle et l'acrylique - 1 Sem",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PINT",
-   "matiereNom" : "Peinture",
-   "nbInscrits" : 7,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjI3NjU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Aquarelle : 12 couleurs, gobelet, 3 pinceaux, papier de cuisine, crayon, gomme, bloc DIN 2/3. Acrylique : 12 couleurs, bloc DIN 2/3, toiles 30x40, fusain/crayon, gomme, papier de cuisine, 4-5 pinceaux"
 }, {
    "adresseCours" : {
       "codePostal" : "1338",
