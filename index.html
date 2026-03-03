@@ -35,7 +35,6 @@
       background: linear-gradient(to bottom, rgba(11,18,32,.92), rgba(11,18,32,.65));
       border-bottom:1px solid var(--line);
     }
-    /* ✅ mehr Platz: Dashboard breiter */
     .wrap{max-width:1600px; margin:0 auto;}
     h1{margin:0; font-size:18px; letter-spacing:.2px;}
     .sub{margin-top:6px; color:var(--muted); font-size:13px; display:flex; gap:10px; flex-wrap:wrap}
@@ -49,7 +48,6 @@
     main{padding:16px 18px 26px;}
     .grid{
       display:grid;
-      /* ✅ links mehr Platz für Tabelle */
       grid-template-columns: 1.35fr .65fr;
       gap:14px;
     }
@@ -126,7 +124,6 @@
       width:100%;
       border-collapse: collapse;
       font-size: 13px;
-      /* ✅ NICHT fixed => weniger horizontale Scrolls */
       table-layout: auto;
     }
     th, td{
@@ -136,27 +133,24 @@
     }
     th{
       text-align:left;
-      color: var(--muted);
+      color:var(--muted);
       font-weight:600;
       font-size:12px;
       white-space:nowrap;
     }
 
-    /* ✅ Tabelle soll nicht horizontal scrollen */
     .tableWrap{
       margin-top:12px;
-      overflow-x:hidden;   /* kein horizontaler scrollbar */
+      overflow-x:hidden;
       overflow-y:auto;
     }
 
-    /* Spaltenbreiten stabil, aber Kurs-Spalte darf umbrechen */
     th:nth-child(1), td:nth-child(1){ width:120px; }
     th:nth-child(2), td:nth-child(2){ width:120px; }
     th:nth-child(4), td:nth-child(4){ width:240px; }
     th:nth-child(5), td:nth-child(5){ width:200px; }
     th:nth-child(6), td:nth-child(6){ width:160px; }
 
-    /* ✅ Kurs-Spalte: darf umbrechen, damit nix scrollt */
     td:nth-child(3){
       white-space: normal;
       word-break: break-word;
@@ -181,20 +175,18 @@
     .right{display:flex; gap:8px; align-items:center; flex-wrap:wrap; justify-content:flex-end}
     .linklike{color:var(--accent); text-decoration:none}
 
-    /* ✅ Titel + ID + Link in einer "Zeile", aber darf bei Bedarf umbrechen */
     .courseLine{
       display:flex;
       align-items:center;
       gap:10px;
-      flex-wrap:wrap; /* verhindert horizontal scroll */
+      flex-wrap:wrap;
       min-width: 0;
     }
     .courseTitle{
       min-width: 220px;
-      flex: 1 1 320px; /* Titel nimmt Platz, darf umbrechen */
+      flex: 1 1 320px;
     }
 
-    /* Click-to-copy course id */
     .courseid{
       display:inline-flex;
       align-items:center;
@@ -206,7 +198,7 @@
       background: rgba(255,255,255,.05);
       border-radius: 999px;
       padding: 2px 8px;
-      white-space: nowrap; /* ✅ ID bleibt immer 1 Zeile */
+      white-space: nowrap;
     }
     .courseid:hover{color: var(--text); border-color: rgba(106,169,255,.45)}
     .courseid .hint{
@@ -233,6 +225,51 @@
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+    }
+
+    /* ✅ Neue Zielbox rechts */
+    .goals{
+      margin-top:12px;
+      padding-top:12px;
+      border-top:1px solid var(--line);
+    }
+    .goalTitle{
+      display:flex; align-items:center; justify-content:space-between; gap:10px;
+      margin-bottom:10px;
+    }
+    .goalTitle h3{
+      margin:0;
+      font-size:13px;
+      letter-spacing:.2px;
+    }
+    .goalGrid{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap:10px;
+    }
+    .goal{
+      background: rgba(0,0,0,.18);
+      border:1px solid var(--line);
+      border-radius: 14px;
+      padding:12px;
+    }
+    .goal .top{
+      display:flex; align-items:baseline; justify-content:space-between; gap:10px; flex-wrap:wrap;
+    }
+    .goal .name{font-size:12px; color:var(--muted)}
+    .goal .value{font-size:18px; font-weight:800}
+    .goal .meta{font-size:12px; color:var(--muted); margin-top:6px; line-height:1.35}
+    .goal .meta b{color:var(--text)}
+    .goal .hintline{margin-top:6px; font-size:12px; color:rgba(231,238,252,.85)}
+    .goal .hintline .miniTag{
+      display:inline-flex; align-items:center; gap:6px;
+      padding:3px 8px;
+      border-radius:999px;
+      border:1px solid var(--line);
+      background: rgba(255,255,255,.04);
+      font-size:12px;
+      margin-right:6px;
+      white-space:nowrap;
     }
   </style>
 </head>
@@ -357,6 +394,41 @@
           <div class="tag"><span class="dot warn"></span> 50–79%</div>
           <div class="tag"><span class="dot bad"></span> &lt; 50%</div>
         </div>
+
+        <!-- ✅ NEU: Overshoot / Schwellen rechts -->
+        <div class="goals">
+          <div class="goalTitle">
+            <h3>Ziele 2026 (aus Datenbank)</h3>
+            <div class="small muted" id="goalScope">–</div>
+          </div>
+
+          <div class="goalGrid">
+            <div class="goal">
+              <div class="top">
+                <div class="name">350 Kurse — “Overshoot Day”</div>
+                <div class="value" id="goalCoursesNow">–</div>
+              </div>
+              <div class="bar"><div id="goalCoursesBar"></div></div>
+              <div class="meta" id="goalCoursesMeta">–</div>
+              <div class="hintline" id="goalCoursesHint">–</div>
+            </div>
+
+            <div class="goal">
+              <div class="top">
+                <div class="name">2400 Participants — Schwelle</div>
+                <div class="value" id="goalPartsNow">–</div>
+              </div>
+              <div class="bar"><div id="goalPartsBar"></div></div>
+              <div class="meta" id="goalPartsMeta">–</div>
+              <div class="hintline" id="goalPartsHint">–</div>
+            </div>
+          </div>
+
+          <div class="small muted" style="margin-top:10px; line-height:1.35">
+            Hinweis: Berechnung basiert auf <b>dateDebut</b> + Summen/Counts in <b>trainings.json</b>.
+            Für zukünftige Kurse kann <b>nbInscrits</b> naturgemäß noch variieren.
+          </div>
+        </div>
       </div>
     </aside>
   </div>
@@ -396,6 +468,19 @@ const kpiSlotsSub = el("kpiSlotsSub");
 
 const btnUniPop = el("btnUniPop");
 const btnUniPopActive = el("btnUniPopActive");
+
+/* ✅ Ziele-Elemente */
+const goalScope = el("goalScope");
+
+const goalCoursesNow = el("goalCoursesNow");
+const goalCoursesBar = el("goalCoursesBar");
+const goalCoursesMeta = el("goalCoursesMeta");
+const goalCoursesHint = el("goalCoursesHint");
+
+const goalPartsNow = el("goalPartsNow");
+const goalPartsBar = el("goalPartsBar");
+const goalPartsMeta = el("goalPartsMeta");
+const goalPartsHint = el("goalPartsHint");
 
 let rawCourses = [];
 let sessions = [];
@@ -704,6 +789,158 @@ tbody.addEventListener("click", (ev) => {
   copyToClipboard(value);
 });
 
+/* =========================
+   ✅ Ziele / Overshoot
+   ========================= */
+function clamp(n,min,max){ return Math.max(min, Math.min(max, n)); }
+
+function fmtShortDate(d){
+  if(!d) return "–";
+  return d.toLocaleDateString("de-DE", { timeZone: TZ, year:"numeric", month:"2-digit", day:"2-digit" });
+}
+
+function computeMilestones(){
+  const now = luxNow();
+  const year = now.getFullYear();
+
+  const yearStart = new Date(year, 0, 1, 0,0,0,0);
+  const yearEnd = new Date(year, 11, 31, 23,59,59,999);
+  const today0 = new Date(now); today0.setHours(0,0,0,0);
+
+  // ✅ pro Kurs 1 Eintrag (nach dateDebut)
+  const list = [];
+  for(const c of rawCourses){
+    if(!c || typeof c !== "object") continue;
+    if(!passesOrgFilter(c)) continue;
+
+    const dStart = parseFRDateDDMMYYYY(c.dateDebut);
+    if(!dStart) continue;
+
+    if(dStart < yearStart || dStart > yearEnd) continue;
+
+    const id = c.coursId || c.coursCode || c.id || "";
+    const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
+
+    list.push({
+      id: String(id),
+      d: new Date(dStart.getTime()),
+      booked
+    });
+  }
+
+  // sort by dateDebut then id for stability
+  list.sort((a,b)=> (a.d - b.d) || (a.id.localeCompare(b.id)));
+
+  // dedupe by id (falls mehrfach)
+  const seen = new Set();
+  const uniq = [];
+  for(const it of list){
+    const key = it.id || ("_noid_" + it.d.getTime() + "_" + uniq.length);
+    if(seen.has(key)) continue;
+    seen.add(key);
+    uniq.push(it);
+  }
+
+  const TARGET_COURSES = 350;
+  const TARGET_PARTS = 2400;
+
+  let coursesCum = 0;
+  let partsCum = 0;
+
+  let dateCourse350 = null;
+  let dateParts2400 = null;
+
+  // YTD (bis heute) + YEAR total (bis Jahresende)
+  let coursesYTD = 0;
+  let partsYTD = 0;
+
+  let coursesYear = 0;
+  let partsYear = 0;
+
+  for(const it of uniq){
+    // year totals
+    coursesYear += 1;
+    partsYear += (Number.isFinite(it.booked) ? it.booked : 0);
+
+    // ytd totals
+    if(it.d <= today0){
+      coursesYTD += 1;
+      partsYTD += (Number.isFinite(it.booked) ? it.booked : 0);
+    }
+
+    // milestones (über das ganze Jahr auf Basis der geplanten Reihenfolge)
+    coursesCum += 1;
+    partsCum += (Number.isFinite(it.booked) ? it.booked : 0);
+
+    if(!dateCourse350 && coursesCum >= TARGET_COURSES) dateCourse350 = it.d;
+    if(!dateParts2400 && partsCum >= TARGET_PARTS) dateParts2400 = it.d;
+  }
+
+  return {
+    year,
+    TARGET_COURSES,
+    TARGET_PARTS,
+    coursesYTD,
+    partsYTD,
+    coursesYear,
+    partsYear,
+    dateCourse350,
+    dateParts2400
+  };
+}
+
+function renderGoals(){
+  const m = computeMilestones();
+
+  goalScope.textContent = (orgMode === "all")
+    ? "Scope: Alle"
+    : (orgMode === "unipop_active")
+      ? "Scope: UniPop (mit Einschreibungen)"
+      : "Scope: Nur UniPop";
+
+  // --- Kurse 350
+  const cNow = m.coursesYTD;
+  const cPct = clamp((cNow / m.TARGET_COURSES) * 100, 0, 100);
+
+  goalCoursesNow.textContent = `${cNow}/${m.TARGET_COURSES}`;
+  goalCoursesBar.style.width = `${cPct}%`;
+  goalCoursesBar.style.background = (cPct>=100) ? "var(--ok)" : (cPct>=70) ? "var(--warn)" : "rgba(255,255,255,.22)";
+
+  const cMilestone = m.dateCourse350
+    ? `<b>${fmtShortDate(m.dateCourse350)}</b>`
+    : `<b>nicht erreicht</b> (mit aktuellen Kursdaten)`;
+
+  goalCoursesMeta.innerHTML =
+    `YTD: <b>${cNow}</b> Kurse · Jahr gesamt (geplant laut DB): <b>${m.coursesYear}</b><br>` +
+    `Overshoot Day (350): ${cMilestone}`;
+
+  goalCoursesHint.innerHTML = m.dateCourse350
+    ? `<span class="miniTag"><span class="dot ok"></span> Datum fix</span> basiert auf <b>dateDebut</b> der Kurse`
+    : `<span class="miniTag"><span class="dot warn"></span> Hinweis</span> DB hat aktuell <b>${m.coursesYear}</b> Kurse im Jahr ${m.year}`;
+
+  // --- Participants 2400
+  const pNow = m.partsYTD;
+  const pPct = clamp((pNow / m.TARGET_PARTS) * 100, 0, 100);
+
+  goalPartsNow.textContent = `${Math.round(pNow)}/${m.TARGET_PARTS}`;
+  goalPartsBar.style.width = `${pPct}%`;
+  goalPartsBar.style.background = (pPct>=100) ? "var(--ok)" : (pPct>=70) ? "var(--warn)" : "rgba(255,255,255,.22)";
+
+  const pMilestone = m.dateParts2400
+    ? `<b>${fmtShortDate(m.dateParts2400)}</b>`
+    : `<b>nicht erreicht</b> (mit aktuellen nbInscrits)`;
+
+  goalPartsMeta.innerHTML =
+    `YTD: <b>${Math.round(pNow)}</b> Participants · Jahr gesamt (Summe nbInscrits): <b>${Math.round(m.partsYear)}</b><br>` +
+    `Schwelle (2400): ${pMilestone}`;
+
+  goalPartsHint.innerHTML = m.dateParts2400
+    ? `<span class="miniTag"><span class="dot ok"></span> Datum aus DB</span> basiert auf kumulierter <b>nbInscrits</b>`
+    : `<span class="miniTag"><span class="dot warn"></span> Hinweis</span> Für viele zukünftige Kurse ist <b>nbInscrits</b> evtl. noch 0`;
+}
+
+/* ========================= */
+
 function runQuery(){
   setWarn("");
 
@@ -741,6 +978,9 @@ function runQuery(){
 
   renderTable(filtered);
   renderKPIs(filtered, fd, td, fT, tT);
+
+  // ✅ NEU: Ziele rechts immer mitrendern (abhängig von orgMode + DB)
+  renderGoals();
 
   if(filtered.length === 0){
     setWarn("Keine Kurse im gewählten Filter.");
