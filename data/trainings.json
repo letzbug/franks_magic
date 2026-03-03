@@ -235,7 +235,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "MED",
    "matiereNom" : "Méditation",
-   "nbInscrits" : 10,
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -10847,10 +10847,17 @@
    "dateFin" : "06/07/2026",
    "description" : "Cet atelier invite à explorer une approche globale du bien-être, mêlant naturopathie, nutrithérapie, ayurvéda, yoga, respiration, aromathérapie et principes de mindset trauma-informed.\r\nL’objectif est d’aider chacun à mieux comprendre les besoins de son corps et de son esprit afin de prévenir les déséquilibres, soutenir la vitalité et cultiver un équilibre durable, aussi bien physique qu’émotionnel et mental.\r\nLes pratiques naturelles offrent des bénéfices concrets : elles soutiennent les fonctions de digestion, de détoxification et de récupération, favorisent un sommeil réparateur, la clarté mentale, la stabilité émotionnelle et le retour à une meilleure qualité de vie.\r\nL’atelier combine théorie et pratique : compréhension des bases de l’ayurvéda, de la nutrition anti-inflammatoire et des soins naturels, suivie de techniques de respiration et de relaxation, ainsi que de la création de synergies personnalisées de plantes et d’huiles essentielles pour prolonger les bienfaits dans le quotidien.",
    "duree" : "24 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sorcinelli",
+      "prenom" : "Fabiana"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 13:40 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "13:40",
+      "jour" : "Lundi"
+   } ],
    "id" : 63815,
    "intitule" : "Body Restore – Pratiques naturelles pour un bien-être durable",
    "langueCoursCode" : "FR",
@@ -19632,10 +19639,17 @@
    "dateFin" : "18/04/2026",
    "description" : "Cet atelier propose une lecture accessible des mécanismes du stress chronique et de leurs effets sur le corps. Il explique le rôle du cortisol, le lien avec l’inflammation et la fatigue, et présente des leviers naturels de prévention. Les participants comprendront l’impact de l’alimentation et du mode de vie, découvriront des plantes utiles et expérimenteront des techniques de relaxation pour mieux réguler et récupérer.",
    "duree" : "4 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sorcinelli",
+      "prenom" : "Fabiana"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 18-04-2026 à 13:40 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "13:40",
+      "jour" : "Samedi"
+   } ],
    "id" : 65165,
    "intitule" : "Alimentation, plantes et techniques de relaxation pour gérer le Stress et l'inflammation",
    "langueCoursCode" : "LB",
