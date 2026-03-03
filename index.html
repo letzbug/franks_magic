@@ -805,62 +805,54 @@ function computeMilestones(){
   const yearStart = new Date(year, 0, 1, 0,0,0,0);
   const yearEnd   = new Date(year, 11, 31, 23,59,59,999);
 
-  const today0 = new Date(now); today0.setHours(0,0,0,0);
+  const today0 = new Date(now);
+  today0.setHours(0,0,0,0);
 
-  const listAllYear = [];
-  let missingCoursCode = 0;
+  const uniq = new Map();
 
   for(const c of rawCourses){
+
     if(!c || typeof c !== "object") continue;
     if(!passesOrgFilter(c)) continue;
-
-    const rawCoursCode = (c.coursCode != null) ? String(c.coursCode).trim() : "";
-    const fallbackId =
-      (c.coursId != null) ? String(c.coursId).trim()
-      : (c.id != null) ? String(c.id).trim()
-      : "";
-
-    const code = rawCoursCode || fallbackId;
-    if(!code) continue;
-    if(!rawCoursCode) missingCoursCode += 1;
 
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
     if(!dStart) continue;
 
+    // Nur aktuelles Jahr
     if(dStart < yearStart || dStart > yearEnd) continue;
 
-    const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
+    // Primary ID: coursId → id → coursCode
+    const primary =
+      (c.coursId != null && String(c.coursId).trim()) ||
+      (c.id != null && String(c.id).trim()) ||
+      (c.coursCode != null && String(c.coursCode).trim());
 
-    const key = `${code}|${ymdLocal(dStart)}`;
+    if(!primary) continue;
 
-    listAllYear.push({
-      key,
-      code,
-      d: new Date(dStart.getTime()),
-      booked
-    });
+    const key = primary + "|" + ymdLocal(dStart);
+
+    if(!uniq.has(key)){
+      const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
+
+      uniq.set(key, {
+        d: new Date(dStart.getTime()),
+        booked
+      });
+    }
   }
 
-  listAllYear.sort((a,b)=> (a.d - b.d) || (a.code.localeCompare(b.code)));
+  const list = Array.from(uniq.values()).sort((a,b)=>a.d-b.d);
 
-  const seen = new Set();
-  const uniqYear = [];
-  for(const it of listAllYear){
-    if(seen.has(it.key)) continue;
-    seen.add(it.key);
-    uniqYear.push(it);
-  }
-
-  const uniqYTD = uniqYear.filter(it => it.d < today0);
+  const listYTD = list.filter(x => x.d < today0);
 
   const TARGET_COURSES = 350;
-  const TARGET_PARTS = 2400;
+  const TARGET_PARTS   = 2400;
 
-  const coursesYear = uniqYear.length;
-  const partsYear = uniqYear.reduce((s,it)=> s + it.booked, 0);
+  const coursesYear = list.length;
+  const partsYear   = list.reduce((s,x)=>s+x.booked,0);
 
-  const coursesYTD = uniqYTD.length;
-  const partsYTD = uniqYTD.reduce((s,it)=> s + it.booked, 0);
+  const coursesYTD = listYTD.length;
+  const partsYTD   = listYTD.reduce((s,x)=>s+x.booked,0);
 
   let dateCourse350 = null;
   let dateParts2400 = null;
@@ -868,12 +860,12 @@ function computeMilestones(){
   let cCum = 0;
   let pCum = 0;
 
-  for(const it of uniqYTD){
-    cCum += 1;
-    pCum += it.booked;
+  for(const x of listYTD){
+    cCum++;
+    pCum += x.booked;
 
-    if(!dateCourse350 && cCum >= TARGET_COURSES) dateCourse350 = it.d;
-    if(!dateParts2400 && pCum >= TARGET_PARTS) dateParts2400 = it.d;
+    if(!dateCourse350 && cCum >= TARGET_COURSES) dateCourse350 = x.d;
+    if(!dateParts2400 && pCum >= TARGET_PARTS) dateParts2400 = x.d;
   }
 
   return {
@@ -885,8 +877,7 @@ function computeMilestones(){
     coursesYear,
     partsYear,
     dateCourse350,
-    dateParts2400,
-    missingCoursCode
+    dateParts2400
   };
 }
 
