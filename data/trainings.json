@@ -5238,6 +5238,68 @@
    "renseignements" : "Le formateur fournit le matériel nécessaire, dont le coût sera de 12 € par participant à régler directement au formateur."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-BIJU-33",
+   "coursId" : "AR-BIJU-33",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "19/03/2026",
+   "dateFin" : "30/04/2026",
+   "description" : "Apprenez à créer des bijoux uniques et élégants en maîtrisant l'assemblage minutieux de perles de différentes tailles et couleurs. Vous apprendrez à mélanger les différentes couleurs et formes de perles pour réaliser des bijoux créatifs et uniques (bagues, colliers, bracelets...). Rejoignez-nous pour une expérience créative et enrichissante, où vous pourrez exprimer votre style et votre créativité à travers ces créations étincelantes.",
+   "duree" : "20 leçons",
+   "enseignants" : [ {
+      "nom" : "Rybak",
+      "prenom" : "Roksoliana",
+      "site" : "https://shorturl.at/Swbb6"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 17:10 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63980,
+   "intitule" : "L'univers du perlage",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BIJU",
+   "matiereNom" : "Bijoux",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5ODA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
+}, {
+   "adresseCours" : {
       "codePostal" : "4354",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "CNFPC-ESCH-SUR-ALZETTE",
@@ -5275,7 +5337,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "COUT",
    "matiereNom" : "Couture",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -30321,6 +30383,60 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-BIJU-35",
+   "coursId" : "AR-BIJU-35",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "04/06/2026",
+   "dateFin" : "02/07/2026",
+   "description" : "Plongez dans l’art délicat du perlage et apprenez à façonner des bijoux qui racontent une histoire. Explorez les secrets de l’assemblage précis des perles aux formes et couleurs variées, et laissez-vous inspirer par leurs origines, leur histoire et la richesse culturelle qu’elles portent. Jouez avec les nuances et les textures pour donner vie à des pièces uniques — bagues, colliers, bracelets — qui scintilleront comme des éclats de lumière. Rejoignez-nous pour une aventure créative où chaque perle devient une étoile et chaque bijou, un reflet de votre imagination.",
+   "duree" : "20 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 17:10 (durée 3h20)",
+   "horaires" : [ ],
+   "id" : 64990,
+   "intitule" : "L'univers du perlage",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BIJU",
+   "matiereNom" : "Bijoux",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ5OTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "À noter : il n’y aura pas de cours pendant les vacances scolaires"
+}, {
+   "adresseCours" : {
       "codePostal" : "4702",
       "localite" : "Pétange",
       "nom" : "CIGL - Pétange",
@@ -42265,8 +42381,8 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "DI",
    "matiereNom" : "Design d'intérieur",
-   "nbInscrits" : 11,
-   "nbPlaces" : 11,
+   "nbInscrits" : 12,
+   "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ0NTA%3D",
@@ -47470,7 +47586,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 20,
    "nbPlaces" : 25,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : true,
