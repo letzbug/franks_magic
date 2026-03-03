@@ -651,12 +651,22 @@ async function loadData(){
 }
 
 function passesOrgFilter(c){
-  const orgCode = (c.organisateur && c.organisateur.code) ? String(c.organisateur.code) : "";
+  const orgCodeRaw = (c.organisateur && c.organisateur.code) ? String(c.organisateur.code) : "";
+  const orgNameRaw = (c.organisateur && (c.organisateur.nom || c.organisateur.name || c.organisateur.libelle))
+    ? String(c.organisateur.nom || c.organisateur.name || c.organisateur.libelle)
+    : "";
+
+  const orgCode = orgCodeRaw.trim().toUpperCase();
+  const orgName = orgNameRaw.trim().toLowerCase();
+
   const nbInscrits = Number(c.nbInscrits);
 
+  // ✅ tolerant "UniPop": code enthält UNIPOP ODER Name enthält unipop
+  const isUniPop = orgCode.includes("UNIPOP") || orgName.includes("unipop");
+
   if(orgMode === "all") return true;
-  if(orgMode === "unipop") return (orgCode === "UNIPOP");
-  if(orgMode === "unipop_active") return (orgCode === "UNIPOP" && Number.isFinite(nbInscrits) && nbInscrits > 0);
+  if(orgMode === "unipop") return isUniPop;
+  if(orgMode === "unipop_active") return (isUniPop && Number.isFinite(nbInscrits) && nbInscrits > 0);
   return true;
 }
 
