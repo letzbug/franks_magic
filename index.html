@@ -815,14 +815,21 @@ function getTargetYear(){
 
 /* ✅ Eindeutiger Key: primär DB-`id`, sonst Kombi */
 function courseUniqueKey(c){
-  const id = (c && c.id != null) ? String(c.id) : "";
+  const code = (c && c.coursCode != null) ? String(c.coursCode).trim() : "";
+  if(code) return "code:" + code;
+
+  const cid = (c && c.coursId != null) ? String(c.coursId).trim() : "";
+  if(cid) return "cid:" + cid;
+
+  const id = (c && c.id != null) ? String(c.id).trim() : "";
   if(id) return "id:" + id;
 
-  const cid = (c && (c.coursId != null)) ? String(c.coursId).trim() : "";
-  const ccode = (c && (c.coursCode != null)) ? String(c.coursCode).trim() : "";
+  // Fallback nur wenn ALLES fehlt
   const d = (c && c.dateDebut) ? String(c.dateDebut).trim() : "";
-  const loc = (c && c.adresseCours && (c.adresseCours.nom || c.adresseCours.localite)) ? String(c.adresseCours.nom || c.adresseCours.localite).trim() : "";
-  return `mix:${cid}|${ccode}|${d}|${loc}`;
+  const loc = (c && c.adresseCours && (c.adresseCours.nom || c.adresseCours.localite))
+    ? String(c.adresseCours.nom || c.adresseCours.localite).trim()
+    : "";
+  return `mix:${d}|${loc}`;
 }
 
 function computeMilestones(){
