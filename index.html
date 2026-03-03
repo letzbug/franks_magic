@@ -227,7 +227,6 @@
       text-overflow: ellipsis;
     }
 
-    /* ✅ Neue Zielbox rechts */
     .goals{
       margin-top:12px;
       padding-top:12px;
@@ -395,10 +394,9 @@
           <div class="tag"><span class="dot bad"></span> &lt; 50%</div>
         </div>
 
-        <!-- ✅ NEU: Overshoot / Schwellen rechts -->
         <div class="goals">
           <div class="goalTitle">
-            <h3>Ziele 2026 (aus Datenbank)</h3>
+            <h3 id="goalTitleText">Ziele 2026 (aus Datenbank)</h3>
             <div class="small muted" id="goalScope">–</div>
           </div>
 
@@ -440,6 +438,9 @@
 const DATA_URL = "data/trainings.json";
 const TZ = "Europe/Luxembourg";
 
+/* ✅ Default Ziel-Jahr (kann via ?year=2026 überschrieben werden) */
+const DEFAULT_TARGET_YEAR = 2026;
+
 const el = (id) => document.getElementById(id);
 const srcLabel = el("srcLabel");
 const lastRefresh = el("lastRefresh");
@@ -470,6 +471,7 @@ const btnUniPop = el("btnUniPop");
 const btnUniPopActive = el("btnUniPopActive");
 
 /* ✅ Ziele-Elemente */
+const goalTitleText = el("goalTitleText");
 const goalScope = el("goalScope");
 
 const goalCoursesNow = el("goalCoursesNow");
@@ -799,15 +801,43 @@ function fmtShortDate(d){
   return d.toLocaleDateString("de-DE", { timeZone: TZ, year:"numeric", month:"2-digit", day:"2-digit" });
 }
 
+/* ✅ Ziel-Jahr: ?year=YYYY > fromDate.year > DEFAULT_TARGET_YEAR */
+function getTargetYear(){
+  const sp = new URLSearchParams(location.search);
+  const qy = Number(sp.get("year"));
+  if(Number.isFinite(qy) && qy >= 2000 && qy <= 2100) return qy;
+
+  const fd = fromDate.value;
+  if(fd && /^\d{4}-\d{2}-\d{2}$/.test(fd)) return Number(fd.slice(0,4));
+
+  return DEFAULT_TARGET_YEAR;
+}
+
+/* ✅ Eindeutiger Key: primär DB-`id`, sonst Kombi */
+function courseUniqueKey(c){
+  const id = (c && c.id != null) ? String(c.id) : "";
+  if(id) return "id:" + id;
+
+  const cid = (c && (c.coursId != null)) ? String(c.coursId).trim() : "";
+  const ccode = (c && (c.coursCode != null)) ? String(c.coursCode).trim() : "";
+  const d = (c && c.dateDebut) ? String(c.dateDebut).trim() : "";
+  const loc = (c && c.adresseCours && (c.adresseCours.nom || c.adresseCours.localite)) ? String(c.adresseCours.nom || c.adresseCours.localite).trim() : "";
+  return `mix:${cid}|${ccode}|${d}|${loc}`;
+}
+
 function computeMilestones(){
   const now = luxNow();
-  const year = now.getFullYear();
+  const year = getTargetYear();
 
   const yearStart = new Date(year, 0, 1, 0,0,0,0);
   const yearEnd = new Date(year, 11, 31, 23,59,59,999);
-  const today0 = new Date(now); today0.setHours(0,0,0,0);
 
-  // ✅ pro Kurs 1 Eintrag (nach dateDebut)
+  // YTD "bis heute", aber sauber gegen das Ziel-Jahr geclamped
+  let today0 = new Date(now);
+  today0.setHours(0,0,0,0);
+  if(today0 < yearStart) today0 = new Date(yearStart.getTime() - 1);  // => YTD = 0
+  if(today0 > yearEnd) today0 = new Date(yearEnd.getTime());          // => YTD = Year totals
+
   const list = [];
   for(const c of rawCourses){
     if(!c || typeof c !== "object") continue;
@@ -818,26 +848,25 @@ function computeMilestones(){
 
     if(dStart < yearStart || dStart > yearEnd) continue;
 
-    const id = c.coursId || c.coursCode || c.id || "";
     const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
 
     list.push({
-      id: String(id),
+      key: courseUniqueKey(c),
+      idShown: String(c.coursId || c.coursCode || c.id || ""),
       d: new Date(dStart.getTime()),
       booked
     });
   }
 
-  // sort by dateDebut then id for stability
-  list.sort((a,b)=> (a.d - b.d) || (a.id.localeCompare(b.id)));
+  // sort stable
+  list.sort((a,b)=> (a.d - b.d) || (a.key.localeCompare(b.key)));
 
-  // dedupe by id (falls mehrfach)
+  // ✅ dedupe NUR nach wirklich eindeutigem Key (id bevorzugt)
   const seen = new Set();
   const uniq = [];
   for(const it of list){
-    const key = it.id || ("_noid_" + it.d.getTime() + "_" + uniq.length);
-    if(seen.has(key)) continue;
-    seen.add(key);
+    if(seen.has(it.key)) continue;
+    seen.add(it.key);
     uniq.push(it);
   }
 
@@ -850,7 +879,6 @@ function computeMilestones(){
   let dateCourse350 = null;
   let dateParts2400 = null;
 
-  // YTD (bis heute) + YEAR total (bis Jahresende)
   let coursesYTD = 0;
   let partsYTD = 0;
 
@@ -858,17 +886,14 @@ function computeMilestones(){
   let partsYear = 0;
 
   for(const it of uniq){
-    // year totals
     coursesYear += 1;
     partsYear += (Number.isFinite(it.booked) ? it.booked : 0);
 
-    // ytd totals
     if(it.d <= today0){
       coursesYTD += 1;
       partsYTD += (Number.isFinite(it.booked) ? it.booked : 0);
     }
 
-    // milestones (über das ganze Jahr auf Basis der geplanten Reihenfolge)
     coursesCum += 1;
     partsCum += (Number.isFinite(it.booked) ? it.booked : 0);
 
@@ -891,6 +916,7 @@ function computeMilestones(){
 
 function renderGoals(){
   const m = computeMilestones();
+  goalTitleText.textContent = `Ziele ${m.year} (aus Datenbank)`;
 
   goalScope.textContent = (orgMode === "all")
     ? "Scope: Alle"
@@ -979,7 +1005,6 @@ function runQuery(){
   renderTable(filtered);
   renderKPIs(filtered, fd, td, fT, tT);
 
-  // ✅ NEU: Ziele rechts immer mitrendern (abhängig von orgMode + DB)
   renderGoals();
 
   if(filtered.length === 0){
