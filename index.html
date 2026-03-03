@@ -397,11 +397,10 @@
 
         <!-- ✅ NEU: Overshoot / Schwellen rechts -->
         <div class="goals">
-        <div class="goalTitle">
-  <h3 id="goalsTitle">Ziele (aus Datenbank)</h3>
-  <div class="small muted" id="goalScope">–</div>
-</div>
-<div class="small muted" id="goalDebug" style="margin:-6px 0 10px; line-height:1.35">–</div>
+          <div class="goalTitle">
+            <h3>Ziele 2026 (aus Datenbank)</h3>
+            <div class="small muted" id="goalScope">–</div>
+          </div>
 
           <div class="goalGrid">
             <div class="goal">
@@ -423,6 +422,11 @@
               <div class="meta" id="goalPartsMeta">–</div>
               <div class="hintline" id="goalPartsHint">–</div>
             </div>
+          </div>
+
+          <div class="small muted" style="margin-top:10px; line-height:1.35">
+            Hinweis: Berechnung basiert auf <b>dateDebut</b> + Summen/Counts in <b>trainings.json</b>.
+            Für zukünftige Kurse kann <b>nbInscrits</b> naturgemäß noch variieren.
           </div>
         </div>
       </div>
@@ -467,8 +471,6 @@ const btnUniPopActive = el("btnUniPopActive");
 
 /* ✅ Ziele-Elemente */
 const goalScope = el("goalScope");
-const goalsTitle = el("goalsTitle");
-const goalDebug = el("goalDebug");
 
 const goalCoursesNow = el("goalCoursesNow");
 const goalCoursesBar = el("goalCoursesBar");
@@ -544,7 +546,7 @@ function parseDurationToMinutes(s){
   if(typeof s !== "string") return null;
   const t = s.trim().toLowerCase();
 
-  const mh = t.match(/^(\d+)\s*h(?:\s*(\d+))?$/);
+  const mh = t.match(/^(\d+)\s*h(?:\s*(\d+))?$/); // 1h40 / 2h
   if(mh){
     const h = Number(mh[1]);
     const min = mh[2] ? Number(mh[2]) : 0;
@@ -600,7 +602,7 @@ function applyPreset(preset){
     toDate.value = ymdLocal(d);
   }else if(preset === "week"){
     const d = new Date(now);
-    const day = (d.getDay()+6)%7;
+    const day = (d.getDay()+6)%7; // Mo=0
     d.setDate(d.getDate()-day);
     d.setHours(0,0,0,0);
     const s = new Date(d);
@@ -651,22 +653,12 @@ async function loadData(){
 }
 
 function passesOrgFilter(c){
-  const orgCodeRaw = (c.organisateur && c.organisateur.code) ? String(c.organisateur.code) : "";
-  const orgNameRaw = (c.organisateur && (c.organisateur.nom || c.organisateur.name || c.organisateur.libelle))
-    ? String(c.organisateur.nom || c.organisateur.name || c.organisateur.libelle)
-    : "";
-
-  const orgCode = orgCodeRaw.trim().toUpperCase();
-  const orgName = orgNameRaw.trim().toLowerCase();
-
+  const orgCode = (c.organisateur && c.organisateur.code) ? String(c.organisateur.code) : "";
   const nbInscrits = Number(c.nbInscrits);
 
-  // ✅ tolerant "UniPop": code enthält UNIPOP ODER Name enthält unipop
-  const isUniPop = orgCode.includes("UNIPOP") || orgName.includes("unipop");
-
   if(orgMode === "all") return true;
-  if(orgMode === "unipop") return isUniPop;
-  if(orgMode === "unipop_active") return (isUniPop && Number.isFinite(nbInscrits) && nbInscrits > 0);
+  if(orgMode === "unipop") return (orgCode === "UNIPOP");
+  if(orgMode === "unipop_active") return (orgCode === "UNIPOP" && Number.isFinite(nbInscrits) && nbInscrits > 0);
   return true;
 }
 
@@ -799,9 +791,6 @@ tbody.addEventListener("click", (ev) => {
 
 /* =========================
    ✅ Ziele / Overshoot
-   Excel-like: 1 Kurs = 1 Datensatz pro (coursCode || coursId || id) + dateDebut
-   Participants = nbInscrits (einmal pro Datensatz)
-   YTD = dateDebut < heute
    ========================= */
 function clamp(n,min,max){ return Math.max(min, Math.min(max, n)); }
 
@@ -815,78 +804,76 @@ function computeMilestones(){
   const year = now.getFullYear();
 
   const yearStart = new Date(year, 0, 1, 0,0,0,0);
-  const yearEnd   = new Date(year, 11, 31, 23,59,59,999);
-
+  const yearEnd = new Date(year, 11, 31, 23,59,59,999);
   const today0 = new Date(now); today0.setHours(0,0,0,0);
 
-  const uniq = new Map();
-
-  // Debug
-  let dbg_total = 0;
-  let dbg_passOrg = 0;
-  let dbg_noDateDebut = 0;
-  let dbg_outsideYear = 0;
-  let dbg_noAnyId = 0;
-  let dbg_added = 0;
-  let dbg_dupeKey = 0;
-  let dbg_ytd = 0;
-
+  // ✅ pro Kurs 1 Eintrag (nach dateDebut)
+  const list = [];
   for(const c of rawCourses){
-    dbg_total++;
     if(!c || typeof c !== "object") continue;
     if(!passesOrgFilter(c)) continue;
-    dbg_passOrg++;
 
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
-    if(!dStart){ dbg_noDateDebut++; continue; }
+    if(!dStart) continue;
 
-    if(dStart < yearStart || dStart > yearEnd){ dbg_outsideYear++; continue; }
+    if(dStart < yearStart || dStart > yearEnd) continue;
 
-    const coursId   = (c.coursId   != null) ? String(c.coursId).trim()   : "";
-    const id        = (c.id        != null) ? String(c.id).trim()        : "";
-    const coursCode = (c.coursCode != null) ? String(c.coursCode).trim() : "";
-
-    const primary = coursId || id || coursCode;
-    if(!primary){ dbg_noAnyId++; continue; }
-
-    // ✅ 1 Kurs = 1 Datensatz pro primary+dateDebut
-    const key = `${primary}|${ymdLocal(dStart)}`;
-
-    if(uniq.has(key)){
-      dbg_dupeKey++;
-      continue;
-    }
-
+    const id = c.coursId || c.coursCode || c.id || "";
     const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
 
-    uniq.set(key, { d: new Date(dStart.getTime()), booked });
-    dbg_added++;
-    if(dStart < today0) dbg_ytd++;
+    list.push({
+      id: String(id),
+      d: new Date(dStart.getTime()),
+      booked
+    });
   }
 
-  const list = Array.from(uniq.values()).sort((a,b)=>a.d-b.d);
-  const listYTD = list.filter(x => x.d < today0);
+  // sort by dateDebut then id for stability
+  list.sort((a,b)=> (a.d - b.d) || (a.id.localeCompare(b.id)));
+
+  // dedupe by id (falls mehrfach)
+  const seen = new Set();
+  const uniq = [];
+  for(const it of list){
+    const key = it.id || ("_noid_" + it.d.getTime() + "_" + uniq.length);
+    if(seen.has(key)) continue;
+    seen.add(key);
+    uniq.push(it);
+  }
 
   const TARGET_COURSES = 350;
-  const TARGET_PARTS   = 2400;
+  const TARGET_PARTS = 2400;
 
-  const coursesYear = list.length;
-  const partsYear   = list.reduce((s,x)=>s+x.booked,0);
-
-  const coursesYTD = listYTD.length;
-  const partsYTD   = listYTD.reduce((s,x)=>s+x.booked,0);
+  let coursesCum = 0;
+  let partsCum = 0;
 
   let dateCourse350 = null;
   let dateParts2400 = null;
 
-  let cCum = 0;
-  let pCum = 0;
+  // YTD (bis heute) + YEAR total (bis Jahresende)
+  let coursesYTD = 0;
+  let partsYTD = 0;
 
-  for(const x of listYTD){
-    cCum++;
-    pCum += x.booked;
-    if(!dateCourse350 && cCum >= TARGET_COURSES) dateCourse350 = x.d;
-    if(!dateParts2400 && pCum >= TARGET_PARTS) dateParts2400 = x.d;
+  let coursesYear = 0;
+  let partsYear = 0;
+
+  for(const it of uniq){
+    // year totals
+    coursesYear += 1;
+    partsYear += (Number.isFinite(it.booked) ? it.booked : 0);
+
+    // ytd totals
+    if(it.d <= today0){
+      coursesYTD += 1;
+      partsYTD += (Number.isFinite(it.booked) ? it.booked : 0);
+    }
+
+    // milestones (über das ganze Jahr auf Basis der geplanten Reihenfolge)
+    coursesCum += 1;
+    partsCum += (Number.isFinite(it.booked) ? it.booked : 0);
+
+    if(!dateCourse350 && coursesCum >= TARGET_COURSES) dateCourse350 = it.d;
+    if(!dateParts2400 && partsCum >= TARGET_PARTS) dateParts2400 = it.d;
   }
 
   return {
@@ -898,28 +885,12 @@ function computeMilestones(){
     coursesYear,
     partsYear,
     dateCourse350,
-    dateParts2400,
-    dbg: {
-      total: dbg_total,
-      passOrg: dbg_passOrg,
-      noDateDebut: dbg_noDateDebut,
-      outsideYear: dbg_outsideYear,
-      noAnyId: dbg_noAnyId,
-      dupeKey: dbg_dupeKey,
-      added: dbg_added,
-      ytd: dbg_ytd
-    }
+    dateParts2400
   };
 }
 
 function renderGoals(){
   const m = computeMilestones();
-  goalDebug.textContent =
-  `DBG: rawCourses=${rawCourses.length} | total=${m.dbg.total} | passOrg=${m.dbg.passOrg} | added=${m.dbg.added} | dupeKey=${m.dbg.dupeKey} | noDateDebut=${m.dbg.noDateDebut} | outsideYear=${m.dbg.outsideYear} | noAnyId=${m.dbg.noAnyId} | ytd=${m.dbg.ytd}`;
-  console.log("DEBUG:", m);
-console.log("RAW COURSES:", rawCourses.length);
-
-  goalsTitle.textContent = `Ziele ${m.year} (aus Datenbank)`;
 
   goalScope.textContent = (orgMode === "all")
     ? "Scope: Alle"
@@ -937,19 +908,15 @@ console.log("RAW COURSES:", rawCourses.length);
 
   const cMilestone = m.dateCourse350
     ? `<b>${fmtShortDate(m.dateCourse350)}</b>`
-    : `<b>nicht erreicht</b> (bis heute)`;
+    : `<b>nicht erreicht</b> (mit aktuellen Kursdaten)`;
 
   goalCoursesMeta.innerHTML =
-    `YTD (dateDebut < heute): <b>${cNow}</b> Kurse<br>` +
+    `YTD: <b>${cNow}</b> Kurse · Jahr gesamt (geplant laut DB): <b>${m.coursesYear}</b><br>` +
     `Overshoot Day (350): ${cMilestone}`;
 
-  if(m.missingCoursCode){
-    goalCoursesHint.innerHTML =
-      `<span class="miniTag"><span class="dot warn"></span> Achtung</span> ${m.missingCoursCode} Einträge ohne <b>coursCode</b> → gezählt via <b>coursId/id</b>`;
-  }else{
-    goalCoursesHint.innerHTML =
-      `<span class="miniTag"><span class="dot ok"></span> Excel-like</span> 1 Kurs = (coursCode + dateDebut), Participants = nbInscrits`;
-  }
+  goalCoursesHint.innerHTML = m.dateCourse350
+    ? `<span class="miniTag"><span class="dot ok"></span> Datum fix</span> basiert auf <b>dateDebut</b> der Kurse`
+    : `<span class="miniTag"><span class="dot warn"></span> Hinweis</span> DB hat aktuell <b>${m.coursesYear}</b> Kurse im Jahr ${m.year}`;
 
   // --- Participants 2400
   const pNow = m.partsYTD;
@@ -961,15 +928,17 @@ console.log("RAW COURSES:", rawCourses.length);
 
   const pMilestone = m.dateParts2400
     ? `<b>${fmtShortDate(m.dateParts2400)}</b>`
-    : `<b>nicht erreicht</b> (bis heute)`;
+    : `<b>nicht erreicht</b> (mit aktuellen nbInscrits)`;
 
   goalPartsMeta.innerHTML =
-    `YTD (dateDebut < heute): <b>${Math.round(pNow)}</b> Participants<br>` +
+    `YTD: <b>${Math.round(pNow)}</b> Participants · Jahr gesamt (Summe nbInscrits): <b>${Math.round(m.partsYear)}</b><br>` +
     `Schwelle (2400): ${pMilestone}`;
 
-  goalPartsHint.innerHTML =
-    `<span class="miniTag"><span class="dot ok"></span> Summe</span> Σ <b>nbInscrits</b> (einmal pro Kurs-Datensatz)`;
+  goalPartsHint.innerHTML = m.dateParts2400
+    ? `<span class="miniTag"><span class="dot ok"></span> Datum aus DB</span> basiert auf kumulierter <b>nbInscrits</b>`
+    : `<span class="miniTag"><span class="dot warn"></span> Hinweis</span> Für viele zukünftige Kurse ist <b>nbInscrits</b> evtl. noch 0`;
 }
+
 /* ========================= */
 
 function runQuery(){
@@ -1009,6 +978,8 @@ function runQuery(){
 
   renderTable(filtered);
   renderKPIs(filtered, fd, td, fT, tT);
+
+  // ✅ NEU: Ziele rechts immer mitrendern (abhängig von orgMode + DB)
   renderGoals();
 
   if(filtered.length === 0){
