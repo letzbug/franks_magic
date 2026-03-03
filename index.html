@@ -883,6 +883,8 @@ function computeMilestones(){
 
 function renderGoals(){
   const m = computeMilestones();
+  console.log("DEBUG:", m);
+console.log("RAW COURSES:", rawCourses.length);
 
   goalsTitle.textContent = `Ziele ${m.year} (aus Datenbank)`;
 
