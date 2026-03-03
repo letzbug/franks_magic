@@ -804,39 +804,46 @@ function computeMilestones(){
 
   const yearStart = new Date(year, 0, 1, 0,0,0,0);
   const yearEnd = new Date(year, 11, 31, 23,59,59,999);
+
   const today0 = new Date(now); today0.setHours(0,0,0,0);
 
-  // ✅ pro Kurs 1 Eintrag (nach dateDebut)
   const list = [];
+
   for(const c of rawCourses){
     if(!c || typeof c !== "object") continue;
     if(!passesOrgFilter(c)) continue;
 
-    const dStart = parseFRDateDDMMYYYY(c.dateDebut);
-    if(!dStart) continue;
+    const code = (c.coursCode ? String(c.coursCode).trim() : "");
+    if(!code) continue; // ✅ wir zählen nur echte coursCode
 
+    const dStart = parseFRDateDDMMYYYY(c.dateDebut);
+    const dEnd   = parseFRDateDDMMYYYY(c.dateFin);
+    if(!dStart || !dEnd) continue;
+
+    // ✅ nur Kurse im aktuellen Jahr (nach Startdatum)
     if(dStart < yearStart || dStart > yearEnd) continue;
 
-    const id = c.coursId || c.coursCode || c.id || "";
+    // ✅ NUR "stattgefunden": Kurs ist vorbei (dateFin < heute)
+    if(dEnd >= today0) continue;
+
     const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
 
     list.push({
-      id: String(id),
+      code,
       d: new Date(dStart.getTime()),
       booked
     });
   }
 
-  // sort by dateDebut then id for stability
-  list.sort((a,b)=> (a.d - b.d) || (a.id.localeCompare(b.id)));
+  // sort by dateDebut then code
+  list.sort((a,b)=> (a.d - b.d) || (a.code.localeCompare(b.code)));
 
-  // dedupe by id (falls mehrfach)
+  // ✅ dedupe by coursCode (EXACT wie Excel)
   const seen = new Set();
   const uniq = [];
   for(const it of list){
-    const key = it.id || ("_noid_" + it.d.getTime() + "_" + uniq.length);
-    if(seen.has(key)) continue;
-    seen.add(key);
+    if(seen.has(it.code)) continue;
+    seen.add(it.code);
     uniq.push(it);
   }
 
@@ -849,7 +856,6 @@ function computeMilestones(){
   let dateCourse350 = null;
   let dateParts2400 = null;
 
-  // YTD (bis heute) + YEAR total (bis Jahresende)
   let coursesYTD = 0;
   let partsYTD = 0;
 
@@ -857,19 +863,14 @@ function computeMilestones(){
   let partsYear = 0;
 
   for(const it of uniq){
-    // year totals
     coursesYear += 1;
-    partsYear += (Number.isFinite(it.booked) ? it.booked : 0);
+    partsYear += it.booked;
 
-    // ytd totals
-    if(it.d <= today0){
-      coursesYTD += 1;
-      partsYTD += (Number.isFinite(it.booked) ? it.booked : 0);
-    }
+    coursesYTD += 1;     // ✅ weil wir nur "stattgefunden" drin haben, ist YTD = total
+    partsYTD += it.booked;
 
-    // milestones (über das ganze Jahr auf Basis der geplanten Reihenfolge)
     coursesCum += 1;
-    partsCum += (Number.isFinite(it.booked) ? it.booked : 0);
+    partsCum += it.booked;
 
     if(!dateCourse350 && coursesCum >= TARGET_COURSES) dateCourse350 = it.d;
     if(!dateParts2400 && partsCum >= TARGET_PARTS) dateParts2400 = it.d;
