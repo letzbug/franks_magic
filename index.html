@@ -397,10 +397,11 @@
 
         <!-- ✅ NEU: Overshoot / Schwellen rechts -->
         <div class="goals">
-          <div class="goalTitle">
-            <h3 id="goalsTitle">Ziele (aus Datenbank)</h3>
-            <div class="small muted" id="goalScope">–</div>
-          </div>
+        <div class="goalTitle">
+  <h3 id="goalsTitle">Ziele (aus Datenbank)</h3>
+  <div class="small muted" id="goalScope">–</div>
+</div>
+<div class="small muted" id="goalDebug" style="margin:-6px 0 10px; line-height:1.35">–</div>
 
           <div class="goalGrid">
             <div class="goal">
@@ -467,6 +468,7 @@ const btnUniPopActive = el("btnUniPopActive");
 /* ✅ Ziele-Elemente */
 const goalScope = el("goalScope");
 const goalsTitle = el("goalsTitle");
+const goalDebug = el("goalDebug");
 
 const goalCoursesNow = el("goalCoursesNow");
 const goalCoursesBar = el("goalCoursesBar");
@@ -805,44 +807,54 @@ function computeMilestones(){
   const yearStart = new Date(year, 0, 1, 0,0,0,0);
   const yearEnd   = new Date(year, 11, 31, 23,59,59,999);
 
-  const today0 = new Date(now);
-  today0.setHours(0,0,0,0);
+  const today0 = new Date(now); today0.setHours(0,0,0,0);
 
   const uniq = new Map();
 
-  for(const c of rawCourses){
+  // Debug
+  let dbg_total = 0;
+  let dbg_passOrg = 0;
+  let dbg_noDateDebut = 0;
+  let dbg_outsideYear = 0;
+  let dbg_noAnyId = 0;
+  let dbg_added = 0;
+  let dbg_dupeKey = 0;
+  let dbg_ytd = 0;
 
+  for(const c of rawCourses){
+    dbg_total++;
     if(!c || typeof c !== "object") continue;
     if(!passesOrgFilter(c)) continue;
+    dbg_passOrg++;
 
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
-    if(!dStart) continue;
+    if(!dStart){ dbg_noDateDebut++; continue; }
 
-    // Nur aktuelles Jahr
-    if(dStart < yearStart || dStart > yearEnd) continue;
+    if(dStart < yearStart || dStart > yearEnd){ dbg_outsideYear++; continue; }
 
-    // Primary ID: coursId → id → coursCode
-    const primary =
-      (c.coursId != null && String(c.coursId).trim()) ||
-      (c.id != null && String(c.id).trim()) ||
-      (c.coursCode != null && String(c.coursCode).trim());
+    const coursId   = (c.coursId   != null) ? String(c.coursId).trim()   : "";
+    const id        = (c.id        != null) ? String(c.id).trim()        : "";
+    const coursCode = (c.coursCode != null) ? String(c.coursCode).trim() : "";
 
-    if(!primary) continue;
+    const primary = coursId || id || coursCode;
+    if(!primary){ dbg_noAnyId++; continue; }
 
-    const key = primary + "|" + ymdLocal(dStart);
+    // ✅ 1 Kurs = 1 Datensatz pro primary+dateDebut
+    const key = `${primary}|${ymdLocal(dStart)}`;
 
-    if(!uniq.has(key)){
-      const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
-
-      uniq.set(key, {
-        d: new Date(dStart.getTime()),
-        booked
-      });
+    if(uniq.has(key)){
+      dbg_dupeKey++;
+      continue;
     }
+
+    const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
+
+    uniq.set(key, { d: new Date(dStart.getTime()), booked });
+    dbg_added++;
+    if(dStart < today0) dbg_ytd++;
   }
 
   const list = Array.from(uniq.values()).sort((a,b)=>a.d-b.d);
-
   const listYTD = list.filter(x => x.d < today0);
 
   const TARGET_COURSES = 350;
@@ -863,7 +875,6 @@ function computeMilestones(){
   for(const x of listYTD){
     cCum++;
     pCum += x.booked;
-
     if(!dateCourse350 && cCum >= TARGET_COURSES) dateCourse350 = x.d;
     if(!dateParts2400 && pCum >= TARGET_PARTS) dateParts2400 = x.d;
   }
@@ -877,7 +888,17 @@ function computeMilestones(){
     coursesYear,
     partsYear,
     dateCourse350,
-    dateParts2400
+    dateParts2400,
+    dbg: {
+      total: dbg_total,
+      passOrg: dbg_passOrg,
+      noDateDebut: dbg_noDateDebut,
+      outsideYear: dbg_outsideYear,
+      noAnyId: dbg_noAnyId,
+      dupeKey: dbg_dupeKey,
+      added: dbg_added,
+      ytd: dbg_ytd
+    }
   };
 }
 
