@@ -423,8 +423,6 @@
               <div class="hintline" id="goalPartsHint">–</div>
             </div>
           </div>
-
-          <!-- (Hinweis-Text entfernt wie gewünscht) -->
         </div>
       </div>
     </aside>
@@ -544,7 +542,7 @@ function parseDurationToMinutes(s){
   if(typeof s !== "string") return null;
   const t = s.trim().toLowerCase();
 
-  const mh = t.match(/^(\d+)\s*h(?:\s*(\d+))?$/); // 1h40 / 2h
+  const mh = t.match(/^(\d+)\s*h(?:\s*(\d+))?$/);
   if(mh){
     const h = Number(mh[1]);
     const min = mh[2] ? Number(mh[2]) : 0;
@@ -600,7 +598,7 @@ function applyPreset(preset){
     toDate.value = ymdLocal(d);
   }else if(preset === "week"){
     const d = new Date(now);
-    const day = (d.getDay()+6)%7; // Mo=0
+    const day = (d.getDay()+6)%7;
     d.setDate(d.getDate()-day);
     d.setHours(0,0,0,0);
     const s = new Date(d);
@@ -788,7 +786,10 @@ tbody.addEventListener("click", (ev) => {
 });
 
 /* =========================
-   ✅ Ziele / Overshoot (Excel-like: unique coursCode, stattgefunden = dateDebut < heute)
+   ✅ Ziele / Overshoot
+   Excel-like: 1 Kurs = 1 Datensatz pro (coursCode || coursId || id) + dateDebut
+   Participants = nbInscrits (einmal pro Datensatz)
+   YTD = dateDebut < heute
    ========================= */
 function clamp(n,min,max){ return Math.max(min, Math.min(max, n)); }
 
@@ -807,23 +808,29 @@ function computeMilestones(){
   const today0 = new Date(now); today0.setHours(0,0,0,0);
 
   const listAllYear = [];
+  let missingCoursCode = 0;
 
   for(const c of rawCourses){
     if(!c || typeof c !== "object") continue;
     if(!passesOrgFilter(c)) continue;
 
-    const code = (c.coursCode ? String(c.coursCode).trim() : "");
+    const rawCoursCode = (c.coursCode != null) ? String(c.coursCode).trim() : "";
+    const fallbackId =
+      (c.coursId != null) ? String(c.coursId).trim()
+      : (c.id != null) ? String(c.id).trim()
+      : "";
+
+    const code = rawCoursCode || fallbackId;
     if(!code) continue;
+    if(!rawCoursCode) missingCoursCode += 1;
 
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
     if(!dStart) continue;
 
-    // ✅ nur Kurse im aktuellen Jahr (nach Startdatum)
     if(dStart < yearStart || dStart > yearEnd) continue;
 
     const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
 
-    // ✅ Excel-like “Zeile” = coursCode + dateDebut (1x zählen)
     const key = `${code}|${ymdLocal(dStart)}`;
 
     listAllYear.push({
@@ -834,10 +841,8 @@ function computeMilestones(){
     });
   }
 
-  // sort by dateDebut then code
   listAllYear.sort((a,b)=> (a.d - b.d) || (a.code.localeCompare(b.code)));
 
-  // ✅ dedupe by key (coursCode + dateDebut)
   const seen = new Set();
   const uniqYear = [];
   for(const it of listAllYear){
@@ -846,21 +851,17 @@ function computeMilestones(){
     uniqYear.push(it);
   }
 
-  // ✅ YTD = nur bis heute (stattgefunden)
   const uniqYTD = uniqYear.filter(it => it.d < today0);
 
   const TARGET_COURSES = 350;
   const TARGET_PARTS = 2400;
 
-  // Year totals (geplant laut DB im Jahr)
   const coursesYear = uniqYear.length;
   const partsYear = uniqYear.reduce((s,it)=> s + it.booked, 0);
 
-  // YTD totals (bis heute)
   const coursesYTD = uniqYTD.length;
   const partsYTD = uniqYTD.reduce((s,it)=> s + it.booked, 0);
 
-  // Milestones basierend auf YTD-Reihenfolge (chronologisch)
   let dateCourse350 = null;
   let dateParts2400 = null;
 
@@ -884,9 +885,11 @@ function computeMilestones(){
     coursesYear,
     partsYear,
     dateCourse350,
-    dateParts2400
+    dateParts2400,
+    missingCoursCode
   };
 }
+
 function renderGoals(){
   const m = computeMilestones();
 
@@ -908,14 +911,19 @@ function renderGoals(){
 
   const cMilestone = m.dateCourse350
     ? `<b>${fmtShortDate(m.dateCourse350)}</b>`
-    : `<b>nicht erreicht</b> (mit “stattgefunden”-Logik)`;
+    : `<b>nicht erreicht</b> (bis heute)`;
 
   goalCoursesMeta.innerHTML =
-    `YTD (stattgefunden): <b>${cNow}</b> Kurse<br>` +
+    `YTD (dateDebut < heute): <b>${cNow}</b> Kurse<br>` +
     `Overshoot Day (350): ${cMilestone}`;
 
-  goalCoursesHint.innerHTML =
-    `<span class="miniTag"><span class="dot ok"></span> Excel-like</span> unique <b>coursCode</b>, nur <b>dateDebut &lt; heute</b>`;
+  if(m.missingCoursCode){
+    goalCoursesHint.innerHTML =
+      `<span class="miniTag"><span class="dot warn"></span> Achtung</span> ${m.missingCoursCode} Einträge ohne <b>coursCode</b> → gezählt via <b>coursId/id</b>`;
+  }else{
+    goalCoursesHint.innerHTML =
+      `<span class="miniTag"><span class="dot ok"></span> Excel-like</span> 1 Kurs = (coursCode + dateDebut), Participants = nbInscrits`;
+  }
 
   // --- Participants 2400
   const pNow = m.partsYTD;
@@ -927,16 +935,15 @@ function renderGoals(){
 
   const pMilestone = m.dateParts2400
     ? `<b>${fmtShortDate(m.dateParts2400)}</b>`
-    : `<b>nicht erreicht</b> (mit “stattgefunden”-Logik)`;
+    : `<b>nicht erreicht</b> (bis heute)`;
 
   goalPartsMeta.innerHTML =
-    `YTD (stattgefunden): <b>${Math.round(pNow)}</b> Participants<br>` +
+    `YTD (dateDebut < heute): <b>${Math.round(pNow)}</b> Participants<br>` +
     `Schwelle (2400): ${pMilestone}`;
 
   goalPartsHint.innerHTML =
-    `<span class="miniTag"><span class="dot ok"></span> Summe</span> Σ <b>nbInscrits</b> über unique <b>coursCode</b>`;
+    `<span class="miniTag"><span class="dot ok"></span> Summe</span> Σ <b>nbInscrits</b> (einmal pro Kurs-Datensatz)`;
 }
-
 /* ========================= */
 
 function runQuery(){
@@ -976,8 +983,6 @@ function runQuery(){
 
   renderTable(filtered);
   renderKPIs(filtered, fd, td, fT, tT);
-
-  // ✅ Ziele rechts
   renderGoals();
 
   if(filtered.length === 0){
