@@ -834,41 +834,65 @@ function courseUniqueKey(c){
 
 function computeMilestones(){
   const now = luxNow();
-  const year = getTargetYear();
+  const year = now.getFullYear();
 
   const yearStart = new Date(year, 0, 1, 0,0,0,0);
-  const yearEnd = new Date(year, 11, 31, 23,59,59,999);
+  const yearEnd   = new Date(year, 11, 31, 23,59,59,999);
+  const today0    = new Date(now); today0.setHours(0,0,0,0);
 
-  // YTD "bis heute", aber sauber gegen das Ziel-Jahr geclamped
-  let today0 = new Date(now);
-  today0.setHours(0,0,0,0);
-  if(today0 < yearStart) today0 = new Date(yearStart.getTime() - 1);  // => YTD = 0
-  if(today0 > yearEnd) today0 = new Date(yearEnd.getTime());          // => YTD = Year totals
+  // ✅ eindeutiger Key: coursCode > coursId > id
+  function keyOf(c){
+    const code = (c && c.coursCode != null) ? String(c.coursCode).trim() : "";
+    if(code) return "code:" + code;
 
+    const cid = (c && c.coursId != null) ? String(c.coursId).trim() : "";
+    if(cid) return "cid:" + cid;
+
+    const id = (c && c.id != null) ? String(c.id).trim() : "";
+    if(id) return "id:" + id;
+
+    // letzter Notnagel
+    return "mix:" + (c && c.dateDebut ? String(c.dateDebut).trim() : "") + "|" + Math.random();
+  }
+
+  // ✅ Kurs zählt für Jahr, wenn er das Jahr überlappt
+  function overlapsYear(dStart, dEnd){
+    return !(dEnd < yearStart || dStart > yearEnd);
+  }
+
+  // ✅ Kurs zählt für YTD, wenn er bis heute überlappt (laufend oder schon vorbei)
+  //    (Kurse die erst nach heute starten, zählen NICHT in YTD)
+  function overlapsYTD(dStart, dEnd){
+    return !(dEnd < yearStart || dStart > today0);
+  }
+
+  // 1 Kurs = 1 Eintrag, Startdatum zum Sortieren
   const list = [];
   for(const c of rawCourses){
     if(!c || typeof c !== "object") continue;
     if(!passesOrgFilter(c)) continue;
 
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
-    if(!dStart) continue;
+    const dEnd   = parseFRDateDDMMYYYY(c.dateFin);
+    if(!dStart || !dEnd) continue;
 
-    if(dStart < yearStart || dStart > yearEnd) continue;
+    if(!overlapsYear(dStart, dEnd)) continue;
 
     const booked = Number.isFinite(Number(c.nbInscrits)) ? Number(c.nbInscrits) : 0;
 
     list.push({
-      key: courseUniqueKey(c),
-      idShown: String(c.coursId || c.coursCode || c.id || ""),
-      d: new Date(dStart.getTime()),
+      key: keyOf(c),
+      dSort: new Date(dStart.getTime()),
+      dStart,
+      dEnd,
       booked
     });
   }
 
-  // sort stable
-  list.sort((a,b)=> (a.d - b.d) || (a.key.localeCompare(b.key)));
+  // sort by start date for stable milestones
+  list.sort((a,b)=> (a.dSort - b.dSort) || (a.key.localeCompare(b.key)));
 
-  // ✅ dedupe NUR nach wirklich eindeutigem Key (id bevorzugt)
+  // dedupe
   const seen = new Set();
   const uniq = [];
   for(const it of list){
@@ -880,32 +904,28 @@ function computeMilestones(){
   const TARGET_COURSES = 350;
   const TARGET_PARTS = 2400;
 
-  let coursesCum = 0;
-  let partsCum = 0;
+  // --- Totals
+  let coursesYear = 0, partsYear = 0;
+  let coursesYTD  = 0, partsYTD  = 0;
 
-  let dateCourse350 = null;
-  let dateParts2400 = null;
-
-  let coursesYTD = 0;
-  let partsYTD = 0;
-
-  let coursesYear = 0;
-  let partsYear = 0;
+  // --- Milestones (über Jahres-Reihenfolge nach dateDebut)
+  let coursesCum = 0, partsCum = 0;
+  let dateCourse350 = null, dateParts2400 = null;
 
   for(const it of uniq){
     coursesYear += 1;
-    partsYear += (Number.isFinite(it.booked) ? it.booked : 0);
+    partsYear += it.booked;
 
-    if(it.d <= today0){
+    if(overlapsYTD(it.dStart, it.dEnd)){
       coursesYTD += 1;
-      partsYTD += (Number.isFinite(it.booked) ? it.booked : 0);
+      partsYTD += it.booked;
     }
 
     coursesCum += 1;
-    partsCum += (Number.isFinite(it.booked) ? it.booked : 0);
+    partsCum += it.booked;
 
-    if(!dateCourse350 && coursesCum >= TARGET_COURSES) dateCourse350 = it.d;
-    if(!dateParts2400 && partsCum >= TARGET_PARTS) dateParts2400 = it.d;
+    if(!dateCourse350 && coursesCum >= TARGET_COURSES) dateCourse350 = it.dSort;
+    if(!dateParts2400 && partsCum >= TARGET_PARTS) dateParts2400 = it.dSort;
   }
 
   return {
