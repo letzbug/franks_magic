@@ -934,6 +934,74 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "8018",
+      "localite" : "Strassen",
+      "nom" : "Pavillon de l'École Hueflach",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "7, rue du Cimetière"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "BP",
+   "categorieCodeUnipop" : "CIT",
+   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
+   "coursCode" : "BP-EN-38",
+   "coursId" : "BP-EN-38",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "07/03/2026",
+   "dateFin" : "14/03/2026",
+   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Mribah",
+      "prenom" : "Mehdi"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 07-03-2026 à 09:00 (durée 3h),\nSamedi 14-03-2026 à 09:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Samedi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Samedi"
+   } ],
+   "id" : 58133,
+   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Découvrir le GDL en anglais",
+   "nbInscrits" : 11,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxMzM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1273",
+         "localite" : "Luxembourg-Hamm",
+         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "13c, rue de Bitbourg"
+      },
+      "code" : "MFSVA",
+      "fax" : "+352 247-85730",
+      "mail" : "programme.zesummeliewen@fm.etat.lu",
+      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+      "nomContact" : "Programme",
+      "onlineReg" : true,
+      "prenomContact" : "Equipe",
+      "statut" : "MENFPS",
+      "telephone" : ".",
+      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+   },
+   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
       "codePostal" : "-",
       "localite" : "-",
       "nom" : "En ligne",
@@ -5454,7 +5522,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -20910,7 +20978,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -42474,6 +42542,85 @@
    "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 12 euros."
 }, {
    "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3590",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de ville de  Dudelange/ 51 61 21 538",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-21",
+   "coursId" : "CIN-LB-21",
+   "coursType" : "CLASSIQUE",
+   "cout" : 102.0,
+   "dateDebut" : "03/03/2026",
+   "dateFin" : "21/04/2026",
+   "dateInscription" : "Tous les jours sauf mercredi. \r\nCoursEnsemble@i-a.lu",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "34h",
+   "enseignants" : [ {
+      "nom" : "Tinelli",
+      "prenom" : "Sonja"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 17:45 (durée 2h), Jeudi à 17:45 (durée 2h), Vendredi à 17:45 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:45",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:45",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:45",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 65356,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 19,
+   "nbPlaces" : 20,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzNTY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3626",
+         "localite" : "Dudelange",
+         "nom" : "Inter-Actions",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "149, rue des Minières"
+      },
+      "code" : "IAD",
+      "mail" : "coursensemble@inter-actions.lu",
+      "nom" : "Ens. Quartiers Dudelange - Inter-Actions",
+      "nomContact" : "Colin",
+      "onlineReg" : true,
+      "prenomContact" : "Nancy",
+      "statut" : "PREST_EXT",
+      "telephone" : "51 61 21 538 / 26 56",
+      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -43526,7 +43673,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -48648,7 +48795,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 24,
    "niveau" : "B2.2 du CECRL",
    "onlineRegistration" : false,
@@ -48741,7 +48888,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 24,
    "niveau" : "C1 du CECRL",
    "onlineRegistration" : false,
@@ -49148,7 +49295,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
