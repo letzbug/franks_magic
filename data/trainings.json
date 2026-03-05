@@ -379,72 +379,72 @@
    "renseignements" : "Bitte bringen Sie zum Kurs: Nähmaschine, Nadeln, Stecknadeln, Stoff- & Bastelschere, Maßband, Lineal, Schneiderkreide, Verschlüsse, Nähgarn, stoff- & projektspezifisches Material."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
+      "codePostal" : "-",
+      "localite" : "-",
+      "nom" : "En ligne",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
+      "rueNumero" : "En ligne"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-COMMU-12",
-   "coursId" : "SCI-COMMU-12",
+   "categorieCode" : "BP",
+   "categorieCodeUnipop" : "CIT",
+   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
+   "coursCode" : "BP-EN-37",
+   "coursId" : "BP-EN-37",
    "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
+   "cout" : 0.0,
    "dateDebut" : "07/03/2026",
-   "dateFin" : "21/03/2026",
-   "description" : "Ever wondered why a gesture, word, or tone can mean something totally different to the 180 nationalities in Luxembourg? Culture shapes how we see ourselves, how we communicate, and how we connect. In this participative training, participants will:\r\nDiscover how their own culture influences their communication style and what it reveals about their behaviour, values, and relationships.\r\nDiscuss the fascinating world of high-context vs. low-context cultures, and why “direct” doesn’t always mean “rude.”\r\nLaugh and learn from real-life translation fails, quirky idioms, and cultural metaphors that reveal hidden truths about how we think, communicate, and interact with people from different backgrounds.\r\nGain practical tools to navigate conversations with clarity, empathy, and confidence, no matter what you do.\r\nLeave with more than just knowledge: Walk away with a personal “Cultural Communication Pledge” to turn awareness into action.\r\nReady to turn differences into bridges? Enrol now!",
-   "duree" : "6 leçons",
+   "dateFin" : "14/03/2026",
+   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
+   "duree" : "6h",
    "enseignants" : [ {
-      "nom" : "Berthier",
-      "prenom" : "Rolade"
+      "nom" : "Hiéronimus",
+      "prenom" : "Céline Anne"
    } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 07-03-2026 à 14:30 (durée 1h40), 14:30 (durée 1h40) et 14:30 (durée 1h40)",
+   "format" : "BLENDED",
+   "horairePrevu" : "Samedi 14-03-2026 à 13:00 (durée 3h),\nSamedi 07-03-2026 à 13:00 (durée 3h)",
    "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "14:30",
+      "duree" : "3h",
+      "heure" : "13:00",
       "jour" : "Samedi"
    }, {
-      "duree" : "1h40",
-      "heure" : "14:30",
-      "jour" : "Samedi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "14:30",
+      "duree" : "3h",
+      "heure" : "13:00",
       "jour" : "Samedi"
    } ],
-   "id" : 63823,
-   "intitule" : "Everyday Cross-Cultural Communication: The Art of Getting Along",
+   "id" : 58131,
+   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
-   "matiereCode" : "COMMU",
-   "matiereNom" : "Communication",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
+   "matiereCode" : "EN",
+   "matiereNom" : "Découvrir le GDL en anglais",
+   "nbInscrits" : 17,
+   "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MjM%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxMzE%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
+         "codePostal" : "1273",
+         "localite" : "Luxembourg-Hamm",
+         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
+         "rueNumero" : "13c, rue de Bitbourg"
       },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
+      "code" : "MFSVA",
+      "fax" : "+352 247-85730",
+      "mail" : "programme.zesummeliewen@fm.etat.lu",
+      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+      "nomContact" : "Programme",
       "onlineReg" : true,
+      "prenomContact" : "Equipe",
       "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
+      "telephone" : ".",
+      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+   },
+   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
       "codePostal" : "8018",
@@ -900,7 +900,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -17076,7 +17076,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -20788,6 +20788,74 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-8",
+   "coursId" : "IN-DIG-8",
+   "coursType" : "CLASSIQUE",
+   "cout" : 54.0,
+   "dateDebut" : "22/04/2026",
+   "dateFin" : "29/04/2026",
+   "description" : "Participants will learn how to explore the internet safely and avoid traps like phishing, scams, and ransomware. Through real-life examples and fun hands-on activities, you’ll discover how to protect your data, recognize fake websites, and keep your privacy intact. No technical background needed; just curiosity and your everyday internet experience!",
+   "duree" : "12 leçons",
+   "enseignants" : [ {
+      "nom" : "Adavoudi Jolfaei",
+      "prenom" : "Amirhossein"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 22-04-2026 à 17:10 (durée 3h20) et 17:10 (durée 3h20), Vendredi 24-04-2026 à 17:10 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 65479,
+   "intitule" : "Safe Browsing: How to Stay Smart and Secure Online",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0Nzk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
@@ -22219,7 +22287,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -42227,67 +42295,6 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-HIST-19",
-   "coursId" : "SCI-HIST-19",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "05/03/2026",
-   "dateFin" : "07/05/2026",
-   "description" : "D’Baugeschicht vun der Festung Lëtzebuerg vum Mëttelalter bis zu hirer Schläifung weist, wéi sech d’Anlag am Laf vun de Joerhonnerten entwéckelt huet, bis se am 19. Joerhonnert ofgeschaaft gouf.",
-   "duree" : "16 leçons",
-   "enseignants" : [ {
-      "nom" : "Wagner",
-      "prenom" : "Robert"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63837,
-   "intitule" : "D'Festung vu Lëtzebuerg, eng Geschicht",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "HIST",
-   "matiereNom" : "Histoire",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4Mzc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "De Formateur keeft d’Material fir de Cours an et gëtt en Remboursement vu 30 Euro gefrot."
 }, {
    "adresseCours" : {
       "codePostal" : "3524",
