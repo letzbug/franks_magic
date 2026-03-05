@@ -256,68 +256,6 @@
    "renseignements" : "La formatrice prend en charge la fourniture du matériel et les participant·e·s lui remboursent un montant de 53 euros."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-CERA-41",
-   "coursId" : "AR-CERA-41",
-   "coursType" : "CLASSIQUE",
-   "cout" : 175.5,
-   "dateDebut" : "07/03/2026",
-   "dateFin" : "11/07/2026",
-   "description" : "Venez participer à cet apprentissage qui vous apportera la maîtrise de vos gestes pour réaliser de belles pièces et où votre créativité pourra avec plaisir et satisfaction s'exprimer.\r\nVous apprendrez à utiliser les outils pour modelage, les différents procédés d'exécution et la malléabilité de l'argile.\r\nLaissez-vous aller à la création!",
-   "duree" : "39 leçons",
-   "enseignants" : [ {
-      "nom" : "Zaavy",
-      "prenom" : "Carole"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 08:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "08:30",
-      "jour" : "Samedi"
-   } ],
-   "id" : 65079,
-   "intitule" : "Cours de Modelage - Céramique",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CERA",
-   "matiereNom" : "Céramique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwNzk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Chaque participant doit apporter : un pain de terre auto-séchante, une planche 25×35cm, outils de modelage, vaporisateur, pot avec couvercle, 2 boîtes hermétiques, 2 sacs poubelles, pinces à linge, couteau, fourchette, pinceau, crayon et gomme."
-}, {
-   "adresseCours" : {
       "codePostal" : "9085",
       "localite" : "Ettelbruck",
       "nom" : "CNFPC Ettelbruck",
@@ -487,7 +425,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 11,
+   "nbInscrits" : 10,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3319,6 +3257,83 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1513",
+   "coursId" : "LA-FR-1513",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "16/03/2026",
+   "dateFin" : "11/05/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre la description simple d’une personne ou d’un objet.\r\n", "comprendre des questions simples : registre formel ou familier. ", "comprendre des indications simples (toutes heures, orientation.…) \r\n", "comprendre des expressions de quantité" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "parler simplement : - de son environnement quotidien ; - de sa famille et de ses amis ; - de son travail ; - de sa santé ; - de ses goûts et loisirs.", "décrire simplement quelqu’un ou quelque chose, des lieux, son environnement, ses conditions de vie \r\n", "parler simplement d’actions futures. \r\n", "utiliser des formules de politesse\r\n" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "parler simplement de soi et de ses proches et répondre à des questions", " prendre un rendez-vous, le reporter ou l’annuler (se situer dans le temps) ", "répondre par l’affirmative ou la négative \r\n", "demander un service ou une information ", "utiliser des formules d’adresse et de congé\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire des messages courts pour communiquer ou demander des informations" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 14:30 (durée 2h30), Mardi à 14:30 (durée 2h30), Mercredi à 14:30 (durée 2h30), Jeudi à 14:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 65472,
+   "intitule" : "Français, Communication orale",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Niveau A1.1 acquis",
+   "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
    "coursCode" : "LA-FR-1414",
    "coursId" : "LA-FR-1414",
    "coursType" : "CLASSIQUE",
@@ -3505,10 +3520,33 @@
       "domaine" : "INFORMATIQUE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jacquet",
+      "prenom" : "Annie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 14:00 (durée 2h), Mardi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65103,
    "intitule" : "Alphabétisation et informatique",
    "langueCoursCode" : "FR",
@@ -3659,10 +3697,25 @@
       "domaine" : "Grammaire"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jacquet",
+      "prenom" : "Annie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63742,
    "intitule" : "Cours de renforcement grammatical",
    "langueCoursCode" : "FR",
@@ -6269,10 +6322,21 @@
       "domaine" : "Mündliche Interaktion"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Wallenstein",
+      "prenom" : "Jeannette"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 65370,
    "intitule" : "Conversation en langue allemande",
    "langueCoursCode" : "DE",
@@ -6457,6 +6521,85 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "niveau C1.1 acquis"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2730",
+      "localite" : "Luxembourg",
+      "nom" : "Salle de \"Grupo Amizade Caboverdiana\"",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19 Rue Michel Welter"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1514",
+   "coursId" : "LA-FR-1514",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "13/04/2026",
+   "dateFin" : "10/06/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Peut indiquer qu'il/elle ne comprend pas ce qui se dit \r\n", "Peut comprendre des mots familiers, des expressions très courantes, simples et concrètes de la vie de tous les jours \r\n", " Peut comprendre les chiffres, les prix, les couleurs, l'heure (heure entière, demi-heure) et la date \r\n", "Peut comprendre et suivre des consignes de base pour réaliser différents exercices d'écoute-compréhension et des instructions simples qui lui sont adressées lentement \r\n", "Peut comprendre des questions \r\n", "Peut comprendre des indications brèves et simples  \r\n\r\n", " Peut comprendre des instructions pour s'orienter ", "Peut comprendre des annonces publiques à condition qu'elles soient brèves: informations aux voyageurs  " ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ " Peut comprendre des phrases simples donnant des informations de base sur la vie quotidienne, dans la  retranscription de dialogues", "Peut lire pour s'orienter \r\n\r\n         ", "   Dans un courrier administratif :\r\n\r\nPeut repérer des formules de politesse ", "  Dans un courrier administratif :\r\nPeut comprendre l'objet de la lettre : en repérant les mots-clés ;" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "Peut se présenter et présenter quelqu'un (nom, prénom, âge, nationalité, profession, situation de famille) \r\n", "Peut donner des infos sur soi-même ou autrui (adresse / e-mail, numéro de téléphone, adresse postale) \r\n" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "Peut entrer en contact avec qqn \r\n", "Peut utiliser des expressions élémentaires de salutation et de congé \r\n", "Peut poser et répondre à des questions personnelles simples (peut-être à condition de pouvoir faire répéter la demande et si le débit est lent et la langue clairement articulée)  ", "Peut désigner qqch ou qqn, demander le prix d'un objet : combien ça coûte ", " Peut donner et prendre rendez-vous \r\n", "Peut répondre à des questions simples ", " Peut dire ce qu'il aime ou  n'aime pas \r\n", "Peut accepter ou refuser une offre ou une invitation \r\n", "Possède un répertoire limité de courtes expressions mémorisées couvrant les premières nécessités vitales des situations prévisibles \r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "Peut recopier des mots entendus dans un dialogue ( des mots-clés présentés sous forme de liste) \r\n", "Peut remplir un formulaire administratif . \r\n" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65473,
+   "intitule" : "Français, pratique de l'oral dans la vie quotidienne",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "renseignements" : "public visé: personnes  ayant  suivi des cours d'alphabétisation mais en difficulté d'apprentissage  à l' écrit"
 }, {
    "adresseCours" : {
       "codePostal" : "3524",
@@ -7748,10 +7891,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Dobrikova",
+      "prenom" : "Dita"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 14:30 (durée 3h), Mardi à 14:30 (durée 3h), Mercredi à 14:30 (durée 3h), Jeudi à 14:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65231,
    "intitule" : "Anglais intensif, culture et citoyenneté",
    "langueCoursCode" : "EN",
@@ -8367,10 +8529,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Dobrikova",
+      "prenom" : "Dita"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:30 (durée 3h), Mardi à 09:30 (durée 3h), Mercredi à 09:30 (durée 3h), Jeudi à 09:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65235,
    "intitule" : "Anglais, intensif Culture et Citoyenneté",
    "langueCoursCode" : "EN",
@@ -10429,10 +10610,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bllaca",
+      "prenom" : "Rezarta"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63877,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -10509,10 +10709,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bllaca",
+      "prenom" : "Rezarta"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63876,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -10766,10 +10985,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Foglieni",
+      "prenom" : "Daniela"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63874,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -12469,10 +12707,29 @@
       "domaine" : "Schriftlicher Ausdruck"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Gross",
+      "prenom" : "Stephan"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 18:30 (durée 3h), Mardi à 18:30 (durée 3h), Mercredi à 18:30 (durée 3h), Jeudi à 18:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63675,
    "intitule" : "Allemand, culture et citoyenneté",
    "langueCoursCode" : "DE",
@@ -15388,10 +15645,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Vilmus",
+      "prenom" : "Audrey"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63875,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -16617,10 +16893,21 @@
       "domaine" : "Schriftlicher Ausdruck"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Gross",
+      "prenom" : "Stephan"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 15:00 (durée 3h), Jeudi à 15:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "15:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "15:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63668,
    "intitule" : "Allemand, Culture et Citoyenneté intensif",
    "langueCoursCode" : "DE",
@@ -19975,17 +20262,32 @@
       "domaine" : "Tableurs"
    } ],
    "duree" : "20h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 16:00 (durée 2h), Mercredi à 16:00 (durée 2h), Vendredi à 16:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65355,
    "intitule" : "Excel 2/2",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "TAB",
    "matiereNom" : "Tableurs",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -20070,7 +20372,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -20845,7 +21147,8 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   }
+   },
+   "renseignements" : "Mercredi  22-04-2026 \t\r\nVendredi 24-04-2026\r\nMercredi  29-04-2026 \t"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -20937,10 +21240,21 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30 et vendredi de 9h30 à 13h00",
    "description" : "Apprendre à créer et à formater un document de texte court et être en mesure de copier et de déplacer du texte au sein d'un document ou entre les documents. Acquérir des connaissances dans l'utilisation d'un programme de présentation à l'ordinateur. Comprendre les termes fondamentaux concernant le traitement de calcul à l'ordinateur.",
    "duree" : "80h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi à 08:00 (durée 4h), Samedi à 08:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Samedi"
+   } ],
    "id" : 65236,
    "intitule" : "Applications bureautiques",
    "langueCoursCode" : "FR",
@@ -21801,10 +22115,29 @@
       "domaine" : "Schriftlicher Ausdruck"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Wallenstein",
+      "prenom" : "Jeannette"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63671,
    "intitule" : "Allemand, Culture et Citoyenneté intensif",
    "langueCoursCode" : "DE",
@@ -22509,6 +22842,85 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "renseignements" : "public visé: personnes  ayant  suivi des cours d'alphabétisation mais en difficulté d'apprentissage  à l' écrit"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1921",
+      "localite" : "Luxembourg",
+      "nom" : "lycée de garçons",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place Auguste Laurent"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1328",
+   "coursId" : "LA-FR-1328",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "04/05/2026",
+   "dateFin" : "11/06/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
+   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. Peut communiquer lors de tâches simples et habituelles sur des sujets familiers. Peut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats",
+   "domainesCompetences" : [ {
+      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "reconnaître des noms, mots et expressions courants", "comprendre des messages simples (sms ou de type « carte postale ») ", "suivre des indications brèves et simples" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) ", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "questionner quelqu’un sur son identité, son travail, ses loisirs, son environnement et répondre à des questions analogues ", "utiliser des formules (basiques) d’adresse et de congé \r\n", "demander un prix\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un SMS/message basique (pour donner rdv par exemple)\r\n", " remplir un formulaire d’inscription \r\n", "se présenter brièvement\r\n" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 14:30 (durée 2h30), Mardi à 14:30 (durée 2h30), Mercredi à 14:30 (durée 2h30), Jeudi à 14:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 63767,
+   "intitule" : "Français, pratique de l'oral dans la vie quotidienne",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation acquise et A1 oral"
 }, {
    "adresseCours" : {
       "codePostal" : "6635",
@@ -23827,67 +24239,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge de fournir tout le matériel nécessaire pour l'atelier, avec un remboursement de 50 euros. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-94",
-   "coursId" : "SO-YOG-94",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "16/05/2026",
-   "dateFin" : "16/05/2026",
-   "description" : "Cet atelier ludique et dynamique propose de vivre le rire comme catalyseur de lien social. À travers des exercices collectifs, des jeux interactifs et des rires stimulés, les participants découvrent la puissance du rire pour renforcer la cohésion, développer la confiance mutuelle et créer un sentiment d’appartenance. Ils expérimentent la joie partagée, la légèreté et la convivialité tout en apprenant à relâcher les tensions et à mieux communiquer. Que ce soit dans un cadre professionnel, associatif ou familial, cet atelier transforme les interactions en moments positifs et mémorables. En cultivant le plaisir collectif, il offre un espace sécurisant où chacun peut s’exprimer librement et s’épanouir. Une expérience unique qui allie bien-être, complicité et rire contagieux.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Dos Santos Tomás",
-      "prenom" : "Sónia Isabel"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 16-05-2026 à 12:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 64046,
-   "intitule" : "Workshop - Créer du lien : cohésion et plaisir collectif par le Yoga du Rire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwNDY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
 }, {
    "adresseCours" : {
       "codePostal" : "4802",
@@ -26724,10 +27075,33 @@
       "domaine" : "INFORMATIQUE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jacquet",
+      "prenom" : "Annie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 14:00 (durée 2h), Mardi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65246,
    "intitule" : "Alphabétisation et informatique",
    "langueCoursCode" : "FR",
@@ -27641,10 +28015,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Dobrikova",
+      "prenom" : "Dita"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:30 (durée 3h), Mardi à 09:30 (durée 3h), Mercredi à 09:30 (durée 3h), Jeudi à 09:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65234,
    "intitule" : "Anglais, intensif Culture et Citoyenneté",
    "langueCoursCode" : "EN",
@@ -27716,10 +28109,29 @@
       "domaine" : "interaction orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Dobrikova",
+      "prenom" : "Dita"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 14:30 (durée 3h), Mardi à 14:30 (durée 3h), Mercredi à 14:30 (durée 3h), Jeudi à 14:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65232,
    "intitule" : "Anglais culture et citoyenneté intensif",
    "langueCoursCode" : "EN",
@@ -28307,10 +28719,25 @@
       "domaine" : "Grammaire"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jacquet",
+      "prenom" : "Annie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63743,
    "intitule" : "Cours de renforcement grammatical",
    "langueCoursCode" : "FR",
@@ -28530,10 +28957,29 @@
       "domaine" : "Schriftlicher Ausdruck"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Gross",
+      "prenom" : "Stephan"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 18:30 (durée 3h), Mardi à 18:30 (durée 3h), Mercredi à 18:30 (durée 3h), Jeudi à 18:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63673,
    "intitule" : "Allemand, Culture et Citoyenneté intensif",
    "langueCoursCode" : "DE",
@@ -28609,10 +29055,25 @@
       "domaine" : "Références et révisions "
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Peseiro",
+      "prenom" : "Donzilio"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 18:00 (durée 2h), Mardi à 18:00 (durée 2h), Mercredi à 18:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 63665,
    "intitule" : "Word",
    "langueCoursCode" : "FR",
@@ -31701,10 +32162,33 @@
       "domaine" : "Schriftlicher Ausdruck"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Wallenstein",
+      "prenom" : "Jeannette"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63676,
    "intitule" : "Allemand, Culture et Citoyenneté intensif",
    "langueCoursCode" : "DE",
@@ -41958,7 +42442,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "COUT",
    "matiereNom" : "Couture",
-   "nbInscrits" : 11,
+   "nbInscrits" : 10,
    "nbPlaces" : 11,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -42146,7 +42630,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PIL",
    "matiereNom" : "Pilates",
-   "nbInscrits" : 10,
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -42654,7 +43138,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "DI",
    "matiereNom" : "Design d'intérieur",
-   "nbInscrits" : 12,
+   "nbInscrits" : 11,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -43359,7 +43843,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "GEM",
    "matiereNom" : "Gemmologie",
-   "nbInscrits" : 9,
+   "nbInscrits" : 8,
    "nbPlaces" : 9,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -54238,10 +54722,25 @@
       "domaine" : "MS POWER POINT"
    } ],
    "duree" : "80h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Peseiro",
+      "prenom" : "Donzilio"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 18:00 (durée 2h), Mardi à 18:00 (durée 2h), Mercredi à 18:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 63662,
    "intitule" : "Applications bureautiques",
    "langueCoursCode" : "FR",
