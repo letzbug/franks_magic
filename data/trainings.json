@@ -1768,7 +1768,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -2328,7 +2328,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SAN",
    "matiereNom" : "Santé",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 200,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2666,10 +2666,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jacquet",
+      "prenom" : "Annie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 16:00 (durée 2h), Mardi à 16:00 (durée 2h), Mercredi à 16:00 (durée 2h), Jeudi à 16:00 (durée 2h), Vendredi à 16:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65102,
    "intitule" : "Français, culture et citoyenneté Intensif",
    "langueCoursCode" : "FR",
@@ -2742,10 +2765,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bassor",
+      "prenom" : "Mélissa"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65101,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -2821,10 +2867,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Naciri Mohamed-El",
+      "prenom" : "Mustapha"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h), Vendredi à 17:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65100,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -2900,10 +2969,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Szachulska",
+      "prenom" : "Beata"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65099,
    "intitule" : "Français, culture et citoyenneté Intensif",
    "langueCoursCode" : "FR",
@@ -2979,10 +3071,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bassor",
+      "prenom" : "Mélissa"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:00 (durée 1h40), Mardi à 12:00 (durée 1h40), Mercredi à 12:00 (durée 1h40), Jeudi à 12:00 (durée 1h40), Vendredi à 12:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65098,
    "intitule" : "Français, culture et citoyenneté Intensif",
    "langueCoursCode" : "FR",
@@ -3058,10 +3173,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Duka",
+      "prenom" : "Chiara"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:00 (durée 1h40), Mardi à 12:00 (durée 1h40), Mercredi à 12:00 (durée 1h40), Jeudi à 12:00 (durée 1h40), Vendredi à 12:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65097,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -3138,10 +3276,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Selemani",
+      "prenom" : "Himidati"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 08:45 (durée 2h30), Mardi à 08:45 (durée 2h30), Mercredi à 08:45 (durée 2h30), Jeudi à 08:45 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65096,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -3279,10 +3436,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Foglieni",
+      "prenom" : "Daniela"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:30 (durée 2h30), Mardi à 14:30 (durée 2h30), Mercredi à 14:30 (durée 2h30), Jeudi à 14:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65472,
    "intitule" : "Français, Communication orale",
    "langueCoursCode" : "FR",
@@ -3359,10 +3535,33 @@
       "domaine" : "compréhension orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Naciri Mohamed-El",
+      "prenom" : "Mustapha"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h), Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h), Vendredi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65122,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -3438,10 +3637,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sané",
+      "prenom" : "Abdou"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 11:00 (durée 2h), Mardi à 11:00 (durée 2h), Mercredi à 11:00 (durée 2h), Jeudi à 11:00 (durée 2h), Vendredi à 11:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65187,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -6487,10 +6709,29 @@
       "domaine" : "interaction écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Steiner",
+      "prenom" : "Rachel"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65208,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -6566,10 +6807,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Postel-Cognoli",
+      "prenom" : "Bénédicte"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65473,
    "intitule" : "Français, pratique de l'oral dans la vie quotidienne",
    "langueCoursCode" : "FR",
@@ -6717,10 +6977,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lafaye",
+      "prenom" : "Stéphanie"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65261,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -6789,10 +7068,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Hoffmann",
+      "prenom" : "Marie Marguerite"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65230,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -6858,10 +7156,29 @@
       "domaine" : "Mëndlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Glod",
+      "prenom" : "Yannick"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65229,
    "intitule" : "Luxembourgeois oral , culture et citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -6934,10 +7251,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Hoffmann",
+      "prenom" : "Marie Marguerite"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:30 (durée 2h), Mardi à 14:30 (durée 2h), Mercredi à 14:30 (durée 2h), Jeudi à 14:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65228,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -7003,10 +7339,29 @@
       "domaine" : "Mëndlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Hoffmann",
+      "prenom" : "Marie Marguerite"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h), Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65227,
    "intitule" : "Luxembourgeois oral , culture et citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -7147,10 +7502,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Siebenaler",
+      "prenom" : "Monique"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65224,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -7374,10 +7748,29 @@
       "domaine" : "Expression orale en continu"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Marsal",
+      "prenom" : "Gayane"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65193,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -7450,10 +7843,29 @@
       "domaine" : "interaction orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Relativo",
+      "prenom" : "Camille"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65192,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -7529,10 +7941,29 @@
       "domaine" : "interaction orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Steiner",
+      "prenom" : "Rachel"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 09:30 (durée 3h), Mardi à 09:30 (durée 3h), Mercredi à 09:30 (durée 3h), Jeudi à 09:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65191,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -7608,10 +8039,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Gil",
+      "prenom" : "Sabine"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65190,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -7684,10 +8134,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Amoudru",
+      "prenom" : "Armelle"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65189,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -7985,10 +8454,29 @@
       "domaine" : "Expression orale en continu"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bassor",
+      "prenom" : "Mélissa"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 16:00 (durée 2h), Mardi à 16:00 (durée 2h), Mercredi à 16:00 (durée 2h), Jeudi à 16:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65207,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8064,10 +8552,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Isselin",
+      "prenom" : "Joffrey"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:30 (durée 2h), Mardi à 14:30 (durée 2h), Mercredi à 14:30 (durée 2h), Jeudi à 14:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65206,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8140,10 +8647,25 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Drissi",
+      "prenom" : "Imen"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 16:20 (durée 2h), Mercredi à 16:20 (durée 2h), Vendredi à 16:20 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:20",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:20",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:20",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65205,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8219,10 +8741,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Scheid",
+      "prenom" : "Nathalie"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:30 (durée 2h), Mardi à 14:30 (durée 2h), Mercredi à 14:30 (durée 2h), Jeudi à 14:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65204,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8299,10 +8840,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Szachulska",
+      "prenom" : "Beata"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:30 (durée 2h), Mardi à 14:30 (durée 2h), Mercredi à 14:30 (durée 2h), Jeudi à 14:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65202,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8378,10 +8938,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Debuchy",
+      "prenom" : "Isabelle"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:30 (durée 2h), Mardi à 14:30 (durée 2h), Mercredi à 14:30 (durée 2h), Jeudi à 14:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65201,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8454,10 +9033,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "120h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schiltz",
+      "prenom" : "Isabelle"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 08:00 (durée 3h), Mardi à 08:00 (durée 3h), Jeudi à 08:00 (durée 3h), Vendredi à 08:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65413,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -8627,10 +9225,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Scheid",
+      "prenom" : "Nathalie"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65215,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8707,10 +9324,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Dagoreau",
+      "prenom" : "Alain"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h), Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65214,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8786,10 +9422,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Chouaya",
+      "prenom" : "Salem"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 2h30), Mardi à 18:00 (durée 2h30), Mercredi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65218,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8866,10 +9521,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sané",
+      "prenom" : "Abdou"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 2h30), Mardi à 18:00 (durée 2h30), Mercredi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65217,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -8946,10 +9620,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pulti",
+      "prenom" : "Orjona"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 1h40), Mardi à 18:00 (durée 1h40), Mercredi à 18:00 (durée 1h40), Jeudi à 18:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65216,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9022,10 +9715,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Relativo",
+      "prenom" : "Soraya"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 16:00 (durée 2h), Mardi à 16:00 (durée 2h), Mercredi à 16:00 (durée 2h), Jeudi à 16:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65213,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9101,10 +9813,29 @@
       "domaine" : "Expression orale en continu"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Scheid",
+      "prenom" : "Nathalie"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h), Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65212,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9180,10 +9911,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Vilmus",
+      "prenom" : "Audrey"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65211,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9255,10 +10005,21 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Swartenbroekx",
+      "prenom" : "Anne"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 65210,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9334,10 +10095,29 @@
       "domaine" : "interaction orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Postel-Cognoli",
+      "prenom" : "Bénédicte"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 17:15 (durée 2h), Mardi à 17:15 (durée 2h), Mercredi à 17:15 (durée 2h), Jeudi à 17:15 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:15",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:15",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65209,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9413,10 +10193,29 @@
       "domaine" : "Expression orale en continu"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Marsal",
+      "prenom" : "Gayane"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:45 (durée 3h), Mardi à 12:45 (durée 3h), Mercredi à 12:45 (durée 3h), Jeudi à 12:45 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "12:45",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "12:45",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "12:45",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "12:45",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65200,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9492,10 +10291,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Blayo-Kedra",
+      "prenom" : "Elisabeth"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 10:30 (durée 3h), Mardi à 10:30 (durée 3h), Jeudi à 10:30 (durée 3h), Vendredi à 10:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "10:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "10:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "10:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "10:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65199,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9572,10 +10390,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Selemani",
+      "prenom" : "Himidati"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 12:30 (durée 2h30), Mardi à 12:30 (durée 2h30), Mercredi à 12:30 (durée 2h30), Jeudi à 12:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "12:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "12:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "12:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "12:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65198,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9651,10 +10488,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Isselin",
+      "prenom" : "Joffrey"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65197,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9726,10 +10582,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Relativo",
+      "prenom" : "Soraya"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65196,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -9793,10 +10668,17 @@
       "domaine" : "compréhension orale et interaction orale"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Blayo-Kedra",
+      "prenom" : "Elisabeth"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 14:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   } ],
    "id" : 65195,
    "intitule" : "Atelier de conversation",
    "langueCoursCode" : "FR",
@@ -9863,10 +10745,17 @@
       "domaine" : "INTERAGIR"
    } ],
    "duree" : "20h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Swartenbroekx",
+      "prenom" : "Anne"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 10:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   } ],
    "id" : 65194,
    "intitule" : "Atelier de conversation",
    "langueCoursCode" : "FR",
@@ -9940,10 +10829,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Siebenaler",
+      "prenom" : "Monique"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65223,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -10009,10 +10917,29 @@
       "domaine" : "Mëndlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Maury",
+      "prenom" : "Henry"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65222,
    "intitule" : "Luxembourgeois oral , culture et citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -10085,10 +11012,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schiltz",
+      "prenom" : "Frédéric"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 16:00 (durée 2h), Mardi à 16:00 (durée 2h), Mercredi à 16:00 (durée 2h), Jeudi à 16:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65221,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -10161,10 +11107,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schiltz",
+      "prenom" : "Frédéric"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:00 (durée 2h), Mardi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65220,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -10233,10 +11198,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schiltz",
+      "prenom" : "Frédéric"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65219,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -10451,10 +11435,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Blayo-Kedra",
+      "prenom" : "Elisabeth"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h), Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63879,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -10531,10 +11534,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Selemani",
+      "prenom" : "Himidati"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63878,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -11724,10 +12746,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Maury",
+      "prenom" : "Henry"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63685,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -11800,10 +12841,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schiltz",
+      "prenom" : "Isabelle"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63684,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -26063,10 +27123,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bassor",
+      "prenom" : "Mélissa"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:00 (durée 1h40), Mardi à 12:00 (durée 1h40), Mercredi à 12:00 (durée 1h40), Jeudi à 12:00 (durée 1h40), Vendredi à 12:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65259,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26138,10 +27221,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Vilmus",
+      "prenom" : "Audrey"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65258,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26217,10 +27319,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Naciri Mohamed-El",
+      "prenom" : "Mustapha"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h), Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h), Vendredi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65257,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26296,10 +27421,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jacquet",
+      "prenom" : "Annie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 16:00 (durée 1h40), Mardi à 16:00 (durée 1h40), Mercredi à 16:00 (durée 1h40), Jeudi à 16:00 (durée 1h40), Vendredi à 16:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "16:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "16:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "16:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "16:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65256,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26376,10 +27524,29 @@
       "domaine" : "interaction orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Marsal",
+      "prenom" : "Gayane"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:45 (durée 3h), Mardi à 12:45 (durée 3h), Mercredi à 12:45 (durée 3h), Jeudi à 12:45 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "12:45",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "12:45",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "12:45",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "12:45",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65255,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26455,10 +27622,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Chouaya",
+      "prenom" : "Salem"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 2h30), Mardi à 18:00 (durée 2h30), Mercredi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65254,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26535,10 +27721,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sané",
+      "prenom" : "Abdou"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 2h30), Mardi à 18:00 (durée 2h30), Mercredi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65253,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26615,10 +27820,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Duka",
+      "prenom" : "Chiara"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:00 (durée 1h40), Mardi à 12:00 (durée 1h40), Mercredi à 12:00 (durée 1h40), Jeudi à 12:00 (durée 1h40), Vendredi à 12:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65252,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26695,10 +27923,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Naciri Mohamed-El",
+      "prenom" : "Mustapha"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h), Vendredi à 17:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65251,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26775,10 +28026,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sané",
+      "prenom" : "Abdou"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 11:00 (durée 2h), Mardi à 11:00 (durée 2h), Mercredi à 11:00 (durée 2h), Jeudi à 11:00 (durée 2h), Vendredi à 11:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65250,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26855,10 +28129,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Szachulska",
+      "prenom" : "Beata"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65249,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -26935,10 +28232,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Selemani",
+      "prenom" : "Himidati"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 12:30 (durée 3h), Mardi à 12:30 (durée 3h), Mercredi à 12:30 (durée 3h), Jeudi à 12:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "12:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "12:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "12:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "12:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65248,
    "intitule" : "Français, culture et citoyenneté Intensif",
    "langueCoursCode" : "FR",
@@ -26993,10 +28309,29 @@
    "dateFin" : "06/07/2026",
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Steiner",
+      "prenom" : "Rachel"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65247,
    "intitule" : "Français, culture et citoyenneté",
    "langueCoursCode" : "FR",
@@ -27250,10 +28585,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lafaye",
+      "prenom" : "Stéphanie"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65262,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -27325,10 +28679,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Amoudru",
+      "prenom" : "Armelle"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65244,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -27400,10 +28773,29 @@
       "domaine" : "interaction orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Marsal",
+      "prenom" : "Gayane"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65243,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -27475,10 +28867,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Relativo",
+      "prenom" : "Camille"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65242,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -27555,10 +28966,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Steiner",
+      "prenom" : "Rachel"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 09:30 (durée 3h), Mardi à 09:30 (durée 3h), Mercredi à 09:30 (durée 3h), Jeudi à 09:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65241,
    "intitule" : "Français, culture et citoyenneté Intensif",
    "langueCoursCode" : "FR",
@@ -27630,10 +29060,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Foglieni",
+      "prenom" : "Daniela"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65240,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -27709,10 +29158,29 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Selemani",
+      "prenom" : "Himidati"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 08:45 (durée 2h30), Mardi à 08:45 (durée 2h30), Mercredi à 08:45 (durée 2h30), Jeudi à 08:45 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65239,
    "intitule" : "Français, culture et citoyenneté Intensif",
    "langueCoursCode" : "FR",
@@ -27784,10 +29252,33 @@
       "domaine" : "expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bassor",
+      "prenom" : "Mélissa"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 2h), Mardi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h), Jeudi à 09:00 (durée 2h), Vendredi à 09:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65238,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -27863,10 +29354,29 @@
       "domaine" : "Expression orale en continu"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Blayo-Kedra",
+      "prenom" : "Elisabeth"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 10:30 (durée 3h), Mardi à 10:30 (durée 3h), Jeudi à 10:30 (durée 3h), Vendredi à 10:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "10:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "10:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "10:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "10:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65237,
    "intitule" : "Français, Culture et Citoyenneté intensif",
    "langueCoursCode" : "FR",
@@ -28164,6 +29674,101 @@
    "prerequis" : "niveau A2.3 "
 }, {
    "adresseCours" : {
+      "codePostal" : "1921",
+      "localite" : "Luxembourg",
+      "nom" : "lycée de garçons",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place Auguste Laurent"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1515",
+   "coursId" : "LA-FR-1515",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "13/07/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n", " suivre des indications brèves et simples\r\n", "comprendre des messages simples" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) \r\n", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
+      "domaine" : "expression orale en continu "
+   }, {
+      "competences" : [ "questionner quelqu’un sur son identité, son travail, ses loisirs, son environnement et répondre à des questions analogues ", "utiliser des formules (basiques) d’adresse et de congé \r\n", "demander un prix\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un SMS/message basique (pour donner rdv par exemple) \r\n", " remplir un formulaire d’inscription " ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Foglieni",
+      "prenom" : "Daniela"
+   } ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 14:30 (durée 2h30), Mardi à 14:30 (durée 2h30), Mercredi à 14:30 (durée 2h30), Jeudi à 14:30 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65477,
+   "intitule" : "Français, commuication orale",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation acquise"
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -28200,10 +29805,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Siebenaler",
+      "prenom" : "Monique"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65270,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -28272,10 +29896,29 @@
       "domaine" : "Schrëftlechen Ausdrock"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Glod",
+      "prenom" : "Yannick"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65269,
    "intitule" : "luxembourgeois, culture et citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -28344,10 +29987,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schiltz",
+      "prenom" : "Frédéric"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65268,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -28413,10 +30075,29 @@
       "domaine" : "Mëndlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Maury",
+      "prenom" : "Henry"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65267,
    "intitule" : "Luxembourgeois oral , culture et citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -28489,10 +30170,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Siebenaler",
+      "prenom" : "Monique"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65266,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -28565,10 +30265,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schiltz",
+      "prenom" : "Isabelle"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65265,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -28637,10 +30356,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Maury",
+      "prenom" : "Henry"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65264,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -46867,7 +48605,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -48191,7 +49929,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "B1.3 du CECRL",
    "onlineRegistration" : true,
