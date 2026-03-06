@@ -568,7 +568,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 17,
+   "nbInscrits" : 19,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -644,7 +644,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -7669,82 +7669,6 @@
    "prerequis" : "alphabétisation requise"
 }, {
    "adresseCours" : {
-      "codePostal" : "1921",
-      "localite" : "Luxembourg",
-      "nom" : "lycée de garçons",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place Auguste Laurent"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie-Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-CFLI-1",
-   "coursId" : "LA-CFLI-1",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "10/06/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre la description simple d’une personne ou d’un objet.\r\n", "comprendre des questions simples : registre formel ou familier. \r\n", " comprendre des indications simples (toutes heures, orientation.…) \r\n", "comprendre des expressions de quantité \r\n", "comprendre des instructions pour s'orienter" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "parler simplement : - de son environnement quotidien ; - de sa famille et de ses amis ; - de son travail ; - de sa santé ; - de ses goûts et loisirs.", "décrire simplement quelqu’un ou quelque chose, des lieux, son environnement, ses conditions de vie ", "parler simplement d’actions futures. ", "utiliser des formules de politesse \r\n" ],
-      "domaine" : "expression orale en continu"
-   }, {
-      "competences" : [ "parler simplement de soi et de ses proches et répondre à des questions\r\n", "prendre un rendez-vous, le reporter ou l’annuler (se situer dans le temps) ", "répondre par l’affirmative ou la négative ", "demander un service ou une information ", "utiliser des formules d’adresse et de congé \r\n" ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "écrire des messages courts pour communiquer ou demander \r\ndes informations" ],
-      "domaine" : "expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 14:30 (durée 2h), Mardi à 14:30 (durée 2h), Mercredi à 14:30 (durée 2h), Jeudi à 14:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 65290,
-   "intitule" : "Communication orale en Français Langue d'Intégration",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CFLI",
-   "matiereNom" : "Communication orale en Français Langue d'Intégration",
-   "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Niveau A1.1 acquis"
-}, {
-   "adresseCours" : {
       "codePostal" : "2132",
       "localite" : "Luxembourg",
       "nom" : "Centre Convict",
@@ -13742,7 +13666,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 0,
+   "nbInscrits" : 18,
    "nbPlaces" : 20,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -52188,83 +52112,6 @@
    "renseignements" : "Remarque : Le cours se termine à 21h00\r\nUn montant de 100 € est à prévoir par participant pour le matériel utilisé durant le cours."
 }, {
    "adresseCours" : {
-      "codePostal" : "9080",
-      "localite" : "Ettelbruck",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "71, avenue Salentiny"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9080",
-      "localite" : "Ettelbruck",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "71, avenue Salentiny"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-865",
-   "coursId" : "LA-FR-865",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "23/02/2026",
-   "dateFin" : "01/07/2026",
-   "dateInscription" : "Inscription en ligne via le site www.lifelong-learning.lu, suivant les disponibilités.",
-   "description" : "Compétences du niveau A1.2 selon les directives du cadre européen commun de référence pour les langues (CECR) élaborées par le Conseil de l'Europe.\r\nSession de 60 heures afin d’atteindre le niveau A1 en langue française. Savoir présenter sa ville, se déplacer en transport en commun, demander et indiquer le chemin, comprendre un itinéraire, faire le shopping et donner une appréciation, parler de la météo, décrire un objet. \r\nLa langue véhiculaire sera le français, cependant possibilité d’expliquer ponctuellement en arabe et/ou en anglais et de faire des rapprochements et des comparaisons avec l’allemand, entre autres langues",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Balloumi",
-      "prenom" : "Asma"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 18:00 (durée 2h), Mercredi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 60543,
-   "intitule" : "Français A1.2",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 19,
-   "nbPlaces" : 21,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjA1NDM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9080",
-         "localite" : "Ettelbruck",
-         "nom" : "Lycée Technique d'Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "71, avenue Salentiny"
-      },
-      "code" : "LTEtt",
-      "fax" : "+352 81 89 01",
-      "mail" : "education_adultes@ltett.lu",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "nomContact" : "Liégeois",
-      "onlineReg" : true,
-      "prenomContact" : "Valina",
-      "statut" : "MENFPS",
-      "telephone" : "81 92 01 307"
-   },
-   "prerequis" : "Avoir le niveau A1.1",
-   "renseignements" : "Courriel:education_adultes@ltett.lu\r\nTéléphone. 819 201 307 (Valina Liégeois)  \r\n"
-}, {
-   "adresseCours" : {
       "codePostal" : "4171",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "Maison des Citoyens / Haus vun de Bierger",
@@ -53465,6 +53312,83 @@
       "websiteUrl" : "http://esf.lu/"
    },
    "prerequis" : "NON"
+}, {
+   "adresseCours" : {
+      "codePostal" : "9080",
+      "localite" : "Ettelbruck",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "71, avenue Salentiny"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9080",
+      "localite" : "Ettelbruck",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "71, avenue Salentiny"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1187",
+   "coursId" : "LA-FR-1187",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "10/02/2026",
+   "dateFin" : "02/07/2026",
+   "dateInscription" : "Inscription en ligne via le site www.lifelong-learning.lu, suivant les disponibilités.",
+   "description" : "Compétences du niveau A1.2 selon les directives du cadre européen commun de référence pour les langues (CECR) élaborées par le Conseil de l'Europe.\r\nSession de 60 heures afin d’atteindre le niveau A1 en langue française. Savoir présenter sa ville, se déplacer en transport en commun, demander et indiquer le chemin, comprendre un itinéraire, faire le shopping et donner une appréciation, parler de la météo, décrire un objet. \r\nLa langue véhiculaire sera le français, cependant possibilité d’expliquer ponctuellement en arabe et/ou en anglais et de faire des rapprochements et des comparaisons avec l’allemand, entre autres langues",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Balloumi",
+      "prenom" : "Asma"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:00 (durée 2h), Jeudi à 18:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63460,
+   "intitule" : "Français A1.2",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 18,
+   "nbPlaces" : 20,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM0NjA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9080",
+         "localite" : "Ettelbruck",
+         "nom" : "Lycée Technique d'Ettelbruck",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "71, avenue Salentiny"
+      },
+      "code" : "LTEtt",
+      "fax" : "+352 81 89 01",
+      "mail" : "education_adultes@ltett.lu",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "nomContact" : "Liégeois",
+      "onlineReg" : true,
+      "prenomContact" : "Valina",
+      "statut" : "MENFPS",
+      "telephone" : "81 92 01 307"
+   },
+   "prerequis" : "Avoir le niveau A1.1",
+   "renseignements" : "Courriel:education_adultes@ltett.lu\r\nTéléphone. 819 201 307 (Valina Liégeois)  "
 }, {
    "adresseCours" : {
       "codePostal" : "6919",
