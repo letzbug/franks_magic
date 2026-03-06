@@ -191,74 +191,6 @@
    "renseignements" : "Bitte bringen Sie zum Kurs: Nähmaschine, Nadeln, Stecknadeln, Stoff- & Bastelschere, Maßband, Lineal, Schneiderkreide, Verschlüsse, Nähgarn, stoff- & projektspezifisches Material."
 }, {
    "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-37",
-   "coursId" : "BP-EN-37",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "07/03/2026",
-   "dateFin" : "14/03/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Hiéronimus",
-      "prenom" : "Céline Anne"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Samedi 14-03-2026 à 13:00 (durée 3h),\nSamedi 07-03-2026 à 13:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "13:00",
-      "jour" : "Samedi"
-   }, {
-      "duree" : "3h",
-      "heure" : "13:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 58131,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 17,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxMzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
-}, {
-   "adresseCours" : {
       "codePostal" : "8018",
       "localite" : "Strassen",
       "nom" : "Pavillon de l'École Hueflach",
@@ -2587,6 +2519,85 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "alphabétisation acquise"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1930",
+      "localite" : "Luxembourg",
+      "nom" : "Maison d'Afrique",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "48, Avenue de la Liberté"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-24",
+   "coursId" : "CIN-LB-24",
+   "coursType" : "CLASSIQUE",
+   "cout" : 250.0,
+   "dateDebut" : "16/03/2026",
+   "dateFin" : "26/03/2026",
+   "dateInscription" : "du 01.10 - 09.10.2025",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "24h",
+   "enseignants" : [ {
+      "nom" : "Lorang",
+      "prenom" : "Claudine"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65490,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0OTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2168",
+         "localite" : "Luxembourg",
+         "nom" : "Maison d'Afrique",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "141, rue de Mühlenbach"
+      },
+      "code" : "MDAF",
+      "mail" : "maisondafriqueasbl@gmail.com",
+      "nom" : "Maison d'Afrique Lux",
+      "nomContact" : "Foka",
+      "onlineReg" : true,
+      "prenomContact" : "David",
+      "statut" : "PREST_EXT",
+      "telephone" : "352 621 224 648",
+      "websiteUrl" : "https://www.maisondafrique.fr/"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -6941,7 +6952,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -48551,6 +48562,83 @@
    "renseignements" : "Materials will be supplied by the instructor and participants will reimburse the cost, estimated between €30 and €50.\r\nPlease note that no classes will be held during Luxembourg’s school holidays."
 }, {
    "adresseCours" : {
+      "codePostal" : "9080",
+      "localite" : "Ettelbruck",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "71, avenue Salentiny"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9080",
+      "localite" : "Ettelbruck",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "71, avenue Salentiny"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1403",
+   "coursId" : "LA-LB-1403",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "24/02/2026",
+   "dateFin" : "02/07/2026",
+   "dateInscription" : "Inscription souhaitée via le site www.lifelong-learning.lu, suivant les disponibilités.",
+   "description" : "Loisirs et routine quotidienne, aliments et courses, membres de famille et corps humain, visite médicale\r\n> compétences du niveau A1.2 selon les directives du CECRL.",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Weber",
+      "prenom" : "Mathilde"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 16:00 (durée 2h), Jeudi à 16:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65012,
+   "intitule" : "Luxembourgeois A1.2",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 18,
+   "nbPlaces" : 20,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwMTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9080",
+         "localite" : "Ettelbruck",
+         "nom" : "Lycée Technique d'Ettelbruck",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "71, avenue Salentiny"
+      },
+      "code" : "LTEtt",
+      "fax" : "+352 81 89 01",
+      "mail" : "education_adultes@ltett.lu",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "nomContact" : "Liégeois",
+      "onlineReg" : true,
+      "prenomContact" : "Valina",
+      "statut" : "MENFPS",
+      "telephone" : "81 92 01 307"
+   },
+   "prerequis" : "Luxembourgeois A1.1 ",
+   "renseignements" : "Courriel : education_adultes@ltett.lu · Téléphone : 819 201 307 (Mme Valina Liégeois) "
+}, {
+   "adresseCours" : {
       "codePostal" : "9085",
       "localite" : "Ettelbruck",
       "nom" : "CNFPC-Ettelbruck",
@@ -52149,7 +52237,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 20,
+   "nbInscrits" : 19,
    "nbPlaces" : 21,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -54288,7 +54376,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -55332,7 +55420,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 18,
    "nbPlaces" : 23,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -72481,7 +72569,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
