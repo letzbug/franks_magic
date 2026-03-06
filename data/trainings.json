@@ -6329,6 +6329,72 @@
    "renseignements" : "Le stage de trois jours aura lieu à la Kulturfabrik, dans la salle « Lino jaune »."
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7540",
+      "localite" : "Rollingen",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "141, rue de Luxembourg"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-23",
+   "coursId" : "CIN-LB-23",
+   "coursType" : "CLASSIQUE",
+   "cout" : 750.0,
+   "dateDebut" : "07/04/2026",
+   "dateFin" : "23/04/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "30h",
+   "enseignants" : [ {
+      "nom" : "Lorang",
+      "prenom" : "Claudine"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi 07-04-2026 à 18:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 65478,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 6,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0Nzg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7540",
+         "localite" : "Rollingen",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "141, rue de Luxembourg"
+      },
+      "code" : "LCPB",
+      "mail" : "lorangclaudine@yahoo.com",
+      "nom" : "Lorang Claudine Pierrette B. - Lëtzebuerger Sprooch a Kultur Formatrice",
+      "nomContact" : "Lorang",
+      "onlineReg" : true,
+      "prenomContact" : "Claudine",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 621 345 595"
+   },
+   "prerequis" : "aucun",
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -6854,10 +6920,21 @@
       "domaine" : "Messagerie"
    } ],
    "duree" : "40h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Reuland",
+      "prenom" : "Nico"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   } ],
    "id" : 65458,
    "intitule" : "Word, Excel, Powerpoint",
    "langueCoursCode" : "LB",
@@ -16444,7 +16521,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -22645,17 +22722,32 @@
    "dateInscription" : "jusqu'au 17/04/2026",
    "description" : "un cours de français niveau A2.1. respectant les principes définis par le CECRL pour les langues",
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Naciri Mohamed-El",
+      "prenom" : "Mustapha"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 08:30 (durée 2h),\nMercredi à 08:30 (durée 2h),\nVendredi à 08:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 61227,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 15,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -45003,7 +45095,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 102.0,
    "dateDebut" : "03/03/2026",
-   "dateFin" : "21/04/2026",
+   "dateFin" : "23/04/2026",
    "dateInscription" : "Tous les jours sauf mercredi. \r\nCoursEnsemble@i-a.lu",
    "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
    "duree" : "34h",
@@ -48253,7 +48345,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49180,7 +49272,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49188,9 +49280,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -49265,7 +49357,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49273,9 +49365,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -49350,7 +49442,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49358,9 +49450,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -49432,7 +49524,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49440,9 +49532,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -49517,7 +49609,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49525,9 +49617,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -49599,7 +49691,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49607,9 +49699,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -49684,7 +49776,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49692,9 +49784,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -49769,7 +49861,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49777,9 +49869,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -49931,7 +50023,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -49939,9 +50031,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50016,7 +50108,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50024,9 +50116,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50100,7 +50192,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50108,9 +50200,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50247,7 +50339,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50255,9 +50347,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50394,7 +50486,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50402,9 +50494,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50479,7 +50571,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50487,9 +50579,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50561,7 +50653,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50569,9 +50661,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50646,7 +50738,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50654,9 +50746,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50732,7 +50824,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50740,9 +50832,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50817,7 +50909,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50825,9 +50917,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50902,7 +50994,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50910,9 +51002,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -50985,7 +51077,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -50993,9 +51085,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -63272,7 +63364,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -63280,9 +63372,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -63353,7 +63445,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -63361,9 +63453,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -63502,7 +63594,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -63510,9 +63602,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
@@ -63653,7 +63745,7 @@
       "adresse" : {
          "codePostal" : "4665",
          "localite" : "Oberkorn",
-         "nom" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
          "rueNumero" : "68 rue Charles Schambourg"
@@ -63661,9 +63753,9 @@
       "code" : "LOEC",
       "mail" : "lux.online.education.center@gmail.com",
       "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Martine",
+      "nomContact" : "Chies",
       "onlineReg" : true,
-      "prenomContact" : "Chies",
+      "prenomContact" : "Martine",
       "statut" : "ASBL",
       "telephone" : "+352 661 195 032",
       "websiteUrl" : "https://www.lux-online-educ-center.com"
