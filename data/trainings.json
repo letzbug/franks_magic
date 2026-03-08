@@ -1,698 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "4802",
-      "localite" : "Lamadelaine",
-      "nom" : "Lycée Mathias Adam",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Avenue de l'Europe"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4802",
-      "localite" : "Lamadelaine",
-      "nom" : "Lycée Mathias Adam",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Avenue de l'Europe"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-CTA-3",
-   "coursId" : "SCI-CTA-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "08/05/2026",
-   "dateInscription" : "par mail: couso@lyma.lu",
-   "description" : "-les mécanismes de la comptabilité (rappels)\r\n-les stocks\r\n-l'amortissement (linéaire & dégressif)\r\n-les réductions de prix (RRR / l'escompte)\r\n-les clients douteux et litigieux",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 59745,
-   "intitule" : "Comptabilité intermédiaire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CTA",
-   "matiereNom" : "Comptabilité",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk3NDU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4802",
-         "localite" : "Lamadelaine",
-         "nom" : "Lycée Technique Mathias Adam",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Avenue de l'Europe"
-      },
-      "code" : "LTMA",
-      "fax" : "+352 23 65 18 50",
-      "mail" : "alain.gerson@ltma.lu",
-      "nom" : "Lycée Technique Mathias Adam",
-      "nomContact" : "Gerson",
-      "onlineReg" : true,
-      "prenomContact" : "Alain",
-      "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
-      "websiteUrl" : "https://www.lyma.lu/"
-   },
-   "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119, rue du Cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PINT-37",
-   "coursId" : "AR-PINT-37",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "18/05/2026",
-   "description" : "Les participants apprennent pendant les cours à dessiner d'après la nature - les plantes, les fruits et les légumes, ensuite la perspective centrale, la perspective avec deux points de fuite, le portrait et le corps humain.\r\nPour chaque participant nous pouvons personnaliser la technique et les modèles pour leur satisfaction.",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Mrazkova",
-      "prenom" : "Iva",
-      "presentation" : "https://www.atelier-iva.eu/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 18:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:20",
-      "jour" : "Lundi"
-   } ],
-   "id" : 64541,
-   "intitule" : "Dessin d'observation - 2 Sem",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PINT",
-   "matiereNom" : "Peinture",
-   "nbInscrits" : 11,
-   "nbPlaces" : 11,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ1NDE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Merci d’apporter des crayons, une gomme, des pastels secs, un bloc DIN 2 de papier à dessin, le reste sera précisé au cours de l’année scolaire."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-EXCO-11",
-   "coursId" : "SO-EXCO-11",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "18/05/2026",
-   "description" : "Ce cours s'adresse aux personnes qui souhaitent mieux comprendre comment le corps parle, que ce soit pour un développement personnel ou pour une meilleure aisance lors de prises de parole en public. Les séances proposeront une exploration des postures corporelles, de leur impact sur la présence, la confiance et la relation à l’autre. À travers des jeux, des exercices ludiques et de courtes mises en situation, chacun pourra découvrir comment le langage extra-verbal (gestes, ancrage, respiration, direction du regard) influence la communication autant que les mots eux-mêmes. Le cours offrira un cadre bienveillant pour expérimenter, ajuster et enrichir sa manière d’être dans l’espace, afin de développer une posture plus consciente, expressive et alignée avec ce que l’on souhaite transmettre.",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Mesager",
-      "prenom" : "Mélanie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 63929,
-   "intitule" : "Corps en Mouvement : mieux s’exprimer sans mots",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "EXCO",
-   "matiereNom" : "Expression corporelle",
-   "nbInscrits" : 8,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Veuillez noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "en ligne",
-      "localite" : "En Ligne",
-      "nom" : "en ligne : https://www.lux-amitie.lu/",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne : https://www.lux-amitie.lu/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1041",
-   "coursId" : "LA-FR-1041",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "12/05/2026",
-   "dateInscription" : "En ligne : https://www.lux-amitie.lu/",
-   "description" : "L'apprenant peut :\r\ncomprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet d'elles-mêmes, de leur famille et de l'environnement concret et immédiat, si les gens parlent lentement et distinctement ;\r\ncomprendre des questions simples au sujet d'elles-mêmes, de leur famille et de l'environnement concret et immédiat ;\r\nidentifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne.",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Benni",
-      "prenom" : "Mohamad"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:30 (durée 1h40), Mardi à 09:30 (durée 1h40), Mercredi à 09:30 (durée 1h40), Jeudi à 09:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61995,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 20,
-   "nbPlaces" : 24,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "0000",
-         "localite" : "Luxembourg",
-         "nom" : "Lux-Amitié",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Lux-Amitié"
-      },
-      "code" : "LUXA",
-      "mail" : "infoluxamitie@gmail.com",
-      "nom" : "Lux-Amitié",
-      "nomContact" : "-Amitié",
-      "onlineReg" : false,
-      "prenomContact" : "Lux",
-      "statut" : "ASBL",
-      "telephone" : "621 534 221"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "en ligne",
-      "localite" : "En Ligne",
-      "nom" : "En ligne : https://www.lux-amitie.lu/",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "en ligne : https://www.lux-amitie.lu/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1352",
-   "coursId" : "LA-FR-1352",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "12/05/2026",
-   "dateInscription" : "En ligne: https://www.facebook.com/luxamitie/",
-   "description" : "L'apprenant peut parler de façon simple dans la vie quotidienne, il peut décrire son environnement personnel et professionnel, échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes simples,...",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Marrec",
-      "prenom" : "Ghyslaine Christine Sonia"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:30 (durée 1h40), Mardi à 09:30 (durée 1h40), Mercredi à 09:30 (durée 1h40), Jeudi à 09:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63902,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 10,
-   "nbPlaces" : 24,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "0000",
-         "localite" : "Luxembourg",
-         "nom" : "Lux-Amitié",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Lux-Amitié"
-      },
-      "code" : "LUXA",
-      "mail" : "infoluxamitie@gmail.com",
-      "nom" : "Lux-Amitié",
-      "nomContact" : "-Amitié",
-      "onlineReg" : false,
-      "prenomContact" : "Lux",
-      "statut" : "ASBL",
-      "telephone" : "621 534 221"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-DAN-18",
-   "coursId" : "SO-DAN-18",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "18/05/2026",
-   "description" : "Né au Japon dans les années 1960, le Butô a profondément influencé la danse contemporaine européenne, notamment par son rapport singulier au corps, au temps et à la présence. Chaque séance offrira un équilibre entre travail technique (ancrage, lenteur, précision des gestes, écoute sensorielle) et expression libre à travers des moments d’improvisation, permettant à chacun de développer sa propre poétique du mouvement. Ce cours vise à instaurer une routine corporelle douce mais profonde, tout en proposant une véritable initiation à cet art à la fois mystérieux, sensible et puissant. Un espace bienveillant sera consacré à l’exploration personnelle, au rythme de chacun, pour découvrir ce que le Butoh peut révéler du corps, de l’imaginaire et de la présence.",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Mesager",
-      "prenom" : "Mélanie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Lundi"
-   } ],
-   "id" : 63928,
-   "intitule" : "Butoh - Danse japonaise",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DAN",
-   "matiereNom" : "Danse",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Aucun niveau de danse n’est requis."
-}, {
-   "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-913",
-   "coursId" : "LA-FR-913",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "11/05/2026",
-   "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre des questions simples au sujet  de sa personne, de son identité ainsi que de sa famille ou ses amis\r\nApprendre à répondre aux questions relatives à la présentation\r\nIdentifier les paramètres d'une situation de communication claire dans la vie quotidienne",
-   "domainesCompetences" : [ {
-      "competences" : [ "Identifier les formules de politesse et de salutation.", "Comprendre les chiffres, les prix et l'heure.", "Comprendre des mots et expressions familiers.", "Comprendre des question, instructions  ou indications courtes et élémentaires.", "Manifester ma compréhension ou mon incompréhension.", "Comprendre des consignes courtes et simples.", "Comprendre l'appartenance ou la quantité.", "Comprendre des informations ou des questions personnelles simples." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Epeler.", "Comprendre des indications et des messages simples et courts.", "Comprendre et suivre des instructions, des indications.", "Comprendre des textes simples donnant des informations et des descriptions sur l'identité, la présentation.", "Comprendre des textes simples avec des informations et descriptions courtes. " ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Se présenter, présenter quelqu'un (identité, nom, âge, nationalité, profession, lieu d'habitation.)", "Parler de mon environnement quotidien (donner mes coordonnées, parler de ma famille...)", "Lire un texte à voix haute.", "Exprimer  l'appartenance/la quantité.", "Entrer en contact  avec quelqu'un.", "Utiliser des expressions élémentaires de salutations et de congé. ", "Réagir à des messages et instructions simples.", "Poser et répondre à des questions personnelles.", "Répondre par l'affirmative ou par la négative." ],
-      "domaine" : "Production orale"
-   }, {
-      "competences" : [ "Remplir une fiche de renseignements personnels (fiche d'identité, d'inscription, un formulaire.)", "Ecrire un texte de présentation simple.", "Ecrire des messages très simples.", "Ecrire des phrases simples au présent.", "Ecrire des phrases avec la négation de base." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Henriques Tomaz",
-      "prenom" : "Delfina"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h), Vendredi à 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 60906,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-904",
-   "coursId" : "LA-FR-904",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "11/05/2026",
-   "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées, en relation avec des domaines  immédiats de priorité.\r\nComprendre un échange qui porte sur l'expression d'une impression, d'un sentiment, d'un gout, d'un accord ou d'un désaccord, en termes simples.\r\nSuivre des directrices et des instructions claires et précises.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut suivre des directives simple comme un itinéraire.\r\n", "Peut comprendre l'idée générale d'un texte.\r\n", "Peut comprendre des informations relatives à la famille, aux\r\nachats et à l'environnement.", "Peut identifier l'élément principal des nouvelles télévisées.\r\n" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut trouver des renseignements précis dans des documents\r\nsimples.\r\n", "Peut comprendre différents types de lettres ou emails.\r\n", "Peut comprendre des faits décrits dans des articles simples.\r\n", "Peut comprendre des consignes rédigées simplement." ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Peut saluer, se présenter, présenter quelqu'un, remercier.\r\n", "Peut poser des questions et y répondre.\r\n", "Peut utiliser des formules de politesse simples.\r\n", "Peut décrire des lieux, des objets, des activités quotidiennes, ses\r\ngouts, un évènement.", "Peut exprimer ses opinions, expliquer pourquoi une chose plait\r\nou déplait.", "Peut dire ce qu'il aime ou pas.\r\n", "Peut exprimer des projets\r\n", "Peut obtenir et fournir des biens et services.\r\n", "Peut commencer, poursuivre et terminer une brève conversation", "Peut demander de répéter en cas d'incompréhension" ],
-      "domaine" : "Production Orale"
-   }, {
-      "competences" : [ "Peut écrire des messages simples et courts pour entrer en contact\r\nou exprimer des remerciements.", "Peut écrire des phrases simples au présent, au passé et au futur.\r\n", "Peut décrire des activités quotidiennes.\r\n", "Peut faire la description d'un évènement, d'activités passées, d'expériences personnelles." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Henriques Tomaz",
-      "prenom" : "Delfina"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 08:00 (durée 2h), Mardi à 08:00 (durée 2h), Mercredi à 08:00 (durée 2h), Jeudi à 08:00 (durée 2h), Vendredi à 08:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "08:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "08:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "08:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "08:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "08:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 60894,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-946",
-   "coursId" : "LA-FR-946",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "11/05/2026",
-   "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre les points essentiels d'un message quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc...\r\nComprendre un récit court.\r\nSuivre les points principaux d'un exposé et identifier le type e message entendu.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut comprendre des points essentiels quand un langage\r\nclair et standard est utilisé et s'il s'agit de sujets familiers\r\nconcernant le travail, l'école, les loisirs, etc...", "Peut comprendre l'essentiel de nombreuses émissions de\r\nradio ou de télévision sur l'actualité ou sur des sujets qui\r\nm'intéressent à titre personnel ou professionnel si l'on parle\r\nd'une façon relativement lente et distincte." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut comprendre des textes rédigés essentiellement dans\r\nune langue courante ou relative à mon travail.\r\n", "Peut comprendre la description d'évènements, l'expression\r\nde sentiments et de souhaits dans des lettres personnelles." ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Peut faire face à la majorité des situations que l'on peut\r\nrencontrer au cours d'un voyage dans une région ou la langue\r\nest parlée.\r\n", "Peut prendre part sans préparation à une conversation sur\r\ndes sujets familiers ou d'intérêt personnel ou qui concernent\r\nla vie quotidienne (famille, loisirs, travail, voyage et\r\nactualité).\r\n", "Peut articuler des expressions de manière simple afin de\r\nraconter des expériences et des évènements, ses rêves, ses\r\nespoirs et ses buts.\r\n", "Peut brièvement donner les raisons et explications de ses\r\nopinions ou projets.\r\n", "Peut raconter une histoire ou l'intrigue d'un livre ou d'un\r\nfilm et exprimer ses réactions.\r\n" ],
-      "domaine" : "Production Orale"
-   }, {
-      "competences" : [ "Peut écrire un texte simple et cohérent sur des sujets\r\nfamiliers ou qui l'intéressent personnellement.\r\n", "Peut écrire des lettres personnelles pour décrire expériences\r\net impressions." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Henriques Tomaz",
-      "prenom" : "Delfina"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h), Vendredi à 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 60943,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "B1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -43718,6 +43025,602 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4802",
+      "localite" : "Lamadelaine",
+      "nom" : "Lycée Mathias Adam",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Avenue de l'Europe"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4802",
+      "localite" : "Lamadelaine",
+      "nom" : "Lycée Mathias Adam",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Avenue de l'Europe"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-CTA-3",
+   "coursId" : "SCI-CTA-3",
+   "coursType" : "CLASSIQUE",
+   "cout" : 54.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "08/05/2026",
+   "dateInscription" : "par mail: couso@lyma.lu",
+   "description" : "-les mécanismes de la comptabilité (rappels)\r\n-les stocks\r\n-l'amortissement (linéaire & dégressif)\r\n-les réductions de prix (RRR / l'escompte)\r\n-les clients douteux et litigieux",
+   "duree" : "12h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 59745,
+   "intitule" : "Comptabilité intermédiaire",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "CTA",
+   "matiereNom" : "Comptabilité",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk3NDU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4802",
+         "localite" : "Lamadelaine",
+         "nom" : "Lycée Technique Mathias Adam",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "Avenue de l'Europe"
+      },
+      "code" : "LTMA",
+      "fax" : "+352 23 65 18 50",
+      "mail" : "alain.gerson@ltma.lu",
+      "nom" : "Lycée Technique Mathias Adam",
+      "nomContact" : "Gerson",
+      "onlineReg" : true,
+      "prenomContact" : "Alain",
+      "statut" : "MENFPS",
+      "telephone" : "+352 50 87 30 217",
+      "websiteUrl" : "https://www.lyma.lu/"
+   },
+   "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "1338",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée de Bonnevoie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "119, rue du Cimetière"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PINT-37",
+   "coursId" : "AR-PINT-37",
+   "coursType" : "CLASSIQUE",
+   "cout" : 81.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "18/05/2026",
+   "description" : "Les participants apprennent pendant les cours à dessiner d'après la nature - les plantes, les fruits et les légumes, ensuite la perspective centrale, la perspective avec deux points de fuite, le portrait et le corps humain.\r\nPour chaque participant nous pouvons personnaliser la technique et les modèles pour leur satisfaction.",
+   "duree" : "18 leçons",
+   "enseignants" : [ {
+      "nom" : "Mrazkova",
+      "prenom" : "Iva",
+      "presentation" : "https://www.atelier-iva.eu/"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:20",
+      "jour" : "Lundi"
+   } ],
+   "id" : 64541,
+   "intitule" : "Dessin d'observation - 2 Sem",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PINT",
+   "matiereNom" : "Peinture",
+   "nbInscrits" : 11,
+   "nbPlaces" : 11,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ1NDE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Merci d’apporter des crayons, une gomme, des pastels secs, un bloc DIN 2 de papier à dessin, le reste sera précisé au cours de l’année scolaire."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-EXCO-11",
+   "coursId" : "SO-EXCO-11",
+   "coursType" : "CLASSIQUE",
+   "cout" : 81.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "18/05/2026",
+   "description" : "Ce cours s'adresse aux personnes qui souhaitent mieux comprendre comment le corps parle, que ce soit pour un développement personnel ou pour une meilleure aisance lors de prises de parole en public. Les séances proposeront une exploration des postures corporelles, de leur impact sur la présence, la confiance et la relation à l’autre. À travers des jeux, des exercices ludiques et de courtes mises en situation, chacun pourra découvrir comment le langage extra-verbal (gestes, ancrage, respiration, direction du regard) influence la communication autant que les mots eux-mêmes. Le cours offrira un cadre bienveillant pour expérimenter, ajuster et enrichir sa manière d’être dans l’espace, afin de développer une posture plus consciente, expressive et alignée avec ce que l’on souhaite transmettre.",
+   "duree" : "18 leçons",
+   "enseignants" : [ {
+      "nom" : "Mesager",
+      "prenom" : "Mélanie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 63929,
+   "intitule" : "Corps en Mouvement : mieux s’exprimer sans mots",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "EXCO",
+   "matiereNom" : "Expression corporelle",
+   "nbInscrits" : 8,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Veuillez noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "en ligne",
+      "localite" : "En Ligne",
+      "nom" : "en ligne : https://www.lux-amitie.lu/",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "En ligne : https://www.lux-amitie.lu/"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1041",
+   "coursId" : "LA-FR-1041",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "12/05/2026",
+   "dateInscription" : "En ligne : https://www.lux-amitie.lu/",
+   "description" : "L'apprenant peut :\r\ncomprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet d'elles-mêmes, de leur famille et de l'environnement concret et immédiat, si les gens parlent lentement et distinctement ;\r\ncomprendre des questions simples au sujet d'elles-mêmes, de leur famille et de l'environnement concret et immédiat ;\r\nidentifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne.",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Benni",
+      "prenom" : "Mohamad"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:30 (durée 1h40), Mardi à 09:30 (durée 1h40), Mercredi à 09:30 (durée 1h40), Jeudi à 09:30 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 61995,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 20,
+   "nbPlaces" : 24,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "0000",
+         "localite" : "Luxembourg",
+         "nom" : "Lux-Amitié",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "Lux-Amitié"
+      },
+      "code" : "LUXA",
+      "mail" : "infoluxamitie@gmail.com",
+      "nom" : "Lux-Amitié",
+      "nomContact" : "-Amitié",
+      "onlineReg" : false,
+      "prenomContact" : "Lux",
+      "statut" : "ASBL",
+      "telephone" : "621 534 221"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "en ligne",
+      "localite" : "En Ligne",
+      "nom" : "En ligne : https://www.lux-amitie.lu/",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "en ligne : https://www.lux-amitie.lu/"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1352",
+   "coursId" : "LA-FR-1352",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "12/05/2026",
+   "dateInscription" : "En ligne: https://www.facebook.com/luxamitie/",
+   "description" : "L'apprenant peut parler de façon simple dans la vie quotidienne, il peut décrire son environnement personnel et professionnel, échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes simples,...",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Marrec",
+      "prenom" : "Ghyslaine Christine Sonia"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:30 (durée 1h40), Mardi à 09:30 (durée 1h40), Mercredi à 09:30 (durée 1h40), Jeudi à 09:30 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63902,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 10,
+   "nbPlaces" : 24,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "0000",
+         "localite" : "Luxembourg",
+         "nom" : "Lux-Amitié",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "Lux-Amitié"
+      },
+      "code" : "LUXA",
+      "mail" : "infoluxamitie@gmail.com",
+      "nom" : "Lux-Amitié",
+      "nomContact" : "-Amitié",
+      "onlineReg" : false,
+      "prenomContact" : "Lux",
+      "statut" : "ASBL",
+      "telephone" : "621 534 221"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-DAN-18",
+   "coursId" : "SO-DAN-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 81.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "18/05/2026",
+   "description" : "Né au Japon dans les années 1960, le Butô a profondément influencé la danse contemporaine européenne, notamment par son rapport singulier au corps, au temps et à la présence. Chaque séance offrira un équilibre entre travail technique (ancrage, lenteur, précision des gestes, écoute sensorielle) et expression libre à travers des moments d’improvisation, permettant à chacun de développer sa propre poétique du mouvement. Ce cours vise à instaurer une routine corporelle douce mais profonde, tout en proposant une véritable initiation à cet art à la fois mystérieux, sensible et puissant. Un espace bienveillant sera consacré à l’exploration personnelle, au rythme de chacun, pour découvrir ce que le Butoh peut révéler du corps, de l’imaginaire et de la présence.",
+   "duree" : "18 leçons",
+   "enseignants" : [ {
+      "nom" : "Mesager",
+      "prenom" : "Mélanie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 16:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "16:20",
+      "jour" : "Lundi"
+   } ],
+   "id" : 63928,
+   "intitule" : "Butoh - Danse japonaise",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DAN",
+   "matiereNom" : "Danse",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Aucun niveau de danse n’est requis."
+}, {
+   "adresseCours" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
+      "nom" : "Association des parents d'elèves d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
+      "nom" : "Association des parents d'elèves d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-904",
+   "coursId" : "LA-FR-904",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "11/05/2026",
+   "dateInscription" : "Tous les jours de 9h à 12h",
+   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées, en relation avec des domaines  immédiats de priorité.\r\nComprendre un échange qui porte sur l'expression d'une impression, d'un sentiment, d'un gout, d'un accord ou d'un désaccord, en termes simples.\r\nSuivre des directrices et des instructions claires et précises.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Peut suivre des directives simple comme un itinéraire.\r\n", "Peut comprendre l'idée générale d'un texte.\r\n", "Peut comprendre des informations relatives à la famille, aux\r\nachats et à l'environnement.", "Peut identifier l'élément principal des nouvelles télévisées.\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut trouver des renseignements précis dans des documents\r\nsimples.\r\n", "Peut comprendre différents types de lettres ou emails.\r\n", "Peut comprendre des faits décrits dans des articles simples.\r\n", "Peut comprendre des consignes rédigées simplement." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut saluer, se présenter, présenter quelqu'un, remercier.\r\n", "Peut poser des questions et y répondre.\r\n", "Peut utiliser des formules de politesse simples.\r\n", "Peut décrire des lieux, des objets, des activités quotidiennes, ses\r\ngouts, un évènement.", "Peut exprimer ses opinions, expliquer pourquoi une chose plait\r\nou déplait.", "Peut dire ce qu'il aime ou pas.\r\n", "Peut exprimer des projets\r\n", "Peut obtenir et fournir des biens et services.\r\n", "Peut commencer, poursuivre et terminer une brève conversation", "Peut demander de répéter en cas d'incompréhension" ],
+      "domaine" : "Production Orale"
+   }, {
+      "competences" : [ "Peut écrire des messages simples et courts pour entrer en contact\r\nou exprimer des remerciements.", "Peut écrire des phrases simples au présent, au passé et au futur.\r\n", "Peut décrire des activités quotidiennes.\r\n", "Peut faire la description d'un évènement, d'activités passées, d'expériences personnelles." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Henriques Tomaz",
+      "prenom" : "Delfina"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 08:00 (durée 2h), Mardi à 08:00 (durée 2h), Mercredi à 08:00 (durée 2h), Jeudi à 08:00 (durée 2h), Vendredi à 08:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 60894,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9089",
+         "localite" : "Ettelbruck",
+         "nom" : "Ettelbruck",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, rue Michel Weber"
+      },
+      "code" : "APE",
+      "mail" : "mariadelfinalbuquerque@yahoo.fr",
+      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
+      "nomContact" : "Henriques Tomaz",
+      "onlineReg" : false,
+      "prenomContact" : "Maria Delfina",
+      "statut" : "ASBL",
+      "telephone" : "+352 691 500 047"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
+      "nom" : "Association des parents d'elèves d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
+      "nom" : "Association des parents d'elèves d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-946",
+   "coursId" : "LA-FR-946",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "09/03/2026",
+   "dateFin" : "11/05/2026",
+   "dateInscription" : "Tous les jours de 9h à 12h",
+   "description" : "Comprendre les points essentiels d'un message quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc...\r\nComprendre un récit court.\r\nSuivre les points principaux d'un exposé et identifier le type e message entendu.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Peut comprendre des points essentiels quand un langage\r\nclair et standard est utilisé et s'il s'agit de sujets familiers\r\nconcernant le travail, l'école, les loisirs, etc...", "Peut comprendre l'essentiel de nombreuses émissions de\r\nradio ou de télévision sur l'actualité ou sur des sujets qui\r\nm'intéressent à titre personnel ou professionnel si l'on parle\r\nd'une façon relativement lente et distincte." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut comprendre des textes rédigés essentiellement dans\r\nune langue courante ou relative à mon travail.\r\n", "Peut comprendre la description d'évènements, l'expression\r\nde sentiments et de souhaits dans des lettres personnelles." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut faire face à la majorité des situations que l'on peut\r\nrencontrer au cours d'un voyage dans une région ou la langue\r\nest parlée.\r\n", "Peut prendre part sans préparation à une conversation sur\r\ndes sujets familiers ou d'intérêt personnel ou qui concernent\r\nla vie quotidienne (famille, loisirs, travail, voyage et\r\nactualité).\r\n", "Peut articuler des expressions de manière simple afin de\r\nraconter des expériences et des évènements, ses rêves, ses\r\nespoirs et ses buts.\r\n", "Peut brièvement donner les raisons et explications de ses\r\nopinions ou projets.\r\n", "Peut raconter une histoire ou l'intrigue d'un livre ou d'un\r\nfilm et exprimer ses réactions.\r\n" ],
+      "domaine" : "Production Orale"
+   }, {
+      "competences" : [ "Peut écrire un texte simple et cohérent sur des sujets\r\nfamiliers ou qui l'intéressent personnellement.\r\n", "Peut écrire des lettres personnelles pour décrire expériences\r\net impressions." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Henriques Tomaz",
+      "prenom" : "Delfina"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h), Vendredi à 10:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 60943,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9089",
+         "localite" : "Ettelbruck",
+         "nom" : "Ettelbruck",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, rue Michel Weber"
+      },
+      "code" : "APE",
+      "mail" : "mariadelfinalbuquerque@yahoo.fr",
+      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
+      "nomContact" : "Henriques Tomaz",
+      "onlineReg" : false,
+      "prenomContact" : "Maria Delfina",
+      "statut" : "ASBL",
+      "telephone" : "+352 691 500 047"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "9085",
       "localite" : "Ettelbruck",
       "nom" : "CNFPC Ettelbruck",
@@ -45425,70 +45328,6 @@
    },
    "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
    "renseignements" : "Groupes de niveaux homogènes composés de 2 à 8 apprenants."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCM",
-   "categorieCodeUnipop" : "SCM",
-   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
-   "coursCode" : "SCM-GEM-13",
-   "coursId" : "SCM-GEM-13",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "02/03/2026",
-   "dateFin" : "09/03/2026",
-   "description" : "De l’histoire du diamant à aujourd’hui. Tout savoir sur les imitations et les diamants de synthèse.\r\nLes critères des 4C en détail. Comment les reconnaître et les évaluer. Les diamants et la joaillerie.\r\nSavoir investir et acheter en toute confiance.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Rollet",
-      "prenom" : "Suzanne"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi 09-03-2026 à 18:00 (durée 2h30) et 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 64022,
-   "intitule" : "Le diamant dans tous ses états",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "GEM",
-   "matiereNom" : "Gemmologie",
-   "nbInscrits" : 8,
-   "nbPlaces" : 9,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMjI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "9085",
@@ -63173,77 +63012,6 @@
    },
    "prerequis" : "Niveau certificat A1.1 fini",
    "renseignements" : "Site : https://www.lux-online-educ-center.com       contact: lux.online.education.center@gmail.com "
-}, {
-   "adresseCours" : {
-      "codePostal" : "2309",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Technique du Centre",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "106, avenue Pasteur"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2563",
-      "localite" : "Luxembourg",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://www.luxchine.org/"
-   },
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-18",
-   "coursId" : "SO-MED-18",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "05/01/2026",
-   "dateFin" : "09/03/2026",
-   "dateInscription" : "jusqu'au 15 décembre 2025",
-   "description" : "Préparation à la méditation, aux sept points de la posture assise correcte, des huit formes de la méditation en mouvement et des méthodes essentielles de méditation dans le but d'harmoniser le corps, l'esprit et la respiration. Enseignement de la relaxation, de la méditation debout, de la méditation assise, de la méditation en mouvement et de la méditation en mangeant.",
-   "duree" : "16h",
-   "enseignants" : [ {
-      "nom" : "Lin",
-      "prenom" : "Li-Chuan"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 63602,
-   "intitule" : "Méditation Chan",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 0,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2563",
-         "localite" : "Luxembourg",
-         "nom" : "Association Culturelle Chinoise Lux.",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, rue Jean Schaack"
-      },
-      "code" : "ACCL",
-      "fax" : "/",
-      "mail" : "luxchine@pt.lu",
-      "nom" : "Association Culturelle Chinoise Lux.",
-      "nomContact" : "Wagener",
-      "onlineReg" : false,
-      "prenomContact" : "Marie-Paule",
-      "statut" : "ASBL",
-      "telephone" : "+352 236 208 59",
-      "websiteUrl" : "https://www.luxchine.org/"
-   },
-   "renseignements" : "Accès pour personnes à mobilité réduite.\r\nAu coût d'inscription s'ajouteront les frais de participation (28 euros)."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
