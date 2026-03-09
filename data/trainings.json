@@ -51889,7 +51889,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -57026,6 +57026,92 @@
       "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
    },
    "prerequis" : "Avoir validé le niveau A2.1"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3542",
+      "localite" : "Dudelange",
+      "nom" : "Lycée Nic Biever",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "28, rue du Parc"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1221",
+   "coursId" : "LA-LB-1221",
+   "coursType" : "CLASSIQUE",
+   "cout" : 85.0,
+   "dateDebut" : "26/01/2026",
+   "dateFin" : "11/05/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange\r\nCoursdelangues@dudelange.lu \r\nTél: 51 61 21 538",
+   "description" : "Êtes capable de dire quelques mots et expressions au quotidien : se présenter, parler  succinctement de soi mais aussi de son environnement immédiat (nommer, compter).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre les salutations et formules de politesse.", "Comprendre une présentation simple (nom, âge, origine, langues parlées).", "Comprendre des énoncés comportant des nombres (date de naissance, téléphone, adresse, horaire de transport public, horaires de travail). ", "Comprendre les expressions sur la composition d'une famille (les membres d'une famille). ", "Comprendre la description succincte d'un métier, d'un travail (activités-lieu-moyen de transport-horaires)." ],
+      "domaine" : "COMPREHENSION ORALE"
+   }, {
+      "competences" : [ "Saluer-prendre des nouvelles. Se présenter et demander le nom d'une autre personne. \r\n", "Dire d'où l'on vient et poser cette question à une autre personne. ", "Indiquer la nationalité et les langues connues et demander ces renseignements à une autre personne.", "Dire son numéro de téléphone et poser cette question à une tierce personne.", "Indiquer son âge et sa date d'anniversaire et savoir poser ces questions.", "Donner son adresse, son adresse mail et demander celles de son interlocuteur. ", "Indiquer sa situation familiale et obtenir ce renseignement de son interlocuteur. ", "Indiquer sa profession et poser cette question à une autre personne. \r\nNommer des activités dans le contexte des professions.\r\nIndiquer où l'on travaille et poser cette question à une autre personne. \r\n", "Nommer des moyens de transport.", "Dire l'heure. " ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "Comprendre une fiche d'identité. \r\n", "Comprendre une petite annonce (travail)", "Comprendre une petite annonce (travail). " ],
+      "domaine" : "COMPREHENSION ECRITE "
+   }, {
+      "competences" : [ "Remplir un formulaire d'inscription. \r\n", "Ecrire les nombres de 1 à 100. " ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Streff",
+      "prenom" : "Tom"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 19:30 (durée 2h), Mercredi à 19:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 63223,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 21,
+   "nbPlaces" : 22,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "renseignements" : "Hors vacances scolaires. "
 }, {
    "adresseCours" : {
       "codePostal" : "3542",
