@@ -15564,7 +15564,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 6,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -50855,6 +50855,83 @@
    "renseignements" : "Site: https://www.lux-online-educ-center.com\r\ncontact : lux.online.education.center@gmail.com"
 }, {
    "adresseCours" : {
+      "codePostal" : "9090",
+      "localite" : "Ettelbruck/warken",
+      "nom" : "Annexe LTEtt Warken",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "79, rue de Welscheid"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9080",
+      "localite" : "Ettelbruck",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "71, avenue Salentiny"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1367",
+   "coursId" : "LA-FR-1367",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "23/02/2026",
+   "dateFin" : "01/07/2026",
+   "dateInscription" : "Inscription en ligne via le site www.lifelong-learning.lu, suivant les disponibilités.",
+   "description" : "Compétences du niveau A1.2 selon les directives du cadre européen commun de référence pour les langues (CECR) élaborées par le Conseil de l'Europe. Session de 60 heures afin d’atteindre le niveau A1 en langue française.",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Weber",
+      "prenom" : "Mathilde"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 64501,
+   "intitule" : "Français A1.2",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 20,
+   "nbPlaces" : 21,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ1MDE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9080",
+         "localite" : "Ettelbruck",
+         "nom" : "Lycée Technique d'Ettelbruck",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "71, avenue Salentiny"
+      },
+      "code" : "LTEtt",
+      "fax" : "+352 81 89 01",
+      "mail" : "education_adultes@ltett.lu",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "nomContact" : "Liégeois",
+      "onlineReg" : true,
+      "prenomContact" : "Valina",
+      "statut" : "MENFPS",
+      "telephone" : "81 92 01 307"
+   },
+   "prerequis" : "Niveau A1.1",
+   "renseignements" : "Courriel:education_adultes@ltett.lu\r\nTéléphone. 819 201 307 (Valina Liégeois)  "
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -53160,6 +53237,83 @@
    "renseignements" : "Remarque : Le cours se termine à 21h00\r\nUn montant de 100 € est à prévoir par participant pour le matériel utilisé durant le cours."
 }, {
    "adresseCours" : {
+      "codePostal" : "9080",
+      "localite" : "Ettelbruck",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "71, avenue Salentiny"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9080",
+      "localite" : "Ettelbruck",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "71, avenue Salentiny"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-865",
+   "coursId" : "LA-FR-865",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "23/02/2026",
+   "dateFin" : "01/07/2026",
+   "dateInscription" : "Inscription en ligne via le site www.lifelong-learning.lu, suivant les disponibilités.",
+   "description" : "Compétences du niveau A1.2 selon les directives du cadre européen commun de référence pour les langues (CECR) élaborées par le Conseil de l'Europe.\r\nSession de 60 heures afin d’atteindre le niveau A1 en langue française. Savoir présenter sa ville, se déplacer en transport en commun, demander et indiquer le chemin, comprendre un itinéraire, faire le shopping et donner une appréciation, parler de la météo, décrire un objet. \r\nLa langue véhiculaire sera le français, cependant possibilité d’expliquer ponctuellement en arabe et/ou en anglais et de faire des rapprochements et des comparaisons avec l’allemand, entre autres langues",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Balloumi",
+      "prenom" : "Asma"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 2h), Mercredi à 18:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 60543,
+   "intitule" : "Français A1.2",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 19,
+   "nbPlaces" : 21,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjA1NDM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9080",
+         "localite" : "Ettelbruck",
+         "nom" : "Lycée Technique d'Ettelbruck",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "71, avenue Salentiny"
+      },
+      "code" : "LTEtt",
+      "fax" : "+352 81 89 01",
+      "mail" : "education_adultes@ltett.lu",
+      "nom" : "Lycée Technique d'Ettelbruck",
+      "nomContact" : "Liégeois",
+      "onlineReg" : true,
+      "prenomContact" : "Valina",
+      "statut" : "MENFPS",
+      "telephone" : "81 92 01 307"
+   },
+   "prerequis" : "Avoir le niveau A1.1",
+   "renseignements" : "Courriel:education_adultes@ltett.lu\r\nTéléphone. 819 201 307 (Valina Liégeois)  \r\n"
+}, {
+   "adresseCours" : {
       "codePostal" : "4171",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "Maison des Citoyens / Haus vun de Bierger",
@@ -54411,7 +54565,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 18,
+   "nbInscrits" : 16,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
