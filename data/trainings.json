@@ -1523,85 +1523,6 @@
    "prerequis" : "alphabétisation acquise"
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1930",
-      "localite" : "Luxembourg",
-      "nom" : "Maison d'Afrique",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "48, Avenue de la Liberté"
-   },
-   "categorieCode" : "CIN",
-   "categorieCodeUnipop" : "CIN",
-   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
-   "coursCode" : "CIN-LB-24",
-   "coursId" : "CIN-LB-24",
-   "coursType" : "CLASSIQUE",
-   "cout" : 250.0,
-   "dateDebut" : "16/03/2026",
-   "dateFin" : "26/03/2026",
-   "dateInscription" : "du 01.10 - 09.10.2025",
-   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
-   "duree" : "24h",
-   "enseignants" : [ {
-      "nom" : "Lorang",
-      "prenom" : "Claudine"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65490,
-   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "LB",
-   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0OTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2168",
-         "localite" : "Luxembourg",
-         "nom" : "Maison d'Afrique",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "141, rue de Mühlenbach"
-      },
-      "code" : "MDAF",
-      "mail" : "maisondafriqueasbl@gmail.com",
-      "nom" : "Maison d'Afrique Lux",
-      "nomContact" : "Foka",
-      "onlineReg" : true,
-      "prenomContact" : "David",
-      "statut" : "PREST_EXT",
-      "telephone" : "352 621 224 648",
-      "websiteUrl" : "https://www.maisondafrique.fr/"
-   },
-   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -5730,7 +5651,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 0,
+   "nbInscrits" : 19,
    "nbPlaces" : 20,
    "niveau" : "Avancé 2",
    "onlineRegistration" : false,
