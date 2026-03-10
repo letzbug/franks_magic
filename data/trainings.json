@@ -127,71 +127,6 @@
    "renseignements" : "Une liste de matériel sera envoyée au participant lors de l’envoi de la confirmation d’inscription."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-ELEC-19",
-   "coursId" : "AR-ELEC-19",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "11/03/2026",
-   "dateFin" : "18/03/2026",
-   "description" : "Ist Ihr Gerät kaputt? Keine Sorge, es kann nur besser werden! In unserem Reparaturkurs lernen Sie, wie Sie defekte Geräte selbst reparieren können. Bringen Sie Ihre defekten Gegenstände mit und lassen Sie uns gemeinsam daran arbeiten.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Pietschmann",
-      "prenom" : "Thomas"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 18-03-2026 à 18:00 (durée 1h40) et 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 64673,
-   "intitule" : "Réparer ou recycler ? Keine Angst vorm reparieren! Kaputt ist es schon! Reparaturkurs",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "ELEC",
-   "matiereNom" : "Elec/trique-tronique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ2NzM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Le cours peut également être donné en français."
-}, {
-   "adresseCours" : {
       "codePostal" : "1338",
       "localite" : "Luxembourg",
       "nom" : "Lycée de Bonnevoie",
@@ -2846,6 +2781,70 @@
       "telephone" : "33 01 44 207",
       "websiteUrl" : "http://www.walfer.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-39",
+   "coursId" : "AR-DESS-39",
+   "coursType" : "CLASSIQUE",
+   "cout" : 189.0,
+   "dateDebut" : "17/03/2026",
+   "dateFin" : "14/07/2026",
+   "description" : "Que vous soyez débutant ou déjà confirmé, venez découvrir de nouvelles techniques de dessin et libérer toute votre créativité. Ce semestre sera consacré à l’apprentissage des techniques de portrait ainsi qu’à la création pure — laisser naître des visages issus de votre imagination. Une invitation à explorer, expérimenter et développer votre propre style.",
+   "duree" : "42 leçons",
+   "enseignants" : [ {
+      "nom" : "Blanchard",
+      "prenom" : "Thierry",
+      "presentation" : "Plongez dans l'univers captivant de notre formateur, Thierry Blanchard, mieux connu sous son pseudonyme Bytiddraw !\r\nCet artiste autodidacte captive la toile, accumulant sans cesse plus de fans. Avec près de 76000 abonnés sur TikTok, il partage son art. Aimeriez-vous le rencontrer en personne et participer à des sessions d'apprentissage en direct avec lui ?\r\n",
+      "site" : "http://www.tiktok.com/@bytiddraw"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 63817,
+   "intitule" : "Apprendre le dessin",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Le formateur fournit l’ensemble du matériel nécessaire. Une participation forfaitaire de 20 euros sera demandée en début de session pour couvrir les frais, à régler directement sur place."
 }, {
    "adresseCours" : {
       "codePostal" : "9089",
@@ -24248,7 +24247,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -44577,70 +44576,6 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DESS-39",
-   "coursId" : "AR-DESS-39",
-   "coursType" : "CLASSIQUE",
-   "cout" : 189.0,
-   "dateDebut" : "10/03/2026",
-   "dateFin" : "07/07/2026",
-   "description" : "Que vous soyez débutant ou déjà confirmé, venez découvrir de nouvelles techniques de dessin et libérer toute votre créativité. Ce semestre sera consacré à l’apprentissage des techniques de portrait ainsi qu’à la création pure — laisser naître des visages issus de votre imagination. Une invitation à explorer, expérimenter et développer votre propre style.",
-   "duree" : "42 leçons",
-   "enseignants" : [ {
-      "nom" : "Blanchard",
-      "prenom" : "Thierry",
-      "presentation" : "Plongez dans l'univers captivant de notre formateur, Thierry Blanchard, mieux connu sous son pseudonyme Bytiddraw !\r\nCet artiste autodidacte captive la toile, accumulant sans cesse plus de fans. Avec près de 76000 abonnés sur TikTok, il partage son art. Aimeriez-vous le rencontrer en personne et participer à des sessions d'apprentissage en direct avec lui ?\r\n",
-      "site" : "http://www.tiktok.com/@bytiddraw"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 63817,
-   "intitule" : "Apprendre le dessin",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DESS",
-   "matiereNom" : "Dessin",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Le formateur fournit l’ensemble du matériel nécessaire. Une participation forfaitaire de 20 euros sera demandée en début de session pour couvrir les frais, à régler directement sur place."
-}, {
-   "adresseCours" : {
       "codePostal" : "1278",
       "localite" : "Luxembourg",
       "nom" : "Clae services asbl",
@@ -52898,7 +52833,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 24,
    "niveau" : "B2.2 du CECRL",
    "onlineRegistration" : false,
@@ -53184,7 +53119,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -55791,7 +55726,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 20,
    "niveau" : "B1 du CECRL",
    "onlineRegistration" : false,
