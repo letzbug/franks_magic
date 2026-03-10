@@ -19328,6 +19328,59 @@
    "renseignements" : "Les cours auront lieu une semaine sur deux, les mercredis suivants :\r\n15/04/2026, 29/04/2026, 13/05/2026, 03/06/2026, 17/06/2026 et 01/07/2026"
 }, {
    "adresseCours" : {
+      "codePostal" : "9085",
+      "localite" : "Ettelbruck",
+      "nom" : "CNFPC-Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "77 Rue Jean Pierre Thill"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PHOT-49",
+   "coursId" : "AR-PHOT-49",
+   "coursType" : "CLASSIQUE",
+   "cout" : 54.0,
+   "dateDebut" : "15/04/2026",
+   "dateFin" : "20/05/2026",
+   "description" : "Lernen Sie, Ihre Kamera kreativ einzusetzen: Von den Grundlagen der Kamera und Zubehör über ISO, Blende, Verschlusszeit und Autofokus bis zu Weißabgleich, Farbmanagement und Schärfentiefe. Praxisnah und verständlich – für beeindruckende Fotos mit voller Kontrolle über Bildgestaltung.",
+   "duree" : "12 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 63927,
+   "intitule" : "Einstieg in die digitale Fotografie",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "PHOT",
+   "matiereNom" : "Photographie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -21100,6 +21153,61 @@
       "telephone" : "621 464 422",
       "websiteUrl" : "https://efid.lu/"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "9085",
+      "localite" : "Ettelbruck",
+      "nom" : "CNFPC Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "77 Rue Jean-Pierre Thill"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PHOT-50",
+   "coursId" : "AR-PHOT-50",
+   "coursType" : "CLASSIQUE",
+   "cout" : 54.0,
+   "dateDebut" : "20/04/2026",
+   "dateFin" : "01/06/2026",
+   "description" : "In diesem Kurs lernen Sie, den Systemblitz on location und im Studio kreativ einzusetzen. Sie verstehen die Funktionsweise des Blitzes sowie das Zusammenspiel von ISO, Blende und Verschlusszeit. Zudem entdecken Sie Zubehör und Techniken des entfesselten Blitzens und arbeiten mit Lichtformern wie Durchlichtschirm, Reflektor und Softbox für professionell gestaltete Lichtsetzung.",
+   "duree" : "12 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 63935,
+   "intitule" : "Den Systemblitz beherrschen – On-Location und im Studio",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "PHOT",
+   "matiereNom" : "Photographie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MzU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Vorausgesetzt werden grundlegende fotografische Kenntnisse, insbesondere das Verständnis des Zusammenspiels von Blende, Verschlusszeit und ISO.",
+   "renseignements" : "Der praktische Teil des Kurses kann gegebenenfalls am Wochenende stattfinden.\r\nBitte beachten Sie, dass während der Schulferien in Luxemburg keine Kurse stattfinden."
 }, {
    "adresseCours" : {
       "codePostal" : "1750",
@@ -46312,85 +46420,6 @@
    },
    "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
    "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 12 euros."
-}, {
-   "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3590",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de ville de  Dudelange/ 51 61 21 538",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
-   },
-   "categorieCode" : "CIN",
-   "categorieCodeUnipop" : "CIN",
-   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
-   "coursCode" : "CIN-LB-21",
-   "coursId" : "CIN-LB-21",
-   "coursType" : "CLASSIQUE",
-   "cout" : 102.0,
-   "dateDebut" : "03/03/2026",
-   "dateFin" : "23/04/2026",
-   "dateInscription" : "Tous les jours sauf mercredi. \r\nCoursEnsemble@i-a.lu",
-   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
-   "duree" : "34h",
-   "enseignants" : [ {
-      "nom" : "Tinelli",
-      "prenom" : "Sonja"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 17:45 (durée 2h), Jeudi à 17:45 (durée 2h), Vendredi à 17:45 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "17:45",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:45",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:45",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65356,
-   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 19,
-   "nbPlaces" : 20,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzNTY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3626",
-         "localite" : "Dudelange",
-         "nom" : "Inter-Actions",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "149, rue des Minières"
-      },
-      "code" : "IAD",
-      "mail" : "coursensemble@inter-actions.lu",
-      "nom" : "Ens. Quartiers Dudelange - Inter-Actions",
-      "nomContact" : "Colin",
-      "onlineReg" : true,
-      "prenomContact" : "Nancy",
-      "statut" : "PREST_EXT",
-      "telephone" : "51 61 21 538 / 26 56",
-      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
-   },
-   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
