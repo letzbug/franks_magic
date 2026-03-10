@@ -1,255 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCM",
-   "categorieCodeUnipop" : "SCM",
-   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
-   "coursCode" : "SCM-GEM-15",
-   "coursId" : "SCM-GEM-15",
-   "coursType" : "CLASSIQUE",
-   "cout" : 40.5,
-   "dateDebut" : "11/03/2026",
-   "dateFin" : "25/03/2026",
-   "description" : "Mise en application et pratique de la théorie et de l’utilisation des appareils de gemmologie de bureau (dichroscope, polariscope, réfractomètre, spectromètre). Se servir d’un microscope ou d’une loupe « darkfield » de gemmologue pour déceler les inclusions afin de différencier les gemmes synthétiques des gemmes naturelles. Types d’inclusions en fonction de leur formation naturelle ou non. La famille des grenats, savoir les différencier. Magnétisme dans les gemmes.",
-   "duree" : "9 leçons",
-   "enseignants" : [ {
-      "nom" : "Rollet",
-      "prenom" : "Suzanne"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 64294,
-   "intitule" : "Le secret des gemmes 3",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "GEM",
-   "matiereNom" : "Gemmologie",
-   "nbInscrits" : 3,
-   "nbPlaces" : 8,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQyOTQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "La participation au cours Le Secret des Gemmes 1&2 est requise avant de s’inscrire à cette session.",
-   "renseignements" : "Une participation de 28 € est demandée, à remettre sur place, pour l’utilisation du matériel et des gemmes fournis par la formatrice et l’achat du liquide pour indice de réfraction."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-CUIS-56",
-   "coursId" : "AR-CUIS-56",
-   "coursType" : "CLASSIQUE",
-   "cout" : 108.0,
-   "dateDebut" : "11/03/2026",
-   "dateFin" : "06/05/2026",
-   "description" : "Apprenez pas à pas les bases indispensables pour cuisiner en toute autonomie ! Découpe, organisation, cuissons essentielles et assaisonnements : vous pratiquerez directement en réalisant des recettes simples et savoureuses inspirées des cuisines méditerranéenne, italienne et péruvienne. Chaque participant apporte ses ingrédients et repart avec ses préparations. Un cours idéal pour débutants souhaitant cuisiner avec plaisir et confiance.",
-   "duree" : "24 leçons",
-   "enseignants" : [ {
-      "nom" : "Briceno Campos",
-      "prenom" : "Angie Roxana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 16:20 (durée 1h40), Vendredi à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64017,
-   "intitule" : "Cuisine de Base : Techniques Essentielles et Recettes du Quotidien",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CUIS",
-   "matiereNom" : "Cuisine",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Une liste de matériel sera envoyée au participant lors de l’envoi de la confirmation d’inscription."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119, rue du Cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-86",
-   "coursId" : "AR-COUT-86",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "11/03/2026",
-   "dateFin" : "15/07/2026",
-   "description" : "Les fêtes médiévales sont bientôt de retour, les bals masqués et les sorties dans les châteaux Victoriens n'attendent que vous. Dans ce cours d'aide à la confection de costume historique ou fantastique, venez modeler, patronner et construire votre tenue ou accessoire. Venez avec vos idées, avec vos tissus et construisons ensemble ce qui vous fait plaisir (Corsets, chapeaux de sorcières, jupons, houppelande, robe empire...) Les débutants en couture sont les bienvenus et les expérimentés également. ",
-   "duree" : "48 leçons",
-   "enseignants" : [ {
-      "nom" : "Brilli",
-      "prenom" : "Julie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63958,
-   "intitule" : "Créez vos Costumes Historiques et Fantastiques",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 8,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Veuillez noter qu’aucun cours n’aura lieu pendant les vacances scolaires au Luxembourg."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119, rue du Cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PINT-38",
-   "coursId" : "AR-PINT-38",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "11/03/2026",
-   "dateFin" : "20/05/2026",
-   "description" : "Les participants ont le choix de travailler avec l'acrylique ou avec l'aquarelle.\r\nLes deux techniques seront expliquées dans le cours, puisque la manière de travailler la couleur est très différente.\r\nLa possiblilité de travailler sur le modèle proposé par la chargée de cours, ou d'après la photo choisie.\r\nPour ceux qui préfèrent l'art abstrait, la chargée de cours guide les élèves.",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Mrazkova",
-      "prenom" : "Iva",
-      "presentation" : "https://www.atelier-iva.eu/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:20",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 64542,
-   "intitule" : "Peinture l'aquarelle et l'acrylique - 2 Sem",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PINT",
-   "matiereNom" : "Peinture",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ1NDI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Aquarelle : 12 couleurs, gobelet, 3 pinceaux, papier de cuisine, crayon, gomme, bloc DIN 2/3. Acrylique : 12 couleurs, bloc DIN 2/3, toiles 30x40, fusain/crayon, gomme, papier de cuisine, 4-5 pinceaux"
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -44576,6 +44326,256 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCM",
+   "categorieCodeUnipop" : "SCM",
+   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
+   "coursCode" : "SCM-GEM-15",
+   "coursId" : "SCM-GEM-15",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.5,
+   "dateDebut" : "11/03/2026",
+   "dateFin" : "25/03/2026",
+   "description" : "Mise en application et pratique de la théorie et de l’utilisation des appareils de gemmologie de bureau (dichroscope, polariscope, réfractomètre, spectromètre). Se servir d’un microscope ou d’une loupe « darkfield » de gemmologue pour déceler les inclusions afin de différencier les gemmes synthétiques des gemmes naturelles. Types d’inclusions en fonction de leur formation naturelle ou non. La famille des grenats, savoir les différencier. Magnétisme dans les gemmes.",
+   "duree" : "9 leçons",
+   "enseignants" : [ {
+      "nom" : "Rollet",
+      "prenom" : "Suzanne"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 64294,
+   "intitule" : "Le secret des gemmes 3",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "GEM",
+   "matiereNom" : "Gemmologie",
+   "nbInscrits" : 3,
+   "nbPlaces" : 8,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQyOTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "La participation au cours Le Secret des Gemmes 1&2 est requise avant de s’inscrire à cette session.",
+   "renseignements" : "Une participation de 28 € est demandée, à remettre sur place, pour l’utilisation du matériel et des gemmes fournis par la formatrice et l’achat du liquide pour indice de réfraction."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-CUIS-56",
+   "coursId" : "AR-CUIS-56",
+   "coursType" : "CLASSIQUE",
+   "cout" : 108.0,
+   "dateDebut" : "11/03/2026",
+   "dateFin" : "06/05/2026",
+   "description" : "Apprenez pas à pas les bases indispensables pour cuisiner en toute autonomie ! Découpe, organisation, cuissons essentielles et assaisonnements : vous pratiquerez directement en réalisant des recettes simples et savoureuses inspirées des cuisines méditerranéenne, italienne et péruvienne. Chaque participant apporte ses ingrédients et repart avec ses préparations. Un cours idéal pour débutants souhaitant cuisiner avec plaisir et confiance.",
+   "duree" : "24 leçons",
+   "enseignants" : [ {
+      "nom" : "Briceno Campos",
+      "prenom" : "Angie Roxana"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 16:20 (durée 1h40), Vendredi à 16:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "16:20",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "16:20",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64017,
+   "intitule" : "Cuisine de Base : Techniques Essentielles et Recettes du Quotidien",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "CUIS",
+   "matiereNom" : "Cuisine",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Une liste de matériel sera envoyée au participant lors de l’envoi de la confirmation d’inscription."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1338",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée de Bonnevoie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "119, rue du Cimetière"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-COUT-86",
+   "coursId" : "AR-COUT-86",
+   "coursType" : "CLASSIQUE",
+   "cout" : 216.0,
+   "dateDebut" : "11/03/2026",
+   "dateFin" : "15/07/2026",
+   "description" : "Les fêtes médiévales sont bientôt de retour, les bals masqués et les sorties dans les châteaux Victoriens n'attendent que vous. Dans ce cours d'aide à la confection de costume historique ou fantastique, venez modeler, patronner et construire votre tenue ou accessoire. Venez avec vos idées, avec vos tissus et construisons ensemble ce qui vous fait plaisir (Corsets, chapeaux de sorcières, jupons, houppelande, robe empire...) Les débutants en couture sont les bienvenus et les expérimentés également. ",
+   "duree" : "48 leçons",
+   "enseignants" : [ {
+      "nom" : "Brilli",
+      "prenom" : "Julie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 17:10 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 63958,
+   "intitule" : "Créez vos Costumes Historiques et Fantastiques",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 8,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Veuillez noter qu’aucun cours n’aura lieu pendant les vacances scolaires au Luxembourg."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1338",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée de Bonnevoie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "119, rue du Cimetière"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PINT-38",
+   "coursId" : "AR-PINT-38",
+   "coursType" : "CLASSIQUE",
+   "cout" : 81.0,
+   "dateDebut" : "11/03/2026",
+   "dateFin" : "20/05/2026",
+   "description" : "Les participants ont le choix de travailler avec l'acrylique ou avec l'aquarelle.\r\nLes deux techniques seront expliquées dans le cours, puisque la manière de travailler la couleur est très différente.\r\nLa possiblilité de travailler sur le modèle proposé par la chargée de cours, ou d'après la photo choisie.\r\nPour ceux qui préfèrent l'art abstrait, la chargée de cours guide les élèves.",
+   "duree" : "18 leçons",
+   "enseignants" : [ {
+      "nom" : "Mrazkova",
+      "prenom" : "Iva",
+      "presentation" : "https://www.atelier-iva.eu/"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:20",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 64542,
+   "intitule" : "Peinture l'aquarelle et l'acrylique - 2 Sem",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PINT",
+   "matiereNom" : "Peinture",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ1NDI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Aquarelle : 12 couleurs, gobelet, 3 pinceaux, papier de cuisine, crayon, gomme, bloc DIN 2/3. Acrylique : 12 couleurs, bloc DIN 2/3, toiles 30x40, fusain/crayon, gomme, papier de cuisine, 4-5 pinceaux"
+}, {
+   "adresseCours" : {
       "codePostal" : "1278",
       "localite" : "Luxembourg",
       "nom" : "Clae services asbl",
@@ -73596,69 +73596,6 @@
    },
    "prerequis" : "Niveau A1 déjà complété. Être prêt à réviser de façon autonome et à consolider les acquis.",
    "renseignements" : "Langue véhiculaire : français et anglais\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "9085",
-      "localite" : "Ettelbrück",
-      "nom" : "CNFPC Ettelbrück",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "77, rue J.P. Thill (Z.I.)"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Ettelbruck" ],
-   "coursCode" : "AR-COUT-71",
-   "coursId" : "AR-COUT-71",
-   "coursType" : "CLASSIQUE",
-   "cout" : 360.0,
-   "dateDebut" : "17/09/2025",
-   "dateFin" : "11/03/2026",
-   "description" : "Am Ende dieses Kurses ist der Lernende in der Lage, sein eigenes Projekt zu nähen.\r\n\r\nIm Anfängernähkurs bekommst du ein Warmup, um gleich deine erste Nähprojekte umsetzten zu können :\r\n  >  Die eigene Nähmaschine kennenlernen (Einfädeln, Nadeln, Sticharten, Nähproben)\r\n  >  Erste Grundtechniken des Nähens erlernen\r\n  >  Materialkunde (Stoffarten, Einlagen, Vlieseline, Faden)\r\n  >  Grundlagen zu fertigen Schnittmustern (Fadenlauf, Massnehmen, Schnitt lesen und kopieren, Zuschnitt)\r\n   >  Nähen von Jerseystoffen an der Nähmaschine\r\n   >  Wir nähen anfangs gemeinsame Projekte : Jutebeutel, Mäppchen mit Zip, Jersey-Mütze\r\n   >  Später näht jeder eigene Projekte, wo erlernte Nähkenntnisse umgesetzt werden können.",
-   "duree" : "80 leçons",
-   "enseignants" : [ {
-      "nom" : "Bijleveld",
-      "prenom" : "Céline"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 62069,
-   "intitule" : "Erste Stiche : Nähen für Anfänger",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 4,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjIwNjk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Genäht wird an der eigenen Nähmaschine",
-   "renseignements" : "Der.ie Kursleiter.in hat eine Liste für die Teilnehmer."
 }, {
    "adresseCours" : {
       "codePostal" : "54190",
