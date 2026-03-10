@@ -1132,7 +1132,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 24,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -1234,7 +1234,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 18,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -1360,85 +1360,6 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "alphabétisation acquise"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1930",
-      "localite" : "Luxembourg",
-      "nom" : "Maison d'Afrique",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "48, Avenue de la Liberté"
-   },
-   "categorieCode" : "CIN",
-   "categorieCodeUnipop" : "CIN",
-   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
-   "coursCode" : "CIN-LB-24",
-   "coursId" : "CIN-LB-24",
-   "coursType" : "CLASSIQUE",
-   "cout" : 250.0,
-   "dateDebut" : "16/03/2026",
-   "dateFin" : "26/03/2026",
-   "dateInscription" : "du 01.10 - 09.10.2025",
-   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
-   "duree" : "24h",
-   "enseignants" : [ {
-      "nom" : "Lorang",
-      "prenom" : "Claudine"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65490,
-   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "LB",
-   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 19,
-   "nbPlaces" : 20,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0OTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2168",
-         "localite" : "Luxembourg",
-         "nom" : "Maison d'Afrique",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "141, rue de Mühlenbach"
-      },
-      "code" : "MDAF",
-      "mail" : "maisondafriqueasbl@gmail.com",
-      "nom" : "Maison d'Afrique Lux",
-      "nomContact" : "Foka",
-      "onlineReg" : true,
-      "prenomContact" : "David",
-      "statut" : "PREST_EXT",
-      "telephone" : "352 621 224 648",
-      "websiteUrl" : "https://www.maisondafrique.fr/"
-   },
-   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -4115,7 +4036,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "MED",
    "matiereNom" : "Méditation",
-   "nbInscrits" : 0,
+   "nbInscrits" : 3,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -5137,7 +5058,7 @@
       "prenom" : "Claudine"
    } ],
    "format" : "DISTANCE",
-   "horairePrevu" : "Mardi 07-04-2026 à 18:00 (durée 3h)",
+   "horairePrevu" : "Lundi 13-04-2026 à 18:00 (durée 3h) et 18:00 (durée 3h), Mardi 07-04-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Mercredi 08-04-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Jeudi 09-04-2026 à 18:00 (durée 3h) et 18:00 (durée 3h)",
    "horaires" : [ {
       "duree" : "3h",
       "heure" : "18:00",
@@ -24327,7 +24248,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 8,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -27463,6 +27384,67 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Please bring fine ink pens, a pencil, watercolors, brushes, a cloth, a small water container, and a sketchbook. For full practice, use watercolor or thick paper with a rigid support, plus any portable tools you like."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-94",
+   "coursId" : "SO-YOG-94",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "30/05/2026",
+   "dateFin" : "30/05/2026",
+   "description" : "Cet atelier ludique et dynamique propose de vivre le rire comme catalyseur de lien social. À travers des exercices collectifs, des jeux interactifs et des rires stimulés, les participants découvrent la puissance du rire pour renforcer la cohésion, développer la confiance mutuelle et créer un sentiment d’appartenance. Ils expérimentent la joie partagée, la légèreté et la convivialité tout en apprenant à relâcher les tensions et à mieux communiquer. Que ce soit dans un cadre professionnel, associatif ou familial, cet atelier transforme les interactions en moments positifs et mémorables. En cultivant le plaisir collectif, il offre un espace sécurisant où chacun peut s’exprimer librement et s’épanouir. Une expérience unique qui allie bien-être, complicité et rire contagieux.",
+   "duree" : "2 leçons",
+   "enseignants" : [ {
+      "nom" : "Dos Santos Tomás",
+      "prenom" : "Sónia Isabel"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 30-05-2026 à 10:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   } ],
+   "id" : 64046,
+   "intitule" : "Workshop - Créer du lien : cohésion et plaisir collectif par le Yoga du Rire",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwNDY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
 }, {
    "adresseCours" : {
       "codePostal" : "2163",
@@ -48871,7 +48853,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "BOI",
    "matiereNom" : "Bois",
-   "nbInscrits" : 8,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
