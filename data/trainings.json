@@ -6279,6 +6279,60 @@
    "prerequis" : "niveau B2.1 requis"
 }, {
    "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-HIST-21",
+   "coursId" : "SCI-HIST-21",
+   "coursType" : "CLASSIQUE",
+   "cout" : 72.0,
+   "dateDebut" : "13/04/2026",
+   "dateFin" : "15/06/2026",
+   "description" : "D’Baugeschicht vun der Festung Lëtzebuerg vum Mëttelalter bis zu hirer Schläifung weist, wéi sech d’Anlag am Laf vun de Joerhonnerten entwéckelt huet, bis se am 19. Joerhonnert ofgeschaaft gouf.",
+   "duree" : "16 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 65671,
+   "intitule" : "D'Festung vu Lëtzebuerg, eng Geschicht",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "HIST",
+   "matiereNom" : "Histoire",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU2NzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "De Formateur keeft d’Material fir de Cours an et gëtt en Remboursement vu 30 Euro gefrot.\r\n\r\nAll Méindeg ausser den 25-05-2026 an den 01/06/2026"
+}, {
+   "adresseCours" : {
       "codePostal" : "4665",
       "localite" : "Oberkorn",
       "nom" : "Luxembourg Online Education Center",
