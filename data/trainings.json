@@ -1,131 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-DAN-16",
-   "coursId" : "SO-DAN-16",
-   "coursType" : "CLASSIQUE",
-   "cout" : 58.5,
-   "dateDebut" : "12/03/2026",
-   "dateFin" : "02/07/2026",
-   "description" : "Zumba Zen est une forme douce de dance fitness inspirée des rythmes latins. Elle permet de tonifier le corps en douceur, d’améliorer l’endurance et de retrouver vitalité et énergie. Grâce à ses musiques entraînantes, chaque séance offre un vrai moment de bien-être, qui allie mouvement, bonne humeur et détente.",
-   "duree" : "13 leçons",
-   "enseignants" : [ {
-      "nom" : "Pires Rodrigues Alfama",
-      "prenom" : "Arlinda"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 19:40 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "19:40",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63811,
-   "intitule" : "Zumba Zen - danse, énergie et mouvement",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DAN",
-   "matiereNom" : "Danse",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Les cours n’auront pas lieu pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Pensez à venir en tenue confortable adaptée au mouvement et à apporter une bouteille d’eau afin de rester bien hydraté pendant la séance."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-BD-7",
-   "coursId" : "AR-BD-7",
-   "coursType" : "CLASSIQUE",
-   "cout" : 189.0,
-   "dateDebut" : "12/03/2026",
-   "dateFin" : "09/07/2026",
-   "description" : "Réalisez enfin la bande dessinée dont vous rêvez depuis toujours. De la création de votre univers narratif à la construction d’un scénario solide, en passant par la mise en page, le dessin, l’encrage et la préparation à l’impression, apprenez à donner vie à votre propre œuvre. Découvrez également comment présenter vos premiers tomes, promouvoir votre travail et vous lancer en tant qu’artiste émergent lors de salons et événements dédiés. Une aventure complète pour transformer vos idées en une véritable BD prête à rencontrer son public.",
-   "duree" : "42 leçons",
-   "enseignants" : [ {
-      "nom" : "Blanchard",
-      "prenom" : "Thierry",
-      "presentation" : "Plongez dans l'univers captivant de notre formateur, Thierry Blanchard, mieux connu sous son pseudonyme Bytiddraw !\r\nCet artiste autodidacte captive la toile, accumulant sans cesse plus de fans. Avec près de 76000 abonnés sur TikTok, il partage son art. Aimeriez-vous le rencontrer en personne et participer à des sessions d'apprentissage en direct avec lui ?\r\n",
-      "site" : "http://www.tiktok.com/@bytiddraw"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63818,
-   "intitule" : "Bande dessinée : l’art de raconter en images",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BD",
-   "matiereNom" : "Bande dessinée",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MTg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Le formateur fournit l’ensemble du matériel nécessaire. Une participation forfaitaire de 20 euros sera demandée en début de la 1iere session pour couvrir les frais, à régler directement sur place."
-}, {
-   "adresseCours" : {
       "codePostal" : "9085",
       "localite" : "Ettelbruck",
       "nom" : "CNFPC-Ettelbrück",
@@ -9094,7 +8968,7 @@
    "dateInscription" : "27/03 au 09/04/2026",
    "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes et des phrases très simples visant à répondre à des besoins concrets. Peut se présenter à d'autres personnes et poser des questions à une personne à leur sujet - par ex. où elle habite, quelles personnes elle connaît et quelles choses lui appartiennent - et répondre au même genre de questions. Peut interagir facilement si l'autre personne parle lentement et clairement et est coopérative.",
    "domainesCompetences" : [ {
-      "competences" : [ "4. e Gespréich iwwer alldeeglech Aktivitéite verstoen (am Stot, dobaussen, am Restaurant, ...)\t \t \r\n\t\t", "1. eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. eng ganz einfach Weebeschreiwung an enger Stad verstoen (riichtaus, no lénks, no riets, ...) \t \t", " 3. Informatiounen iwwer Wunnenge verstoen (Gréisst, Präis, Zëmmeren, ...) (kafen, verkafen, lounen, verlounen)\t \t \r\n\t\t\t \t \r\n", "5. eng Persounebeschreiwung verstoen (um Radio, op enger Party) (Ausgesinn, Kleeder, Adjektiver)" ],
+      "competences" : [ "1. eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. eng ganz einfach Weebeschreiwung an enger Stad verstoen (riichtaus, no lénks, no riets, ...) \t \t", " 3. Informatiounen iwwer Wunnenge verstoen (Gréisst, Präis, Zëmmeren, ...) (kafen, verkafen, lounen, verlounen)\t \t \r\n\t\t\t \t \r\n", "4. e Gespréich iwwer alldeeglech Aktivitéite verstoen (am Stot, dobaussen, am Restaurant, ...)\t \t \r\n\t\t", "5. eng Persounebeschreiwung verstoen (um Radio, op enger Party) (Ausgesinn, Kleeder, Adjektiver)" ],
       "domaine" : "Compréhension Orale  Héierverstoen (HV)"
    }, {
       "competences" : [ "1. op engem Panneau eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. an engem Gebai eng wichteg Orientéierungshëllef verstoen (éischte Stack, am Keller, ...)\t \t \r\n\t\t", "3. eng Wunnengsannonce verstoen (Lag, Gréisst, Zëmmeren, ...)", "4. eng Persounebeschreiwung verstoen, d'Ausgesinn an de Charakter  (Annonce, ...) (Kierper, Kleeder, Adjektiver)" ],
@@ -9168,7 +9042,7 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
    "description" : "Peut comprendre le contenu essentiel dans un texte complexe. Peut communiquer avec un degré de spontanéité et d'aisance. Peut s'exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d'actualité en exposer les avantages et les inconvénients.",
    "domainesCompetences" : [ {
-      "competences" : [ "comprendre les différents registres de langue et des jeux de mots.\r\n", "comprendre une intervention sur des sujets spécialisés abstraits ou complexes, même hors de son domaine, avec parfois la nécessité de faire confirmer quelques détails, notamment si l’accent n’est pas familier. ", "suivre la plupart des conférences, discussions et débats avec aisance. \r\n", " comprendre une gamme étendue de matériel enregistré ou radiodiffusé, y compris en langue non standard et identifier des détails fins incluant l’implicite des attitudes et des relations des interlocuteurs.", "extraire des détails précis d’une annonce publique émise dans de mauvaises conditions et déformée par la sonorisation. " ],
+      "competences" : [ "comprendre une intervention sur des sujets spécialisés abstraits ou complexes, même hors de son domaine, avec parfois la nécessité de faire confirmer quelques détails, notamment si l’accent n’est pas familier. ", "suivre la plupart des conférences, discussions et débats avec aisance. \r\n", " comprendre une gamme étendue de matériel enregistré ou radiodiffusé, y compris en langue non standard et identifier des détails fins incluant l’implicite des attitudes et des relations des interlocuteurs.", "comprendre les différents registres de langue et des jeux de mots.\r\n", "extraire des détails précis d’une annonce publique émise dans de mauvaises conditions et déformée par la sonorisation. " ],
       "domaine" : "compréhension orale"
    }, {
       "competences" : [ " comprendre les sigles, le politiquement correct, des expressions idiomatiques.\r\n", "comprendre tout type de correspondance, avec l’utilisation éventuelle d’un dictionnaire.\r\n", "comprendre la majorité des points de détails, identifier les attitudes, opinions exposées ou implicites dans les textes que l’on peut rencontrer dans la vie sociale, professionnelle ou universitaire", " identifier des points de détail fins, y compris les attitudes, que les opinions soient explicites ou implicites.", " reconnaître le schéma argumentatif d’un texte et retrouver les arguments importants dans des textes d’actualité ou de sujets personnels", " identifier les attitudes, opinions explicites ou implicites dans les textes que l’on peut rencontrer dans la vie sociale, professionnelle ou universitaire." ],
@@ -9661,7 +9535,7 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
    "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
    "domainesCompetences" : [ {
-      "competences" : [ "comprendre des énoncés très simples qui visent à satisfaire des besoins immédiats de la vie de tous  les jours \r\n\r\n", "généralement comprendre le sujet d'une discussion claire, simple et lente  \r\n", " comprendre  des informations relatives à la famille,  aux achats,  à l'environnement proche, au travail  \r\n", "comprendre  et suivre des directives et instructions simples : ex l'itinéraire (aller d'un point à l'autre à pied ou \r\n   par les transports en commun)\r\n" ],
+      "competences" : [ " comprendre  des informations relatives à la famille,  aux achats,  à l'environnement proche, au travail  \r\n", "comprendre  et suivre des directives et instructions simples : ex l'itinéraire (aller d'un point à l'autre à pied ou \r\n   par les transports en commun)\r\n", "généralement comprendre le sujet d'une discussion claire, simple et lente  \r\n", "comprendre des énoncés très simples qui visent à satisfaire des besoins immédiats de la vie de tous  les jours \r\n\r\n" ],
       "domaine" : "compréhension orale"
    }, {
       "competences" : [ "comprendre les signes,  panneaux et affiches courants dans les lieux publics (rues, restaurants, gares, sur le lieu de travail )\r\n ", " reconnaître différents types de  documents  ", "comprendre l'information  de brochures publicitaires et je peux trouver  des   informations précises dans des\r\n  documents quotidiens comme publicités, brochures,  menus  \r\n", "comprendre  une lettre personnelle simple et courte au présent \r\n" ],
@@ -19481,9 +19355,6 @@
    "dateInscription" : "toute l'année entre 08:00 et 11:30 et 13.30-16.00 hrs",
    "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant peut engager une conversation simple.  Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
-      "domaine" : "Expression orale"
-   }, {
       "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne. " ],
       "domaine" : "Compréhension écrite"
    }, {
@@ -19492,6 +19363,9 @@
    }, {
       "competences" : [ "L'apprenant est capable de répondre à un courriel. ", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées . " ],
       "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "L'apprenant peut engager une conversation simple.  Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
+      "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
    "enseignants" : [ {
@@ -43699,7 +43573,7 @@
    "dateInscription" : "Tous les jours de 9h à 12h",
    "description" : "Comprendre des mots familiers, des expressions courantes ainsi que des énoncés très simple au sujet d'elles-mêmes, de leur famille et de l'environnement concret et immédiat si les gens parlent lentement et distinctement.",
    "domainesCompetences" : [ {
-      "competences" : [ "Peut comprendre des questions, instructions ou indications courtes et élémentaires.", "Peut identifier les formules de politesse et de salutation.", "Peut comprendre les chiffres, les prix et l'heure.", "Peut comprendre des expressions et mots familiers.", "Peut manifester sa compréhension ou son incompréhension.", "Peut comprendre des consignes simples et courtes.", "Peut comprendre l'appartenance et la quantité.", "Peut comprendre des informations ou des questions personnelles simples.", "Peut comprendre la description d'un objet ou d'une personne." ],
+      "competences" : [ "Peut identifier les formules de politesse et de salutation.", "Peut comprendre les chiffres, les prix et l'heure.", "Peut comprendre des expressions et mots familiers.", "Peut comprendre des questions, instructions ou indications courtes et élémentaires.", "Peut manifester sa compréhension ou son incompréhension.", "Peut comprendre des consignes simples et courtes.", "Peut comprendre l'appartenance et la quantité.", "Peut comprendre des informations ou des questions personnelles simples.", "Peut comprendre la description d'un objet ou d'une personne." ],
       "domaine" : "Compréhension orale"
    }, {
       "competences" : [ "Peut épeler.", "Peut comprendre des messages courts et simples.", "Peut comprendre des textes courts avec des mots familiers et courants.", "Peut comprendre et suivre des indications, des instructions.", "Peut comprendre des textes simples avec des informations et des descriptions courtes.", "Peut comprendre des textes simples donnant des informations et des descriptions sur l'identité, la présentation, la description, sur des évènements dans le temps, sur la localisation, la météo..." ],
@@ -44439,6 +44313,132 @@
       "websiteUrl" : "https://www.luxchine.org/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-DAN-16",
+   "coursId" : "SO-DAN-16",
+   "coursType" : "CLASSIQUE",
+   "cout" : 58.5,
+   "dateDebut" : "12/03/2026",
+   "dateFin" : "02/07/2026",
+   "description" : "Zumba Zen est une forme douce de dance fitness inspirée des rythmes latins. Elle permet de tonifier le corps en douceur, d’améliorer l’endurance et de retrouver vitalité et énergie. Grâce à ses musiques entraînantes, chaque séance offre un vrai moment de bien-être, qui allie mouvement, bonne humeur et détente.",
+   "duree" : "13 leçons",
+   "enseignants" : [ {
+      "nom" : "Pires Rodrigues Alfama",
+      "prenom" : "Arlinda"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 19:40 (durée 0h50)",
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "19:40",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63811,
+   "intitule" : "Zumba Zen - danse, énergie et mouvement",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DAN",
+   "matiereNom" : "Danse",
+   "nbInscrits" : 6,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Les cours n’auront pas lieu pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Pensez à venir en tenue confortable adaptée au mouvement et à apporter une bouteille d’eau afin de rester bien hydraté pendant la séance."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-BD-7",
+   "coursId" : "AR-BD-7",
+   "coursType" : "CLASSIQUE",
+   "cout" : 189.0,
+   "dateDebut" : "12/03/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "Réalisez enfin la bande dessinée dont vous rêvez depuis toujours. De la création de votre univers narratif à la construction d’un scénario solide, en passant par la mise en page, le dessin, l’encrage et la préparation à l’impression, apprenez à donner vie à votre propre œuvre. Découvrez également comment présenter vos premiers tomes, promouvoir votre travail et vous lancer en tant qu’artiste émergent lors de salons et événements dédiés. Une aventure complète pour transformer vos idées en une véritable BD prête à rencontrer son public.",
+   "duree" : "42 leçons",
+   "enseignants" : [ {
+      "nom" : "Blanchard",
+      "prenom" : "Thierry",
+      "presentation" : "Plongez dans l'univers captivant de notre formateur, Thierry Blanchard, mieux connu sous son pseudonyme Bytiddraw !\r\nCet artiste autodidacte captive la toile, accumulant sans cesse plus de fans. Avec près de 76000 abonnés sur TikTok, il partage son art. Aimeriez-vous le rencontrer en personne et participer à des sessions d'apprentissage en direct avec lui ?\r\n",
+      "site" : "http://www.tiktok.com/@bytiddraw"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63818,
+   "intitule" : "Bande dessinée : l’art de raconter en images",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BD",
+   "matiereNom" : "Bande dessinée",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MTg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Le formateur fournit l’ensemble du matériel nécessaire. Une participation forfaitaire de 20 euros sera demandée en début de la 1iere session pour couvrir les frais, à régler directement sur place."
 }, {
    "adresseCours" : {
       "codePostal" : "1254",
@@ -57812,7 +57812,7 @@
       "competences" : [ "Échanger sur le thème de l'identité. \r\n", "Décrire une personne, d'un objet dans des simples et courants.  \r\n\r\n", "Indique le chemin. ", "Décrire un logement. \r\n", "Échanger autour des habitudes quotidiennes. \r\n", "Échanger simplement et succinctement en utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisir. \r\n", "Dire l'heure et les moments de la journée. " ],
       "domaine" : "EXPRESSION ORALE"
    }, {
-      "competences" : [ "Comprendre un planning de tâches au quotidien.\r\n", "Comprendre de courts textes descriptifs écrits avec des mots simples et usuels (annonces, pub). ", "Comprendre de courts texte de type « petites annonces pour un logement ».\r\n" ],
+      "competences" : [ "Comprendre de courts textes descriptifs écrits avec des mots simples et usuels (annonces, pub). ", "Comprendre de courts texte de type « petites annonces pour un logement ».\r\n", "Comprendre un planning de tâches au quotidien.\r\n" ],
       "domaine" : "COMPREHENSION ECRITE"
    }, {
       "competences" : [ "Ecrire des mots simples et courants sur des thèmes familiers (identité, famille, nourriture, état physique-moral...)\r\n\r\n", "Ecrire de courts messages (date, rdv, noter des numéros de téléphone)." ],
@@ -58179,9 +58179,6 @@
    "dateInscription" : "à partir du 1er novembre 2025",
    "description" : "S'exprimer de façon claire et détaillée sur une grande gamme de sujets (d'actualité, sociaux ou culturels)\r\nComprendre la plupart des émissions d'actualité et suivre une argumentation même complexe, si le sujet est familier.",
    "domainesCompetences" : [ {
-      "competences" : [ "comprendre en détail des articles de journaux et des comptes rendus", "comprendre les opinions et prises de position exprimées dans des textes", "comprendre globalement des textes littéraires contemporains" ],
-      "domaine" : "Compréhension écrite"
-   }, {
       "competences" : [ "mener de façon cohérente une conversation assez élaborée sur des sujets variés", "participer activement à des discussions en justifiant son opinion", "exposer les avantages et les inconvénients d'un problème actuel et proposer des solutions alternatives" ],
       "domaine" : "Expression orale"
    }, {
@@ -58190,6 +58187,9 @@
    }, {
       "competences" : [ "rédiger de façon structurée un texte sur un sujet de son choix", "rédiger un texte sur un sujet général en exposant le pour et le contre et en justifiant son opinion", "relater des faits réels et imaginaires de façon claire et précise" ],
       "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "comprendre en détail des articles de journaux et des comptes rendus", "comprendre les opinions et prises de position exprimées dans des textes", "comprendre globalement des textes littéraires contemporains" ],
+      "domaine" : "Compréhension écrite"
    } ],
    "duree" : "46h",
    "enseignants" : [ {
@@ -61935,78 +61935,6 @@
    "renseignements" : "Tél.:51 68 52 ou 621 27 58 73 // E-mail : piccomen@pt.lu // 25 euros = coût du livre (valable pour les cinq années)\r\nLe certificat est établi pour 70% de présence des leçons données. (soit 15 leçons)"
 }, {
    "adresseCours" : {
-      "codePostal" : "2309",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Technique du Centre",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "106 avenue Pasteur"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2563",
-      "localite" : "Luxembourg",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://www.luxchine.org/"
-   },
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-21",
-   "coursId" : "SO-MED-21",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "08/01/2026",
-   "dateFin" : "12/03/2026",
-   "dateInscription" : "jusqu'au 15 décembre 2025",
-   "description" : "Répétition des sept points de la posture assise correcte, des huit formes de la méditation en mouvement et des méthodes essentielles de méditation dans le but d'harmoniser le corps, l'esprit et la respiration. Enseignement de la relaxation, de la méditation debout, de la méditation assise, de la méditation en mouvement et de la méditation en mangeant. Théorie de la méditation Chan et sa mise en pratique dans la vie quotidienne. Séances de continuation.",
-   "duree" : "18h",
-   "enseignants" : [ {
-      "nom" : "Lin",
-      "prenom" : "Li-Chuan"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63605,
-   "intitule" : "Méditation Chan",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 8,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2563",
-         "localite" : "Luxembourg",
-         "nom" : "Association Culturelle Chinoise Lux.",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, rue Jean Schaack"
-      },
-      "code" : "ACCL",
-      "fax" : "/",
-      "mail" : "luxchine@pt.lu",
-      "nom" : "Association Culturelle Chinoise Lux.",
-      "nomContact" : "Wagener",
-      "onlineReg" : false,
-      "prenomContact" : "Marie-Paule",
-      "statut" : "ASBL",
-      "telephone" : "+352 236 208 59",
-      "websiteUrl" : "https://www.luxchine.org/"
-   },
-   "prerequis" : "Avoir suivi le cours débutant avec ACCL",
-   "renseignements" : "Accès pour personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
       "codePostal" : "4501",
       "localite" : "Differdange",
       "nom" : "Administration Communale de Differdange",
@@ -62807,9 +62735,6 @@
    "dateInscription" : "À partir de 05/11/2025, du lundi au vendredi, de 09h30 à 12h15 et de 13h30 à 17h30.",
    "description" : "Être capable de : - communiquer simplement dans son environnement personnel et professionnel pour décrire des lieux et des personnes ; parler de sa famille, de ses activités, de son travail ; échanger des informations, suivre et donner des instructions.",
    "domainesCompetences" : [ {
-      "competences" : [ "Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille, mes conditions de vie, mon activité professionnelle actuelle ou récente." ],
-      "domaine" : "Parler / S'exprimer oralement en continue "
-   }, {
       "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent (simple) relatifs à soi-même, à la famille, au travail, aux achats;\r\n", "Je peux saisir l'essentiel d'annonces / messages simples." ],
       "domaine" : "Comprendre / Écouter "
    }, {
@@ -62818,6 +62743,9 @@
    }, {
       "competences" : [ "Je suis capable de communiquer lors des tâches simples et habituelles (sujets et activités familiers) Échanges brefs." ],
       "domaine" : "Parler / Prendre part à une conversation"
+   }, {
+      "competences" : [ "Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille, mes conditions de vie, mon activité professionnelle actuelle ou récente." ],
+      "domaine" : "Parler / S'exprimer oralement en continue "
    }, {
       "competences" : [ "Écrire des notes et des messages simples et courts, je peux écrire une lettre personnelle simple (par exemple, des remerciements). " ],
       "domaine" : "Écrire "
@@ -70044,69 +69972,6 @@
    },
    "prerequis" : "- notions essentielles de la dactylographie\r\n- notions essentielles de l'ordinateur\r\n- les cours ne s'adressent qu'à des personnes ayant un trouble relatif à la vue",
    "renseignements" : "Toute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-ESCH-SUR-ALZETTE",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Ettelbruck" ],
-   "coursCode" : "AR-COUT-73",
-   "coursId" : "AR-COUT-73",
-   "coursType" : "CLASSIQUE",
-   "cout" : 243.0,
-   "dateDebut" : "25/09/2025",
-   "dateFin" : "12/03/2026",
-   "description" : "Dein Projekt Nähen:\r\nalltägliche Näharbeiten und kleine Umänderungen oder einen Rock nähen ( z.B. wie nähe ich einen Knopf richtig an, wie ersetze ich einen Reißverschluss richtig, wie säume ich ein Kleidungsstück… ) Ich begleite dein Projekt\r\n\r\nDer Teilnehmende lernt :\r\n  >  Schnittmuster richtig lesen und Anpassung an die eigenen Masse\r\n  >  Zuschnitt eines individuellen Kleides mit den Verarbeitungen\r\n  >  Verarbeitungstechniken\r\n  >  Gestaltung von Accessoires (z.Bsp. Anhänger, Broschen,Tücher, Schals, Stofftiere etc)\r\n  >  Neugestaltung, Aufwertung alter Lieblingsbekleidung",
-   "duree" : "54 leçons",
-   "enseignants" : [ {
-      "nom" : "Heck",
-      "prenom" : "Emilie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 08:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "08:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 62129,
-   "intitule" : "Nähen macht glücklich 1SEM",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 8,
-   "nbPlaces" : 8,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjIxMjk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Bitte beachten Sie, dass während der Schulferien in Luxemburg kein Kurs stattfindet.",
-   "renseignements" : "Bitte eine eigene Nähmaschine, Nähzubehör (Scheren, Nadeln etc.), passende Stoffe sowie ein Schnittmuster nach Wahl mitbringen."
 }, {
    "adresseCours" : {
       "codePostal" : "4277",
