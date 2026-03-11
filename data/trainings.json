@@ -6286,12 +6286,12 @@
    "prerequis" : "niveau B2.1 requis"
 }, {
    "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
+      "codePostal" : "2630",
+      "localite" : "Luxembourg",
+      "nom" : "Frënn vun der Festungsgeschicht Lëtzebuerg asbl",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
+      "rueNumero" : "66, route de Trèves  L-2630 Luxembourg "
    },
    "anneeScolaire" : "2025/2026",
    "categorieCode" : "SCI",
@@ -27187,6 +27187,59 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Please bring fine ink pens, a pencil, watercolors, brushes, a cloth, a small water container, and a sketchbook. For full practice, use watercolor or thick paper with a rigid support, plus any portable tools you like."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-COMMU-12",
+   "coursId" : "SCI-COMMU-12",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "30/05/2026",
+   "dateFin" : "30/05/2026",
+   "description" : "Ever wondered why a gesture, word, or tone can mean something totally different to the 180 nationalities in Luxembourg? Culture shapes how we see ourselves, how we communicate, and how we connect. In this participative training, participants will:\r\nDiscover how their own culture influences their communication style and what it reveals about their behaviour, values, and relationships.\r\nDiscuss the fascinating world of high-context vs. low-context cultures, and why “direct” doesn’t always mean “rude.”\r\nLaugh and learn from real-life translation fails, quirky idioms, and cultural metaphors that reveal hidden truths about how we think, communicate, and interact with people from different backgrounds.\r\nGain practical tools to navigate conversations with clarity, empathy, and confidence, no matter what you do.\r\nLeave with more than just knowledge: Walk away with a personal “Cultural Communication Pledge” to turn awareness into action.\r\nReady to turn differences into bridges? Enrol now!",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 30-05-2026 à 14:30 (durée 5h)",
+   "horaires" : [ ],
+   "id" : 63823,
+   "intitule" : "Everyday Cross-Cultural Communication: The Art of Getting Along",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "COMMU",
+   "matiereNom" : "Communication",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MjM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
