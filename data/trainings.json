@@ -1689,7 +1689,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -4058,17 +4058,10 @@
    "dateFin" : "16/06/2026",
    "description" : "Ce cours s’adresse aux personnes souhaitant mieux utiliser leur téléphone, tablette ou ordinateur. À partir de leur propre équipement ou de celui mis à disposition, l’atelier propose un accompagnement personnalisé pour apprendre : emails, appels, classement de fichiers et navigation Internet, dans une ambiance bienveillante favorisant l’autonomie.",
    "duree" : "24 leçons",
-   "enseignants" : [ {
-      "nom" : "Morel",
-      "prenom" : "Juliane"
-   } ],
+   "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Mardi"
-   } ],
+   "horairePrevu" : "Mardi à 16:20 (durée 1h40)",
+   "horaires" : [ ],
    "id" : 65292,
    "intitule" : "Mieux utiliser téléphone, tablette ou ordinateur.",
    "langueCoursCode" : "FR",
@@ -4097,7 +4090,7 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
+   "prerequis" : "À noter : Le cours se déroulera pendant les vacances scolaires de Pâques, mais pas pendant les vacances de Pentecôte.",
    "renseignements" : "Veuillez de préférence apporter vos propres appareils numériques (téléphones, iPad, ordinateurs) afin de vous familiariser avec ces équipements."
 }, {
    "adresseCours" : {
@@ -23166,7 +23159,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "FINA",
    "matiereNom" : "Finances",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
