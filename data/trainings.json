@@ -3160,32 +3160,36 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-DI-37",
-   "coursId" : "SCI-DI-37",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-SAN-34",
+   "coursId" : "SO-SAN-34",
    "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
+   "cout" : 9.0,
    "dateDebut" : "20/03/2026",
-   "dateFin" : "27/03/2026",
-   "description" : "Apprenez à adopter de bonnes habitudes pour optimiser vos espaces, gagner du temps au quotidien et améliorer la gestion du linge.",
-   "duree" : "6 leçons",
+   "dateFin" : "20/03/2026",
+   "description" : "Apprendre à reconnaître son type de cheveu et ses besoins spécifiques, puis créer un soin capillaire naturel et personnalisé.",
+   "duree" : "2 leçons",
    "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 27-03-2026 à 18:00 (durée 2h30) et 18:00 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 63916,
-   "intitule" : "HOME ORGANSING 2 : Organiser sa maison pour éviter le désordre et la perte de temps",
+   "horairePrevu" : "Vendredi 20-03-2026 à 10:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64686,
+   "intitule" : "Workshop - Identifiez votre type de cheveu et fabriquez un soin adapté",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "DI",
-   "matiereNom" : "Design d'intérieur",
-   "nbInscrits" : 0,
+   "matiereCode" : "SAN",
+   "matiereNom" : "Santé",
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MTY%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ2ODY%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -3202,7 +3206,8 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   }
+   },
+   "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 25 euros."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -3372,33 +3377,37 @@
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-SAN-34",
-   "coursId" : "SO-SAN-34",
+   "coursCode" : "SO-BE-12",
+   "coursId" : "SO-BE-12",
    "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
+   "cout" : 27.0,
    "dateDebut" : "20/03/2026",
-   "dateFin" : "20/03/2026",
-   "description" : "Apprendre à reconnaître son type de cheveu et ses besoins spécifiques, puis créer un soin capillaire naturel et personnalisé.",
-   "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "dateFin" : "27/03/2026",
+   "description" : "Apprenez à adopter de bonnes habitudes pour optimiser vos espaces, gagner du temps au quotidien et améliorer la gestion du linge.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Krier",
+      "prenom" : "Marie Paule",
+      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
+   } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 20-03-2026 à 10:20 (durée 1h40)",
+   "horairePrevu" : "Vendredi à 18:00 (durée 2h30)",
    "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
+      "duree" : "2h30",
+      "heure" : "18:00",
       "jour" : "Vendredi"
    } ],
-   "id" : 64686,
-   "intitule" : "Workshop - Identifiez votre type de cheveu et fabriquez un soin adapté",
+   "id" : 65813,
+   "intitule" : "HOME ORGANSING 2 : Organiser sa maison pour éviter le désordre et la perte de temps",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "SAN",
-   "matiereNom" : "Santé",
-   "nbInscrits" : 4,
+   "matiereCode" : "BE",
+   "matiereNom" : "Bien-être",
+   "nbInscrits" : 0,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ2ODY%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTM%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -3415,8 +3424,7 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 25 euros."
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -17872,17 +17880,28 @@
    "dateInscription" : "Hôtel de Ville de Dudelange \r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
    "description" : "Initiation à l'ordinateur.\r\nSe familiariser avec l'ordinateur et son système d'exploitation. \r\nAcquérir les notions de base du traitement de texte. \r\nGérer les fichiers.",
    "duree" : "20h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Solfa",
+      "prenom" : "Ron Patrick"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 11:30 (durée 2h), Vendredi à 11:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "11:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63232,
    "intitule" : "Initiation PC / Initiation Internet",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 6,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -20099,11 +20118,11 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-DI-38",
-   "coursId" : "SCI-DI-38",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-BE-13",
+   "coursId" : "SO-BE-13",
    "coursType" : "CLASSIQUE",
    "cout" : 27.0,
    "dateDebut" : "17/04/2026",
@@ -20112,19 +20131,19 @@
    "duree" : "6 leçons",
    "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 24-04-2026 à 18:00 (durée 2h30) et 18:00 (durée 2h30)",
+   "horairePrevu" : "Vendredi à 18:00 (durée 2h30)",
    "horaires" : [ ],
-   "id" : 63918,
-   "intitule" : "HOME ORGANSING 3 :  Le désencombrement et l'organisation des Papiers",
+   "id" : 65814,
+   "intitule" : "HOME ORGANSING 3 : Le désencombrement et l'organisation des Papiers",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "DI",
-   "matiereNom" : "Design d'intérieur",
+   "matiereCode" : "BE",
+   "matiereNom" : "Bien-être",
    "nbInscrits" : 0,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MTg%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTQ%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -24388,6 +24407,59 @@
    "renseignements" : "Accès pour personnes à mobilité réduite,\r\nHors vacances scolaires\r\n"
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-BE-14",
+   "coursId" : "SO-BE-14",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "06/05/2026",
+   "dateFin" : "06/05/2026",
+   "description" : "Trier, ranger et classer ses papiers… Pourquoi cela est-il toujours remis au lendemain ? Comment s’organiser pour s’y mettre réellement ? Cet atelier propose des méthodes simples et efficaces pour instaurer une organisation durable, ainsi que des trucs et astuces faciles à appliquer afin de simplifier le quotidien et alléger la gestion administrative.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 06-05-2026 à 17:10 (durée 3h20)",
+   "horaires" : [ ],
+   "id" : 65815,
+   "intitule" : "HOME ORGANSING 4 : Procrastination – Pourquoi remettre les choses au lendemain ?",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BE",
+   "matiereNom" : "Bien-être",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "6630",
       "localite" : "Wasserbillig",
       "nom" : "Administration Communale de Mertert / Wasserbillig",
@@ -24454,59 +24526,6 @@
       "prenomContact" : "Rachel",
       "statut" : "Administration Communale",
       "telephone" : "74 00 16 122"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-DI-39",
-   "coursId" : "SCI-DI-39",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "06/05/2026",
-   "dateFin" : "06/05/2026",
-   "description" : "Trier, ranger et classer ses papiers… Pourquoi cela est-il toujours remis au lendemain ? Comment s’organiser pour s’y mettre réellement ?\r\nCet atelier propose des méthodes simples et efficaces pour instaurer une organisation durable, ainsi que des trucs et astuces faciles à appliquer afin de simplifier le quotidien et alléger la gestion administrative.",
-   "duree" : "4 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 06-05-2026 à 17:10 (durée 3h20)",
-   "horaires" : [ ],
-   "id" : 63920,
-   "intitule" : "HOME ORGANSING 4 : Procrastination – Pourquoi remettre les choses au lendemain ?",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DI",
-   "matiereNom" : "Design d'intérieur",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MjA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
    }
 }, {
    "adresseCours" : {
@@ -25509,17 +25528,32 @@
       "domaine" : "PRESENTATION"
    } ],
    "duree" : "40h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 16:00 (durée 2h), Mercredi à 16:00 (durée 2h), Vendredi à 16:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65352,
    "intitule" : "Word, Excel, Powerpoint",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
