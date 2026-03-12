@@ -1,127 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "9085",
-      "localite" : "Ettelbruck",
-      "nom" : "CNFPC-Ettelbrück",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "77 Rue Jean-Pierre Thill"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-80",
-   "coursId" : "AR-COUT-80",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "13/03/2026",
-   "dateFin" : "12/06/2026",
-   "description" : "Das Ziel des Kurses ist, dass jeder Kursteilnehmer in der Lage ist, einen Rock nach eigenen Vorstellungen zu entwerfen und zu nähen sowie eine solide Grundlage besitzt, um auch anspruchsvollere Projekte erfolgreich umzusetzen.\r\nDie Teilnehmer lernen, korrekt Maß zu nehmen, einen Grundschnitt nach den eigenen Maßen zu erstellen und diesen individuell anzupassen. Außerdem fertigen sie alle benötigten Schnittteile selbst an (z.¿B. Beleg, Futter, Taschen, Verschluss etc.) und übertragen diese mit allen wichtigen Näh- und Saumzugaben sowie Markierungen (Knipse) auf den Stoff.\r\nJeder Teilnehmer erlernt hochwertige und effiziente Verarbeitungstechniken, die ein sauberes und rationelles Arbeiten ermöglichen. Dies garantiert mehr Freude am Nähen und die Fähigkeit, Kleidung in Schneiderqualität herzustellen.",
-   "duree" : "30 leçons",
-   "enseignants" : [ {
-      "nom" : "Haas",
-      "prenom" : "Leo"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63805,
-   "intitule" : "Nähen von einem Rock nach Maß für Anfänger und Fortgeschrittene",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 4,
-   "nbPlaces" : 8,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MDU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Während der Schulferien werden keine Kurse durchgeführt.",
-   "renseignements" : "Die Materialliste wird den Teilnehmern nach der Anmeldung zum Kurs zugesendet."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-DAN-19",
-   "coursId" : "SO-DAN-19",
-   "coursType" : "CLASSIQUE",
-   "cout" : 40.5,
-   "dateDebut" : "13/03/2026",
-   "dateFin" : "22/05/2026",
-   "description" : "Ce cours s'adresse aux personnes qui souhaitent à la fois danser et découvrir l'histoire de la danse. Chaque semestre, une œuvre du répertoire chorégraphique servira de point de départ : par exemple \"L’Après-midi d’un faune\" de Nijinski, dont nous explorerons les enjeux corporels, esthétiques et symboliques. À partir de cette matière historique, les séances proposeront des improvisations ludiques et guidées, permettant de revisiter certains principes clés d’une chorégraphie célèbre (spatialité, rythme, intentions, qualité de présence) tout en laissant chacun développer sa propre écriture corporelle. Ce cours offre une manière vivante de s’initier aux grandes œuvres du XXe siècle et d’en comprendre les choix artistiques par le corps, en les transformant en expériences sensibles et personnelles. Une façon d’entrer dans l’histoire de la danse tout en enrichissant sa pratique individuelle du mouvement.",
-   "duree" : "9 leçons",
-   "enseignants" : [ {
-      "nom" : "Mesager",
-      "prenom" : "Mélanie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 12:00 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63931,
-   "intitule" : "Improvisation Dansée : explorer une œuvre du répertoire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DAN",
-   "matiereNom" : "Danse",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -45151,6 +45029,128 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "9085",
+      "localite" : "Ettelbruck",
+      "nom" : "CNFPC-Ettelbrück",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "77 Rue Jean-Pierre Thill"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-COUT-80",
+   "coursId" : "AR-COUT-80",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "13/03/2026",
+   "dateFin" : "12/06/2026",
+   "description" : "Das Ziel des Kurses ist, dass jeder Kursteilnehmer in der Lage ist, einen Rock nach eigenen Vorstellungen zu entwerfen und zu nähen sowie eine solide Grundlage besitzt, um auch anspruchsvollere Projekte erfolgreich umzusetzen.\r\nDie Teilnehmer lernen, korrekt Maß zu nehmen, einen Grundschnitt nach den eigenen Maßen zu erstellen und diesen individuell anzupassen. Außerdem fertigen sie alle benötigten Schnittteile selbst an (z.¿B. Beleg, Futter, Taschen, Verschluss etc.) und übertragen diese mit allen wichtigen Näh- und Saumzugaben sowie Markierungen (Knipse) auf den Stoff.\r\nJeder Teilnehmer erlernt hochwertige und effiziente Verarbeitungstechniken, die ein sauberes und rationelles Arbeiten ermöglichen. Dies garantiert mehr Freude am Nähen und die Fähigkeit, Kleidung in Schneiderqualität herzustellen.",
+   "duree" : "30 leçons",
+   "enseignants" : [ {
+      "nom" : "Haas",
+      "prenom" : "Leo"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 63805,
+   "intitule" : "Nähen von einem Rock nach Maß für Anfänger und Fortgeschrittene",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 4,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MDU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Während der Schulferien werden keine Kurse durchgeführt.",
+   "renseignements" : "Die Materialliste wird den Teilnehmern nach der Anmeldung zum Kurs zugesendet."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-DAN-19",
+   "coursId" : "SO-DAN-19",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.5,
+   "dateDebut" : "13/03/2026",
+   "dateFin" : "22/05/2026",
+   "description" : "Ce cours s'adresse aux personnes qui souhaitent à la fois danser et découvrir l'histoire de la danse. Chaque semestre, une œuvre du répertoire chorégraphique servira de point de départ : par exemple \"L’Après-midi d’un faune\" de Nijinski, dont nous explorerons les enjeux corporels, esthétiques et symboliques. À partir de cette matière historique, les séances proposeront des improvisations ludiques et guidées, permettant de revisiter certains principes clés d’une chorégraphie célèbre (spatialité, rythme, intentions, qualité de présence) tout en laissant chacun développer sa propre écriture corporelle. Ce cours offre une manière vivante de s’initier aux grandes œuvres du XXe siècle et d’en comprendre les choix artistiques par le corps, en les transformant en expériences sensibles et personnelles. Une façon d’entrer dans l’histoire de la danse tout en enrichissant sa pratique individuelle du mouvement.",
+   "duree" : "9 leçons",
+   "enseignants" : [ {
+      "nom" : "Mesager",
+      "prenom" : "Mélanie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 12:00 (durée 0h50)",
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 63931,
+   "intitule" : "Improvisation Dansée : explorer une œuvre du répertoire",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DAN",
+   "matiereNom" : "Danse",
+   "nbInscrits" : 3,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -45525,103 +45525,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Aquarelle : 12 couleurs, gobelet, 3 pinceaux, papier de cuisine, crayon, gomme, bloc DIN 2/3. Acrylique : 12 couleurs, bloc DIN 2/3, toiles 30x40, fusain/crayon, gomme, papier de cuisine, 4-5 pinceaux"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1278",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-72",
-   "coursId" : "IN-BUR-72",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "10/03/2026",
-   "dateFin" : "13/03/2026",
-   "dateInscription" : "Inscription sur place avant le début de la formation.",
-   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
-   "domainesCompetences" : [ {
-      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
-      "domaine" : "Compétences informatiques"
-   } ],
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Gomes Da Costa",
-      "prenom" : "Orlando"
-   }, {
-      "nom" : "Hazizaj",
-      "prenom" : "Bashkim"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64076,
-   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 5,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1617",
-         "localite" : "Luxembourg",
-         "nom" : "Clae services asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "26, rue de Gasperich"
-      },
-      "code" : "CLAE",
-      "mail" : "patricia.lopes@clae.lu",
-      "nom" : "Clae services asbl",
-      "nomContact" : "Lopes",
-      "onlineReg" : false,
-      "prenomContact" : "Patricia",
-      "statut" : "ASBL",
-      "telephone" : "+352 29 86 86 1",
-      "websiteUrl" : "https://www.clae.lu/"
-   },
-   "prerequis" : "Connaissance de base de l'utilisation du numérique"
 }, {
    "adresseCours" : {
       "codePostal" : "4802",
@@ -46341,71 +46244,6 @@
    },
    "prerequis" : "Les cours n’auront pas lieu pendant les vacances scolaires au Luxembourg. ",
    "renseignements" : "La formatrice prend en charge la fourniture du matériel et les participant·e·s lui remboursent un montant de 53 euros."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-BE-11",
-   "coursId" : "SO-BE-11",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "06/03/2026",
-   "dateFin" : "13/03/2026",
-   "description" : "Dans ce cours, vous apprendrez des méthodes simples et efficaces pour alléger votre intérieur, organiser vos espaces et instaurer un ordre durable au quotidien. À travers des conseils pratiques et des exercices concrets, vous découvrirez comment créer un environnement harmonieux, fonctionnel et adapté à votre mode de vie.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Krier",
-      "prenom" : "Marie Paule",
-      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 06-03-2026 à 18:00 (durée 2h30) et 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65474,
-   "intitule" : "HOME ORGANSING 1 : Le désencombrement et l'organisation du rangement dans nos habitations",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BE",
-   "matiereNom" : "Bien-être",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0NzQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -67395,69 +67233,6 @@
    },
    "prerequis" : "-\tUniquement pour élèves malvoyants et aveugles\r\n-\tÊtre apte à pratiquer une activité physique à intensité modérée\r\n",
    "renseignements" : "- Toute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\n- Renseignements supplémentaires: www.cc-cdv.lu- \r\n- le cours s'adresse à des personnes ayant des beoins relatifs à la vue "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-BROD-5",
-   "coursId" : "AR-BROD-5",
-   "coursType" : "CLASSIQUE",
-   "cout" : 324.0,
-   "dateDebut" : "24/10/2025",
-   "dateFin" : "13/03/2026",
-   "description" : "Ce cours propose une initiation à la broderie à l’aiguille sur métier, un outil utilisé en contexte professionnel permettant un travail fluide et précis à deux mains, sur de grandes surfaces.\r\nLes premières séances sont consacrées à l’apprentissage des techniques de base et à l’exploration de différents points. Une fois les gestes acquis, les participant·es pourront développer leurs propres projets et apprendre à transposer un dessin en broderie.\r\nDes sessions spécifiques pourront être proposées selon les envies : travail de la laine ou de la soie, techniques de bourrage, points anciens, etc.\r\nLe cours s’adresse à toute personne souhaitant découvrir la broderie dans un cadre sérieux mais sans pression de résultat. Seules la curiosité et l’envie de créer sont requises. Le contenu s’adapte aux niveaux de chacun, dans une ambiance studieuse et bienveillante.",
-   "duree" : "72 leçons",
-   "enseignants" : [ {
-      "nom" : "Aimard",
-      "prenom" : "Louise",
-      "presentation" : "https://maison-aimard.com/about/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 61453,
-   "intitule" : "Cours de broderie - Main sur métier",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BROD",
-   "matiereNom" : "Broderie",
-   "nbInscrits" : 6,
-   "nbPlaces" : 8,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE0NTM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Matériel à apporter : coton à broder type échevette (DMC), fil à coudre, tissu coton opaque (type popeline), chutes de tissu. Fournitures disponibles en mercerie ou en ligne (Rascol, Amazon, Mondial Tissus)"
 }, {
    "adresseCours" : {
       "codePostal" : "6122",
