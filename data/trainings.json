@@ -221,7 +221,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SAN",
    "matiereNom" : "Santé",
-   "nbInscrits" : 31,
+   "nbInscrits" : 34,
    "nbPlaces" : 200,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11953,66 +11953,6 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "niveau A2.1 acquis"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-ARS-11",
-   "coursId" : "AR-ARS-11",
-   "coursType" : "CLASSIQUE",
-   "cout" : 45.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "11/05/2026",
-   "description" : "Dëse Kurs bitt e flotte Bléck hannert d’Kulisse vum Amateur-Theater. D’Participanten entdecke wéi en Regisseur schafft: vu méi kreativen Iddien, iwwer d'Szenesetzung, bis zur Aarbecht mat den Acteuren. Eng verständlech Aféierung an d’Regiekonscht fir jiddwereen, dee Loscht huet, Theater aus enger neier Perspektiv ze erliewen.",
-   "duree" : "10 leçons",
-   "enseignants" : [ {
-      "nom" : "Wagner",
-      "prenom" : "Robert"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Lundi"
-   } ],
-   "id" : 63838,
-   "intitule" : "Hannert de Kulissen: Abléck an d’Aarbecht vun engem Regisseur am Amateur-Theater",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "ARS",
-   "matiereNom" : "Arts de la scène",
-   "nbInscrits" : 0,
-   "nbPlaces" : 8,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4Mzg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -45311,7 +45251,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BD",
    "matiereNom" : "Bande dessinée",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
