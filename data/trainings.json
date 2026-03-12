@@ -20586,6 +20586,78 @@
    }
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "coursdelangues@walfer.lu"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-209",
+   "coursId" : "LA-EN-209",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "20/04/2026",
+   "dateFin" : "07/07/2026",
+   "dateInscription" : "toute l'année sous www.walfer.lu/enseignement",
+   "description" : "Comprendre des conversations quotidiennes et y participer, donner votre opinion et échanger des idées sur des sujets actuels, comprendre les grandes lignes de textes clairement rédigés, comprendre la plupart des informations dans une émission de télévision, raconter un événement, une expérience ou un rêve, décrire un espoir ou un but, écrire une lettre, un email structuré, exposer brièvement des raisons ou des explications pour un projet ou une idée",
+   "domainesCompetences" : [ {
+      "competences" : [ "peut identifier un objet à partir de la seule description de son fonctionnement et de ses caractéristiques\r\n-peut identifier un lieu\r\n-peut identifier une personne\r\n-peut comprendre des informations techniques simples sur des produits ou services familiers, pour un appareil d'usage fréquent\r\n-peut comprendre des instructions détaillées\r\n-peut identifier, dans des situations de communication, les liens et le degré d'intimité entre les interlocuteurs et le sujet de leur conversation" ],
+      "domaine" : "COMPREHENSION DE L'ORAL"
+   }, {
+      "competences" : [ "peut localiser et comprendre des informations pertinentes dans des écrits quotidiens tels que lettres, prospectus, brochures, courts documents officiels (ex : convocation à un club, règlement interne), sites internet, annonces\r\n-peut comprendre les points significatifs d'un article de journal simple sur un sujet familier\r\n-peut comprendre des instructions structurées pour le mode d'emploi d'appareils" ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "peut parler de ses goûts, de ses préférences, de sa manière d'être et de ses habitudes\r\n-peut communiquer ses impressions et ses sentiments par rapport à d'autres personnes ou événements (la joie, la tristesse, la surprise)\r\n-peut juger la qualité d'un spectacle, d'une sortie, d'un produit et recommander cet événement\r\n-peut décrire l'endroit où il habite et s'orienter dans l'espace\r\n-peut décrire une personne, des circonstances, un événement, des expériences" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "peut écrire une anecdote, une histoire de façon linéaire\r\n- peut écrire des lettres personnelles pour donner des nouvelles, décrire en détail expériences et impressions\r\n- peut écrire des textes articulés simplement (une expérience, des événements, une tradition, un lieu par ex.)\r\n- peut rédiger une annonce ou y réagir pour demander des précisions" ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65837,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 1"
+      },
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "8211",
       "localite" : "Mamer",
       "nom" : "EFID ",
@@ -21135,6 +21207,150 @@
       "statut" : "ASBL",
       "telephone" : "621 464 422",
       "websiteUrl" : "https://efid.lu/"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "coursdelangues@walfer.lu"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-212",
+   "coursId" : "LA-EN-212",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "20/04/2026",
+   "dateFin" : "07/07/2026",
+   "dateInscription" : "toute l'année sous coursdelangues@walfer.lu",
+   "description" : "La personne possède un vaste répertoire lexical d'expressions idiomatiques et courantes et de structures grammaticales. Elle s'exprime spontanément et couramment sans devoir chercher ses mots, dans une langue souple et efficace, y compris dans un registre de langue affectif, allusif ou humoristique. Elle manifeste un net contrôle des outils d'organisation d'articulation et de cohésion du discours. Ses accents et intonations peuvent transmettre de fines nuances de sens.",
+   "domainesCompetences" : [ {
+      "competences" : [ "peut suivre facilement des échanges complexes entre partenaires extérieurs dans une discussion de groupe et un débat, même sur des sujets abstraits, complexes et non familiers. \r\n-peut suivre la plupart des conférences, discussions et débats avec assez d'aisance. \r\n-peut extraire des détails précis d'une annonce publique émise dans de mauvaises conditions et déformée par la sonorisation. " ],
+      "domaine" : "COMPREHENSION DE L'ORAL"
+   }, {
+      "competences" : [ "peut lire tout type de correspondance courante avec l'utilisation éventuelle d'un dictionnaire. \r\n-peut parcourir rapidement un texte long et complexe, en relever les points pertinents, et en saisir la trame argumentative même si les relations entre les idées sont implicites. " ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "peut faire une description claire et détaillée de sujets complexes. \r\n-peut faire une narration élaborée, en y intégrant des thèmes secondaires, en intégrant des arguments secondaires et en développant des points particuliers pour arriver à une conclusion appropriée. " ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "peut utiliser une langue souple et efficace dans toute sa correspondance personnelle. \r\n-peut correspondre de façon autonome avec des administrations et des services. \r\n-peut se plaindre d'un problème et mettre en avant les concessions attendues. " ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65840,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "C1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 1"
+      },
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "coursdelangues@walfer.lu"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-211",
+   "coursId" : "LA-EN-211",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "20/04/2026",
+   "dateFin" : "07/07/2026",
+   "dateInscription" : "toute l'année sous www.walfer.lu/enseignement",
+   "description" : "Comprendre des conversations quotidiennes et y participer, donner votre opinion et échanger des idées sur des sujets actuels, comprendre les grandes lignes de textes clairement rédigés, comprendre la plupart des informations dans une émission de télévision, raconter un événement, une expérience ou un rêve, décrire un espoir ou un but, écrire une lettre, un email structuré, exposer brièvement des raisons ou des explications pour un projet ou une idée",
+   "domainesCompetences" : [ {
+      "competences" : [ "peut comprendre les points significatifs d'un fait divers raconté à la radio, d'un film dans lequel l'histoire repose largement sur l'action et l'image et où la langue est claire et directe\r\n- peut comprendre un récit d'événements et les situer dans le temps\r\n- peut identifier l'intention, l'opinion et la prise de position exprimées par d'autres personnes - peut comprendre globalement quels arguments une personne utilise dans une discussion" ],
+      "domaine" : "COMPREHENSION DE L'ORAL"
+   }, {
+      "competences" : [ "peut comprendre la description d'événements non linéaires\r\n- peut comprendre l'expression de sentiments et de souhaits\r\n- peut comprendre l'intention, l'opinion et la prise de position exprimées par d'autres personnes\r\n- peut suivre l'organisation logique d'un texte de type argumentatif" ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "peut défendre et justifier ses opinions, et développer une argumentation simple sur un thème (ex : situation politique, traditions du pays)\r\n- peut brièvement exposer et justifier ses projets\r\n- peut raconter une histoire, une anecdote, ou l'intrigue d'un livre ou d'un film de façon détaillée et exprimer ses réactions" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "peut écrire un texte, un article simple et cohérent sur des sujets familiers ou d'intérêt général\r\n- peut écrire des lettres personnelles pour exprimer sa pensée sur un sujet abstrait ou culturel\r\n- peut échanger un grand nombre d'informations sur des sujets courants ou non familiers à son domaine\r\n- peut écrire des rapports très brefs en développant des arguments pour convaincre" ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 15:00 (durée 2h), Mardi à 15:00 (durée 2h), Jeudi à 15:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65839,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "B1.3 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 1"
+      },
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
    }
 }, {
    "adresseCours" : {
@@ -22163,6 +22379,78 @@
       "prenomContact" : "Nancy",
       "statut" : "Administration Communale",
       "telephone" : "+352 516 121-538"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "coursdelangues@walfer.lu"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-213",
+   "coursId" : "LA-EN-213",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "22/04/2026",
+   "dateFin" : "01/07/2026",
+   "dateInscription" : "toute l'année de 08.00-11.30-13.30 à 16.00 hrs",
+   "description" : "Comprendre une grande gamme de textes longs et exigeants, saisir des significations implicites. S'exprimer couramment sans trop devoir chercher ses mots (traiter des sujets complexes) et de façon claire et bien structurée, manifester son contrôle des outils d'organisation, d'articulation et de cohésion du discours. Pouvoir utiliser la langue de façon efficace et souple dans sa vie sociale, professionnelle ou académique.",
+   "domainesCompetences" : [ {
+      "competences" : [ "peut comprendre les idées principales d'interventions assez longues sur des sujets familiers ou des sujets abstraits et dont le plan général est clair et indiqué par des marqueurs explicites\r\n- peut comprendre l'essentiel du contenu informatif d'un enregistrement en langue standard et le point de vue du ou des locuteurs. Peut repérer, quand elle est explicite, l'humeur du locuteur" ],
+      "domaine" : "COMPREHENSION DE L'ORAL"
+   }, {
+      "competences" : [ "peut lire la plupart de la correspondance courante et en saisir les points essentiels\r\n- peut parcourir, en prenant son temps, un texte long et complexe et en relever les points essentiels\r\n- peut comprendre des articles et des rapports sur des problèmes contemporains et dans lesquels les auteurs adoptent un point de vue particulier, et en saisir le schéma argumentatif" ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "peut faire une intervention courte et spontanée dans la plupart des situations\r\n- peut faire une description de manière claire. (expérience vécue, sujets en relation avec son domaine d'intérêt)\r\n- peut développer, lors d'un débat, une argumentation claire et enchaînée avec logique, en confirmant ses points de vue par des exemples pertinents" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "peut faire des descriptions détaillées sur une variété de sujets en rapport avec son environnement\r\n- peut prendre position sur des manifestations Culturelles\r\n- peut relater des informations et exprimer des points de vue et réagir à ceux des autres\r\n- peut laisser des messages qui transmettent une information immédiatement pertinente à des amis, des employés, ou toute autre personne fréquentée dans la vie quotidienne" ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "30h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mercredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 65841,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "B2.3 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 1"
+      },
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
    }
 }, {
    "adresseCours" : {
@@ -24526,6 +24814,72 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "coursdelangues@walfer.lu"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-210",
+   "coursId" : "LA-EN-210",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "06/05/2026",
+   "dateFin" : "01/07/2026",
+   "dateInscription" : "toute l'année sous www.walfer.lu/enseignement",
+   "description" : "Peut comprendre le contenu essentiel de sujets concrets ou abstrait dans un texte complexe, y compris une discussion technique dans sa spécialité. Peut communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un locuteur natif ne comportant de tension ni pour l'un ni pour l'autre. Peut s'exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d'actualité et exposer les avantages et les inconvénients de différentes possibilités.",
+   "domainesCompetences" : [ {
+      "competences" : [ " peut comprendre les idées principales d'interventions assez longues sur des sujets familiers ou des sujets abstraits et dont le plan général est clair et indiqué par des marqueurs explicites\r\n- peut comprendre l'essentiel du contenu informatif d'un enregistrement en langue standard et le point de vue du ou des locuteurs. Peut repérer, quand elle est explicite, l'humeur du locuteur\r\n- peut saisir avec un certain effort une discussion entre locuteurs natifs" ],
+      "domaine" : "COMPREHENSION DE L'ORAL"
+   }, {
+      "competences" : [ " peut faire une intervention courte et spontanée dans la plupart des situations\r\n- peut faire une description de manière claire. (expérience vécue, sujets en relation avec son domaine d'intérêt)\r\n- peut développer, lors d'un débat, une argumentation claire et enchaînée avec logique, en confirmant ses points de vue par des exemples pertinents\r\n" ],
+      "domaine" : "EXPRESSION ORALE"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mercredi à 13:30 (durée 4h), Vendredi à 13:30 (durée 4h)",
+   "horaires" : [ ],
+   "id" : 65838,
+   "intitule" : "Anglais - Conversation",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "B2.3 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 1"
+      },
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
    }
 }, {
    "adresseCours" : {
@@ -37490,6 +37844,150 @@
    "renseignements" : "livre et cahier d'activités à acheter:\r\n- Edito Pro B1 - Livre + DVD-rom + didierfle.app Broché  Illustré, 5 août 2020\r\n- Edito Pro B1 - Cahier + CD MP3 + didierfle.app Broché  MP3 audio, 11 janvier 2021"
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "coursdelangues@walfer.lu"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-217",
+   "coursId" : "LA-EN-217",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "20/07/2026",
+   "dateFin" : "07/08/2026",
+   "dateInscription" : "toute l'année de 08.00-11.30-13.30 à 16.00 hrs",
+   "description" : "Comprendre une grande gamme de textes longs et exigeants, saisir des significations implicites. S'exprimer couramment sans trop devoir chercher ses mots (traiter des sujets complexes) et de façon claire et bien structurée, manifester son contrôle des outils d'organisation, d'articulation et de cohésion du discours. Pouvoir utiliser la langue de façon efficace et souple dans sa vie sociale, professionnelle ou académique.",
+   "domainesCompetences" : [ {
+      "competences" : [ "peut comprendre les idées principales d'interventions assez longues sur des sujets familiers ou des sujets abstraits et dont le plan général est clair et indiqué par des marqueurs explicites\r\n- peut comprendre l'essentiel du contenu informatif d'un enregistrement en langue standard et le point de vue du ou des locuteurs. Peut repérer, quand elle est explicite, l'humeur du locuteur" ],
+      "domaine" : "COMPREHENSION DE L'ORAL"
+   }, {
+      "competences" : [ "peut lire la plupart de la correspondance courante et en saisir les points essentiels\r\n- peut parcourir, en prenant son temps, un texte long et complexe et en relever les points essentiels\r\n- peut comprendre des articles et des rapports sur des problèmes contemporains et dans lesquels les auteurs adoptent un point de vue particulier, et en saisir le schéma argumentatif" ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "peut faire une intervention courte et spontanée dans la plupart des situations\r\n- peut faire une description de manière claire. (expérience vécue, sujets en relation avec son domaine d'intérêt)\r\n- peut développer, lors d'un débat, une argumentation claire et enchaînée avec logique, en confirmant ses points de vue par des exemples pertinents" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "peut faire des descriptions détaillées sur une variété de sujets en rapport avec son environnement\r\n- peut prendre position sur des manifestations Culturelles\r\n- peut relater des informations et exprimer des points de vue et réagir à ceux des autres\r\n- peut laisser des messages qui transmettent une information immédiatement pertinente à des amis, des employés, ou toute autre personne fréquentée dans la vie quotidienne" ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 4h), Mardi à 17:00 (durée 4h), Mercredi à 17:00 (durée 4h), Jeudi à 17:00 (durée 4h), Vendredi à 17:00 (durée 4h)",
+   "horaires" : [ ],
+   "id" : 65848,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "B2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 1"
+      },
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "coursdelangues@walfer.lu"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-216",
+   "coursId" : "LA-EN-216",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "20/07/2026",
+   "dateFin" : "07/08/2026",
+   "dateInscription" : "toute l'année sous www.walfer.lu/enseignement",
+   "description" : "Comprendre des conversations quotidiennes et y participer, donner votre opinion et échanger des idées sur des sujets actuels, comprendre les grandes lignes de textes clairement rédigés, comprendre la plupart des informations dans une émission de télévision, raconter un événement, une expérience ou un rêve, décrire un espoir ou un but, écrire une lettre, un email structuré, exposer brièvement des raisons ou des explications pour un projet ou une idée",
+   "domainesCompetences" : [ {
+      "competences" : [ "peut identifier un objet à partir de la seule description de son fonctionnement et de ses caractéristiques\r\n-peut identifier un lieu\r\n-peut identifier une personne\r\n-peut comprendre des informations techniques simples sur des produits ou services familiers, pour un appareil d'usage fréquent\r\n-peut comprendre des instructions détaillées\r\n-peut identifier, dans des situations de communication, les liens et le degré d'intimité entre les interlocuteurs et le sujet de leur conversation" ],
+      "domaine" : "COMPREHENSION DE L'ORAL"
+   }, {
+      "competences" : [ "peut localiser et comprendre des informations pertinentes dans des écrits quotidiens tels que lettres, prospectus, brochures, courts documents officiels (ex : convocation à un club, règlement interne), sites internet, annonces\r\n-peut comprendre les points significatifs d'un article de journal simple sur un sujet familier\r\n-peut comprendre des instructions structurées pour le mode d'emploi d'appareils" ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "peut parler de ses goûts, de ses préférences, de sa manière d'être et de ses habitudes\r\n-peut communiquer ses impressions et ses sentiments par rapport à d'autres personnes ou événements (la joie, la tristesse, la surprise)\r\n-peut juger la qualité d'un spectacle, d'une sortie, d'un produit et recommander cet événement\r\n-peut décrire l'endroit où il habite et s'orienter dans l'espace\r\n-peut décrire une personne, des circonstances, un événement, des expériences" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "peut écrire une anecdote, une histoire de façon linéaire\r\n- peut écrire des lettres personnelles pour donner des nouvelles, décrire en détail expériences et impressions\r\n- peut écrire des textes articulés simplement (une expérience, des événements, une tradition, un lieu par ex.)\r\n- peut rédiger une annonce ou y réagir pour demander des précisions" ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:30 (durée 4h), Mardi à 09:30 (durée 4h), Mercredi à 09:30 (durée 4h), Jeudi à 09:30 (durée 4h), Vendredi à 09:30 (durée 4h)",
+   "horaires" : [ ],
+   "id" : 65847,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "B1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 1"
+      },
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Lycée Athénée ",
@@ -38665,6 +39163,150 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "coursdelangues@walfer.lu"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-215",
+   "coursId" : "LA-EN-215",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "17/08/2026",
+   "dateFin" : "04/09/2026",
+   "dateInscription" : "toute l'année de 08.00-11.30-13.30 à 16.00 hrs",
+   "description" : "Comprendre une grande gamme de textes longs et exigeants, saisir des significations implicites. S'exprimer couramment sans trop devoir chercher ses mots (traiter des sujets complexes) et de façon claire et bien structurée, manifester son contrôle des outils d'organisation, d'articulation et de cohésion du discours. Pouvoir utiliser la langue de façon efficace et souple dans sa vie sociale, professionnelle ou académique.",
+   "domainesCompetences" : [ {
+      "competences" : [ "peut comprendre les idées principales d'interventions assez longues sur des sujets familiers ou des sujets abstraits et dont le plan général est clair et indiqué par des marqueurs explicites\r\n- peut comprendre l'essentiel du contenu informatif d'un enregistrement en langue standard et le point de vue du ou des locuteurs. Peut repérer, quand elle est explicite, l'humeur du locuteur" ],
+      "domaine" : "COMPREHENSION DE L'ORAL"
+   }, {
+      "competences" : [ "peut lire la plupart de la correspondance courante et en saisir les points essentiels\r\n- peut parcourir, en prenant son temps, un texte long et complexe et en relever les points essentiels\r\n- peut comprendre des articles et des rapports sur des problèmes contemporains et dans lesquels les auteurs adoptent un point de vue particulier, et en saisir le schéma argumentatif" ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "peut faire une intervention courte et spontanée dans la plupart des situations\r\n- peut faire une description de manière claire. (expérience vécue, sujets en relation avec son domaine d'intérêt)\r\n- peut développer, lors d'un débat, une argumentation claire et enchaînée avec logique, en confirmant ses points de vue par des exemples pertinents" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "peut faire des descriptions détaillées sur une variété de sujets en rapport avec son environnement\r\n- peut prendre position sur des manifestations Culturelles\r\n- peut relater des informations et exprimer des points de vue et réagir à ceux des autres\r\n- peut laisser des messages qui transmettent une information immédiatement pertinente à des amis, des employés, ou toute autre personne fréquentée dans la vie quotidienne" ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 4h), Mardi à 17:00 (durée 4h), Mercredi à 17:00 (durée 4h), Jeudi à 17:00 (durée 4h), Vendredi à 17:00 (durée 4h)",
+   "horaires" : [ ],
+   "id" : 65843,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "B2.3 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 1"
+      },
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "coursdelangues@walfer.lu"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-214",
+   "coursId" : "LA-EN-214",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "17/08/2026",
+   "dateFin" : "04/09/2026",
+   "dateInscription" : "toute l'année sous www.walfer.lu/enseignement",
+   "description" : "Comprendre des conversations quotidiennes et y participer, donner votre opinion et échanger des idées sur des sujets actuels, comprendre les grandes lignes de textes clairement rédigés, comprendre la plupart des informations dans une émission de télévision, raconter un événement, une expérience ou un rêve, décrire un espoir ou un but, écrire une lettre, un email structuré, exposer brièvement des raisons ou des explications pour un projet ou une idée",
+   "domainesCompetences" : [ {
+      "competences" : [ "peut comprendre les points significatifs d'un fait divers raconté à la radio, d'un film dans lequel l'histoire repose largement sur l'action et l'image et où la langue est claire et directe\r\n- peut comprendre un récit d'événements et les situer dans le temps\r\n- peut identifier l'intention, l'opinion et la prise de position exprimées par d'autres personnes - peut comprendre globalement quels arguments une personne utilise dans une discussion" ],
+      "domaine" : "COMPREHENSION DE L'ORAL"
+   }, {
+      "competences" : [ "peut comprendre la description d'événements non linéaires\r\n- peut comprendre l'expression de sentiments et de souhaits\r\n- peut comprendre l'intention, l'opinion et la prise de position exprimées par d'autres personnes\r\n- peut suivre l'organisation logique d'un texte de type argumentatif" ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "peut défendre et justifier ses opinions, et développer une argumentation simple sur un thème (ex : situation politique, traditions du pays)\r\n- peut brièvement exposer et justifier ses projets\r\n- peut raconter une histoire, une anecdote, ou l'intrigue d'un livre ou d'un film de façon détaillée et exprimer ses réactions" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "peut écrire un texte, un article simple et cohérent sur des sujets familiers ou d'intérêt général\r\n- peut écrire des lettres personnelles pour exprimer sa pensée sur un sujet abstrait ou culturel\r\n- peut échanger un grand nombre d'informations sur des sujets courants ou non familiers à son domaine\r\n- peut écrire des rapports très brefs en développant des arguments pour convaincre" ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:30 (durée 4h), Mardi à 09:30 (durée 4h), Mercredi à 09:30 (durée 4h), Jeudi à 09:30 (durée 4h), Vendredi à 09:30 (durée 4h)",
+   "horaires" : [ ],
+   "id" : 65842,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "B1.3 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 1"
+      },
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
