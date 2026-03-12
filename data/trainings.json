@@ -2576,16 +2576,16 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-SAN-29",
-   "coursId" : "SO-SAN-29",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-COS-2",
+   "coursId" : "AR-COS-2",
    "coursType" : "CLASSIQUE",
    "cout" : 13.5,
    "dateDebut" : "18/03/2026",
    "dateFin" : "18/03/2026",
-   "description" : "Découvrir les bases de la saponification et apprendre à fabriquer un savon naturel en toute sécurité.\r\nDébutants, amateurs de cosmétique naturelle, créateurs en herbe et toute personne curieuse de tester la fabrication artisanale de savon.",
+   "description" : "Découvrir les bases de la saponification et apprendre à fabriquer un savon naturel en toute sécurité. Débutants, amateurs de cosmétique naturelle, créateurs en herbe et toute personne curieuse de tester la fabrication artisanale de savon.",
    "duree" : "3 leçons",
    "enseignants" : [ ],
    "format" : "PRESENTIEL",
@@ -2595,17 +2595,17 @@
       "heure" : "11:10",
       "jour" : "Mercredi"
    } ],
-   "id" : 63860,
+   "id" : 65818,
    "intitule" : "Workshop - Les bases de la saponification",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "SAN",
-   "matiereNom" : "Santé",
-   "nbInscrits" : 9,
+   "matiereCode" : "COS",
+   "matiereNom" : "Cosmétiques",
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4NjA%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTg%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -20129,10 +20129,18 @@
    "dateFin" : "24/04/2026",
    "description" : "Office Organising : marre des piles de papiers qui s’accumulent ? Apprenez à mettre en place un véritable « cycle des papiers » pour gérer, trier et archiver efficacement. Une méthode simple et durable pour retrouver une maison plus claire… et un esprit plus léger.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Krier",
+      "prenom" : "Marie Paule",
+      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65814,
    "intitule" : "HOME ORGANSING 3 : Le désencombrement et l'organisation des Papiers",
    "langueCoursCode" : "FR",
@@ -23774,6 +23782,81 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4575",
+      "localite" : "Differdange",
+      "nom" : "Salle de cours",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14-16 grande rue"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4575",
+      "localite" : "Differdange",
+      "nom" : "Le Jardin des Possibles",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "10 Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1532",
+   "coursId" : "LA-FR-1532",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "04/05/2026",
+   "dateFin" : "13/07/2026",
+   "dateInscription" : "23/03/2026\r\nTel inscription 691860994 contact Sophie Dol",
+   "description" : "Oral :\r\nComprendre et s'exprimer avec des mots simples, se présenter simplement, des expressions familières, répondre à des questions simples avec un interlocuteur bienveillant.\r\nEcrit : \r\nReconnaitre et écrire  des mots et des expressions simples usuels, grammaire de base",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Tessaro",
+      "prenom" : "Michèle"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 65669,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU2Njk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4151",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "Le Jardin des Possibles",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, rue des Jardins"
+      },
+      "code" : "JDP",
+      "mail" : "sophiedol@gmail.com",
+      "nom" : "Le Jardin des Possibles",
+      "nomContact" : "Dol",
+      "onlineReg" : true,
+      "prenomContact" : "Sophie",
+      "statut" : "ASBL",
+      "telephone" : "+352 691 743 206",
+      "websiteUrl" : "http://www.lejardindespossibles.lu/"
+   },
+   "prerequis" : "Aucun"
+}, {
+   "adresseCours" : {
       "codePostal" : "3425",
       "localite" : "Dudelange",
       "nom" : "Centre sportif R.Hartmann",
@@ -24264,6 +24347,81 @@
    "renseignements" : "à se procurer pour le cours livre et cahier d'activités :\r\n- Edito A2 - édition 2022-2024 - Livre + didierfle.app Broché - Illustré, 24 mai 2022\r\n- Edito A2 - édition 2022-2024 - Cahier + didierfle.app Broché - Illustré, 6 septembre 2022\r\n"
 }, {
    "adresseCours" : {
+      "codePostal" : "4575",
+      "localite" : "Differdange",
+      "nom" : "Salle de cours",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14-16 Grand-Rue"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4575",
+      "localite" : "Differdange",
+      "nom" : "Le Jardin des Possibles",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "10 Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1533",
+   "coursId" : "LA-FR-1533",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "05/05/2026",
+   "dateFin" : "13/07/2026",
+   "dateInscription" : "23/03/2026\r\nTel inscription 691860994 contact Sophie Dol",
+   "description" : "Oral : Conprendre et donner des informations pratiques au passé, futur et présent\r\n             Parler de ses émotions\r\nÉcrit Vocabulaire plus étendu qu'au niveau A1, maitrise du passé et du futur,\r\n           Lire et comprendre un texte informatif",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Tessaro",
+      "prenom" : "Michèle"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65670,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU2NzA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4151",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "Le Jardin des Possibles",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, rue des Jardins"
+      },
+      "code" : "JDP",
+      "mail" : "sophiedol@gmail.com",
+      "nom" : "Le Jardin des Possibles",
+      "nomContact" : "Dol",
+      "onlineReg" : true,
+      "prenomContact" : "Sophie",
+      "statut" : "ASBL",
+      "telephone" : "+352 691 743 206",
+      "websiteUrl" : "http://www.lejardindespossibles.lu/"
+   },
+   "prerequis" : "Niveau A 1.2 "
+}, {
+   "adresseCours" : {
       "codePostal" : "1745",
       "localite" : "Luxembourg",
       "nom" : "Université Populaire Kirchberg",
@@ -24426,10 +24584,18 @@
    "dateFin" : "06/05/2026",
    "description" : "Trier, ranger et classer ses papiers… Pourquoi cela est-il toujours remis au lendemain ? Comment s’organiser pour s’y mettre réellement ? Cet atelier propose des méthodes simples et efficaces pour instaurer une organisation durable, ainsi que des trucs et astuces faciles à appliquer afin de simplifier le quotidien et alléger la gestion administrative.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Krier",
+      "prenom" : "Marie Paule",
+      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 06-05-2026 à 17:10 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
    "id" : 65815,
    "intitule" : "HOME ORGANSING 4 : Procrastination – Pourquoi remettre les choses au lendemain ?",
    "langueCoursCode" : "FR",
@@ -25187,32 +25353,40 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-DI-42",
-   "coursId" : "SCI-DI-42",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-BE-15",
+   "coursId" : "SO-BE-15",
    "coursType" : "CLASSIQUE",
    "cout" : 27.0,
    "dateDebut" : "13/05/2026",
    "dateFin" : "20/05/2026",
-   "description" : "Cet atelier propose des pistes simples pour intégrer des gestes écologiques au quotidien, mettre en place une organisation durable et encourager l'implication de tous les membres du foyer.\r\nLa deuxième séance inclut une visite du centre de tri du SDK à Colmar-Berg, afin de mieux comprendre le parcours des déchets et l’importance du tri.",
+   "description" : "Cet atelier propose des pistes simples pour intégrer des gestes écologiques au quotidien, mettre en place une organisation durable et encourager l'implication de tous les membres du foyer. La deuxième séance inclut une visite du centre de tri du SDK à Colmar-Berg, afin de mieux comprendre le parcours des déchets et l’importance du tri.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Krier",
+      "prenom" : "Marie Paule",
+      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
+   } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 20-05-2026 à 14:30 (durée 2h30) et 14:30 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 63926,
+   "horairePrevu" : "Mercredi à 14:30 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 65816,
    "intitule" : "HOME ORGANSING 5 : L’écologie à la maison : comment s’organiser et engager toute la famille",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "DI",
-   "matiereNom" : "Design d'intérieur",
+   "matiereCode" : "BE",
+   "matiereNom" : "Bien-être",
    "nbInscrits" : 0,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MjY%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTY%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -32154,6 +32328,67 @@
    "niveau" : "Débutant",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MjU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-BE-9",
+   "coursId" : "SO-BE-9",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "03/06/2026",
+   "dateFin" : "03/06/2026",
+   "description" : "Par où commencer et comment structurer efficacement chaque zone ? Cet atelier propose une méthode claire pour optimiser les espaces, faciliter le quotidien et renforcer l’organisation globale de la maison. Les bénéfices se ressentent rapidement dans la gestion des repas, du rangement et de la fluidité des tâches domestiques.",
+   "duree" : "4 leçons",
+   "enseignants" : [ {
+      "nom" : "Krier",
+      "prenom" : "Marie Paule",
+      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 03-06-2026 à 17:10 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 65374,
+   "intitule" : "HOME ORGANSING 6 : Organiser sa cuisine",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BE",
+   "matiereNom" : "Bien-être",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzNzQ%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
