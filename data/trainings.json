@@ -1,251 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PHOT-39",
-   "coursId" : "AR-PHOT-39",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "14/03/2026",
-   "dateFin" : "16/05/2026",
-   "description" : "Ce cours se dirige à toute personne créative intéressée par la macro photographie. C'est une découverte du monde des insectes et de leur variété qui nous échappe au quotidien.Dans une première partie, le cours abordera des notions en photographie et notamment la photographie macro. Au fur et à mesure que les participants avancent on fera des sorties de prise de vue mais aussi de repérage des insectes. Les sorties privilégieront la lumière bleue et la lumière dorée.",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Stagno",
-      "prenom" : "Luisa Maria"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 09:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "09:20",
-      "jour" : "Samedi"
-   } ],
-   "id" : 61533,
-   "intitule" : "Macro Photographie - Bienvenu à mon mini monde",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PHOT",
-   "matiereNom" : "Photographie",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE1MzM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "Merci de prévoir une boîte de Pringles vide, du papier absorbant, du fil métallique, un flash ainsi que de petites lampes LED pour les exercices pratiques en macrophotographie."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCM",
-   "categorieCodeUnipop" : "SCM",
-   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
-   "coOrganisateurs" : [ "HAG Luxembourg" ],
-   "coursCode" : "SCM-SAN-3",
-   "coursId" : "SCM-SAN-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "14/03/2026",
-   "dateFin" : "14/03/2026",
-   "description" : "La conférence débute par une introduction expliquant pourquoi vieillir en restant robuste est devenu essentiel et pourquoi hormones, os, muscles et dents doivent être considérés ensemble. La première partie traite des changements hormonaux après 45–50 ans et de leur impact sur les os et les muscles, éclairés par le Dr Mouly (Paris) et la Dre Akkuzu (Dudelange). La seconde partie montre comment la santé bucco dentaire reflète la santé générale, avec les apports de la Dre Marlène Dubois Becker (Université Libre de Bruxelles) et du Prof. Dr Kevimy Agossa (CHU de Lille), qui abordent notamment le microbiote buccal, les marqueurs salivaires et l’influence de certains traitements. La conclusion résume les actions concrètes que chacun peut entreprendre ainsi que les messages essentiels à retenir.",
-   "duree" : "3 leçons",
-   "enseignants" : [ {
-      "nom" : "Conférence",
-      "prenom" : "Up"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 14-03-2026 à 14:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "14:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 65302,
-   "intitule" : "Santé hormonale, osseuse et dentaire: les clés pour vieillir longtemps et en bonne santé",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "SAN",
-   "matiereNom" : "Santé",
-   "nbInscrits" : 39,
-   "nbPlaces" : 200,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzMDI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-85",
-   "coursId" : "AR-COUT-85",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "14/03/2026",
-   "dateFin" : "11/07/2026",
-   "description" : "Le cours de modélisme de niveau intermédiaire est un cours de modélisme pour des participants ayant déjà des bases de modélisme et de couture.\r\nAprès avoir vu les bases du modélisme (niveau débutant) comprenant la compréhension des formes du corps, le patronage de la jupe, du buste et du pantalon, les participants seront encadrés dans ce cours sur la construction de pièces plus complexes comme le manteau et le tailleur, le patronage de col et d'accessoires (poches) et surtout sur la modification de pièces de bases.",
-   "duree" : "48 leçons",
-   "enseignants" : [ {
-      "nom" : "Brilli",
-      "prenom" : "Julie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 08:30 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "08:30",
-      "jour" : "Samedi"
-   } ],
-   "id" : 63957,
-   "intitule" : "Cours de Modélisme pour Intermédiaire, les Bases du Patronage",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 8,
-   "nbPlaces" : 8,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "Toile de coton, papier (craft/calque/patronage), règles et pistolet, craie ou Frixion, crayon, mètre ruban, ciseaux couture, coupe-fil/découd-vite, épingles sans tête, fils blanc et noir."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-92",
-   "coursId" : "SO-YOG-92",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "14/03/2026",
-   "dateFin" : "14/03/2026",
-   "description" : "\"Cet atelier propose d’explorer le rire comme outil de développement personnel. À travers des exercices ludiques, des jeux de groupe et des techniques de respiration, les participants apprennent à renforcer leur assurance, à cultiver une image positive d’eux-mêmes et à libérer les tensions. L’expérience favorise le bien-être intérieur tout en créant une connexion joyeuse et bienveillante avec les autres.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Dos Santos Tomás",
-      "prenom" : "Sónia Isabel"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 14-03-2026 à 12:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 64041,
-   "intitule" : "Workshop - Rayonner : confiance et estime de soi grâce au Yoga du Rire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwNDE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -13365,9 +13119,6 @@
    "dateInscription" : "CoursEnsemble@i-a.lu\r\n51 61 21-538",
    "description" : "Lire et écrire à partir du français\r\nPerfectionnement de la lecture et calcul.",
    "domainesCompetences" : [ {
-      "competences" : [ "je peux comprendre une présentation/une description simplement formulées\r\n", "je peux comprendre les cigles et écriteaux dans les lieux de vie d'une ville. \r\n", "je peux comprendre les consignes relatives au travail dans les cours traditionnels.\r\n", "je connais les types de documents courants (livre, revue, journal facture, lettre personnelle). ", "je peux comprendre les demandes polies. \r\n", "je peux comprendre quelques mots de mon environnement immédiat (impliqués dans le processus de l'apprentissage de la lecture et de l'écriture-Je suis sensible à la différence entre les documents écrits (leur type, leur présentation en général).\r\n", "je peux comprendre des questions courantes sur l'identité/le lieu/la nature/les caractères/les moments. " ],
-      "domaine" : "COMPRENDRE"
-   }, {
       "competences" : [ "je peux écrire toutes les lettres dans les 3 formats plus ou moins rapidement.\r\n", "je peux écrire les chiffres plus ou moins rapidement.\r\n", "je peux écrire des mots, des phrases simples/Je peux segmenter des phrases en mots.\r\n", "je peux recopier facilement des mots et de phrases courtes. ", "je peux utiliser la majuscule et les points et points d'interrogation.\r\n", "je peux écrire la date, l'heure, la quantité.  ", "je peux écrire une courte liste de courses avec les noms de fruits, légumes et autres produits ménagers courants du quotidien.", " je peux remplir un formulaire d'inscription simple.", "je peux écrire le nombre, le numéro de téléphone, le prix, l'heure, la dimension et le poids. " ],
       "domaine" : "ECRIRE"
    }, {
@@ -13376,6 +13127,9 @@
    }, {
       "competences" : [ "je peux utiliser des formules de politesse et de salutation.  ", "je peux me présenter succinctement.\r\n\r\n", "je peux demander poliment.\r\n", "je peux exprimer des besoins dans des situations quotidiennes. \r\n", "je peux dire/demander l'heure, la date, l'identité, la quantité. \r\n", "je peux répondre positivement et négativement. " ],
       "domaine" : "PARLER"
+   }, {
+      "competences" : [ "je peux comprendre une présentation/une description simplement formulées\r\n", "je peux comprendre les cigles et écriteaux dans les lieux de vie d'une ville. \r\n", "je peux comprendre les consignes relatives au travail dans les cours traditionnels.\r\n", "je connais les types de documents courants (livre, revue, journal facture, lettre personnelle). ", "je peux comprendre les demandes polies. \r\n", "je peux comprendre quelques mots de mon environnement immédiat (impliqués dans le processus de l'apprentissage de la lecture et de l'écriture-Je suis sensible à la différence entre les documents écrits (leur type, leur présentation en général).\r\n", "je peux comprendre des questions courantes sur l'identité/le lieu/la nature/les caractères/les moments. " ],
+      "domaine" : "COMPRENDRE"
    }, {
       "competences" : [ "je peux compter de 0-1000: Je connais les dizaines et les centaines\r\n", "je sais calculer : je peux additionner, soustraire et utiliser une calculatrice. \r\n", "je connais la notion de multiplication et division.\r\n", "je connais la notion de décimale. \r\n", "je peux compter l'argent: Payer et rendre la monnaie.  \r\n", "je peux mesurer la longueur, la largeur, la hauteur, la quantité. \r\n", "je peux comparer (notion d'inférieur/supérieur)\r\n", "je connais les figures géométriques courantes. " ],
       "domaine" : "CALCULER"
@@ -18461,28 +18215,28 @@
    "categorieCode" : "IN",
    "categorieCodeUnipop" : "TIC",
    "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-105",
-   "coursId" : "IN-TAB-105",
+   "coursCode" : "IN-PRE-23",
+   "coursId" : "IN-PRE-23",
    "coursType" : "CLASSIQUE",
    "cout" : 75.0,
    "dateDebut" : "15/04/2026",
    "dateFin" : "20/05/2026",
    "dateInscription" : "30.03.2026 - 10.04.2026\r\n09H00 - 17H00",
-   "description" : "Calculs avec des formules: si, recherche verticale.\r\nCalculs avec des cases bloquées.\r\nCalculs avec des formules combinées.\r\nFormatage conditionnel.\r\nFiltres automatiques.\r\nCréation de graphiques.",
+   "description" : "Présentation de l'interface, barres d'outils, barres des menus.\r\nVisualiser des présentations PowerPoint.\r\nConsignes à respecter pour les présentations.\r\nCréation de présentations PowerPoint.\r\nInsertion des effets spéciaux.",
    "duree" : "12h",
    "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 09:00 (durée 2h)",
+   "horairePrevu" : "Mercredi à 14:00 (durée 2h)",
    "horaires" : [ ],
-   "id" : 61823,
-   "intitule" : "Microsoft Excel",
+   "id" : 61822,
+   "intitule" : "Microsoft PowerPoint",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
+   "matiereCode" : "PRE",
+   "matiereNom" : "Présentations",
    "nbInscrits" : 0,
    "nbPlaces" : 6,
-   "niveau" : "Intermédiaire",
+   "niveau" : "Débutant",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -19172,28 +18926,28 @@
    "categorieCode" : "IN",
    "categorieCodeUnipop" : "TIC",
    "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-PRE-23",
-   "coursId" : "IN-PRE-23",
+   "coursCode" : "IN-TAB-105",
+   "coursId" : "IN-TAB-105",
    "coursType" : "CLASSIQUE",
    "cout" : 75.0,
    "dateDebut" : "15/04/2026",
    "dateFin" : "20/05/2026",
    "dateInscription" : "30.03.2026 - 10.04.2026\r\n09H00 - 17H00",
-   "description" : "Présentation de l'interface, barres d'outils, barres des menus.\r\nVisualiser des présentations PowerPoint.\r\nConsignes à respecter pour les présentations.\r\nCréation de présentations PowerPoint.\r\nInsertion des effets spéciaux.",
+   "description" : "Calculs avec des formules: si, recherche verticale.\r\nCalculs avec des cases bloquées.\r\nCalculs avec des formules combinées.\r\nFormatage conditionnel.\r\nFiltres automatiques.\r\nCréation de graphiques.",
    "duree" : "12h",
    "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 14:00 (durée 2h)",
+   "horairePrevu" : "Mercredi à 09:00 (durée 2h)",
    "horaires" : [ ],
-   "id" : 61822,
-   "intitule" : "Microsoft PowerPoint",
+   "id" : 61823,
+   "intitule" : "Microsoft Excel",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "PRE",
-   "matiereNom" : "Présentations",
+   "matiereCode" : "TAB",
+   "matiereNom" : "Tableurs",
    "nbInscrits" : 0,
    "nbPlaces" : 6,
-   "niveau" : "Débutant",
+   "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -31148,7 +30902,7 @@
       "competences" : [ " Informationen über die Familie, Hobbys,Arbeit,Reisen und Verschiedenes austauschen : ", "Symptome, meinen physischen Zustand einem Arzt beschreiben ", "Fakten weitergeben\r\n", "nach Direktiven und Anweisungen fragen", "überrraschung, Freude Traurigkeit ausdrücken, mein Einverständnis/Abweisung ausdrücken…,  ", "den Grund eines Problems angeben / darüber diskutieren und eine Lösung finden ", "die Meinung anderer erfragen, meine Meinung sagen", "einGespräch anfangen, weiterführen und beenden", "Zufriedenheit, Unzufreidenheit, eine Beschwerde ausdrücken" ],
       "domaine" : "Mündliche Interaktion"
    }, {
-      "competences" : [ "einfache Texte schreiben\r\n", "über unvorhergesehen Erignisse berichten( Unfall, usw.)", "eine Anekdote erzählen\r\n", "meine Wünsche ,Träume beschreiben", "kurze Sätze machen\r\n", " persönliche Briefe schreiben (Berichten,beschreiben, die Erfahrung im Einzelnen beschreiben, Ereignisse, Projekte)", "einfache Informationen zusammenfassen" ],
+      "competences" : [ "einfache Texte schreiben\r\n", "über unvorhergesehen Erignisse berichten( Unfall, usw.)", "eine Anekdote erzählen\r\n", "meine Wünsche ,Träume beschreiben", "kurze Sätze machen\r\n", "einfache Informationen zusammenfassen", " persönliche Briefe schreiben (Berichten,beschreiben, die Erfahrung im Einzelnen beschreiben, Ereignisse, Projekte)" ],
       "domaine" : "Schriftlicher Ausdruck"
    } ],
    "duree" : "60h",
@@ -45030,6 +44784,130 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PHOT-39",
+   "coursId" : "AR-PHOT-39",
+   "coursType" : "CLASSIQUE",
+   "cout" : 54.0,
+   "dateDebut" : "14/03/2026",
+   "dateFin" : "16/05/2026",
+   "description" : "Ce cours se dirige à toute personne créative intéressée par la macro photographie. C'est une découverte du monde des insectes et de leur variété qui nous échappe au quotidien.Dans une première partie, le cours abordera des notions en photographie et notamment la photographie macro. Au fur et à mesure que les participants avancent on fera des sorties de prise de vue mais aussi de repérage des insectes. Les sorties privilégieront la lumière bleue et la lumière dorée.",
+   "duree" : "12 leçons",
+   "enseignants" : [ {
+      "nom" : "Stagno",
+      "prenom" : "Luisa Maria"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 09:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "09:20",
+      "jour" : "Samedi"
+   } ],
+   "id" : 61533,
+   "intitule" : "Macro Photographie - Bienvenu à mon mini monde",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PHOT",
+   "matiereNom" : "Photographie",
+   "nbInscrits" : 5,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE1MzM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
+   "renseignements" : "Merci de prévoir une boîte de Pringles vide, du papier absorbant, du fil métallique, un flash ainsi que de petites lampes LED pour les exercices pratiques en macrophotographie."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4354",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "22, rue Henri Koch"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-COUT-85",
+   "coursId" : "AR-COUT-85",
+   "coursType" : "CLASSIQUE",
+   "cout" : 216.0,
+   "dateDebut" : "14/03/2026",
+   "dateFin" : "11/07/2026",
+   "description" : "Le cours de modélisme de niveau intermédiaire est un cours de modélisme pour des participants ayant déjà des bases de modélisme et de couture.\r\nAprès avoir vu les bases du modélisme (niveau débutant) comprenant la compréhension des formes du corps, le patronage de la jupe, du buste et du pantalon, les participants seront encadrés dans ce cours sur la construction de pièces plus complexes comme le manteau et le tailleur, le patronage de col et d'accessoires (poches) et surtout sur la modification de pièces de bases.",
+   "duree" : "48 leçons",
+   "enseignants" : [ {
+      "nom" : "Brilli",
+      "prenom" : "Julie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 08:30 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "08:30",
+      "jour" : "Samedi"
+   } ],
+   "id" : 63957,
+   "intitule" : "Cours de Modélisme pour Intermédiaire, les Bases du Patronage",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 8,
+   "nbPlaces" : 8,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
+   "renseignements" : "Toile de coton, papier (craft/calque/patronage), règles et pistolet, craie ou Frixion, crayon, mètre ruban, ciseaux couture, coupe-fil/découd-vite, épingles sans tête, fils blanc et noir."
+}, {
+   "adresseCours" : {
       "codePostal" : "9085",
       "localite" : "Ettelbruck",
       "nom" : "CNFPC-Ettelbrück",
@@ -51796,7 +51674,7 @@
    "dateInscription" : "06/02/2026 au 19/02/2026 18h00",
    "description" : "Routine quotidienne. Loisirs et temps libre. Mise en place d'un rendez-vous. Parler de la météo. Nommer et décrire les aliments et les boissons. Avoir une conversation dans un magasin. Dire quels aliments et boissons vous aimez, n'aimez pas. Commander des repas et des boissons. Parlez de la famille et des amis. Décrire une personne. Avoir une conversation chez un médecin.",
    "domainesCompetences" : [ {
-      "competences" : [ "3. Comprendre quand quelqu'un parle ou pose des questions sur les activités de loisirs\r\n", "4. Comprendre des questions et des informations simples lors d'une conversation d'achat et dans des situations de tous les jours\r\n", "5. Comprendre les relations familiales (frère, soeur, ...)\r\n", "6. Comprendre des explications très simples pour une maladie (parties du corps)", "2. Comprendre des informations et des questions sur les activités élémentaires dans le contexte des professions\r\n", "1. Comprendre les prévisions météorologiques en général\r\n" ],
+      "competences" : [ "1. Comprendre les prévisions météorologiques en général\r\n", "2. Comprendre des informations et des questions sur les activités élémentaires dans le contexte des professions\r\n", "3. Comprendre quand quelqu'un parle ou pose des questions sur les activités de loisirs\r\n", "4. Comprendre des questions et des informations simples lors d'une conversation d'achat et dans des situations de tous les jours\r\n", "5. Comprendre les relations familiales (frère, soeur, ...)\r\n", "6. Comprendre des explications très simples pour une maladie (parties du corps)" ],
       "domaine" : "Compréhension Orale "
    }, {
       "competences" : [ "1. Comprendre les informations écrites sur un emploi (annonces, ...)\r\n", "2. Comprendre des informations écrites sur les loisirs, les hobbies et les événements (dépliants, publicités, ...)" ],
@@ -57534,7 +57412,7 @@
    "dateInscription" : "Coursdelangues@dudelange.lu \r\ntél: 51 61 21 538",
    "description" : "Êtes capable de dire quelques mots et expressions au quotidien : se présenter, parler succinctement de soi mais aussi de son environnement immédiat (nommer, compter).",
    "domainesCompetences" : [ {
-      "competences" : [ "Comprendre les expressions sur la composition d'une famille (les membres d'une famille). ", "Comprendre les salutations et formules de politesse.  \r\n", "Comprendre une présentation simple (nom, âge, origine, langues parlées). ", "Comprendre des énoncés comportant des nombres (date de naissance, téléphone, adresse, horaire de transport public, horaires de travail). ", "Comprendre la description succincte d'un métier, d'un travail (activités-lieu-moyen de transport-horaires)." ],
+      "competences" : [ "Comprendre les salutations et formules de politesse.  \r\n", "Comprendre une présentation simple (nom, âge, origine, langues parlées). ", "Comprendre des énoncés comportant des nombres (date de naissance, téléphone, adresse, horaire de transport public, horaires de travail). ", "Comprendre les expressions sur la composition d'une famille (les membres d'une famille). ", "Comprendre la description succincte d'un métier, d'un travail (activités-lieu-moyen de transport-horaires)." ],
       "domaine" : "COMPREHENSION ORALE"
    }, {
       "competences" : [ "Saluer-prendre des nouvelles. Se présenter et demander le nom d'une autre personne.  ", "Dire d'où l'on vient et poser cette question à une autre personne. ", "Indiquer la nationalité et les langues connues et demander ces renseignements à une autre personne. ", "Dire son numéro de téléphone et poser cette question à une tierce personne.  ", "Indiquer son âge et sa date d'anniversaire et savoir poser ces questions.  ", "Donner son adresse, son adresse mail et demander celles de son interlocuteur.  ", "Indiquer sa situation familiale et obtenir ce renseignement de son interlocuteur. ", "Indiquer sa profession et poser cette question à une autre personne. ", "Nommer des activités dans le contexte des professions. Indiquer où l'on travaille et poser cette question à une autre personne.  ", "Nommer des moyens de transport. \r\n", "Dire l'heure. " ],
@@ -58054,9 +57932,6 @@
    "dateInscription" : "8h-12h/13h-17h/Hôtel de Ville de Dudelange\r\nCoursEnsemble@i-a.lu / tél: 51 61 21 538",
    "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines de l'environnement quotidien (informations personnelles et familiales simples, achats, travail) Pouvoir communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. Savoir décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
    "domainesCompetences" : [ {
-      "competences" : [ "Remplir un formulaire d'inscription. ", "Ecrire des phrases simples isolées sur soi (identité), sur sa famille, heures, dates, parties du corps, noms de nourritures. " ],
-      "domaine" : "EXPRESSION ECRITE"
-   }, {
       "competences" : [ "Comprendre une description : d'une personne, d'une famille. ", "Comprendre les échanges simples utilisant des termes usuels sur le déroulement type d'une journée. ", "Connaître des termes relatifs aux hobbies. \r\n", "Comprendre l'heure, les horaires et autres expressions de temps. ", "Comprendre des phrases isolées sur le temps qu'il fait. ", "Connaître des termes relatifs aux nourritures, lieux de commerce. ", "Comprendre de courts échanges au restaurant (commande, à boire, à manger-réservation). ", "Comprendre des mots relatifs au corps humain (nommer les parties du corps). ", "Comprendre de courts échanges chez le médecin (expressions simples de symptômes). " ],
       "domaine" : "COMPREHENSION ORALE"
    }, {
@@ -58065,6 +57940,9 @@
    }, {
       "competences" : [ "Ecrire des phrases simples isolées sur soi (identité), sur sa famille. ", "Ecrire des phrases isolées sur son environnement immédiat (noms de commerce, de nourritures, de parties du corps, l'heure).\r\n" ],
       "domaine" : "COMPREHENSION ECRIRE"
+   }, {
+      "competences" : [ "Remplir un formulaire d'inscription. ", "Ecrire des phrases simples isolées sur soi (identité), sur sa famille, heures, dates, parties du corps, noms de nourritures. " ],
+      "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "50h",
    "enseignants" : [ {
@@ -60170,7 +60048,7 @@
    "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
    "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
    "domainesCompetences" : [ {
-      "competences" : [ "Versteet Zuelen, wa lues geschwat gëtt", "Versteet Begréissungsformelen ", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "competences" : [ "Versteet Begréissungsformelen ", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
       "domaine" : "Héierverstoen"
    }, {
       "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
@@ -68509,9 +68387,6 @@
    "dateInscription" : "Jeudi, le 18 septembre 2025 à 19.00 heures au Lycée Technique d'Ettelbruck",
    "description" : "Ce cours s’adresse à des apprenants ayant déjà suivi un cours de niveau A1 et souhaitant renforcer leurs compétences en italien dans un contexte de voyage et de séjour touristique. L’objectif principal est de consolider les structures grammaticales de base et d’élargir le vocabulaire à travers des situations pratiques et authentiques. L’approche est communicative, avec un fort accent mis sur l’interaction orale.\r\nPoints abordés :\r\n•\tse débrouiller dans des situations courantes en vacances (hébergement, restauration, transports, achats, etc.)\r\n•\tdemander et comprendre des informations simples\r\n•\texprimer des préférences, opinions et besoins de base\r\n•\tparler de leurs projets, de leurs activités et de leurs expériences personnelles\r\n•\tmieux comprendre la culture italienne (gastronomie, coutumes, lieux emblématiques)\r\nLe cours combine révision grammaticale, jeux de rôle, dialogues en binôme, compréhension de documents audio/vidéo, et activités interactives, afin de favoriser la participation active, la fluidité à l’oral et l’autonomie en contexte réel.",
    "domainesCompetences" : [ {
-      "competences" : [ "Faire une brève description de soi, d’activités quotidiennes, de projets ou d’expériences passées et raconter une courte histoire ou un événement personnel.\r\n" ],
-      "domaine" : "4. Expression orale en continu"
-   }, {
       "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent relatifs à des domaines de priorité immédiate (informations personnelles, achats, environnement proche, emploi) et saisir l’essentiel de messages simples (annonces, dialogues, consignes).\r\n" ],
       "domaine" : "1. Compréhension orale "
    }, {
@@ -68520,6 +68395,9 @@
    }, {
       "competences" : [ "Communiquer dans des tâches simples et habituelles ne demandant qu’un échange d’informations direct sur des sujets familiers et utiliser des expressions de base pour saluer, demander, proposer, inviter, donner son avis ou ses préférences.\r\n" ],
       "domaine" : "3. Expression orale en interaction "
+   }, {
+      "competences" : [ "Faire une brève description de soi, d’activités quotidiennes, de projets ou d’expériences passées et raconter une courte histoire ou un événement personnel.\r\n" ],
+      "domaine" : "4. Expression orale en continu"
    }, {
       "competences" : [ "Rédiger des notes, messages ou e-mails simples et remplir des formulaires ou écrire un court texte descriptif.\r\n" ],
       "domaine" : "5. Expression écrite"
