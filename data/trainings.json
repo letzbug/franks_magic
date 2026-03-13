@@ -290,7 +290,7 @@
       "prenom" : "Massimo Sauro"
    } ],
    "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 20:00 (durée 2h),\nMardi à 20:00 (durée 2h),\nJeudi à 20:00 (durée 2h),\nVendredi à 20:00 (durée 2h)",
+   "horairePrevu" : "Lundi à 20:00 (durée 2h), Mardi à 20:00 (durée 2h), Jeudi à 20:00 (durée 2h), Vendredi à 20:00 (durée 2h)",
    "horaires" : [ {
       "duree" : "2h",
       "heure" : "20:00",
@@ -315,7 +315,7 @@
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
    "nbInscrits" : 19,
-   "nbPlaces" : 20,
+   "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
@@ -719,7 +719,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 15,
    "nbPlaces" : 18,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
