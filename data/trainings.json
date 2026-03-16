@@ -4517,10 +4517,29 @@
       "domaine" : "Schrëftlechen Ausdrock"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Klein",
+      "prenom" : "Myriam"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 13:00 (durée 2h), Mardi à 13:00 (durée 2h), Mercredi à 13:00 (durée 2h), Jeudi à 13:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65226,
    "intitule" : "luxembourgeois, culture et citoyenneté intensif",
    "langueCoursCode" : "LB",
@@ -4680,10 +4699,29 @@
       "domaine" : "Schrëftlechen Ausdrock "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Klein",
+      "prenom" : "Myriam"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65225,
    "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
    "langueCoursCode" : "LB",
@@ -58221,6 +58259,9 @@
    "enseignants" : [ {
       "nom" : "Wennmacher",
       "prenom" : "Marcel Edmond"
+   }, {
+      "nom" : "Klein",
+      "prenom" : "Myriam"
    } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
@@ -58231,11 +58272,27 @@
    }, {
       "duree" : "2h",
       "heure" : "10:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
       "jour" : "Mardi"
    }, {
       "duree" : "2h",
       "heure" : "10:00",
       "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Jeudi"
    }, {
       "duree" : "2h",
       "heure" : "10:00",
