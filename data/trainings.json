@@ -1287,7 +1287,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -18554,10 +18554,25 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Kom Ngayap",
+      "prenom" : "Nadège"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:00 (durée 2h), Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65116,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -20274,6 +20289,59 @@
    "renseignements" : "non accessible aux personnes à mobilité réduite"
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-9",
+   "coursId" : "IN-DIG-9",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "24/04/2026",
+   "dateFin" : "24/04/2026",
+   "description" : "Satellites influence navigation, weather forecasting, internet access, and climate monitoring. Yet many people are unaware of how space systems actually work. This course demystifies modern space technology in a practical and accessible way.\r\n\r\nParticipants will explore how satellites are designed, launched, and operated, using everyday examples and visual tools. No technical background is required.\r\n\r\nThe course promotes scientific curiosity and digital citizenship in a rapidly evolving space economy.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 14:30 (durée 5h)",
+   "horaires" : [ ],
+   "id" : 66085,
+   "intitule" : "Satellites for Everyone: Powering Connectivity, Navigation, and Data",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwODU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Forum Campus Geesseknäppchen",
@@ -20503,7 +20571,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 5,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -21804,7 +21872,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -25037,6 +25105,63 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "À apporter : carnet de notes, colle, ciseaux, stylo, feutres, et un plan de votre maison à l’échelle (si possible), pour les exercices pratiques pendant les séances"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-10",
+   "coursId" : "IN-DIG-10",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "22/05/2026",
+   "dateFin" : "22/05/2026",
+   "description" : "Mobile networks connect society, business, and public services. Participants explore 4G, 5G, satellites, and future 6G technologies using real-world examples. \r\n\r\nTelecommunication networks are developed using virtual testbeds and emulators. This course allows participants to build and experiment with mobile networks in software environments.\r\n\r\nLearners configure virtual base stations, simulate user traffic, and analyse coverage using no-code platforms and visual tools.\r\n\r\nThe focus is on experimentation and system understanding through guided labs.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 22-05-2026 à 14:30 (durée 5h)",
+   "horaires" : [ {
+      "duree" : "5h",
+      "heure" : "14:30",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66089,
+   "intitule" : "Modern Telecommunications: From Mobile Networks to 6G",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwODk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -31686,6 +31811,63 @@
    "renseignements" : "Le cours peut également être donné en français."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-11",
+   "coursId" : "IN-DIG-11",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "10/06/2026",
+   "dateFin" : "10/06/2026",
+   "description" : "Digital twins are virtual replicas used in industry and cities. This course introduces simulation for decision-making.\r\n\r\nDigital twins allow users to experiment safely with real-world systems. This course teaches participants to create and operate simplified digital twins using simulation platforms.\r\n\r\nLearners model machines, buildings, and processes and run “what-if” experiments. Participants build simple models and understand their practical value.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 10-06-2026 à 14:30 (durée 5h)",
+   "horaires" : [ {
+      "duree" : "5h",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66090,
+   "intitule" : "Digital Twins and Simulations: Virtual Worlds for Real Solutions",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "6960",
       "localite" : "Senningen",
       "nom" : "Internetstuff Niederanven",
@@ -33083,6 +33265,63 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-12",
+   "coursId" : "IN-DIG-12",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "19/06/2026",
+   "dateFin" : "19/06/2026",
+   "description" : "Data shapes decisions in business, health, education, and public life. From understanding energy consumption to interpreting social trends, the ability to read and analyse information has become an essential life skill. Yet many adults feel intimidated by statistics, spreadsheets, and complex software.\r\n\r\nThis course removes those barriers by focusing on visual dashboards, no-code analytics platforms, and interactive experiments rather than formulas. Participants learn by doing: importing datasets, creating charts, and exploring patterns through guided laboratory sessions in a supportive environment.\r\n\r\nThrough practical exercises and real-world scenarios, learners gain confidence in interpreting data, questioning results, and communicating insights clearly. The course emphasizes critical thinking, responsible data use, and lifelong digital literacy.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 19-06-2026 à 14:30 (durée 5h)",
+   "horaires" : [ {
+      "duree" : "5h",
+      "heure" : "14:30",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66091,
+   "intitule" : "Data Analytics for non-Experts: Exploring Information Through Interactive Tools",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "-",
