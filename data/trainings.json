@@ -14081,7 +14081,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -17903,7 +17903,7 @@
    "cout" : 18.0,
    "dateDebut" : "18/04/2026",
    "dateFin" : "18/04/2026",
-   "description" : "Cet atelier propose une lecture accessible des mécanismes du stress chronique et de leurs effets sur le corps. Il explique le rôle du cortisol, le lien avec l’inflammation et la fatigue, et présente des leviers naturels de prévention. Les participants comprendront l’impact de l’alimentation et du mode de vie, découvriront des plantes utiles et expérimenteront des techniques de relaxation pour mieux réguler et récupérer.",
+   "description" : "Cet atelier propose une lecture accessible des mécanismes du stress chronique et de leurs effets sur le corps. Il explique le rôle du cortisol, le lien avec l’inflammation et la fatigue, et présente des leviers naturels de prévention. Les participants comprendront l’impact de l’alimentation et du mode de vie, découvriront des plantes utiles et expérimenteront des techniques de relaxation pour mieux réguler et récupérer.\r\nDësen Atelier bitt eng verständlech Aféierung an d’Mechanisme vum chronesche Stress an an d’Auswierkungen, déi en op de Kierper huet. En erkläert d’Roll vum Kortisol, den Zesummenhang mat Entzündung an d'Gefill vu Middegkeet, a stellt natierlech Méiglechkeete fir d’Präventioun vir.\r\nD’Participante verstinn den Afloss vun der Ernärung an dem Liewensstil, léieren hëllefräich Planzlech Mëttel kennen a probéieren Entspanungstechniken aus, fir de Kierper besser ze reguléieren a sech méi séier erhuelen ze kënnen.",
    "duree" : "4 leçons",
    "enseignants" : [ {
       "nom" : "Sorcinelli",
@@ -18243,10 +18243,25 @@
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Abdelmeguid",
+      "prenom" : "Aliaa"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:00 (durée 1h30), Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65121,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -18615,10 +18630,21 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Abdelmeguid",
+      "prenom" : "Aliaa"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Mercredi à 13:30 (durée 3h), Vendredi à 13:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "13:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "13:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65119,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -18693,10 +18719,25 @@
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Makhoul",
+      "prenom" : "Elyas"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65120,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -18867,10 +18908,21 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Makhoul",
+      "prenom" : "Elyas"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Mardi à 14:00 (durée 3h), Jeudi à 14:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65118,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -19188,10 +19240,21 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Kom Ngayap",
+      "prenom" : "Nadège"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Mercredi à 14:00 (durée 3h), Vendredi à 14:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65117,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -19771,7 +19834,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -20296,7 +20359,7 @@
    "cout" : 18.0,
    "dateDebut" : "25/04/2026",
    "dateFin" : "25/04/2026",
-   "description" : "Cet atelier vise à donner des repères clairs et pratiques pour mieux comprendre l’équilibre alimentaire au quotidien. Il aborde les bases de la nutrithérapie, les macronutriments et la lecture des étiquettes alimentaires afin de favoriser des choix éclairés et adaptés aux besoins individuels. Les participants apprendront à organiser des repas simples, équilibrés, à mieux comprendre le rôle des nutriments et à développer leur autonomie dans leurs choix alimentaires.",
+   "description" : "Cet atelier vise à donner des repères clairs et pratiques pour mieux comprendre l’équilibre alimentaire au quotidien. Il aborde les bases de la nutrithérapie, les macronutriments et la lecture des étiquettes alimentaires afin de favoriser des choix éclairés et adaptés aux besoins individuels. Les participants apprendront à organiser des repas simples, équilibrés, à mieux comprendre le rôle des nutriments et à développer leur autonomie dans leurs choix alimentaires.\r\nDësen Atelier huet d’Zil, kloer a praktesch Orientéierung ze ginn, fir dat deeglecht Gläichgewiicht bei der Ernärung besser ze verstoen. En erkläert d’Grondlage vun der Nutritherapie, d’Makronährstoffer an d’Liese vun den Etiketten op den Iesswueren, fir méi bewosst an un déi individuell Besoinen ugepasste Choixen ze treffen.\r\nD’Participante léieren, einfach an equilibréiert Menuen z’organiséieren, d’Roll vun den eenzelnen Närstoffer besser ze verstoen a méi Autonomie an hirem Iessverhalen z’entwéckelen.",
    "duree" : "4 leçons",
    "enseignants" : [ {
       "nom" : "Sorcinelli",
@@ -21566,7 +21629,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
