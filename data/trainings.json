@@ -1686,7 +1686,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TRT",
    "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -2615,97 +2615,6 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "niveau A2.3 acquis"
-}, {
-   "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole BRILL",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert METZ"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3590",
-      "localite" : "Dudelange",
-      "nom" : "Inter-Actions, bureau 104/ Hôtel de ville de  Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
-   },
-   "categorieCode" : "AL",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "COMPÉTENCES DE BASE",
-   "coursCode" : "AL-ALFR-260",
-   "coursId" : "AL-ALFR-260",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "24/06/2026",
-   "dateInscription" : "CoursEnsemble@i-a.lu\r\n51 61 21-538",
-   "description" : "Acquisition ou amélioration des compétences de base. \r\nLire et écrire à partir du français.",
-   "domainesCompetences" : [ {
-      "domaine" : "LIRE"
-   }, {
-      "domaine" : "ECRIRE"
-   }, {
-      "domaine" : "PARLER"
-   }, {
-      "domaine" : "COMPRENDRE"
-   }, {
-      "competences" : [ "\r\n" ],
-      "domaine" : "CALCULER"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Vallet",
-      "prenom" : "Danielle"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65319,
-   "intitule" : "Alphabétisation en langue française",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "ALFR",
-   "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 19,
-   "nbPlaces" : 20,
-   "niveau" : "Avancé 2",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3526",
-         "localite" : "Dudelange",
-         "nom" : "Inter-Actions",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "149, rue des Minières"
-      },
-      "code" : "IAPE",
-      "mail" : "coursensemble@inter-actions.lu",
-      "nom" : "Ensemble Quartiers Dudelange - Inter-Actions",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "ASBL",
-      "telephone" : "51 61 21 538 / 26 56",
-      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
-   },
-   "prerequis" : "Connaissance de l'alphabet et de quelques nombres\r\nDébutant en syllabisation ",
-   "renseignements" : "En présentiel "
 }, {
    "adresseCours" : {
       "codePostal" : "4665",
@@ -22844,7 +22753,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TAB",
    "matiereNom" : "Tableurs",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -43849,7 +43758,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "DAN",
    "matiereNom" : "Danse",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -46632,7 +46541,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
