@@ -9445,6 +9445,59 @@
    "prerequis" : "B2 terminé et réussi"
 }, {
    "adresseCours" : {
+      "codePostal" : "9085",
+      "localite" : "Ettelbruck",
+      "nom" : "CNFPC Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "77 Rue Jean-Pierre Thill"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-PHOD-46",
+   "coursId" : "IN-PHOD-46",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "13/04/2026",
+   "dateFin" : "22/06/2026",
+   "description" : "Entdecken Sie die wichtigsten Photoshop-Funktionen, die Ihre Bildbearbeitung mit Lightroom erleichtern: Auswahlen, Ebenen, Retuschen, Filter und KI-Tools. Praxisnah, kreativ und verständlich – für noch professionellere und beeindruckende Bilder.",
+   "duree" : "20 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 63924,
+   "intitule" : "Adobe Photoshop für Lightroom Benutzer",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "PHOD",
+   "matiereNom" : "Photographie digitale",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MjQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -19953,6 +20006,59 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-SI-1",
+   "coursId" : "IN-SI-1",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "22/04/2026",
+   "dateFin" : "29/04/2026",
+   "description" : "Participants will learn how to explore the internet safely and avoid traps like phishing, scams, and ransomware. Through real-life examples and fun hands-on activities, you’ll discover how to protect your data, recognize fake websites, and keep your privacy intact. No technical background needed; just curiosity and your everyday internet experience!",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 29-04-2026 à 17:10 (durée 2h30) et 17:10 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 64912,
+   "intitule" : "Safe Browsing: How to Stay Smart and Secure Online",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "SI",
+   "matiereNom" : "Sécurité internet",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ5MTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SCM",
    "categorieCodeUnipop" : "SCM",
    "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
@@ -23266,6 +23372,63 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NAT-3",
+   "coursId" : "SO-NAT-3",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "13/05/2026",
+   "dateFin" : "13/05/2026",
+   "description" : "Découvrez comment composer des repas équilibrés et énergisants pour réduire la fatigue, stabiliser l'énergie et mieux soutenir votre vitalité au quotidien. L'objectif : plus d'énergie, une meilleure concentration et moins de fatigue.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 13-05-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66094,
+   "intitule" : "Construire une assiette anti-fatigue",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NAT",
+   "matiereNom" : "Naturopathie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4702",
       "localite" : "Pétange",
       "nom" : "CIGL - Pétange",
@@ -24964,6 +25127,63 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "À apporter : carnet de notes, colle, ciseaux, stylo, feutres, et un plan de votre maison à l’échelle (si possible), pour les exercices pratiques pendant les séances"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NAT-4",
+   "coursId" : "SO-NAT-4",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "21/05/2026",
+   "dateFin" : "21/05/2026",
+   "description" : "Apprenez à composer des repas qui réduisent l’inflammation, renforcent votre santé et favorisent un équilibre durable au quotidien.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 21-05-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66095,
+   "intitule" : "Construire son assiette anti-inflammatoire",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NAT",
+   "matiereNom" : "Naturopathie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -30399,6 +30619,59 @@
    "renseignements" : "Paper or notebook. Pen or pencil and eraser. \r\nA computer for those who prefer typing on a computer. \r\n\r\nWednesday, 03 June 2026 – 18:00 (1h40)\r\n\r\nThursday, 04 June 2026 – 18:00 (1h40)\r\n\r\nFriday, 05 June 2026 – 18:00 (1h40)"
 }, {
    "adresseCours" : {
+      "codePostal" : "9085",
+      "localite" : "Ettelbruck",
+      "nom" : "CNFPC Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "77 Rue Jean-Pierre Thill"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-PHOD-48",
+   "coursId" : "IN-PHOD-48",
+   "coursType" : "CLASSIQUE",
+   "cout" : 36.0,
+   "dateDebut" : "03/06/2026",
+   "dateFin" : "24/06/2026",
+   "description" : "In diesem praxisorientierten Kurs bearbeiten wir Fotos mit Adobe Lightroom Classic und Photoshop. Sie lernen die wichtigsten Entwicklungswerkzeuge kennen und entdecken zusätzlich den gezielten Einsatz von Plug-Ins wie DXO, OnOne und Topaz für noch professionellere Ergebnisse.",
+   "duree" : "8 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 63941,
+   "intitule" : "RAW-Workflow mit Adobe Lightroom Classic und Adobe Photoshop",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "PHOD",
+   "matiereNom" : "Photographie digitale",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NDE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -30440,6 +30713,63 @@
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MDE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NAT-5",
+   "coursId" : "SO-NAT-5",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "04/06/2026",
+   "dateFin" : "04/06/2026",
+   "description" : "Apprenez à préparer des repas qui soutiennent votre équilibre nerveux et émotionnel, découvrez quels aliments aident à gérer le stress et comment créer des assiettes apaisantes et nourrissantes au quotidien.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 04-06-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66096,
+   "intitule" : "Construire son assiette anti-stress",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NAT",
+   "matiereNom" : "Naturopathie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTY%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -32055,6 +32385,63 @@
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NAT-6",
+   "coursId" : "SO-NAT-6",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "11/06/2026",
+   "dateFin" : "11/06/2026",
+   "description" : "Cet atelier vous offre des astuces concrètes pour créer des petits-déjeuners et collations sains, nourrissants et énergisants. Vous apprendrez à éviter les produits ultra-transformés, équilibrer vos apports et proposer des alternatives simples, savoureuses et adaptées à toute la famille.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 11-06-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66097,
+   "intitule" : "Petit-déjeuner / collation pour petits et grands",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NAT",
+   "matiereNom" : "Naturopathie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
    "coursCode" : "SO-SAN-32",
    "coursId" : "SO-SAN-32",
    "coursType" : "CLASSIQUE",
@@ -33112,6 +33499,63 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NAT-7",
+   "coursId" : "SO-NAT-7",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "17/06/2026",
+   "dateFin" : "17/06/2026",
+   "description" : "Cet atelier vous aidera à comprendre le sucre sous toutes ses formes, ses effets sur l’organisme et comment le consommer de manière plus consciente. Vous apprendrez à réduire les excès sans frustration et à faire des choix éclairés au quotidien.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 17-06-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66098,
+   "intitule" : "Sucre : ami ou ennemi ?",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NAT",
+   "matiereNom" : "Naturopathie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "-",
       "localite" : "-",
       "nom" : "En ligne",
@@ -33700,6 +34144,63 @@
       "statut" : "Administration Communale",
       "telephone" : "33 01 44 207",
       "websiteUrl" : "http://www.walfer.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NAT-8",
+   "coursId" : "SO-NAT-8",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "29/06/2026",
+   "dateFin" : "29/06/2026",
+   "description" : "Les Fleurs de Bach sont des élixirs floraux qui soutiennent vos émotions et favorisent l’équilibre intérieur. Cet atelier vous invite à les découvrir et à apprendre à les utiliser facilement au quotidien. Repartez avec votre flacon personnalisé de Fleurs de Bach.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi 29-06-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 66099,
+   "intitule" : "Découvrir les Fleurs de Bach",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NAT",
+   "matiereNom" : "Naturopathie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
    }
 }, {
    "adresseCours" : {
