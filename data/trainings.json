@@ -21762,7 +21762,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 10,
+   "nbInscrits" : 13,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -33368,7 +33368,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -43555,17 +43555,10 @@
    "dateFin" : "16/05/2026",
    "description" : "Ce cours se dirige à toute personne créative intéressée par la macro photographie. C'est une découverte du monde des insectes et de leur variété qui nous échappe au quotidien.Dans une première partie, le cours abordera des notions en photographie et notamment la photographie macro. Au fur et à mesure que les participants avancent on fera des sorties de prise de vue mais aussi de repérage des insectes. Les sorties privilégieront la lumière bleue et la lumière dorée.",
    "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Stagno",
-      "prenom" : "Luisa Maria"
-   } ],
+   "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 09:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "09:20",
-      "jour" : "Samedi"
-   } ],
+   "horairePrevu" : "Samedi à 16:20 (durée 1h40)",
+   "horaires" : [ ],
    "id" : 61533,
    "intitule" : "Macro Photographie - Bienvenu à mon mini monde",
    "langueCoursCode" : "FR",
