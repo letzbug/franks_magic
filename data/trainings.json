@@ -597,7 +597,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIJU",
    "matiereNom" : "Bijoux",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -19953,6 +19953,65 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCM",
+   "categorieCodeUnipop" : "SCM",
+   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
+   "coOrganisateurs" : [ "Société Luxembourgeoise de Géographie" ],
+   "coursCode" : "SCM-SCN-16",
+   "coursId" : "SCM-SCN-16",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "22/04/2026",
+   "dateFin" : "22/04/2026",
+   "description" : "La Société Luxembourgeoise de Géographie et l'Université Populaire vous présentent la 4ième Nuit de la Géographie.\r\nVous êtes passionné par notre monde et curieux de découvrir ses secrets cachés ? Rejoignez-nous pour une nuit inoubliable dédiée à la géographie !\r\nLes orateurs sont:",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 22-04-2026 à 19:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66112,
+   "intitule" : "Nuit de la Géographie 2026",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "SCN",
+   "matiereNom" : "Sciences naturelles",
+   "nbInscrits" : 0,
+   "nbPlaces" : 150,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxMTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Ne manquez pas cette occasion unique d'explorer la géographie sous un nouvel angle. Une soirée inspirante et riche en découvertes vous attend. Rejoignez-nous pour un moment de partage et d'échange !"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
@@ -30286,6 +30345,60 @@
    "prerequis" : "Niveau B1.2 acquis"
 }, {
    "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-LIT-10",
+   "coursId" : "SCI-LIT-10",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "03/06/2026",
+   "dateFin" : "05/06/2026",
+   "description" : "Explore creative writing in English through your own life stories. The course begins with short, inspiring writing exercises and gradually moves toward writing about meaningful moments from your life. In a friendly atmosphere, you may also choose to share your texts with fellow participants.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 03-06-2026 à 18:00 (durée 1h40), Jeudi 04-06-2026 à 18:00 (durée 1h40), Vendredi 05-06-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66044,
+   "intitule" : "Writing Your Life, part one",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "LIT",
+   "matiereNom" : "Littérature",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwNDQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Paper or notebook. Pen or pencil and eraser. \r\nA computer for those who prefer typing on a computer. \r\n\r\nWednesday, 03 June 2026 – 18:00 (1h40)\r\n\r\nThursday, 04 June 2026 – 18:00 (1h40)\r\n\r\nFriday, 05 June 2026 – 18:00 (1h40)"
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -34065,6 +34178,63 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCM",
+   "categorieCodeUnipop" : "SCM",
+   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
+   "coursCode" : "SCM-SCN-15",
+   "coursId" : "SCM-SCN-15",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "03/07/2026",
+   "dateFin" : "03/07/2026",
+   "description" : "STEM isn’t just for scientists. It’s the foundation of the technologies, systems, and discoveries that shape our world. This course invites learners of all ages and backgrounds to engage with STEM through interactive simulations, visual tools, and hands-on digital labs. Rather than abstract formulas, you’ll experience how things work—running experiments, interpreting data, building simple systems, and explaining what you learn. No prior expertise required—just curiosity!\r\nBy the end of this training edition, participants will be able to:\r\n1.\tRun interactive simulations that visualise scientific phenomena\r\n2.\tExplore logic and computation using no-code visual tools\r\n3.\tAnalyse and interpret data through intuitive dashboards\r\n4.\tModel simple engineering systems with drag-and-drop software\r\n5.\tExplain real-world technologies (e.g. sensors, automated systems)\r\n6.\tCommunicate STEM ideas confidently to diverse audiences",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 03-07-2026 à 14:30 (durée 5h)",
+   "horaires" : [ {
+      "duree" : "5h",
+      "heure" : "14:30",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66092,
+   "intitule" : "STEM for All: Hands-On Labs in Science, Technology, Engineering & Math",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "SCN",
+   "matiereNom" : "Sciences naturelles",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -44468,7 +44638,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
