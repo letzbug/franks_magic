@@ -1,263 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "2309",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Technique du Centre",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "106, avenue Pasteur"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2563",
-      "localite" : "Luxembourg",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://www.luxchine.org/"
-   },
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-22",
-   "coursId" : "SO-MED-22",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "19/03/2026",
-   "dateFin" : "11/06/2026",
-   "dateInscription" : "jusqu'au 6 mars 2026",
-   "description" : "Répétition des sept points de la posture assise correcte, des huit formes de la méditation en mouvement et des méthodes essentielles de méditation dans le but d'harmoniser le corps, l'esprit et la respiration. Enseignement de la relaxation, de la méditation debout, de la méditation assise, de la méditation en mouvement et de la méditation en mangeant. Théorie de la méditation Chan et sa mise en pratique dans la vie quotidienne. Séances de continuation.",
-   "duree" : "16h",
-   "enseignants" : [ {
-      "nom" : "Lin",
-      "prenom" : "Li-Chuan"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63606,
-   "intitule" : "Méditation Chan",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 7,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2563",
-         "localite" : "Luxembourg",
-         "nom" : "Association Culturelle Chinoise Lux.",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, rue Jean Schaack"
-      },
-      "code" : "ACCL",
-      "fax" : "/",
-      "mail" : "luxchine@pt.lu",
-      "nom" : "Association Culturelle Chinoise Lux.",
-      "nomContact" : "Wagener",
-      "onlineReg" : false,
-      "prenomContact" : "Marie-Paule",
-      "statut" : "ASBL",
-      "telephone" : "+352 236 208 59",
-      "websiteUrl" : "https://www.luxchine.org/"
-   },
-   "prerequis" : "Avoir suivi le cours débutant avec ACCL.",
-   "renseignements" : "Accès pour personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-CUIS-57",
-   "coursId" : "AR-CUIS-57",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "19/03/2026",
-   "dateFin" : "19/03/2026",
-   "description" : "Explorez et découvrez des produits variés, leurs origines, leurs différences et leurs modes de cuisson. Apprenez à les préparer correctement avant cuisson et laissez-vous surprendre par de nouvelles saveurs. Un atelier pour éveiller vos sens et élargir vos horizons culinaires !",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Gandang",
-      "prenom" : "Pascaline"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 19-03-2026 à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 64021,
-   "intitule" : "Voyage Culinaire : Autour du Manioc, de la Banane-Plantain et de l’Igname",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CUIS",
-   "matiereNom" : "Cuisine",
-   "nbInscrits" : 8,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMjE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Le formateur fournit le matériel nécessaire, dont le coût sera de 12 € par participant à régler directement au formateur."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-BIJU-33",
-   "coursId" : "AR-BIJU-33",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "19/03/2026",
-   "dateFin" : "30/04/2026",
-   "description" : "Apprenez à créer des bijoux uniques et élégants en maîtrisant l'assemblage minutieux de perles de différentes tailles et couleurs. Vous apprendrez à mélanger les différentes couleurs et formes de perles pour réaliser des bijoux créatifs et uniques (bagues, colliers, bracelets...). Rejoignez-nous pour une expérience créative et enrichissante, où vous pourrez exprimer votre style et votre créativité à travers ces créations étincelantes.",
-   "duree" : "20 leçons",
-   "enseignants" : [ {
-      "nom" : "Rybak",
-      "prenom" : "Roksoliana",
-      "site" : "https://shorturl.at/Swbb6"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63980,
-   "intitule" : "L'univers du perlage",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BIJU",
-   "matiereNom" : "Bijoux",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5ODA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4083",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-ESCH-SUR-ALZETTE",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 Bd Charles de Gaulle"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Ettelbruck" ],
-   "coursCode" : "AR-COUT-94",
-   "coursId" : "AR-COUT-94",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "19/03/2026",
-   "dateFin" : "07/05/2026",
-   "description" : "Dein Projekt Nähen:\r\nalltägliche Näharbeiten und kleine Umänderungen oder einen Rock nähen ( z.B. wie nähe ich einen Knopf richtig an, wie ersetze ich einen Reißverschluss richtig, wie säume ich ein Kleidungsstück… ) Ich begleite dein Projekt\r\n\r\nDer Teilnehmende lernt :\r\n  >  Schnittmuster richtig lesen und Anpassung an die eigenen Masse\r\n  >  Zuschnitt eines individuellen Kleides mit den Verarbeitungen\r\n  >  Verarbeitungstechniken\r\n  >  Gestaltung von Accessoires (z.Bsp. Anhänger, Broschen,Tücher, Schals, Stofftiere etc)\r\n  >  Neugestaltung, Aufwertung alter Lieblingsbekleidung",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Heck",
-      "prenom" : "Emilie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 08:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "08:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65469,
-   "intitule" : "Nähen macht glücklich 2SEM",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 5,
-   "nbPlaces" : 8,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0Njk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Voraussetzung: Teilnahme am Kurs des ersten Semesters (AR-COUT-73).\r\n\r\nBitte beachten Sie, dass während der Schulferien in Luxemburg kein Kurs stattfindet.",
-   "renseignements" : "Bitte eine eigene Nähmaschine, Nähzubehör (Scheren, Nadeln etc.), passende Stoffe sowie ein Schnittmuster nach Wahl mitbringen."
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -42937,6 +42679,203 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "2309",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée Technique du Centre",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "106, avenue Pasteur"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2563",
+      "localite" : "Luxembourg",
+      "nom" : "En ligne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "https://www.luxchine.org/"
+   },
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-MED-22",
+   "coursId" : "SO-MED-22",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "19/03/2026",
+   "dateFin" : "11/06/2026",
+   "dateInscription" : "jusqu'au 6 mars 2026",
+   "description" : "Répétition des sept points de la posture assise correcte, des huit formes de la méditation en mouvement et des méthodes essentielles de méditation dans le but d'harmoniser le corps, l'esprit et la respiration. Enseignement de la relaxation, de la méditation debout, de la méditation assise, de la méditation en mouvement et de la méditation en mangeant. Théorie de la méditation Chan et sa mise en pratique dans la vie quotidienne. Séances de continuation.",
+   "duree" : "16h",
+   "enseignants" : [ {
+      "nom" : "Lin",
+      "prenom" : "Li-Chuan"
+   } ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Jeudi à 18:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63606,
+   "intitule" : "Méditation Chan",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "MED",
+   "matiereNom" : "Méditation",
+   "nbInscrits" : 7,
+   "nbPlaces" : 12,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2563",
+         "localite" : "Luxembourg",
+         "nom" : "Association Culturelle Chinoise Lux.",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, rue Jean Schaack"
+      },
+      "code" : "ACCL",
+      "fax" : "/",
+      "mail" : "luxchine@pt.lu",
+      "nom" : "Association Culturelle Chinoise Lux.",
+      "nomContact" : "Wagener",
+      "onlineReg" : false,
+      "prenomContact" : "Marie-Paule",
+      "statut" : "ASBL",
+      "telephone" : "+352 236 208 59",
+      "websiteUrl" : "https://www.luxchine.org/"
+   },
+   "prerequis" : "Avoir suivi le cours débutant avec ACCL.",
+   "renseignements" : "Accès pour personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-BIJU-33",
+   "coursId" : "AR-BIJU-33",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "19/03/2026",
+   "dateFin" : "30/04/2026",
+   "description" : "Apprenez à créer des bijoux uniques et élégants en maîtrisant l'assemblage minutieux de perles de différentes tailles et couleurs. Vous apprendrez à mélanger les différentes couleurs et formes de perles pour réaliser des bijoux créatifs et uniques (bagues, colliers, bracelets...). Rejoignez-nous pour une expérience créative et enrichissante, où vous pourrez exprimer votre style et votre créativité à travers ces créations étincelantes.",
+   "duree" : "20 leçons",
+   "enseignants" : [ {
+      "nom" : "Rybak",
+      "prenom" : "Roksoliana",
+      "site" : "https://shorturl.at/Swbb6"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 17:10 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63980,
+   "intitule" : "L'univers du perlage",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BIJU",
+   "matiereNom" : "Bijoux",
+   "nbInscrits" : 5,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5ODA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4083",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-ESCH-SUR-ALZETTE",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 Bd Charles de Gaulle"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coOrganisateurs" : [ "CNFPC-Ettelbruck" ],
+   "coursCode" : "AR-COUT-94",
+   "coursId" : "AR-COUT-94",
+   "coursType" : "CLASSIQUE",
+   "cout" : 81.0,
+   "dateDebut" : "19/03/2026",
+   "dateFin" : "07/05/2026",
+   "description" : "Dein Projekt Nähen:\r\nalltägliche Näharbeiten und kleine Umänderungen oder einen Rock nähen ( z.B. wie nähe ich einen Knopf richtig an, wie ersetze ich einen Reißverschluss richtig, wie säume ich ein Kleidungsstück… ) Ich begleite dein Projekt\r\n\r\nDer Teilnehmende lernt :\r\n  >  Schnittmuster richtig lesen und Anpassung an die eigenen Masse\r\n  >  Zuschnitt eines individuellen Kleides mit den Verarbeitungen\r\n  >  Verarbeitungstechniken\r\n  >  Gestaltung von Accessoires (z.Bsp. Anhänger, Broschen,Tücher, Schals, Stofftiere etc)\r\n  >  Neugestaltung, Aufwertung alter Lieblingsbekleidung",
+   "duree" : "18 leçons",
+   "enseignants" : [ {
+      "nom" : "Heck",
+      "prenom" : "Emilie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 08:30 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65469,
+   "intitule" : "Nähen macht glücklich 2SEM",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 5,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0Njk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Voraussetzung: Teilnahme am Kurs des ersten Semesters (AR-COUT-73).\r\n\r\nBitte beachten Sie, dass während der Schulferien in Luxemburg kein Kurs stattfindet.",
+   "renseignements" : "Bitte eine eigene Nähmaschine, Nähzubehör (Scheren, Nadeln etc.), passende Stoffe sowie ein Schnittmuster nach Wahl mitbringen."
+}, {
+   "adresseCours" : {
       "codePostal" : "9089",
       "localite" : "Ettelbruck",
       "nom" : "Association des parents d'elèves d'Ettelbruck",
@@ -47502,80 +47441,6 @@
    },
    "prerequis" : "Formation disponible uniquement pour les personnes ayant déjà suivi la formation de base \" Ferronerie d'art / Forge - Débutant \"",
    "renseignements" : "Matériels requis :\r\nObligatoire :\r\n  *  Vêtements de travail\r\n  *  Chaussures de sécurité\r\n  *  Lunettes de sécurité\r\n  *  Tablier de soudeur/forgeron en cuir.\r\nFacultatif :\r\n  *  Gants en cuir \r\n  *  Protection auditive."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-FS-3",
-   "coursId" : "AR-FS-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 36.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "19/03/2026",
-   "description" : "Le Feng Shui est un art aux techniques ancestrales, le Feng Shui favorise l'harmonie entre l'environnement et les individus, permettant ainsi de créer des espaces (maison, bureau etc) propices à la sérénité, à la créativité et son bien-être.\r\nLes participants découvriront comment l'agencement de leur espace de vie ou de travail peut influencer leur énergie, leur humeur et leurs relations. À l'issue de ce programme, chacun repartira avec des conseils pratiques pour réajuster son environnement, optimiser son bien-être physique et mental, et instaurer un équilibre durable. Ce parcours s'inscrit dans une démarche holistique, visant à reconnecter le corps, l'esprit et l'espace de vie.",
-   "duree" : "8 leçons",
-   "enseignants" : [ {
-      "nom" : "Zarcone",
-      "prenom" : "Magalie",
-      "presentation" : "https://www.instagram.com/g_concept_sa/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 26-02-2026 à 17:10 (durée 1h40), 17:10 (durée 1h40), 17:10 (durée 1h40) et 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63972,
-   "intitule" : "Transformez votre Intérieur avec le Feng Shui - 2 Partie",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FS",
-   "matiereNom" : "Feng Shui",
-   "nbInscrits" : 12,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NzI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "À apporter : carnet de notes, colle, ciseaux, stylo, feutres, et un plan de votre maison à l’échelle (si possible), pour les exercices pratiques pendant les séances"
 }, {
    "adresseCours" : {
       "codePostal" : "1338",
@@ -53787,83 +53652,6 @@
    "renseignements" : "Toute demande est à adresser à M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1\r\nRenseignements supplémentaires: www.cc-cdv.lu"
 }, {
    "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TRI-33",
-   "coursId" : "IN-TRI-33",
-   "coursType" : "CLASSIQUE",
-   "cout" : 30.0,
-   "dateDebut" : "12/02/2026",
-   "dateFin" : "19/03/2026",
-   "dateInscription" : "Lundi à Vendredi 9h à 18h",
-   "description" : "Photoshop Module X : Importer des images depuis des médias de stockage différents vers l'ordinateur. Administrer des images. Sauvegarde (graver) les photos sur un CD/DVD. Importer ses images; conversion de format et changement de taille, recoupage d'image. Gestion d'images; fonction autoréglages. Retouche de petites fautes et imperfection; réparation de l'effet 'yeux rouges'; apprendre à connaître les fonctions et outils basiques.\r\nCombiner, retoucher, travailler avec des images, appliquer la fonction de filtre du programme Photoshop l'élément. Introduction aux calques, utilisation et compréhension, combiner 2 images. Introduction à la notion d'objets, utilisation et réglage de filtres. Correction de couleurs, contrastes, canal alpha et autres paramètres de couleurs; création d'un montage photo simple.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Importer des images depuis des médias de stockage différents vers l'ordinateur. Administrer des images. Sauvegarde (graver) les photos sur un CD/DVD.\r\nImporter ses images; conversion de format et changement de taille, recoupage d'image. Gestion d'images; fonction autoréglages. Retouche de petites fautes et imperfection; réparation de l'effet \"yeux rouges\"; apprendre à connaître les fonctions et outils basiques." ],
-      "domaine" : "Traitement d'images"
-   } ],
-   "duree" : "10h",
-   "enseignants" : [ {
-      "nom" : "Toth",
-      "prenom" : "Laszlo",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 14:00 (durée 1h45)",
-   "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61849,
-   "intitule" : "Photoshop Elements M-X-5",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TRI",
-   "matiereNom" : "Traitement d'images",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Computer Grundkenntnisse sind erforderlich  --  Connaissances de base en informatique (ordinateur) nécessaires",
-   "renseignements" : "Inscription jusqu'au 09-02-2026 !"
-}, {
-   "adresseCours" : {
       "codePostal" : "9080",
       "localite" : "Ettelbruck",
       "nom" : "Lycée Technique d'Ettelbruck",
@@ -54164,84 +53952,6 @@
       "websiteUrl" : "http://esf.lu/"
    },
    "prerequis" : "avoir atteint le niveau de A1.1"
-}, {
-   "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville de Dudelange ",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-109",
-   "coursId" : "IN-TAB-109",
-   "coursType" : "CLASSIQUE",
-   "cout" : 60.0,
-   "dateDebut" : "10/02/2026",
-   "dateFin" : "19/03/2026",
-   "dateInscription" : "coursinformatiques@dudelange.lu\r\n51 61 21 538",
-   "description" : "Initiation au tableur Excel. \r\nMaîtriser les principales fonctions permettant la création, une utilisation efficace et la sauvegarde d'un tableau de calcul (opérations mathématiques dans les feuilles de calcul, gestion des cellules et feuilles, remplissage automatique des listes, utilisation de formes spécifiques de cellules et des raccourcis de base...). \r\nParamétrer et sécuriser le tableau en vue de l'impression ou de partage en ligne.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Initiation au tableur Excel", "Identifier et personnaliser l'interface de travail, en maîtriser les principales fonctions permettant la création de tableaux de calcul.", "Paramétrer le tableau en vue de l'impression.", " Présenter les données sous forme de graphiques. ", "Sécuriser les données, sauvegarder un modèle" ],
-      "domaine" : "Tableurs"
-   } ],
-   "duree" : "20h",
-   "enseignants" : [ {
-      "nom" : "Ioanid",
-      "prenom" : "Paul George"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h),\nJeudi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63205,
-   "intitule" : "Ms Excel 1/2",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 5,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Cours accessible aux personnes ayant une notion de l'informatique en général.\r\nPossibilité de langue véhiculaire: français et anglais. ",
-   "renseignements" : "Accès pour personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -60806,83 +60516,6 @@
       "telephone" : "+352 54 50 61 206"
    },
    "renseignements" : "Il n’y a pas cours pendant les vacances scolaires"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-INFU-95",
-   "coursId" : "IN-INFU-95",
-   "coursType" : "CLASSIQUE",
-   "cout" : 60.0,
-   "dateDebut" : "08/01/2026",
-   "dateFin" : "19/03/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "MAC OS MX : Connaître les divers outils numériques et leur application \"Hardware\". Connaître les différents logiciels de traitement de données \"Software\". Emploi sécurisé des TIC. Comprendre le \"world wide web\". Créer et gérer des messages électroniques (E-Mail SMS/MMS). Créer et modifier des textes. - Créer et modifier des images.\r\n\r\nMacintosh auf die eigenen Bedürfnisse einpassen, Systemkonfiguration. Betriebssystem und Apps aktualisieren. Soziale Netzwerke: Netzwerke kennenlernen, Privatsphäre schützen. Elektronische Unterschrift: LuxTrust kennen und nutzen. E-Commerce: Online einkaufen, Veranstaltungen und Reisen buchen, usw. Zuverlässigkeit der Angebote prüfen. Verwaltungsvorgänge online erledigen (Steuererklärung, Formulare, usw.) guichet.lu kennen und nutzen. E-Banking: online Bank benutzen.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Connaître les divers outils numériques et leur application (Hardware).\r\n- Emploi sécurisé des TIC.\r\n- Créer et modifier des textes.\r\n- Créer et modifier des images.\r\n- Comprendre le \"worldwide web\".\r\n- Créer et gérer des messages électroniques (E-Mail SMS/MMS).", "Connaître les différents logiciels de traitement de données (Software)." ],
-      "domaine" : "Internetführerschäin"
-   } ],
-   "duree" : "20h",
-   "enseignants" : [ {
-      "nom" : "Toth",
-      "prenom" : "Laszlo",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 16:00 (durée 1h45)",
-   "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "16:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61854,
-   "intitule" : "Mac OS M-X-2",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "INFU",
-   "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 0,
-   "nbPlaces" : 5,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Keine Macintosh OS, Linux OS oder Android OS Grundkenntnisse sind erforderlich  -  Aucune connaissance de base de Macintosh OS n'est requise",
-   "renseignements" : "Inscrivez-vous avant le 05-01-2026!"
 }, {
    "adresseCours" : {
       "codePostal" : "8473",
