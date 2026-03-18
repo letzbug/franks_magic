@@ -108,7 +108,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 6,
+   "nbInscrits" : 8,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1544,8 +1544,8 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "HIST",
    "matiereNom" : "Histoire",
-   "nbInscrits" : 15,
-   "nbPlaces" : 15,
+   "nbInscrits" : 16,
+   "nbPlaces" : 16,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Nzk%3D",
@@ -1667,7 +1667,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "MU",
    "matiereNom" : "Musique",
-   "nbInscrits" : 6,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -9016,59 +9016,6 @@
       "websiteUrl" : "http://www.walfer.lu"
    },
    "prerequis" : "B2 terminé et réussi"
-}, {
-   "adresseCours" : {
-      "codePostal" : "9085",
-      "localite" : "Ettelbruck",
-      "nom" : "CNFPC Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "77 Rue Jean-Pierre Thill"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-PHOD-46",
-   "coursId" : "IN-PHOD-46",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "22/06/2026",
-   "description" : "Entdecken Sie die wichtigsten Photoshop-Funktionen, die Ihre Bildbearbeitung mit Lightroom erleichtern: Auswahlen, Ebenen, Retuschen, Filter und KI-Tools. Praxisnah, kreativ und verständlich – für noch professionellere und beeindruckende Bilder.",
-   "duree" : "20 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 18:00 (durée 1h40)",
-   "horaires" : [ ],
-   "id" : 63924,
-   "intitule" : "Adobe Photoshop für Lightroom Benutzer",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "PHOD",
-   "matiereNom" : "Photographie digitale",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MjQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -17279,7 +17226,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -17340,7 +17287,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -17621,97 +17568,6 @@
    "renseignements" : "Ce cours s'adresse principalement aux débutants.\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. \r\n"
 }, {
    "adresseCours" : {
-      "codePostal" : "1750",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Garçons",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "41A Av.Victor Hugo"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1413",
-   "coursId" : "LA-FR-1413",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "20/04/2026",
-   "dateFin" : "10/07/2026",
-   "dateInscription" : "Inscription sur rdv: info@efid.lu",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples.",
-   "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant peut comprendre une conversation simple et en rapporter le contenu.", "L'apprenant est en mesure de comprendre un échange simple entre natifs, dans un éventail de domaines plus large." ],
-      "domaine" : "Compréhension orale "
-   }, {
-      "competences" : [ "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées par écrit." ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "L'apprenant peut engager une conversation simplement dans plusieurs domaines et notamment professionnels. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
-      "domaine" : "Expression orale "
-   }, {
-      "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne.", "L'apprenant est en mesure de lire les correspondances officielles et les courriels professionnels.", "L'apprenant peut trouver rapidement les informations demandées dans un texte." ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Abdelmeguid",
-      "prenom" : "Aliaa"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 14:00 (durée 1h30), Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "1h30",
-      "heure" : "14:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65121,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8211",
-         "localite" : "Mamer",
-         "nom" : "EFID",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, Route d'Arlon"
-      },
-      "code" : "EFID",
-      "mail" : "info@efid.lu",
-      "nom" : "Excellence for Integration and Development",
-      "nomContact" : "Tesch",
-      "onlineReg" : true,
-      "prenomContact" : "Nicolas",
-      "statut" : "ASBL",
-      "telephone" : "621 464 422",
-      "websiteUrl" : "https://efid.lu/"
-   }
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -17927,100 +17783,6 @@
    },
    "prerequis" : "Vorausgesetzt werden grundlegende fotografische Kenntnisse, insbesondere das Verständnis des Zusammenspiels von Blende, Verschlusszeit und ISO.",
    "renseignements" : "Der praktische Teil des Kurses kann gegebenenfalls am Wochenende stattfinden.\r\nBitte beachten Sie, dass während der Schulferien in Luxemburg keine Kurse stattfinden."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1750",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Garçons",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "41A Av.Victor Hugo"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1408",
-   "coursId" : "LA-FR-1408",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "20/04/2026",
-   "dateFin" : "10/07/2026",
-   "dateInscription" : "inscription sur rdv: info@efid.lu",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des instructions et des consignes orales", "comprendre des expressions familières de la vie quotidienne", "comprendre quelqu'un qui se présente", "comprendre des indications chiffrées", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier", "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes comprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)" ],
-      "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information" ],
-      "domaine" : "Interaction orale"
-   }, {
-      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)", "décrire succinctement son environnement", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue" ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Kom Ngayap",
-      "prenom" : "Nadège"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 14:00 (durée 2h), Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65116,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMTY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8211",
-         "localite" : "Mamer",
-         "nom" : "EFID",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, Route d'Arlon"
-      },
-      "code" : "EFID",
-      "mail" : "info@efid.lu",
-      "nom" : "Excellence for Integration and Development",
-      "nomContact" : "Tesch",
-      "onlineReg" : true,
-      "prenomContact" : "Nicolas",
-      "statut" : "ASBL",
-      "telephone" : "621 464 422",
-      "websiteUrl" : "https://efid.lu/"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "8211",
@@ -19572,59 +19334,6 @@
       "statut" : "Administration Communale",
       "telephone" : "33 01 44 207",
       "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-SI-1",
-   "coursId" : "IN-SI-1",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "22/04/2026",
-   "dateFin" : "29/04/2026",
-   "description" : "Participants will learn how to explore the internet safely and avoid traps like phishing, scams, and ransomware. Through real-life examples and fun hands-on activities, you’ll discover how to protect your data, recognize fake websites, and keep your privacy intact. No technical background needed; just curiosity and your everyday internet experience!",
-   "duree" : "6 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 29-04-2026 à 17:10 (durée 2h30) et 17:10 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 64912,
-   "intitule" : "Safe Browsing: How to Stay Smart and Secure Online",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "SI",
-   "matiereNom" : "Sécurité internet",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ5MTI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
    }
 }, {
    "adresseCours" : {
@@ -21822,6 +21531,63 @@
    },
    "prerequis" : "A1.2",
    "renseignements" : "à se procurer pour le cours livre et cahier d'activités :\r\n- Edito A2 - édition 2022-2024 - Livre + didierfle.app Broché - Illustré, 24 mai 2022\r\n- Edito A2 - édition 2022-2024 - Cahier + didierfle.app Broché - Illustré, 6 septembre 2022\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NAT-9",
+   "coursId" : "SO-NAT-9",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "05/05/2026",
+   "dateFin" : "05/05/2026",
+   "description" : "Découvrez comment une alimentation saine, simple et adaptée à vos besoins peut booster votre énergie, soutenir votre santé au quotidien et vous aider à faire les meilleurs choix alimentaires grâce à des conseils pratiques et faciles à appliquer.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 05-05-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 66143,
+   "intitule" : "Alimentation saine pour sa santé et son énergie",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NAT",
+   "matiereNom" : "Naturopathie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNDM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4575",
@@ -44887,7 +44653,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -46456,7 +46222,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CERA",
    "matiereNom" : "Céramique",
-   "nbInscrits" : 5,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
