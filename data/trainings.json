@@ -8,285 +8,6 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-BE-12",
-   "coursId" : "SO-BE-12",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "20/03/2026",
-   "dateFin" : "27/03/2026",
-   "description" : "Apprenez à adopter de bonnes habitudes pour optimiser vos espaces, gagner du temps au quotidien et améliorer la gestion du linge.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Krier",
-      "prenom" : "Marie Paule",
-      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65813,
-   "intitule" : "HOME ORGANSING 2 : Organiser sa maison pour éviter le désordre et la perte de temps",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BE",
-   "matiereNom" : "Bien-être",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1424",
-   "coursId" : "LA-FR-1424",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "20/03/2026",
-   "dateFin" : "30/04/2026",
-   "description" : "Comprendre quelques expressions familières et quotidiennes utilisées dans des situations de communication très récurrentes de la vie sociale ; peut s'identifier et répondre à des questions concernant, par exemple, sa nationalité, son âge, son lieu d'habitation, son école et éventuellement, poser lui-même des questions de ce type à quelqu'un ; comprendre des textes constitués d'une ou deux phrases, donner par écrit des informations sur soi.\r\nLieu de formation",
-   "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant peut : - reconnaitre des noms, des mots ou expressions les plus courants dans des situations simples de la vie quotidienne : panneaux, indications manuscrites doublées d'icônes, prix, horaires ; - repérer et comprendre des données chiffrées, des noms propres et d'autres informations très simples dans un texte court " ],
-      "domaine" : "Compréhension écrite "
-   }, {
-      "competences" : [ "Se présenter, parler de soi-même, de son entourage et de sa vie: saluer quelqu'un et prendre congé avec des mots simples,... Se présenter (nom, âge, pays, nationalité, numéro de téléphone...), Poser à d'autres personnes des questions, sur leur nom, leur adresse, leur âge Demander en phrases simples quelque chose à quelqu'un (p.ex. matériel scolaire, horaire) et réagir à une telle demande (Est-ce que je peux...) Avoir des échanges très brefs." ],
-      "domaine" : "production orale  "
-   }, {
-      "competences" : [ "Ecrire un message très court (mots clés, liste de mots ou de verbes) pour transmettre une consigne, répondre à un questionnaire ou compléter une fiche d'information. Décrire à l'aide de mots simples quelques objets quotidiens Ecrire des mots et des phrases très simples en s'aidant de documents d'appoint (manuel de français, cahier de règles, ...) Rédiger des notes simples, destinées à un usage personnel, concernant des évènements ou des dates à respecter" ],
-      "domaine" : "Production écrite "
-   }, {
-      "competences" : [ "- comprendre des instructions courtes et simples, prononcées lentement. comprendre des annonces publiques (horaires, départ, arrivée...), comprendre des informations répétitives (consignes pédagogiques)," ],
-      "domaine" : "Compréhension orale"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Lima",
-      "prenom" : "Diogo"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h), Vendredi à 13:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "13:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "13:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "13:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "13:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "13:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65160,
-   "intitule" : "Français A1.1 /N2/ 2026",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 17,
-   "nbPlaces" : 22,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COS-3",
-   "coursId" : "AR-COS-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "20/03/2026",
-   "dateFin" : "20/03/2026",
-   "description" : "Apprendre à reconnaître son type de cheveu et ses besoins spécifiques, puis créer un soin capillaire naturel et personnalisé.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Bakayoko",
-      "prenom" : "Ahoua Eve",
-      "presentation" : "https://missbak.com/en/pages/impact-social-missbak?srsltid=AfmBOorxsp0ZXyMqo9qFsvWH2a_O2wMzNwJI1tjrMGt1yC-FAYdU--Xs"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 20-03-2026 à 10:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65819,
-   "intitule" : "Workshop - Identifiez votre type de cheveu et fabriquez un soin adapté",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COS",
-   "matiereNom" : "Cosmétiques",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 25 euros."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-BROD-9",
-   "coursId" : "AR-BROD-9",
-   "coursType" : "CLASSIQUE",
-   "cout" : 234.0,
-   "dateDebut" : "20/03/2026",
-   "dateFin" : "10/07/2026",
-   "description" : "Ce cours propose une initiation à la broderie à l’aiguille sur métier, un outil utilisé en contexte professionnel permettant un travail fluide et précis à deux mains, sur de grandes surfaces.\r\nLes premières séances sont consacrées à l’apprentissage des techniques de base et à l’exploration de différents points. Une fois les gestes acquis, les participant·es pourront développer leurs propres projets et apprendre à transposer un dessin en broderie.\r\nDes sessions spécifiques pourront être proposées selon les envies : travail de la laine ou de la soie, techniques de bourrage, points anciens, etc.\r\nLe cours s’adresse à toute personne souhaitant découvrir la broderie dans un cadre sérieux mais sans pression de résultat. Seules la curiosité et l’envie de créer sont requises. Le contenu s’adapte aux niveaux de chacun, dans une ambiance studieuse et bienveillante.",
-   "duree" : "52 leçons",
-   "enseignants" : [ {
-      "nom" : "Aimard",
-      "prenom" : "Louise",
-      "presentation" : "https://maison-aimard.com/about/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64016,
-   "intitule" : "Cours de broderie - Main sur métier",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BROD",
-   "matiereNom" : "Broderie",
-   "nbInscrits" : 9,
-   "nbPlaces" : 9,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMTY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.\r\nPour les élèves ayant suivi un premier semestre, l'apprentissage du crochet de lunéville est proposé. ",
-   "renseignements" : "Matériel à apporter : coton à broder type échevette (DMC), fil à coudre, tissu coton opaque (type popeline), chutes de tissu. Fournitures disponibles en mercerie ou en ligne (Rascol, Amazon, Mondial Tissus)"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
@@ -45427,6 +45148,130 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-BE-12",
+   "coursId" : "SO-BE-12",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "20/03/2026",
+   "dateFin" : "27/03/2026",
+   "description" : "Apprenez à adopter de bonnes habitudes pour optimiser vos espaces, gagner du temps au quotidien et améliorer la gestion du linge.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Krier",
+      "prenom" : "Marie Paule",
+      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 65813,
+   "intitule" : "HOME ORGANSING 2 : Organiser sa maison pour éviter le désordre et la perte de temps",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BE",
+   "matiereNom" : "Bien-être",
+   "nbInscrits" : 2,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-BROD-9",
+   "coursId" : "AR-BROD-9",
+   "coursType" : "CLASSIQUE",
+   "cout" : 234.0,
+   "dateDebut" : "20/03/2026",
+   "dateFin" : "10/07/2026",
+   "description" : "Ce cours propose une initiation à la broderie à l’aiguille sur métier, un outil utilisé en contexte professionnel permettant un travail fluide et précis à deux mains, sur de grandes surfaces.\r\nLes premières séances sont consacrées à l’apprentissage des techniques de base et à l’exploration de différents points. Une fois les gestes acquis, les participant·es pourront développer leurs propres projets et apprendre à transposer un dessin en broderie.\r\nDes sessions spécifiques pourront être proposées selon les envies : travail de la laine ou de la soie, techniques de bourrage, points anciens, etc.\r\nLe cours s’adresse à toute personne souhaitant découvrir la broderie dans un cadre sérieux mais sans pression de résultat. Seules la curiosité et l’envie de créer sont requises. Le contenu s’adapte aux niveaux de chacun, dans une ambiance studieuse et bienveillante.",
+   "duree" : "52 leçons",
+   "enseignants" : [ {
+      "nom" : "Aimard",
+      "prenom" : "Louise",
+      "presentation" : "https://maison-aimard.com/about/"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 17:10 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64016,
+   "intitule" : "Cours de broderie - Main sur métier",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BROD",
+   "matiereNom" : "Broderie",
+   "nbInscrits" : 9,
+   "nbPlaces" : 9,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMTY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.\r\nPour les élèves ayant suivi un premier semestre, l'apprentissage du crochet de lunéville est proposé. ",
+   "renseignements" : "Matériel à apporter : coton à broder type échevette (DMC), fil à coudre, tissu coton opaque (type popeline), chutes de tissu. Fournitures disponibles en mercerie ou en ligne (Rascol, Amazon, Mondial Tissus)"
+}, {
+   "adresseCours" : {
       "codePostal" : "2309",
       "localite" : "Luxembourg",
       "nom" : "Lycée Technique du Centre",
@@ -62730,74 +62575,6 @@
    "renseignements" : "Le cours donnera un aperçu global sur le lexique, la grammaire et l'héritage culturel de la Bosnie et des pays de la région avoisinante CR, S, M. \r\nDes renseignements compl. peuvent être obtenus: info@esf.lu / en cas d'urgence, au GSM: 621 288 749"
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2563",
-      "localite" : "Luxembourg",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://www.luxchine.org/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-ZH-35",
-   "coursId" : "LA-ZH-35",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "09/01/2026",
-   "dateFin" : "20/03/2026",
-   "dateInscription" : "jusqu'au 15 décembre 2025",
-   "description" : "Le Classique des Poèmes (Shi Jing), la plus ancienne anthologie poétique chinoise qui reflète la vie, les rites et la pensé de la Chine ancienne.",
-   "duree" : "20h",
-   "enseignants" : [ {
-      "nom" : "Lin",
-      "prenom" : "Li-Chuan"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Vendredi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63365,
-   "intitule" : "Littérature chinoise - Méthode d'écriture traditionnelle",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "ZH",
-   "matiereNom" : "Chinois",
-   "nbInscrits" : 7,
-   "nbPlaces" : 15,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2563",
-         "localite" : "Luxembourg",
-         "nom" : "Association Culturelle Chinoise Lux.",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, rue Jean Schaack"
-      },
-      "code" : "ACCL",
-      "fax" : "/",
-      "mail" : "luxchine@pt.lu",
-      "nom" : "Association Culturelle Chinoise Lux.",
-      "nomContact" : "Wagener",
-      "onlineReg" : false,
-      "prenomContact" : "Marie-Paule",
-      "statut" : "ASBL",
-      "telephone" : "+352 236 208 59",
-      "websiteUrl" : "https://www.luxchine.org/"
-   },
-   "prerequis" : "Comprendre >100 sinogrammes.",
-   "renseignements" : "Accès pour personnes à mobilité réduite.\r\nAu coût d'inscription s'ajouteront les frais de participations (60 euros)."
-}, {
-   "adresseCours" : {
       "codePostal" : "2132",
       "localite" : "Luxembourg",
       "nom" : "Centre de Formation Lucien Huss a.s.b.l",
@@ -66459,183 +66236,6 @@
       "websiteUrl" : "https://www.casa-asbl.lu"
    },
    "renseignements" : "Le cours de Français est en présentiel. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "L-9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 Rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "L- 9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 Rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-949",
-   "coursId" : "LA-LB-949",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "05/01/2026",
-   "dateFin" : "20/03/2026",
-   "dateInscription" : "Tous les jours entre 9h et 12h",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut identifier les formules de politesse et de salutation\r\n", "Peut comprendre les chiffres, les prix et l'heure\r\n", "Peut comprendre des expressions et mots familiers\r\n", "Peut comprendre des questions, instructions ou indications\r\ncourtes et élémentaires.", "Peut manifester ma compréhension ou mon incompréhension\r\n", "Peut comprendre des consignes courtes et simples\r\n", "Peut comprendre l'appartenance ou la quantité\r\n", "Peut comprendre des informations ou des questions personnelles\r\nsimples", "Peut comprendre la description d'un objet ou d'une personne." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut épeler\r\n", "Peut comprendre des indications et messages courts et simples\r\n", "Peut comprendre des textes courts avec des mots familiers et\r\ncourants", "Peut comprendre et suivre des instructions, des indications\r\n", "Peut comprendre des textes simples avec des informations et des\r\ndescriptions courtes", "Peut comprendre des textes simples donnant des informations et\r\ndes descriptions sur l'identité, la présentation, la description,\r\nsur les évènements dans le temps, sur la localisation, la\r\nmétéo..." ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Peut se présenter\r\n", "Peut parler de mon environnement quotidien (donner mes\r\ncoordonnées, parler de ma famille, de mes loisirs.)", "Peut lire un texte à voix haute.\r\n", "Peut exprimer l'appartenance ou la quantité.\r\n", "Peut entrer en contact avec quelqu'un.\r\n", "Peut utiliser des expressions élémentaires de salutation et de\r\ncongé.", "Peut réagir à des messages et instructions simples.\r\n", "Peut poser et répondre à des questions personnelles.\r\n", "Peut répondre par l'affirmative ou par la négative.\r\n", "Peut présenter quelqu'un (identité, nom, âge, nationalité,\r\nprofession, lieu d'habitation.)", "Peut décrire un objet, une personne.", "Peut désigner quelque chose ou quelqu'un, dire le prix d'un", "Peut exprimer des besoins dans des situations quotidiennes.\r\n", "Peut se situer dans le temps (situer des événements dans le\r\ntemps, dire la date, l'heure...)", "Peut se situer dans l'espace ( situer un lieu, localiser une ville...)\r\n", "Peut demander un service, une information à quelqu'un\r\n(demander un prix, demander l'heure, un objet...)" ],
-      "domaine" : "Production Orale"
-   }, {
-      "competences" : [ "Peut remplir une fiche de renseignements personnels (une fiche\r\nd'identité, une fiche d'inscription, un formulaire simple...)", "Peut écrire un texte de présentation simple sur moi-même et sur\r\nles autres.", "Peut écrire des messages très simples à des amis (lettre ou email).\r\n", "Peut écrire des phrases simples au présent.\r\n", "Peut décrire le lieu ou j'habite (pièces de la maison, objets du\r\nquotidien)." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Albuquerque",
-      "prenom" : "Fabio"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:30 (durée 2h), Mercredi à 17:30 (durée 2h), Vendredi à 17:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 60900,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-957",
-   "coursId" : "LA-LB-957",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "05/01/2026",
-   "dateFin" : "20/03/2026",
-   "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées, en relation avec des domaines immédiats de priorité. Comprendre un échange qui porte sur l'expression d'une impression, d'un sentiment, d'un gout, d'un accord ou d'un désaccord, en termes simples. Suivre des directives et des instructions claires et précises.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut suivre des directives simples comme un itinéraire.", "Peut comprendre l'idée générale d'un texte.", "Peut comprendre des informations relatives à la famille, aux achats et à l'environnement.", "Peut comprendre des consignes simples." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut trouver des renseignements précis dans des documents simples.", "Peut comprendre différents types de lettres ou emails.", "Peut comprendre des faits d'écrits dans des articles simples.", "Peut comprendre des consignes rédigées simplement" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Peut saluer, se présenter, présenter quelqu'un, remercier.", "Peut poser des questions et y répondre.", "Peut utiliser des formules de politesse simples.", "Peut décrie des lieux, des objets, des activités quotidiennes, ses gouts, un évènement.", "Peut exprimer ses opinions, expliquer pourquoi pourquoi une chose plait ou déplait.", "Peut dire ce qu'il aime ou pas.", "Peut exprimer des projets.", "Peut obtenir ou fournir des biens et des services", "Peut commencer, poursuivre et terminer une brève conversation.", "Peut  demander de répéter en cas d'incompréhension." ],
-      "domaine" : "Production orale"
-   }, {
-      "competences" : [ "Peut écrire des messages simples et courts pour entrer en contact ou exprimer des remerciements.", "Peut écrire des phrases simples au présent, au passé et au futur.", "Peut décrire des activités quotidiennes.", "Peut faire la description d'un évènement, d'activités passées, d'expériences personnelles." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Albuquerque",
-      "prenom" : "Fabio"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 19:30 (durée 2h), Mercredi à 19:30 (durée 2h), Vendredi à 19:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 60947,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
