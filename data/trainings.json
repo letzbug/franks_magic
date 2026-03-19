@@ -21796,6 +21796,60 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "2160",
+      "localite" : "Grund Luxembourg",
+      "nom" : "Centre culturel de Rencontre Abbaye de Neumünster",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "28 Rue Münster "
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coOrganisateurs" : [ "Zentrum fir politesch Bildung", "Institut Pierre Werner", "Centre National de l’Audiovisuel" ],
+   "coursCode" : "SCI-SCP-1",
+   "coursId" : "SCI-SCP-1",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "05/05/2026",
+   "dateFin" : "05/05/2026",
+   "description" : "Europa im Film – Wie Kino unsere Sicht auf einen ganzen Kontinent prägt\r\nFilme und Serien erzählen Geschichten – und vermitteln dabei oft politische Botschaften und Werte. Doch welches Bild entsteht dabei von Europa und der EU?\r\nDiese Filmreihe lädt dazu ein, Europas Identität durch die Linse des Kinos neu zu entdecken.\r\nWas erwartet die Teilnehmenden?\r\n•\tEinblicke, wie europäische Filme kulturelle Vielfalt, Sprachen und historische Erfahrungen darstellen\r\n•\tSpannende Beispiele, wie Mythen, Antike und das gemeinsame Erbe Europas filmisch weiterleben\r\n•\tPerspektiven auf Kolonialgeschichte, Migration sowie Demokratie und Rechtsstaatlichkeit im Film\r\n•\tDer Blick von außen: Wie zeigen internationale Produktionen Europa?\r\n•\tDiskussionen darüber, wie Frieden und Versöhnung nach den Weltkriegen im Kino sichtbar werden\r\nDabei betrachten wir Klassiker und moderne Produktionen, die zeigen, wie sich Europa selbst erzählt – und wie es von der Welt gesehen wird.\r\n¿ Jetzt anmelden und Europa im Kino neu entdecken!",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 05-05-2026 à 19:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66159,
+   "intitule" : "Democracy Dies in Darkness - Demokratische Institutionen in Europa in Film und Serien",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "SCP",
+   "matiereNom" : "Sciences politiques",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4575",
       "localite" : "Differdange",
       "nom" : "Salle de cours",
@@ -22236,6 +22290,64 @@
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "2613",
+      "localite" : "Ville-Haute Luxembourg",
+      "nom" : "Théatre des Capucins",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "9 Place du Théâtre"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coOrganisateurs" : [ "Zentrum fir politesch Bildung", "Institut Pierre Werner", "Centre National de l’Audiovisuel" ],
+   "coursCode" : "SCI-SCP-2",
+   "coursId" : "SCI-SCP-2",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "08/05/2026",
+   "dateFin" : "08/05/2026",
+   "description" : "Im Vorfeld des Europatages 2026 organisieren das Zentrum fir politesch Bildung, das Institut Pierre Werner und das Centre National de l’Audiovisuel eine Filmvorführung mit Einführung. Gezeigt wird „L’Auberge espagnole – Barcelona für ein Jahr“ von Cédric Klapisch, ein Kultfilm der frühen 2000er-Jahre. Im Kontext des erweiterten Europas erzählt er vom Leben junger Menschen aus verschiedenen EU-Staaten im Erasmus-Programm in Barcelona. Mit Humor und Leichtigkeit zeigt der Film nicht politische Institutionen, sondern die Wirkung europäischer Mobilität auf Identität, Zusammenleben und Zugehörigkeit und vermittelt ein Gefühl von Vielfalt und europäischem Miteinander.\r\n\r\nDie Teilnehmenden lernen Filmbeispiele kennen, die Intoleranz und Nationalismus ebenso thematisieren wie Völkerverständigung, kulturellen Austausch und Europa als Friedensprojekt. Sie entwickeln die Fähigkeit, den „europäischen Geist“ zu reflektieren und Filme formal sowie inhaltlich zu analysieren. Zudem setzen sie sich mit Medienkompetenz, Demokratiebildung und europäischer Einigung auseinander.\r\n\r\nDas Programm umfasst eine 30-minütige Einführung, die den Film historisch einordnet und weitere Beispiele aufgreift, die Filmvorführung (122 Min.) sowie einen anschließenden Austausch. Methodisch basiert die Veranstaltung auf Vortrag (Deutsch), Film (Original mit Untertiteln) und kollegialem Austausch.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 08-05-2026 à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66160,
+   "intitule" : "Eine WG für Europa – \"L’Auberge espagnole\" (2002) revisited",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "SCP",
+   "matiereNom" : "Sciences politiques",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNjA%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
