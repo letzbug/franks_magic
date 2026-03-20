@@ -15941,6 +15941,61 @@
    "renseignements" : "La visite guidée durera 2 heures. Le responsable de la visite parle également luxembourgeois.\r\nVeuillez utiliser les transports publics (gare de Belval) ou les parkings publics à Esch/Belval."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-MAND-3",
+   "coursId" : "AR-MAND-3",
+   "coursType" : "CLASSIQUE",
+   "cout" : 45.0,
+   "dateDebut" : "16/04/2026",
+   "dateFin" : "21/05/2026",
+   "description" : "Et si le Mandala devenait bien plus qu’un dessin ?\r\nCe cycle de 5 séances vous invite à ralentir, à respirer… et à entrer dans une pratique à la fois créative et profondément apaisante. Destiné aux personnes ayant déjà exploré les bases du Mandala, ce cours vous propose d’aller plus loin, autant dans le geste que dans l’expérience intérieure.\r\nAu fil des séances, vous découvrirez de nouvelles techniques (ombrages, effets de relief, dotting) tout en développant une approche plus consciente et intuitive de la création. Le souffle, le rythme et la répétition deviennent alors des portes d’entrée vers un état méditatif.\r\nPeu à peu, le mandala se transforme en un véritable outil de reconnexion à soi :\r\nun espace pour se déposer, s’exprimer, et se découvrir autrement.\r\n Un temps pour créer\r\n Un temps pour ressentir\r\n Un temps pour se retrouver\r\nAucune compétence artistique particulière n’est requise, seulement l’envie d’explorer en douceur et en profondeur.",
+   "duree" : "10 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:50 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66175,
+   "intitule" : "Se reconnecter à soi à travers l'Art du Mandala - dessin de Mandala et méditation",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "MAND",
+   "matiereNom" : "Mandalas",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNzU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "À noter : le cours n’aura pas lieu le 14 mai 2026 en raison du jour férié.",
+   "renseignements" : "Matériel requis: Un compas; Une équerre Aristo; Crayons ordinaire & crayons de couleur; Feuille de dessin A4 et/ou A5; Règle ;Mandala Dotting-tools; Gouache -Lot de stylos pointe fine 0.2/0.3/0.4/0.5...\r\n"
+}, {
+   "adresseCours" : {
       "codePostal" : "1254",
       "localite" : "Hollerich",
       "nom" : "Blumm Geesseknäppchen",
@@ -29990,10 +30045,25 @@
    "dateFin" : "05/06/2026",
    "description" : "Explore creative writing in English through your own life stories. The course begins with short, inspiring writing exercises and gradually moves toward writing about meaningful moments from your life. In a friendly atmosphere, you may also choose to share your texts with fellow participants.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Rufolo",
+      "prenom" : "Dana"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 03-06-2026 à 18:00 (durée 1h40), Jeudi 04-06-2026 à 18:00 (durée 1h40), Vendredi 05-06-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66044,
    "intitule" : "Writing Your Life, part one",
    "langueCoursCode" : "EN",
