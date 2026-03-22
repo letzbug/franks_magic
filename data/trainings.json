@@ -1,298 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-40",
-   "coursId" : "BP-FR-40",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "23/03/2026",
-   "dateFin" : "27/03/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Chaib Draa",
-      "prenom" : "Khadidja"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi 23-03-2026 à 12:00 (durée 2h),\nMercredi 25-03-2026 à 12:00 (durée 2h),\nVendredi 27-03-2026 à 12:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 58138,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 15,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxMzg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "2309",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Technique du Centre",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "106, avenue Pasteur"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2563",
-      "localite" : "Luxembourg",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://www.luxchine.org/"
-   },
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-19",
-   "coursId" : "SO-MED-19",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "23/03/2026",
-   "dateFin" : "08/06/2026",
-   "dateInscription" : "jusqu'au 12 février 2026",
-   "description" : "Préparation à la méditation, aux sept points de la posture assise correcte, des huit formes de la méditation en mouvement et des méthodes essentielles de méditation dans le but d'harmoniser le corps, l'esprit et la respiration. Enseignement de la relaxation, de la méditation debout, de la méditation assise, de la méditation en mouvement et de la méditation en mangeant.",
-   "duree" : "16h",
-   "enseignants" : [ {
-      "nom" : "Lin",
-      "prenom" : "Li-Chuan"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 63603,
-   "intitule" : "Méditation Chan",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 4,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2563",
-         "localite" : "Luxembourg",
-         "nom" : "Association Culturelle Chinoise Lux.",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, rue Jean Schaack"
-      },
-      "code" : "ACCL",
-      "fax" : "/",
-      "mail" : "luxchine@pt.lu",
-      "nom" : "Association Culturelle Chinoise Lux.",
-      "nomContact" : "Wagener",
-      "onlineReg" : false,
-      "prenomContact" : "Marie-Paule",
-      "statut" : "ASBL",
-      "telephone" : "+352 236 208 59",
-      "websiteUrl" : "https://www.luxchine.org/"
-   },
-   "renseignements" : "Accès pour personnes à mobilité réduite.Au coût d'inscription s'ajouteront les frais de participation (28 euros)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-98",
-   "coursId" : "IN-TAB-98",
-   "coursType" : "CLASSIQUE",
-   "cout" : 30.0,
-   "dateDebut" : "23/03/2026",
-   "dateFin" : "04/05/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "Excel Modul 1 Einführung:\r\n- Das Programm Microsoft Excel entdecken, Arbeitsoberfläche, Menüleiste, Symbolleiste kennen lernen.\r\n- Basis Umgang mit Excel (Zahlen und Texte in Zellen eingeben, markieren, versetzen usw.).\r\n- Tabellen erstellen, Zellen formatieren, Seiten einrichten und ausdrucken.\r\n- Einfache Rechnungen, Rechnen mit Formeln.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Savoir créer des tableaux. Présentation de l'interface, barres d'outils, barres des menus Étudier les fonctions principales: Saisie de données, enregistrer, enregistrer sous, copier, coller, effacer, imprimer. ", "Être capable d'effectuer la mise en forme et mise en page d'un tableau. Formatage des cases. Mise en page.", " Bien sauvegarder un tableau. Ouvrir un tableau créé auparavant et effectuer des modifications.", " Savoir faire des calculs simples. Calculs avec des formules." ],
-      "domaine" : "Tableurs"
-   } ],
-   "duree" : "10h",
-   "enseignants" : [ {
-      "nom" : "Toth",
-      "prenom" : "Laszlo",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 14:00 (durée 1h45)",
-   "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "14:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 61782,
-   "intitule" : "Excel Modul 1-6",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Informatik (Computer) Grundkenntnisse sind erforderlich  -  Connaissances de base en informatique (ordinateur) nécessaires",
-   "renseignements" : "Inscrivez-vous avant le 20-03-2026"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4802",
-      "localite" : "Lamadelaine",
-      "nom" : "Lycée Mathias Adam",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Avenue de l'Europe"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4802",
-      "localite" : "Lamadelaine",
-      "nom" : "Lycée Mathias Adam",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Avenue de l'Europe"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-BOI-38",
-   "coursId" : "AR-BOI-38",
-   "coursType" : "CLASSIQUE",
-   "cout" : 162.0,
-   "dateDebut" : "23/03/2026",
-   "dateFin" : "03/07/2026",
-   "dateInscription" : "par mail: couso@lyma.lu\r\nUne fiche d'inscription est disponible sur notre site: www.lyma.lu",
-   "description" : "Les différentes techniques de base de travail du bois:\r\nLes outils\r\nInitiation artisanale concernant les différentes techniques de façonnage et d'assemblage",
-   "duree" : "36h",
-   "enseignants" : [ {
-      "nom" : "Braun",
-      "prenom" : "Romain"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 60049,
-   "intitule" : "Menuiserie",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "BOI",
-   "matiereNom" : "Bois",
-   "nbInscrits" : 14,
-   "nbPlaces" : 15,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjAwNDk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4802",
-         "localite" : "Lamadelaine",
-         "nom" : "Lycée Technique Mathias Adam",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Avenue de l'Europe"
-      },
-      "code" : "LTMA",
-      "fax" : "+352 23 65 18 50",
-      "mail" : "alain.gerson@ltma.lu",
-      "nom" : "Lycée Technique Mathias Adam",
-      "nomContact" : "Gerson",
-      "onlineReg" : true,
-      "prenomContact" : "Alain",
-      "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
-      "websiteUrl" : "https://www.lyma.lu/"
-   },
-   "renseignements" : "Au coût d'inscription s'ajouteront les frais de participation (environ 90 EUR).\r\n"
-}, {
-   "adresseCours" : {
       "codePostal" : "4702",
       "localite" : "Pétange",
       "nom" : "CIGL - Pétange",
@@ -45035,6 +44742,154 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TAB-98",
+   "coursId" : "IN-TAB-98",
+   "coursType" : "CLASSIQUE",
+   "cout" : 30.0,
+   "dateDebut" : "23/03/2026",
+   "dateFin" : "04/05/2026",
+   "dateInscription" : "Lundi à vendredi 9h à 18h",
+   "description" : "Excel Modul 1 Einführung:\r\n- Das Programm Microsoft Excel entdecken, Arbeitsoberfläche, Menüleiste, Symbolleiste kennen lernen.\r\n- Basis Umgang mit Excel (Zahlen und Texte in Zellen eingeben, markieren, versetzen usw.).\r\n- Tabellen erstellen, Zellen formatieren, Seiten einrichten und ausdrucken.\r\n- Einfache Rechnungen, Rechnen mit Formeln.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Savoir créer des tableaux. Présentation de l'interface, barres d'outils, barres des menus Étudier les fonctions principales: Saisie de données, enregistrer, enregistrer sous, copier, coller, effacer, imprimer. ", "Être capable d'effectuer la mise en forme et mise en page d'un tableau. Formatage des cases. Mise en page.", " Bien sauvegarder un tableau. Ouvrir un tableau créé auparavant et effectuer des modifications.", " Savoir faire des calculs simples. Calculs avec des formules." ],
+      "domaine" : "Tableurs"
+   } ],
+   "duree" : "10h",
+   "enseignants" : [ {
+      "nom" : "Toth",
+      "prenom" : "Laszlo",
+      "site" : "http://www.cigpetange.lu"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 14:00 (durée 1h45)",
+   "horaires" : [ {
+      "duree" : "1h45",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 61782,
+   "intitule" : "Excel Modul 1-6",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "TAB",
+   "matiereNom" : "Tableurs",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4702",
+         "localite" : "Pétange",
+         "nom" : "CIGL - Pétange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "4, rue Pierre Grégoire"
+      },
+      "code" : "CIGL - P",
+      "fax" : "+352 23 65 20 03",
+      "mail" : "info@cyberhall.lu",
+      "nom" : "CIGL - Pétange",
+      "nomContact" : "Toth",
+      "onlineReg" : false,
+      "prenomContact" : "Laszlo",
+      "statut" : "ASBL",
+      "telephone" : "+352 23 65 17 33 33",
+      "websiteUrl" : "http://www.cigpetange.lu"
+   },
+   "prerequis" : "Informatik (Computer) Grundkenntnisse sind erforderlich  -  Connaissances de base en informatique (ordinateur) nécessaires",
+   "renseignements" : "Inscrivez-vous avant le 20-03-2026"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2309",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée Technique du Centre",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "106, avenue Pasteur"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2563",
+      "localite" : "Luxembourg",
+      "nom" : "En ligne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "https://www.luxchine.org/"
+   },
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-MED-19",
+   "coursId" : "SO-MED-19",
+   "coursType" : "CLASSIQUE",
+   "cout" : 72.0,
+   "dateDebut" : "23/03/2026",
+   "dateFin" : "08/06/2026",
+   "dateInscription" : "jusqu'au 12 février 2026",
+   "description" : "Préparation à la méditation, aux sept points de la posture assise correcte, des huit formes de la méditation en mouvement et des méthodes essentielles de méditation dans le but d'harmoniser le corps, l'esprit et la respiration. Enseignement de la relaxation, de la méditation debout, de la méditation assise, de la méditation en mouvement et de la méditation en mangeant.",
+   "duree" : "16h",
+   "enseignants" : [ {
+      "nom" : "Lin",
+      "prenom" : "Li-Chuan"
+   } ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 18:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 63603,
+   "intitule" : "Méditation Chan",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "MED",
+   "matiereNom" : "Méditation",
+   "nbInscrits" : 4,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2563",
+         "localite" : "Luxembourg",
+         "nom" : "Association Culturelle Chinoise Lux.",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, rue Jean Schaack"
+      },
+      "code" : "ACCL",
+      "fax" : "/",
+      "mail" : "luxchine@pt.lu",
+      "nom" : "Association Culturelle Chinoise Lux.",
+      "nomContact" : "Wagener",
+      "onlineReg" : false,
+      "prenomContact" : "Marie-Paule",
+      "statut" : "ASBL",
+      "telephone" : "+352 236 208 59",
+      "websiteUrl" : "https://www.luxchine.org/"
+   },
+   "renseignements" : "Accès pour personnes à mobilité réduite.Au coût d'inscription s'ajouteront les frais de participation (28 euros)."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -45705,71 +45560,6 @@
       "statut" : "ASBL",
       "telephone" : "+352 691 500 047"
    }
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCM",
-   "categorieCodeUnipop" : "SCM",
-   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
-   "coursCode" : "SCM-GEM-14",
-   "coursId" : "SCM-GEM-14",
-   "coursType" : "CLASSIQUE",
-   "cout" : 36.0,
-   "dateDebut" : "16/03/2026",
-   "dateFin" : "23/03/2026",
-   "description" : "L’univers des perles, de la nacre et des coquillages. Connaître les différents types de perles (perles fines, de culture, de Majorque, etc...) Découvrir leur formation et fabrication. Savoir les distinguer et les utiliser en bijouterie. Les camés de coquillage et les bijoux en nacre. Savoir entretenir les colliers de perles, connaître la technique de l’enfilage.",
-   "duree" : "8 leçons",
-   "enseignants" : [ {
-      "nom" : "Rollet",
-      "prenom" : "Suzanne"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi 23-03-2026 à 17:10 (durée 3h20) et 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Lundi"
-   } ],
-   "id" : 64029,
-   "intitule" : "Plongez dans le monde des perles et de la nacre",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "GEM",
-   "matiereNom" : "Gemmologie",
-   "nbInscrits" : 7,
-   "nbPlaces" : 8,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMjk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice prendra en charge l’ensemble du matériel requis pour la session et sera remboursée par chaque participant à hauteur de 10 euros."
 }, {
    "adresseCours" : {
       "codePostal" : "2132",
@@ -61761,158 +61551,6 @@
    "prerequis" : "niveau B2.1 requis"
 }, {
    "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1264",
-   "coursId" : "LA-FR-1264",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "12/01/2026",
-   "dateFin" : "23/03/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut communiquer lors de tâches simples et habituelles sur des sujets familiers. \r\nPeut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Faire connaissance/ interagir lors d'une rencontre (se présenter, parler de soi et d'autrui, parler de son parcours, de sa famille et de son environnement immédiat). ", "Assimiler et comprendre les attitudes métalangagières et langagières propres à la langue enseignée (saluer, prise de congé, acquiescer, désigner, compter et autres gestuels)", "Apporter et comprendre des précisions dans ce qu'on dit au moyen d'une description étoffée, dans une langue qui respecte les structures grammaticales appropriées, le contexte et le registre de langue. (description d'une personne, un lieu, un objet, un fait, un concept et tous les procédés intervenant dans une description). \r\n", "Comprendre et dire le goût, le ressenti, les sentiments\r\n", "Comprendre et donner des instructions (Expliquer un mode de fonctionnement, jeu, recette, trajet, une fabrication d'un objet)\r\n", "Comprendre et raconter brièvement une expérience, une histoire, un film\r\n", "Demander quelque chose, de faire quelque chose, remercier et s'excuser. \r\n", "Comprendre, demander, et  donner des informations\r\n", "Comprendre les événements passés et en parler\r\n", "Comprendre un projet et en parler\r\n", "Formuler et justifier son point de vue\r\n", "Discuter autour d'un thème de médias (comprendre des informations radiophoniques-télévisées-réagir à l'aide de petits commentaires-donner son avis)", "Exprimer son accord/désaccord-son opinion", "S'exprimer à l'oral dans un vocabulaire approprié et précis dans des situations diverses (familiales, professionnelles, administrative, dans des situations d'achat, de réservation, de demande d'information). " ],
-      "domaine" : "compréhension orale et interaction orale"
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Blayo-Kedra",
-      "prenom" : "Elisabeth"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 14:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 63679,
-   "intitule" : "Atelier de conversation",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 14,
-   "nbPlaces" : 20,
-   "niveau" : "B1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Tout le niveau A2 acquis",
-   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1263",
-   "coursId" : "LA-FR-1263",
-   "coursType" : "CLASSIQUE",
-   "cout" : 60.0,
-   "dateDebut" : "12/01/2026",
-   "dateFin" : "23/03/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Se procurer toute information nécessaire pour la vie courante, exposer ses opinions et les défendre, mettre en valeur la signification\r\npersonnelle de faits et d'epérience",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des documents radiodiffusés en langue standard traitant de la vie quotidienne : interviews, discussions, vidéo", "Comprendre des situations peu prévisibles dans leurs contenus : sujets concrets ou abstraits, discussions, interviews", "Comprendre des informations télévisées" ],
-      "domaine" : "COMPRENDRE"
-   }, {
-      "competences" : [ "Apporter et préciser son discours dans une langue qui respecte les structures grammaticales appropriées, le contexte et le registre de langue. (description d'une personne, un lieu, un objet, un fait, un concept )" ],
-      "domaine" : "PARLER"
-   }, {
-      "competences" : [ "Faire connaissance/ interagir lors d'une rencontre (se présenter, parler de soi et d'autrui, parler de son parcours, de sa famille et de son environnement immédiat", "Participer aux conversations informelles et échanger des points de vue", "Souligner ce qui est important dans un événement ou une expérience", "Transmettre différents degrés d'émotions", "Emettre des avis et des explications et des arguments et réagir à des opinions", "Discuter autour d'un thème de médias" ],
-      "domaine" : "INTERAGIR"
-   } ],
-   "duree" : "20h",
-   "enseignants" : [ {
-      "nom" : "Swartenbroekx",
-      "prenom" : "Anne"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 63678,
-   "intitule" : "Atelier de conversation",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 12,
-   "nbPlaces" : 22,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Tout le niveau B1 acquis",
-   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
-}, {
-   "adresseCours" : {
       "codePostal" : "1921",
       "localite" : "Luxembourg",
       "nom" : "Lycée de Garçons",
@@ -69636,68 +69274,6 @@
       "websiteUrl" : "https://www.lcd.lu/"
    },
    "renseignements" : "Word : mailings et mise en page\r\nExcel : listes et budget domestique\r\nPowerpoint : comment présenter"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119 rue du cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-66",
-   "coursId" : "AR-COUT-66",
-   "coursType" : "CLASSIQUE",
-   "cout" : 243.0,
-   "dateDebut" : "29/09/2025",
-   "dateFin" : "23/03/2026",
-   "description" : "On apprend : - points de base pour coudre à la main, - coudre à la machine, - construire (d’après les mensurations), couper et confectionner une jupe et un corsage, - modifier un patron de base vers un modèle de fantaisie, - compositions et propriétés des étoffes.",
-   "duree" : "54 leçons",
-   "enseignants" : [ {
-      "nom" : "Labuz",
-      "prenom" : "Magdalena"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Lundi"
-   } ],
-   "id" : 61603,
-   "intitule" : "Cours de couture - Débutants",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 12,
-   "nbPlaces" : 13,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE2MDM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "À apporter : aiguilles, épingles, fils à coudre, ciseaux adaptés aux tissus."
 }, {
    "adresseCours" : {
       "codePostal" : "6122",
