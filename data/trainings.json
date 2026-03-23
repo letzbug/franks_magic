@@ -18,207 +18,6 @@
    "categorieCode" : "IN",
    "categorieCodeUnipop" : "TIC",
    "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-99",
-   "coursId" : "IN-TAB-99",
-   "coursType" : "CLASSIQUE",
-   "cout" : 45.0,
-   "dateDebut" : "24/03/2026",
-   "dateFin" : "05/05/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "Excel Modul 2 Fortgeschritten:\r\n- Rechnen mit Formeln, Funktionen kennen lernen, Funktionen kombinieren für Aufgabenlösung in die Praxis.\r\n- Spalten und Zellen Koordinaten, warum sie so wichtig sind.  \r\n- Filter verwenden. \r\n- Grafik-Diagramm erstellen mit Hilfe von Tabellenfeldern.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Calculer avec des formules avancées et combinées. Calculs avec des formules: Si, recherche verticale.", "Création des graphiques.", "Gérer plusieurs feuilles Excel. Calculs avec des cases bloquées.", "Formatage conditionnel. Figer les volets." ],
-      "domaine" : "Tableurs"
-   } ],
-   "duree" : "10h",
-   "enseignants" : [ {
-      "nom" : "Toth",
-      "prenom" : "Laszlo",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 16:00 (durée 1h45)",
-   "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "16:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 61783,
-   "intitule" : "Excel Modul 2-6",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Minimal Anforderung: Absolvierten  Excel Formation Modul 1  -  Exigence minimale : avoir suivi le module Excel Formation 1\r\n",
-   "renseignements" : "Inscrivez-vous avant le 20-03-2026"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DESS-43",
-   "coursId" : "AR-DESS-43",
-   "coursType" : "CLASSIQUE",
-   "cout" : 175.5,
-   "dateDebut" : "24/03/2026",
-   "dateFin" : "14/07/2026",
-   "description" : "This course offers a hands-on introduction to drawing through the use of different tools and materials: pencil, watercolor, gouache, and oil pastel.\r\nYou’ll learn how to observe, simplify, and represent the world around you — one shape, line, and color at a time. Each session will focus on a different theme, such as landscapes, characters, botanicals, or buildings, using observation and visual references as a starting point.\r\nWe’ll draw both indoors and outdoors (weather permitting), to vary perspectives and experiment with different ways of looking.\r\nThe course is designed for beginners, but also welcomes those who draw occasionally and want to strengthen their foundations.\r\nNo prior training is needed — just curiosity and the desire to explore.",
-   "duree" : "39 leçons",
-   "enseignants" : [ {
-      "nom" : "Morel",
-      "prenom" : "Juliane"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 63951,
-   "intitule" : "Getting Started with Drawing : Simple Techniques, One Step at a Time",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DESS",
-   "matiereNom" : "Dessin",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Kindly note that classes will not take place during school holidays in Luxembourg.",
-   "renseignements" : "To bring: at least 2 graphite pencils (HB, 2B), black fine-liner pens (water-resistant if possible), small watercolor set, brushes of various sizes, papers (watercolor, drawing, draft), water container, cloth or paper towel."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DESS-42",
-   "coursId" : "AR-DESS-42",
-   "coursType" : "CLASSIQUE",
-   "cout" : 117.0,
-   "dateDebut" : "24/03/2026",
-   "dateFin" : "14/07/2026",
-   "description" : "This continuation course deepens the foundations built in Getting Started with Drawing, with a stronger focus on drawing and watercolor. Through guided practice, you’ll refine your observation skills, strengthen your sense of composition, and explore more confident ways of combining line and color.\r\nWe’ll work on quick sketches, value studies, watercolor layering, water control, and texture techniques, while learning to build expressive images from both direct observation and personal interpretation. Themes will vary — urban scenes, botanicals, objects, and landscapes — and sessions will alternate between indoor studio time and outdoor sketching when possible.",
-   "duree" : "26 leçons",
-   "enseignants" : [ {
-      "nom" : "Morel",
-      "prenom" : "Juliane"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 12:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 63950,
-   "intitule" : "Beyond the Basics : Drawing & Watercolor Exploration",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DESS",
-   "matiereNom" : "Dessin",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "This course is designed for students who have completed the introductory module \" Getting Started with Drawing\" or who already draw occasionally and want to grow their technique, confidence, and creative voice.",
-   "renseignements" : "Kindly note that classes do not take place during Luxembourg school holidays."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
    "coursCode" : "IN-TRT-120",
    "coursId" : "IN-TRT-120",
    "coursType" : "CLASSIQUE",
@@ -44746,6 +44545,207 @@
    "categorieCode" : "IN",
    "categorieCodeUnipop" : "TIC",
    "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TAB-99",
+   "coursId" : "IN-TAB-99",
+   "coursType" : "CLASSIQUE",
+   "cout" : 45.0,
+   "dateDebut" : "24/03/2026",
+   "dateFin" : "05/05/2026",
+   "dateInscription" : "Lundi à vendredi 9h à 18h",
+   "description" : "Excel Modul 2 Fortgeschritten:\r\n- Rechnen mit Formeln, Funktionen kennen lernen, Funktionen kombinieren für Aufgabenlösung in die Praxis.\r\n- Spalten und Zellen Koordinaten, warum sie so wichtig sind.  \r\n- Filter verwenden. \r\n- Grafik-Diagramm erstellen mit Hilfe von Tabellenfeldern.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Calculer avec des formules avancées et combinées. Calculs avec des formules: Si, recherche verticale.", "Création des graphiques.", "Gérer plusieurs feuilles Excel. Calculs avec des cases bloquées.", "Formatage conditionnel. Figer les volets." ],
+      "domaine" : "Tableurs"
+   } ],
+   "duree" : "10h",
+   "enseignants" : [ {
+      "nom" : "Toth",
+      "prenom" : "Laszlo",
+      "site" : "http://www.cigpetange.lu"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 16:00 (durée 1h45)",
+   "horaires" : [ {
+      "duree" : "1h45",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 61783,
+   "intitule" : "Excel Modul 2-6",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "TAB",
+   "matiereNom" : "Tableurs",
+   "nbInscrits" : 3,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4702",
+         "localite" : "Pétange",
+         "nom" : "CIGL - Pétange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "4, rue Pierre Grégoire"
+      },
+      "code" : "CIGL - P",
+      "fax" : "+352 23 65 20 03",
+      "mail" : "info@cyberhall.lu",
+      "nom" : "CIGL - Pétange",
+      "nomContact" : "Toth",
+      "onlineReg" : false,
+      "prenomContact" : "Laszlo",
+      "statut" : "ASBL",
+      "telephone" : "+352 23 65 17 33 33",
+      "websiteUrl" : "http://www.cigpetange.lu"
+   },
+   "prerequis" : "Minimal Anforderung: Absolvierten  Excel Formation Modul 1  -  Exigence minimale : avoir suivi le module Excel Formation 1\r\n",
+   "renseignements" : "Inscrivez-vous avant le 20-03-2026"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-43",
+   "coursId" : "AR-DESS-43",
+   "coursType" : "CLASSIQUE",
+   "cout" : 175.5,
+   "dateDebut" : "24/03/2026",
+   "dateFin" : "14/07/2026",
+   "description" : "This course offers a hands-on introduction to drawing through the use of different tools and materials: pencil, watercolor, gouache, and oil pastel.\r\nYou’ll learn how to observe, simplify, and represent the world around you — one shape, line, and color at a time. Each session will focus on a different theme, such as landscapes, characters, botanicals, or buildings, using observation and visual references as a starting point.\r\nWe’ll draw both indoors and outdoors (weather permitting), to vary perspectives and experiment with different ways of looking.\r\nThe course is designed for beginners, but also welcomes those who draw occasionally and want to strengthen their foundations.\r\nNo prior training is needed — just curiosity and the desire to explore.",
+   "duree" : "39 leçons",
+   "enseignants" : [ {
+      "nom" : "Morel",
+      "prenom" : "Juliane"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 63951,
+   "intitule" : "Getting Started with Drawing : Simple Techniques, One Step at a Time",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 6,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Kindly note that classes will not take place during school holidays in Luxembourg.",
+   "renseignements" : "To bring: at least 2 graphite pencils (HB, 2B), black fine-liner pens (water-resistant if possible), small watercolor set, brushes of various sizes, papers (watercolor, drawing, draft), water container, cloth or paper towel."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-42",
+   "coursId" : "AR-DESS-42",
+   "coursType" : "CLASSIQUE",
+   "cout" : 117.0,
+   "dateDebut" : "24/03/2026",
+   "dateFin" : "14/07/2026",
+   "description" : "This continuation course deepens the foundations built in Getting Started with Drawing, with a stronger focus on drawing and watercolor. Through guided practice, you’ll refine your observation skills, strengthen your sense of composition, and explore more confident ways of combining line and color.\r\nWe’ll work on quick sketches, value studies, watercolor layering, water control, and texture techniques, while learning to build expressive images from both direct observation and personal interpretation. Themes will vary — urban scenes, botanicals, objects, and landscapes — and sessions will alternate between indoor studio time and outdoor sketching when possible.",
+   "duree" : "26 leçons",
+   "enseignants" : [ {
+      "nom" : "Morel",
+      "prenom" : "Juliane"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 12:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 63950,
+   "intitule" : "Beyond the Basics : Drawing & Watercolor Exploration",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 3,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "This course is designed for students who have completed the introductory module \" Getting Started with Drawing\" or who already draw occasionally and want to grow their technique, confidence, and creative voice.",
+   "renseignements" : "Kindly note that classes do not take place during Luxembourg school holidays."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
    "coursCode" : "IN-TAB-98",
    "coursId" : "IN-TAB-98",
    "coursType" : "CLASSIQUE",
@@ -51581,68 +51581,6 @@
    },
    "prerequis" : "Luxembourgeois A1.1 ",
    "renseignements" : "Courriel : education_adultes@ltett.lu · Téléphone : 819 201 307 (Mme Valina Liégeois) "
-}, {
-   "adresseCours" : {
-      "codePostal" : "9085",
-      "localite" : "Ettelbruck",
-      "nom" : "CNFPC-Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "77 Rue Jean Pierre Thill"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-83",
-   "coursId" : "AR-COUT-83",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "24/02/2026",
-   "dateFin" : "24/03/2026",
-   "description" : "Ihr Projekt Nähen:\r\nalltägliche Näharbeiten und kleine Umänderungen oder einen Rock nähen ( z.B. wie nähe ich einen Knopf richtig an, wie ersetze ich einen Reißverschluss richtig, wie säume ich ein Kleidungsstück… ) \r\n• Schnittmuster richtig lesen und Anpassung an die eigenen Masse\r\n• Zuschnitt eines individuellen Kleides mit den Verarbeitungen\r\n• Verarbeitungstechniken\r\n• Gestaltung von Accessoires (z.Bsp. Anhänger, Broschen,Tücher, Schals, Stofftiere etc)\r\n• Neugestaltung, Aufwertung alter Lieblingsbekleidung",
-   "duree" : "20 leçons",
-   "enseignants" : [ {
-      "nom" : "Siebenaler",
-      "prenom" : "Nathalie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:00 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 63942,
-   "intitule" : "Nähen macht glücklich 2SEM",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 6,
-   "nbPlaces" : 6,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NDI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Bitte beachten Sie, dass während der Schulferien in Luxemburg kein Kurs stattfindet.",
-   "renseignements" : "Material: Nähmaschine mit Zubehör, Ersatznadeln 70–90, passende Spulen, Stecknadeln/Clips, Stoff- und Papierschere, Maßband, Schneiderkreide/Marker, Nahttrenner, Handnadeln, Lineal und garnpassend zum Stoff."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -60166,105 +60104,6 @@
    "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
-      "codePostal" : "1921",
-      "localite" : "Luxembourg",
-      "nom" : "lycée de garçons",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place Auguste Laurent"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie-Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1284",
-   "coursId" : "LA-FR-1284",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "19/01/2026",
-   "dateFin" : "24/03/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. Peut communiquer lors de tâches simples et habituelles sur des sujets familiers. Peut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des énoncés très simples qui visent à satisfaire des besoins immédiats de la vie de tous  les jours \r\n", "comprendre  des informations relatives à la famille,  aux achats,  à l'environnement proche, au travail  \r\n", "comprendre  et suivre des directives et instructions simples : ex l'itinéraire (aller d'un point à l'autre à pied ou par les transports en commun) ", "généralement comprendre le sujet d'une discussion claire, simple et lente  " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "comprendre les signes,  panneaux et affiches courants dans les lieux publics (rues, restaurants, gares, sur le lieu de travail )\r\n", "reconnaître différents types de  documents   \r\n", "comprendre l'information  de brochures publicitaires et trouver  des   informations précises dans des documents quotidiens comme publicités, brochures,  menus  \r\n", "comprendre  une lettre personnelle simple et courte au présent \r\n" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "se présenter, présenter quelqu'un  \r\n", "décrire ses goûts   \r\n", "décrire son environnement, des lieux, des conditions de vie \r\n", "décrire des activités quotidiennes\r\n\r\n", "décrire ou identifier des gens  " ],
-      "domaine" : "expression orale en continu"
-   }, {
-      "competences" : [ "utiliser des formules de politesse simples \r\n", "saluer, présenter quelqu'un, remercier \r\n", "poser des questions, répondre à des questions \r\n", "demander et échanger des renseignements personnels et sur autrui \r\n", "demander des directives et en donner / demander et expliquer son chemin à l'aide   d'une carte " ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "écrire  des messages  simples et courts (entrer en contact, exprimer  des remerciements ou excuses)                            \r\n", "écrire une suite de phrases simples : sur sa famille, sur son environnement,  sur sa formation, sur  son travail ", "écrire une lettre personnelle très simple " ],
-      "domaine" : "expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Vilmus",
-      "prenom" : "Audrey"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h), Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63718,
-   "intitule" : "Français, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 22,
-   "nbPlaces" : 24,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau A1.2 requis",
-   "renseignements" : "accessible aux personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
       "codePostal" : "2522",
       "localite" : "Luxembourg",
       "nom" : "lycée des arts et métiers",
@@ -67568,68 +67407,6 @@
    },
    "prerequis" : "Le niveau du cours est le C1-C2 ce qui implique comme prérequis un niveau B1.",
    "renseignements" : "Tél. 819 201 307 (Valina Liégeois) ou 819 201 300 (Max Petit) ou par courriel à l'adresse education_adultes@ltett.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119 rue du cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-67",
-   "coursId" : "AR-COUT-67",
-   "coursType" : "CLASSIQUE",
-   "cout" : 243.0,
-   "dateDebut" : "30/09/2025",
-   "dateFin" : "24/03/2026",
-   "description" : "On apprendra à :\r\n-construire (à plat) d’après les mensurations, couper et confectionner une un corsage de base en toile d’essai\r\n-construire et confectionner des différents types de manches,\r\n-développer le patron de base pour la confection d’une robe/veste/manteau\r\n-faire un pantalon de base (la construction à plat et confection en toile d’essai)",
-   "duree" : "54 leçons",
-   "enseignants" : [ {
-      "nom" : "Labuz",
-      "prenom" : "Magdalena"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Mardi"
-   } ],
-   "id" : 61604,
-   "intitule" : "Cours de couture - Avancés",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 12,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE2MDQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "À apporter : aiguilles, épingles, fils, ciseaux pour le tissus, ciseaux pour le papier, papier modèle, toile pour les modèles, crayons gras, règles longues, mannequins"
 }, {
    "adresseCours" : {
       "codePostal" : "6122",
