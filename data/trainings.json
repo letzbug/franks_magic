@@ -14884,17 +14884,24 @@
    "dateFin" : "13/05/2026",
    "description" : "Et si le Mandala devenait bien plus qu’un dessin ?\r\nCe cycle de 5 séances vous invite à ralentir, à respirer… et à entrer dans une pratique à la fois créative et profondément apaisante. Destiné aux personnes ayant déjà exploré les bases du Mandala, ce cours vous propose d’aller plus loin, autant dans le geste que dans l’expérience intérieure.\r\nAu fil des séances, vous découvrirez de nouvelles techniques (ombrages, effets de relief, dotting) tout en développant une approche plus consciente et intuitive de la création. Le souffle, le rythme et la répétition deviennent alors des portes d’entrée vers un état méditatif.\r\nPeu à peu, le mandala se transforme en un véritable outil de reconnexion à soi :\r\nun espace pour se déposer, s’exprimer, et se découvrir autrement.\r\n Un temps pour créer\r\n Un temps pour ressentir\r\n Un temps pour se retrouver\r\nAucune compétence artistique particulière n’est requise, seulement l’envie d’explorer en douceur et en profondeur.",
    "duree" : "10 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Klein",
+      "prenom" : "Myriam"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 18:50 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66175,
    "intitule" : "Se reconnecter à soi à travers l'Art du Mandala - dessin de Mandala et méditation",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "MAND",
    "matiereNom" : "Mandalas",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
@@ -45506,25 +45513,25 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-895",
-   "coursId" : "LA-FR-895",
+   "coursCode" : "LA-FR-945",
+   "coursId" : "LA-FR-945",
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "16/03/2026",
    "dateFin" : "21/05/2026",
    "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre des questions simples au sujet  de sa personne, de son identité ainsi que de sa famille ou ses amis\r\nApprendre à répondre aux questions relatives à la présentation\r\nIdentifier les paramètres d'une situation de communication claire dans la vie quotidienne",
+   "description" : "Comprendre les points essentiels d'un message quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc...\r\nComprendre un récit court.\r\nSuivre les points principaux d'un exposé et identifer le type e message entendu.",
    "domainesCompetences" : [ {
-      "competences" : [ "Identifier des formules de politesse et de salutations", "Comprendre les chiffres, les prix et l'heure", "Comprendre des mots et expressions familiers", "Comprendre des questions, instructions ou indications courtes et élémentaires", "Manifester ma compréhension ou mon incompréhension", "Comprendre des consignes courtes et simples", "Comprendre l'appartenance ou la quantité", "Comprendre des informations ou des questions personnelles simples" ],
+      "competences" : [ "peux comprendre des points essentiels quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc...", "peux comprendre l'essentiel de nombreuses émissions de radio ou de télévision sur l'actualité ou sur des sujets qui m'intéressent à titre personnel ou professionnel si l'on parle d'une façon relativement lente et distincte." ],
       "domaine" : "Compréhension orale"
    }, {
-      "competences" : [ "Epeler\r\n\r\n", "Comprendre des messages et indications simples et courts", "Comprendre et suivre des instructions, des indications", "Comprendre des textes simples donnant des informations et des descriptions sur l'identité, la présentation,", "Comprendre des textes simples avec des informations et descriptions courtes" ],
+      "competences" : [ "peux comprendre des textes rédigés essentiellement dans une langue courante ou relative à mon travail.", "peux comprendre la description d'évènements, l'expression de sentiments et de souhaits dans des lettres personnelles." ],
       "domaine" : "Compréhension écrite"
    }, {
-      "competences" : [ "Se présenter\r\n", "Présenter quelqu'un (identité, nom, âge, nationalité, profession, lieu d'habitation...)", "Parler de mon environnement quotidien (donner mes coordonnées, parler de ma famille...)", "Lire un texte à voix haute", "Exprimer l'appartenance / la quantité", "Entrer en contact avec quelqu'un", "Utiliser des expressions élémentaires de salutation et de congé", " Réagir à des messages et instructions simples", "Poser et répondre à des questions personnelles", "Répondre par l'affirmative, répondre par la négative" ],
+      "competences" : [ "peux faire face à la majorité des situations que l'on peut rencontrer au cours d'un voyage dans une région ou la langue est parlée.", "peux prendre part sans préparation à une conversation sur des sujets familiers ou d'intérêt personnel ou qui concernent la vie quotidienne (famille, loisirs, travail, voyage et actualité).", "peux articuler des expressions de manière simple afin de raconter des expériences et des évènements, mes rêves, mes espoirs et mes buts. ", "peux brièvement donner les raisons et explications de mes opinions ou projets.", "peux raconter une histoire ou l'intrigue d'un livre ou d'un film et exprimer mes réactions." ],
       "domaine" : "Production orale"
    }, {
-      "competences" : [ "Remplir une fiche de renseignements personnels (une fiche d'identité, d'inscription, un formulaire ...)\r\n", "Ecrire un texte de présentation simple", "Ecrire des messages très simples", "Ecrire des phrases simples au présent", "Ecrire des phrases avec la négation de base" ],
+      "competences" : [ "peux écrire un texte simple et cohérent sur des sujets familiers ou qui m'intéressent personnellement.", "peux écrire des lettres personnelles pour décrire expériences et impressions." ],
       "domaine" : "Production écrite"
    } ],
    "duree" : "60h",
@@ -45551,15 +45558,15 @@
       "heure" : "17:30",
       "jour" : "Jeudi"
    } ],
-   "id" : 60885,
+   "id" : 60942,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
-   "niveau" : "A1.1 du CECRL",
+   "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -45959,6 +45966,99 @@
    },
    "prerequis" : "cours d'alphabétisation requis",
    "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
+      "nom" : "Association des parents d'elèves d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
+      "nom" : "Association des parents d'elèves d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-895",
+   "coursId" : "LA-FR-895",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "16/03/2026",
+   "dateFin" : "21/05/2026",
+   "dateInscription" : "Tous les jours de 9h à 12h",
+   "description" : "Comprendre des questions simples au sujet  de sa personne, de son identité ainsi que de sa famille ou ses amis\r\nApprendre à répondre aux questions relatives à la présentation\r\nIdentifier les paramètres d'une situation de communication claire dans la vie quotidienne",
+   "domainesCompetences" : [ {
+      "competences" : [ "Identifier des formules de politesse et de salutations", "Comprendre les chiffres, les prix et l'heure", "Comprendre des mots et expressions familiers", "Comprendre des questions, instructions ou indications courtes et élémentaires", "Manifester ma compréhension ou mon incompréhension", "Comprendre des consignes courtes et simples", "Comprendre l'appartenance ou la quantité", "Comprendre des informations ou des questions personnelles simples" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Epeler\r\n\r\n", "Comprendre des messages et indications simples et courts", "Comprendre et suivre des instructions, des indications", "Comprendre des textes simples donnant des informations et des descriptions sur l'identité, la présentation,", "Comprendre des textes simples avec des informations et descriptions courtes" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Se présenter\r\n", "Présenter quelqu'un (identité, nom, âge, nationalité, profession, lieu d'habitation...)", "Parler de mon environnement quotidien (donner mes coordonnées, parler de ma famille...)", "Lire un texte à voix haute", "Exprimer l'appartenance / la quantité", "Entrer en contact avec quelqu'un", "Utiliser des expressions élémentaires de salutation et de congé", " Réagir à des messages et instructions simples", "Poser et répondre à des questions personnelles", "Répondre par l'affirmative, répondre par la négative" ],
+      "domaine" : "Production orale"
+   }, {
+      "competences" : [ "Remplir une fiche de renseignements personnels (une fiche d'identité, d'inscription, un formulaire ...)\r\n", "Ecrire un texte de présentation simple", "Ecrire des messages très simples", "Ecrire des phrases simples au présent", "Ecrire des phrases avec la négation de base" ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Silvino Cardoso",
+      "prenom" : "Ana Carina"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 17:30 (durée 2h), Mardi à 17:30 (durée 2h), Mercredi à 17:30 (durée 2h), Jeudi à 17:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 60885,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9089",
+         "localite" : "Ettelbruck",
+         "nom" : "Ettelbruck",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, rue Michel Weber"
+      },
+      "code" : "APE",
+      "mail" : "mariadelfinalbuquerque@yahoo.fr",
+      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
+      "nomContact" : "Henriques Tomaz",
+      "onlineReg" : false,
+      "prenomContact" : "Maria Delfina",
+      "statut" : "ASBL",
+      "telephone" : "+352 691 500 047"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
