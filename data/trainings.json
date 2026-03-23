@@ -85,61 +85,6 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-MUME-52",
-   "coursId" : "IN-MUME-52",
-   "coursType" : "CLASSIQUE",
-   "cout" : 108.0,
-   "dateDebut" : "24/03/2026",
-   "dateFin" : "16/06/2026",
-   "description" : "Ce cours s’adresse aux personnes souhaitant mieux utiliser leur téléphone, tablette ou ordinateur. À partir de leur propre équipement ou de celui mis à disposition, l’atelier propose un accompagnement personnalisé pour apprendre : emails, appels, classement de fichiers et navigation Internet, dans une ambiance bienveillante favorisant l’autonomie.",
-   "duree" : "24 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 16:20 (durée 1h40)",
-   "horaires" : [ ],
-   "id" : 65292,
-   "intitule" : "Mieux utiliser téléphone, tablette ou ordinateur.",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MUME",
-   "matiereNom" : "Multimédia",
-   "nbInscrits" : 0,
-   "nbPlaces" : 8,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyOTI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "À noter : Le cours se déroulera pendant les vacances scolaires de Pâques, mais pas pendant les vacances de Pentecôte.",
-   "renseignements" : "Veuillez de préférence apporter vos propres appareils numériques (téléphones, iPad, ordinateurs) afin de vous familiariser avec ces équipements."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
@@ -713,7 +658,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "MU",
    "matiereNom" : "Musique",
-   "nbInscrits" : 5,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -16294,7 +16239,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 0,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -27209,7 +27154,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 22,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -35890,7 +35835,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -37702,17 +37647,32 @@
    "dateFin" : "28/07/2026",
    "description" : "Participants will learn how to explore the internet safely and avoid traps like phishing, scams, and ransomware. Through real-life examples and fun hands-on activities, you’ll discover how to protect your data, recognize fake websites, and keep your privacy intact. No technical background needed; just curiosity and your everyday internet experience!",
    "duree" : "12 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Adavoudi Jolfaei",
+      "prenom" : "Amirhossein"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi 21-07-2026 à 17:10 (durée 3h20) et 17:10 (durée 3h20), Vendredi 24-07-2026 à 17:10 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65479,
    "intitule" : "Safe Browsing: How to Stay Smart and Secure Online",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DIG",
    "matiereNom" : "Digital",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -48320,7 +48280,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -57959,6 +57919,92 @@
    "prerequis" : "Avoir validé le niveau A1.1"
 }, {
    "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole BRILL",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert METZ"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1132",
+   "coursId" : "LA-LB-1132",
+   "coursType" : "CLASSIQUE",
+   "cout" : 85.0,
+   "dateDebut" : "27/01/2026",
+   "dateFin" : "12/05/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange\r\nCoursdelangues@dudelange.lu \r\ntél; 51 61 21 538",
+   "description" : "Êtes capable de dire quelques mots et expressions au quotidien : se présenter, parler  succinctement de soi mais aussi de son environnement immédiat (nommer, compter).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre les salutations et formules de politesse.", "Comprendre une présentation simple (nom, âge, origine, langues parlées).", "Comprendre des énoncés comportant des nombres (date de naissance, téléphone, adresse, horaire de transport public, horaires de travail). ", "Comprendre les expressions sur la composition d'une famille (les membres d'une famille). ", "Comprendre la description succincte d'un métier, d'un travail (activités-lieu-moyen de transport-horaires)." ],
+      "domaine" : "COMPREHENSION ORALE"
+   }, {
+      "competences" : [ "Saluer-prendre des nouvelles. Se présenter et demander le nom d'une autre personne. \r\n", "Dire d'où l'on vient et poser cette question à une autre personne. ", "Indiquer la nationalité et les langues connues et demander ces renseignements à une autre personne.", "Dire son numéro de téléphone et poser cette question à une tierce personne.", "Indiquer son âge et sa date d'anniversaire et savoir poser ces questions.", "Donner son adresse, son adresse mail et demander celles de son interlocuteur. ", "Indiquer sa situation familiale et obtenir ce renseignement de son interlocuteur. ", "Indiquer sa profession et poser cette question à une autre personne. \r\nNommer des activités dans le contexte des professions.\r\nIndiquer où l'on travaille et poser cette question à une autre personne. \r\n", "Nommer des moyens de transport.", "Dire l'heure. " ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "Comprendre une fiche d'identité. \r\n", "Comprendre une petite annonce (travail)", "Comprendre une petite annonce (travail). " ],
+      "domaine" : "COMPREHENSION ECRITE "
+   }, {
+      "competences" : [ "Remplir un formulaire d'inscription. \r\n", "Ecrire les nombres de 1 à 100. " ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Da Re",
+      "prenom" : "Patrizia"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 11:05 (durée 2h), Jeudi à 11:05 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "11:05",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:05",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63089,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 21,
+   "nbPlaces" : 22,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "renseignements" : "Hors vacances scolaires. "
+}, {
+   "adresseCours" : {
       "codePostal" : "3651",
       "localite" : "Kayl",
       "nom" : "Gare de Kayl - 1er Étage",
@@ -59053,7 +59099,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 19,
+   "nbInscrits" : 18,
    "nbPlaces" : 21,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
