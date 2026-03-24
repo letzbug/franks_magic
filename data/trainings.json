@@ -562,6 +562,61 @@
    "renseignements" : "Le stage de trois jours aura lieu à la Kulturfabrik, dans la salle « Lino jaune »."
 }, {
    "adresseCours" : {
+      "codePostal" : "L-2543",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Avicenne Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Dernier Sol, 32"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-28",
+   "coursId" : "CIN-LB-28",
+   "coursType" : "CLASSIQUE",
+   "cout" : 700.0,
+   "dateDebut" : "06/04/2026",
+   "dateFin" : "10/04/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "24h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 5h), Mardi à 09:00 (durée 5h), Mercredi à 09:00 (durée 5h), Jeudi à 09:00 (durée 5h), Vendredi à 09:00 (durée 4h)",
+   "horaires" : [ ],
+   "id" : 66206,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMDY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "L-2543",
+         "localite" : "Luxembourg",
+         "nom" : "Centre Avicenne Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "Dernier Sol, 32"
+      },
+      "code" : "CALL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembg",
+      "nomContact" : "Centre Avicenne Luxembourg ",
+      "onlineReg" : true,
+      "prenomContact" : "Secretariat",
+      "statut" : "PREST_EXT",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/Home"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -45927,7 +45982,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PHOT",
    "matiereNom" : "Photographie",
-   "nbInscrits" : 5,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
