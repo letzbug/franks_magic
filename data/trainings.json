@@ -463,72 +463,6 @@
    "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7540",
-      "localite" : "Rollingen",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "141, rue de Luxembourg"
-   },
-   "categorieCode" : "CIN",
-   "categorieCodeUnipop" : "CIN",
-   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
-   "coursCode" : "CIN-LB-23",
-   "coursId" : "CIN-LB-23",
-   "coursType" : "CLASSIQUE",
-   "cout" : 750.0,
-   "dateDebut" : "07/04/2026",
-   "dateFin" : "23/04/2026",
-   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Lorang",
-      "prenom" : "Claudine"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi 13-04-2026 à 18:00 (durée 3h) et 18:00 (durée 3h), Mardi 07-04-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Mercredi 08-04-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Jeudi 09-04-2026 à 18:00 (durée 3h) et 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 65478,
-   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0Nzg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7540",
-         "localite" : "Rollingen",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "141, rue de Luxembourg"
-      },
-      "code" : "LCPB",
-      "mail" : "lorangclaudine@yahoo.com",
-      "nom" : "Lorang Claudine Pierrette B. - Lëtzebuerger Sprooch a Kultur Formatrice",
-      "nomContact" : "Lorang",
-      "onlineReg" : true,
-      "prenomContact" : "Claudine",
-      "statut" : "PREST_EXT",
-      "telephone" : "00352 621 345 595"
-   },
-   "prerequis" : "aucun",
-   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -1914,7 +1848,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "HIST",
    "matiereNom" : "Histoire",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -16061,7 +15995,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
