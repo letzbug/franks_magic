@@ -19013,7 +19013,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -19877,6 +19877,79 @@
    "prerequis" : "Aucun"
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3493",
+      "localite" : "Dudelange",
+      "nom" : "Moien asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, rue Batty Weber "
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1510",
+   "coursId" : "LA-LB-1510",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "04/05/2026",
+   "dateFin" : "22/05/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Comprendre les points essentiels quand un langage clair et standard est utilisé et s'il s'agit de choses familières dans le travail, à l'école, dans les loisirs etc. ; \r\nSe débrouiller dans la plupart des situations quotidiennes; \r\nProduire un discours simple et cohérent sur des sujets familiers et dans ses domaines d'intérêt; \r\nRaconter un événement, une expérience ou un rêve, \r\nDécrire un espoir ou un but et exposer brièvement des raisons ou explications pour un projet ou une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "raconter des événements au passé de manière plus approfondie (enfance, vacances, souvenirs)", "participer à des conversations sur des sujets d'actualité", "échanger des points de vue personnels, exprimer son accord ou son désaccord", "exprimer ses sentiments et réagir aux sentiments exprimés par d'autres", "s'exprimer en utilisant des formules de politesse plus élaborées" ],
+      "domaine" : "expression orale"
+   }, {
+      "competences" : [ "comprendre des récits courts sur des sujets familiers", "comprendre des questions sur des thèmes précis (médecin, administration...)", "comprendre l'essentiel ou les points principaux des journaux radio ou télévisés" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "rédiger des récits et des lettres en utilisant des phrases complexes", "demander des renseignements par courrier électronique ou par courrier traditionnel (location, offre d'emploi...)" ],
+      "domaine" : "expression écrite"
+   }, {
+      "competences" : [ "comprendre des petits textes littéraires simples ", "comprendre des textes sur des sujets d'actualité ou familiers (critique de films et pièces de théâtre, lettres, brochures...)" ],
+      "domaine" : "compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66194,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "MOIEN ASBL \r\ninformation, inscription et paiement en ligne sur le site www.moienasbl.lu"
+}, {
+   "adresseCours" : {
       "codePostal" : "66706",
       "localite" : "Perl",
       "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
@@ -20125,6 +20198,136 @@
    },
    "prerequis" : "Avoir acquis le niveau A1.1",
    "renseignements" : "Hors vacances scolaires. "
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1507",
+   "coursId" : "LA-LB-1507",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "04/05/2026",
+   "dateFin" : "22/05/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Indiquer ses préférences, exprimer ses souhaits, comprendre des expressions familières ainsi que des énoncés simples qui visent à satisfaire des besoins concrets; communiquer de façon simple (p.ex. au magasin ou chez le médecin)  avec un interlocuteur bienveillant.",
+   "domainesCompetences" : [ {
+      "competences" : [ "décrire, répondre à des questions, poser des questions de manière simple concernant le déroulement d'une journée type, ses activités de loisir et ses hobbys", "exprimer ce qu'on aime et ce qu'on n'aime pas", "proposer un rendez-vous ou répondre de manière simple et polie à un rendez-vous / une invitation (lieu, horaire, activité, programme) ", "parler du temps, de la météo", "nommer et décrire des aliments et des boissons, indiquer ses souhaits, effectuer une conversation quand on fait ses courses (quantités, prix, horaire d'ouverture)", "commander quelque chose à boire ou à manger", "parler de sa famille et de ses amis", "décrire une personne", "participer à une conversation chez le médecin" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des questions simples concernant ses passe-temps, son quotidien (fréquence des activités, amis, famille)", "comprendre des questions simples quand il fait ses courses (produits, quantités, prix, magasins)\r\n", "comprendre des questions simples concernant ses goûts, ses préférences, ses souhaits (alimentation, passe-temps) " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "écrire une carte-postale en indiquant ses activités de vacances avec une formule de politesse", "écrire un mail pour accepter ou refuser un rendez-vous, pour s'excuser avec une formule de politesse " ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "comprendre les informations des annonces familiales (naissances, mariages), des annonces de contact, des cartes de menus", "comprendre un programme de manifestations culturelle ou sportives " ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h), Vendredi à 17:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66191,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1508",
+   "coursId" : "LA-LB-1508",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "04/05/2026",
+   "dateFin" : "22/05/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Demander/donner des informations concernant les horaires de train et de bus, demander et comprendre la description d'un chemin, réserver une table, passer une commande dans un restaurant, dire les heures d'ouverture et se renseigner à ce sujet, comprendre les petites annonces (logements) et décrire/commenter un logement, parler des tâches ménagères, de ses habitudes quotidiennes et se renseigner à ce sujet",
+   "domainesCompetences" : [ {
+      "competences" : [ "demander des renseignements sur les horaires de train et de bus en utilisant des formules de politesse et formuler des phrases et questions simples ", "demander la description d'un chemin", "mener de courts entretiens téléphoniques en faisant des réservations au restaurant", "commander quelque chose dans un restaurant", "dire les heures d'ouverture des magasins et se renseigner à ce sujet ", "décrire ses habitudes quotidiennes, et se renseigner à ce sujet de manière détaillée et simple; parler de ses  tâches ménagères   ", "décrire/commenter une habitation", "Dire où l'on est et où l'on va\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des informations sur les horaires de train/bus et les ouvertures des magasins ", "comprendre des renseignements concernant la description d'un chemin", "comprendre un interlocuteur qui fixe un rendez-vous ou fait une réservation dans un restaurant", "comprendre des questions détaillées concernant le déroulement d'une journée type, ses habitudes de vie", "comprendre les petites annonces  concernant la location ou vente d'un logement  " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "remplir des formulaires et écrire des petites notes" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "comprendre l'essentiel d'une annonce ou d'un article (logement, magasin)", "comprendre de courts messages (annonces, invitations, affiches, ...) " ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h), Vendredi à 17:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66192,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu\r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "1921",
@@ -21207,6 +21410,140 @@
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1509",
+   "coursId" : "LA-LB-1509",
+   "coursType" : "CLASSIQUE",
+   "cout" : 138.0,
+   "dateDebut" : "11/05/2026",
+   "dateFin" : "29/06/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Se renseigner au sujet de la vie quotidienne et discuter des avantages et des inconvénients, parler de ses plans futurs et fixer un rendez-vous, décrire les vêtements et les comparer, décrire l'apparence  et le caractère d'une personne, savoir exprimer ce qui plaît ou non, raconter ce que l'on a fait durant la semaine exprimer la joie, la surprise ou la compassion, comprendre les prévisions météorologiques",
+   "domainesCompetences" : [ {
+      "competences" : [ "se renseigner au sujet de quelque chose et discuter des avantages et des inconvénients", "parler au sujet des ses plans futurs et fixer un rendez-vous", "décrire les vêtements, l'apparence  et le caractère d'une personne", " échanger des points de vue, comparer: exprimer son accord ou son désaccord", "parler de ses vacances, de son temps libre et de ses projets", "raconter ce que l'on a fait durant la semaine, durant le week-end ou les vacances", "exprimer de façon simple la joie, la surprise ou la compassion", "dire où l'on était et où l'on va" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "capter le sujet d'une conversation de la vie courante ", "comprendre des expressions de sentiments et de souhaits personnels", "comprendre les prévisions météorologiques" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "écrire un petit flyer pour une association ou un club", "écrire une lettre personnelle simple, par exemple de remerciement ", "formuler des messages personnels ou y répondre " ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "saisir l'essentiel d'annonces de clubs ou d'associations", "comprendre de petits textes simples sur des sujets de la vie quotidienne ", "comprendre des expressions de sentiments et de souhaits personnels ", "comprendre les prévisions météorologiques\r\n" ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "46h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 10:30 (durée 2h), Mardi à 10:30 (durée 2h), Mercredi à 10:30 (durée 2h), Jeudi à 10:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66193,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Athénée de Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, Bd Pierre Dupong"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1506",
+   "coursId" : "LA-LB-1506",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "11/05/2026",
+   "dateFin" : "08/06/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Communiquer de façon simple avec un interlocuteur « bienveillant », comprendre des mots familiers et des expressions courantes au sujet de sa personne; décrire ses activités professionnelles. \r\nExprimer les dates et les heures.",
+   "domainesCompetences" : [ {
+      "competences" : [ "utiliser des formules de politesse ", "se présenter et demander le nom d'une autre personne ", "dire d'où l'on vient, indiquer la nationalité et les langues connues et poser ces questions à une autre personne", "poser des questions simples sur des sujets familiers (adresse, lieu de travail, âge, situation familiale) et répondre à de telles questions ", "dire son numéro de téléphone, indiquer l'heure et poser ces questions à une tierce personne", "parler  des activités de sa profession et poser des questions à une autre personne concernant son travail", "nommer des moyens de transport " ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des mots familiers et des expressions très courantes concernant les situations familiales, si les gens parlent lentement et distinctement ", "comprendre des activités dans le contexte des professions", "comprendre les heures et les dates  " ],
+      "domaine" : "Compréhension orale "
+   }, {
+      "competences" : [ "nscrire des détails personnels dans un formulaire" ],
+      "domaine" : "Expression écrite "
+   }, {
+      "competences" : [ "comprendre une petite annonce (travail)", "comprendre des mots ainsi que des phrases simples dans des formulaires concernant les situations familiales et professionnelles" ],
+      "domaine" : "Compréhension écrite :"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66190,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
    "adresseInscription" : {
       "codePostal" : "7201",
       "localite" : "Walferdange",
@@ -22158,6 +22495,71 @@
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1511",
+   "coursId" : "LA-LB-1511",
+   "coursType" : "CLASSIQUE",
+   "cout" : 138.0,
+   "dateDebut" : "18/05/2026",
+   "dateFin" : "25/06/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Nommer différents types d'habitation et parler des avantages et inconvénients, citer des conditions et des conséquences. \r\nRéagir à une réclamation. \r\nConnaître le système politique, participer à une discussion, formuler des déclarations diverses.",
+   "domainesCompetences" : [ {
+      "competences" : [ "nommer différents types d'habitation", "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "nommer des conditions et des conséquences", "formuler des souhaits et des hypothèses", "se plaindre et réagir à une réclamation", "faire le compte-rendu d'un reportage politico-social", "participer à une discussion politico-social et défendre son point de vue", "dire si l'on est d'accord ou non avec des déclarations diverses" ],
+      "domaine" : "expression orale "
+   }, {
+      "competences" : [ "connaître et nommer différents types d'habitation", "faire la différence entre des propositions, des souhaits et des questions polies", "apprendre à connaître le système politique", "comprendre et formuler différentes opinions" ],
+      "domaine" : "compréhension orale "
+   }, {
+      "competences" : [ "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "formuler des souhaits et des hypothèses", "se plaindre et réagir à une réclamation" ],
+      "domaine" : "expression écrite "
+   }, {
+      "competences" : [ "comprendre des textes au sujets des différents types d'habitation", "faire la différence entre des propositions, des souhaits et des questions polies", "apprendre à connaître le système politique", "comprendre un reportage politico-social" ],
+      "domaine" : "compréhension écrite "
+   } ],
+   "duree" : "46h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h), Vendredi à 10:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66195,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "B1.3 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "MOIEN ASBL \r\ninformation, inscription et paiement en ligne sur le site www.moienasbl.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -24540,6 +24942,201 @@
    "renseignements" : "non accessible aux personnes à mobilité réduite"
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1513",
+   "coursId" : "LA-LB-1513",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "19/06/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Communiquer de façon simple avec un interlocuteur « bienveillant », comprendre des mots familiers et des expressions courantes au sujet de sa personne; décrire ses activités professionnelles. \r\nExprimer les dates et les heures.",
+   "domainesCompetences" : [ {
+      "competences" : [ "utiliser des formules de politesse ", "se présenter et demander le nom d'une autre personne ", "dire d'où l'on vient, indiquer la nationalité et les langues connues et poser ces questions à une autre personne", "dire son numéro de téléphone, indiquer l'heure et poser ces questions à une tierce personne", "parler  des activités de sa profession et poser des questions à une autre personne concernant son travail", "nommer des moyens de transport " ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des mots familiers et des expressions très courantes concernant les situations familiales, si les gens parlent lentement et distinctement ", "comprendre des activités dans le contexte des professions", "comprendre les heures et les dates  " ],
+      "domaine" : "Compréhension orale "
+   }, {
+      "competences" : [ "inscrire des détails personnels dans un formulaire" ],
+      "domaine" : "Expression écrite "
+   }, {
+      "competences" : [ "comprendre une petite annonce (travail)", "comprendre des mots ainsi que des phrases simples dans des formulaires concernant les situations familiales et professionnelles" ],
+      "domaine" : "Compréhension écrite :"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 14:00 (durée 3h), Mardi à 14:00 (durée 3h), Mercredi à 14:00 (durée 3h), Jeudi à 14:00 (durée 3h), Vendredi à 14:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66197,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1512",
+   "coursId" : "LA-LB-1512",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "19/06/2026",
+   "dateInscription" : "à partir du 1er avril  2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Communiquer de façon simple avec un interlocuteur « bienveillant », comprendre des mots familiers et des expressions courantes au sujet de sa personne; décrire ses activités professionnelles. \r\nExprimer les dates et les heures.",
+   "domainesCompetences" : [ {
+      "competences" : [ "utiliser des formules de politesse ", "se présenter et demander le nom d'une autre personne ", "dire d'où l'on vient, indiquer la nationalité et les langues connues et poser ces questions à une autre personne", "poser des questions simples sur des sujets familiers (adresse, lieu de travail, âge, situation familiale) et répondre à de telles questions ", "dire son numéro de téléphone, indiquer l'heure et poser ces questions à une tierce personne", "parler des activités de sa profession et poser des questions à une autre personne concernant son travail", "nommer des moyens de transport " ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des mots familiers et des expressions très courantes concernant les situations familiales, si les gens parlent lentement et distinctement ", "comprendre des activités dans le contexte des professions\r\n", "comprendre les heures et les dates  \r\n" ],
+      "domaine" : "Compréhension orale "
+   }, {
+      "competences" : [ "inscrire des détails personnels dans un formulaire" ],
+      "domaine" : "Expression écrite "
+   }, {
+      "competences" : [ "comprendre une petite annonce (travail)", "comprendre des mots ainsi que des phrases simples dans des formulaires concernant les situations familiales et professionnelles" ],
+      "domaine" : "Compréhension écrite :"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 10:00 (durée 3h), Mardi à 10:00 (durée 3h), Mercredi à 10:00 (durée 3h), Jeudi à 10:00 (durée 3h), Vendredi à 10:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66196,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1519",
+   "coursId" : "LA-LB-1519",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "01/07/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Se renseigner au sujet de la vie quotidienne et discuter des avantages et des inconvénients, parler de ses plans futurs et fixer un rendez-vous, décrire les vêtements et les comparer, décrire l'apparence  et le caractère d'une personne, savoir exprimer ce qui plaît ou non, raconter ce que l'on a fait durant la semaine exprimer la joie, la surprise ou la compassion, comprendre les prévisions météorologiques",
+   "domainesCompetences" : [ {
+      "competences" : [ "se renseigner au sujet de quelque chose et discuter des avantages et des inconvénients", "parler au sujet des ses plans futurs et fixer un rendez-vous", "décrire les vêtements, l'apparence  et le caractère d'une personne", " échanger des points de vue, comparer: exprimer son accord ou son désaccord", "parler de ses vacances, de son temps libre et de ses projets", "raconter ce que l'on a fait durant la semaine, durant le week-end ou les vacances", "exprimer de façon simple la joie, la surprise ou la compassion", "dire où l'on était et où l'on va" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "capter le sujet d'une conversation de la vie courante ", "comprendre des expressions de sentiments et de souhaits personnels", "comprendre les prévisions météorologiques" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "écrire un petit flyer pour une association ou un club", "écrire une lettre personnelle simple, par exemple de remerciement ", "formuler des messages personnels ou y répondre " ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "saisir l'essentiel d'annonces de clubs ou d'associations", "comprendre de petits textes simples sur des sujets de la vie quotidienne ", "comprendre des expressions de sentiments et de souhaits personnels ", "comprendre les prévisions météorologiques\r\n" ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 18:00 (durée 2h30), Mardi à 18:00 (durée 2h30), Mercredi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 66203,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -26394,6 +26991,136 @@
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1517",
+   "coursId" : "LA-LB-1517",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "03/07/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Demander/donner des informations concernant les horaires de train et de bus, demander et comprendre la description d'un chemin, réserver une table, passer une commande dans un restaurant, dire les heures d'ouverture et se renseigner à ce sujet, comprendre les petites annonces (logements) et décrire/commenter un logement, parler des tâches ménagères, de ses habitudes quotidiennes et se renseigner à ce sujet",
+   "domainesCompetences" : [ {
+      "competences" : [ "demander des renseignements sur les horaires de train et de bus en utilisant des formules de politesse et formuler des phrases et questions simples ", "demander la description d'un chemin", "mener de courts entretiens téléphoniques en faisant des réservations au restaurant", "commander quelque chose dans un restaurant", "dire les heures d'ouverture des magasins et se renseigner à ce sujet ", "décrire ses habitudes quotidiennes, et se renseigner à ce sujet de manière détaillée et simple; parler de ses  tâches ménagères   ", "décrire/commenter une habitation", "Dire où l'on est et où l'on va\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des informations sur les horaires de train/bus et les ouvertures des magasins ", "comprendre des renseignements concernant la description d'un chemin", "comprendre un interlocuteur qui fixe un rendez-vous ou fait une réservation dans un restaurant", "comprendre des questions détaillées concernant le déroulement d'une journée type, ses habitudes de vie", "comprendre les petites annonces  concernant la location ou vente d'un logement  " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "remplir des formulaires et écrire des petites notes" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "comprendre l'essentiel d'une annonce ou d'un article (logement, magasin)", "comprendre de courts messages (annonces, invitations, affiches, ...) " ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:30 (durée 3h), Mercredi à 08:30 (durée 3h), Vendredi à 08:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66201,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu\r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1518",
+   "coursId" : "LA-LB-1518",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "19/06/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Demander/donner des informations concernant les horaires de train et de bus, demander et comprendre la description d'un chemin, réserver une table, passer une commande dans un restaurant, dire les heures d'ouverture et se renseigner à ce sujet, comprendre les petites annonces (logements) et décrire/commenter un logement, parler des tâches ménagères, de ses habitudes quotidiennes et se renseigner à ce sujet",
+   "domainesCompetences" : [ {
+      "competences" : [ "demander des renseignements sur les horaires de train et de bus en utilisant des formules de politesse et formuler des phrases et questions simples ", "demander la description d'un chemin", "mener de courts entretiens téléphoniques en faisant des réservations  au restaurant", "commander quelque chose dans un restaurant", "dire les heures d'ouverture des magasins et se renseigner à ce sujet ", "décrire ses habitudes quotidiennes, et se renseigner à ce sujet de manière détaillée et simple; parler de ses tâches ménagères   \r\n", "décrire/commenter une habitation", "Dire où l'on est et où l'on va\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des informations sur les horaires de train/bus et les ouvertures des magasins  ", "comprendre des renseignements concernant la description d'un chemin", "comprendre un interlocuteur qui fixe un rendez-vous ou fait une réservation dans un restaurant", "comprendre des questions détaillées concernant le déroulement d'une journée type, ses habitudes de vie", "comprendre les petites annonces concernant la location ou vente d'un logement  " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "remplir des formulaires et écrire des petites notes" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "comprendre l'essentiel d'une annonce ou d'un article (logement, magasin)", "comprendre de courts messages (annonces, invitations, affiches, ...) " ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h), Vendredi à 17:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66202,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
    "adresseInscription" : {
       "codePostal" : "2132",
       "localite" : "Luxembourg",
@@ -26577,6 +27304,71 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "niveau A2.3 "
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1520",
+   "coursId" : "LA-LB-1520",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "19/06/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Décrire son quartier, son habitation et son aménagement intérieur, comprendre et formuler une interdiction, un ordre ou une permission, donner des instructions simples, comprendre et décrire un chemin, prendre part à une conversation chez le médecin, décrire les symptômes d'une maladie, donner et demander des conseils, mener de courtes conversations téléphoniques, comprendre des messages téléphoniques et réagir à ces messages",
+   "domainesCompetences" : [ {
+      "competences" : [ "décrire son quartier, son logement et son aménagement intérieur", "formuler une interdiction, un ordre ou une permission", "donner des instructions simples", "décrire un chemin", "prendre part à une conversation chez le médecin", "décrire les symptômes d'une maladie et poser des questions à ce sujet", "donner et demander des conseils", "mener de courtes conversations téléphoniques" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre une interdiction, un ordre, une permission ou un conseil", "comprendre la description d'un chemin", "comprendre des messages téléphoniques\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "écrire des invitations et des messages simples", "écrire des e-mails et formuler des questions concernant des annonces    " ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "comprendre les annonces (travail, logement), les descriptions de chemin", "comprendre des textes simples sur des sujets de la vie quotidienne ", "comprendre des expressions de sentiments et de souhaits personnels " ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66204,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A2.3 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "1921",
@@ -31507,6 +32299,75 @@
    "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg-Merl",
+      "nom" : "Athenée de Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, Bd Pierre Dupong"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1514",
+   "coursId" : "LA-LB-1514",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "15/06/2026",
+   "dateFin" : "06/07/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Indiquer ses préférences, exprimer ses souhaits, comprendre des expressions familières ainsi que des énoncés simples qui visent à satisfaire des besoins concrets; communiquer de façon simple (p.ex. au magasin ou chez le médecin)  avec un interlocuteur bienveillant.",
+   "domainesCompetences" : [ {
+      "competences" : [ "décrire, répondre à des questions, poser des questions de manière simple concernant le déroulement d'une journée type, ses activités de loisir et ses hobbys", "exprimer ce qu'on aime et ce qu'on n'aime pas", "proposer un rendez-vous ou répondre de manière simple et polie à un rendez-vous / une invitation (lieu, horaire, activité, programme) ", "parler du temps, de la météo \r\n", "nommer et décrire des aliments et des boissons, indiquer ses souhaits, effectuer une conversation quand on fait ses courses (quantités, prix, horaire d'ouverture) ", "commander quelque chose à boire ou à manger", "parler de sa famille et de ses amis", "décrire une personne", "participer à une conversation chez le médecin" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des questions simples concernant ses passe-temps, son quotidien (fréquence des activités, amis, famille) ", "comprendre des questions simples quand il fait ses courses (produits, quantités, prix, magasins) ", "comprendre des questions simples concernant ses goûts, ses préférences, ses souhaits (alimentation, passe-temps) \r\n " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "écrire une carte-postale en indiquant ses activités de vacances avec une formule de politesse ", "écrire un mail pour accepter ou refuser un rendez-vous, pour s¿excuser avec une formule de politesse \r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "comprendre les informations des annonces familiales (naissances, mariages), des annonces de contact, des cartes de menus", "comprendre un programme de manifestations culturelle ou sportives " ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66198,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -34321,6 +35182,201 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1515",
+   "coursId" : "LA-LB-1515",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "22/06/2026",
+   "dateFin" : "15/07/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Indiquer ses préférences, exprimer ses souhaits, comprendre des expressions familières ainsi que des énoncés simples qui visent à satisfaire des besoins concrets; communiquer de façon simple (p.ex. au magasin ou chez le médecin)  avec un interlocuteur bienveillant.",
+   "domainesCompetences" : [ {
+      "competences" : [ "décrire, répondre à des questions, poser des questions de manière simple concernant le déroulement d'une journée type, ses activités de loisir et ses hobbys", "exprimer ce qu'on aime et ce qu'on n'aime pas", "proposer un rendez-vous ou répondre de manière simple et polie à un rendez-vous / une invitation (lieu, horaire, activité, programme) ", "parler du temps, de la météo \r\n", "nommer et décrire des aliments et des boissons, indiquer ses souhaits, effectuer une conversation quand on fait ses courses (quantités, prix, horaire d'ouverture) ", "commander quelque chose à boire ou à manger", "parler de sa famille et de ses amis", "décrire une personne", "participer à une conversation chez le médecin" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des questions simples concernant ses passe-temps, son quotidien (fréquence des activités, amis, famille) ", "comprendre des questions simples quand il fait ses courses (produits, quantités, prix, magasins) ", "comprendre des questions simples concernant ses goûts, ses préférences, ses souhaits (alimentation, passe-temps) \r\n " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "écrire une carte-postale en indiquant ses activités de vacances avec une formule de politesse ", "écrire un mail pour accepter ou refuser un rendez-vous, pour s¿excuser avec une formule de politesse \r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "comprendre les informations des annonces familiales (naissances, mariages), des annonces de contact, des cartes de menus", "comprendre un programme de manifestations culturelle ou sportives " ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 10:00 (durée 3h), Mardi à 10:00 (durée 3h), Mercredi à 10:00 (durée 3h), Jeudi à 10:00 (durée 3h), Vendredi à 10:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66199,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1521",
+   "coursId" : "LA-LB-1521",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "22/06/2026",
+   "dateFin" : "13/07/2026",
+   "dateInscription" : "à partir du 1er avril 2026",
+   "description" : "Discuter des campagnes de prévention, parler des accidents et donner des recommandations. \r\nConnaître les métiers de la santé, les maladies professionnelles. \r\nParler des modèles de travail. \r\nDécrire son parcours professionnel. \r\nParticiper à une interview.",
+   "domainesCompetences" : [ {
+      "competences" : [ "exprimer son avis au sujet des campagnes de prévention et formuler des recommandations", "raconter des accidents ou des incidents", "connaître et décrire différents métiers dans le domaine de la santé", "discuter de maladies professionnelles", "parler des différents modèles de travail", "discuter sur les aspects positifs ou négatifs d'un poste de travail", "décrire son parcours professionnel, ses plans et ses projets", "participer à une interview d'embauche" ],
+      "domaine" : "expression orale "
+   }, {
+      "competences" : [ "comprendre les campagnes de prévention", "comprendre les points principaux des actualités ", "comprendre des annonces d'emploi" ],
+      "domaine" : "compréhension orale "
+   }, {
+      "competences" : [ "formuler des recommandations ", "écrire et réagir à des e-mails concernant l'actualité et la vie professionnelle" ],
+      "domaine" : "expression écrite "
+   }, {
+      "competences" : [ "comprendre les campagnes de prévention", "comprendre des annonces d'emploi", "comprendre les points principaux des actualités dans les journaux " ],
+      "domaine" : "compréhension écrite "
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66205,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "B1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "MOIEN ASBL \r\ninformation, inscription et paiement en ligne sur le site www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1516",
+   "coursId" : "LA-LB-1516",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "22/06/2026",
+   "dateFin" : "15/07/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Indiquer ses préférences, exprimer ses souhaits, comprendre des expressions familières ainsi que des énoncés simples qui visent à satisfaire des besoins concrets; communiquer de façon simple (p.ex. au magasin ou chez le médecin)  avec un interlocuteur bienveillant.",
+   "domainesCompetences" : [ {
+      "competences" : [ "décrire, répondre à des questions, poser des questions de manière simple concernant le déroulement d'une journée type, ses activités de loisir et ses hobbys", "exprimer ce qu'on aime et ce qu'on n'aime pas", "proposer un rendez-vous ou répondre de manière simple et polie à un rendez-vous / une invitation (lieu, horaire, activité, programme) ", "parler du temps, de la météo \r\n", "nommer et décrire des aliments et des boissons, indiquer ses souhaits, effectuer une conversation quand on fait ses courses (quantités, prix, horaire d'ouverture) ", "commander quelque chose à boire ou à manger", "parler de sa famille et de ses amis", "décrire une personne", "participer à une conversation chez le médecin" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "comprendre des questions simples concernant ses passe-temps, son quotidien (fréquence des activités, amis, famille) ", "comprendre des questions simples quand il fait ses courses (produits, quantités, prix, magasins) ", "comprendre des questions simples concernant ses goûts, ses préférences, ses souhaits (alimentation, passe-temps) \r\n " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "écrire une carte-postale en indiquant ses activités de vacances avec une formule de politesse ", "écrire un mail pour accepter ou refuser un rendez-vous, pour s¿excuser avec une formule de politesse \r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "comprendre les informations des annonces familiales (naissances, mariages), des annonces de contact, des cartes de menus", "comprendre un programme de manifestations culturelle ou sportives " ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 14:00 (durée 3h), Mardi à 14:00 (durée 3h), Mercredi à 14:00 (durée 3h), Jeudi à 14:00 (durée 3h), Vendredi à 14:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66200,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -51801,7 +52857,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "INF",
    "matiereNom" : "Informatique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -55010,7 +56066,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "TAB",
    "matiereNom" : "Tablets and smartphones",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 6,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -55082,7 +56138,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "TAB",
    "matiereNom" : "Tablets and smartphones",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 6,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -55154,7 +56210,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "TAB",
    "matiereNom" : "Tablets and smartphones",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 6,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -55226,7 +56282,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "INF",
    "matiereNom" : "Informatique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -55298,7 +56354,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "TAB",
    "matiereNom" : "Tablets and smartphones",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 6,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -55370,7 +56426,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "INF",
    "matiereNom" : "Informatique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 8,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -55446,7 +56502,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BRA",
    "matiereNom" : "Braille",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 8,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -55582,6 +56638,78 @@
    "horairePrevu" : "Lundi à 10:00 (durée 2h)",
    "horaires" : [ ],
    "id" : 63559,
+   "intitule" : "Cours de français pour personnes malvoyantes et aveugles",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LFR",
+   "matiereNom" : "Cours de langue: français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8080",
+         "localite" : "Bertrange",
+         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "17A, Route de Longwy"
+      },
+      "code" : "CDV",
+      "fax" : "+352 45 43 06 700",
+      "mail" : "frank.groben@cc-cdv.lu",
+      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
+      "nomContact" : "Groben",
+      "onlineReg" : false,
+      "prenomContact" : "Frank",
+      "statut" : "MENFPS",
+      "telephone" : "+352 45 43 06 500"
+   },
+   "prerequis" : "Cours s'adressant à des élèves malvoyants, aveugles ou ayant des troubles neuro-visuels\r\n",
+   "renseignements" : "Toute demande est à adresser à M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1\r\nRenseignements supplémentaires: www.cc-cdv.lu"
+}, {
+   "adresseCours" : {
+      "codePostal" : "8080",
+      "localite" : "Bertrange",
+      "nom" : "Centre pour le développement des compétences relatives à la vue",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "17 A, Rte de Longwy"
+   },
+   "adresseInscription" : {
+      "codePostal" : "8080",
+      "localite" : "Bertrange",
+      "nom" : "Centre pour le développement des compétences relatives à la vue",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "17 A, Rte de Longwy"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "CDV",
+   "categorieCodeUnipop" : "CDV",
+   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
+   "coursCode" : "CDV-LFR-10",
+   "coursId" : "CDV-LFR-10",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "15/02/2026",
+   "dateFin" : "15/07/2026",
+   "dateInscription" : "Inscription possible jusqu'au 5 février 2026",
+   "description" : "Description du cours\r\nCours de français pour adultes malvoyants ou aveugles – Niveau débutant absolu\r\n\r\nCe cours s’adresse à des adultes malvoyants ou aveugles n’ayant aucune connaissance de la langue française et rencontrant des difficultés à suivre un cours collectif en raison de leur âge, de leur état de santé ou de leur situation personnelle.\r\nLe cours est dispensé en format individuel ou en très petit groupe, afin de garantir un accompagnement personnalisé, adapté au rythme et aux capacités de chacun. \r\nL’objectif est de permettre aux participants de communiquer de manière simple dans les situations de la vie courante : se présenter, demander des informations, comprendre et utiliser des mots essentiels.\r\n\r\nObjectifs principaux :\r\n•\tAcquérir les premières bases de communication orale en français\r\n•\tComprendre et utiliser des mots et phrases très simples\r\n•\tDévelopper la confiance en soi dans un contexte francophone\r\n•\tFavoriser l’autonomie dans les interactions du quotidien",
+   "duree" : "36h",
+   "enseignants" : [ {
+      "nom" : "Dieschburg",
+      "prenom" : "Kim"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 10:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 66215,
    "intitule" : "Cours de français pour personnes malvoyantes et aveugles",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
@@ -68797,7 +69925,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "INF",
    "matiereNom" : "Informatique",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Avancé",
    "onlineRegistration" : false,
@@ -68869,7 +69997,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "INF",
    "matiereNom" : "Informatique",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -74152,7 +75280,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "AUT",
    "matiereNom" : "Autonomie",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 16,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -74367,7 +75495,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "INF",
    "matiereNom" : "Informatique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -76822,7 +77950,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SPO",
    "matiereNom" : "Activités motrices",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 20,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
