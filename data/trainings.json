@@ -1257,7 +1257,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -11900,7 +11900,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -18005,7 +18005,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -18316,10 +18316,17 @@
    "dateFin" : "24/04/2026",
    "description" : "Satellites influence navigation, weather forecasting, internet access, and climate monitoring. Yet many people are unaware of how space systems actually work. This course demystifies modern space technology in a practical and accessible way.\r\n\r\nParticipants will explore how satellites are designed, launched, and operated, using everyday examples and visual tools. No technical background is required.\r\n\r\nThe course promotes scientific curiosity and digital citizenship in a rapidly evolving space economy.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 14:30 (durée 5h)",
-   "horaires" : [ ],
+   "horairePrevu" : "Vendredi 24-04-2026 à 14:30 (durée 5h)",
+   "horaires" : [ {
+      "duree" : "5h",
+      "heure" : "14:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66085,
    "intitule" : "Satellites for Everyone: Powering Connectivity, Navigation, and Data",
    "langueCoursCode" : "EN",
@@ -19013,7 +19020,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 5,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -22078,7 +22085,10 @@
    "dateFin" : "13/05/2026",
    "description" : "Turn hours of manual work into minutes without writing a single line of code.\r\n\r\nThis dynamic, hands-on workshop in Luxembourg teaches you how to automate everyday tasks and business processes using powerful no-code and low-code tools. Whether for personal projects, your job, or your own business, you’ll learn how to streamline workflows, save time, and boost productivity fast.\r\n\r\nWalk away with practical automations you’ve built yourself and the skills to keep optimizing everything you do.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 13-05-2026 à 14:30 (durée 5h)",
    "horaires" : [ {
@@ -24133,7 +24143,10 @@
    "dateFin" : "22/05/2026",
    "description" : "Mobile networks connect society, business, and public services. Participants explore 4G, 5G, satellites, and future 6G technologies using real-world examples. \r\n\r\nTelecommunication networks are developed using virtual testbeds and emulators. This course allows participants to build and experiment with mobile networks in software environments.\r\n\r\nLearners configure virtual base stations, simulate user traffic, and analyse coverage using no-code platforms and visual tools.\r\n\r\nThe focus is on experimentation and system understanding through guided labs.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi 22-05-2026 à 14:30 (durée 5h)",
    "horaires" : [ {
@@ -30394,10 +30407,17 @@
    "dateFin" : "05/06/2026",
    "description" : "\"AI for All\" is designed to make artificial intelligence accessible and understandable for everyone in Luxembourg, regardless of age, background, or profession. The course combines theory, practical exercises, and real-world examples to demystify AI, empower critical thinking, and enable learners to understand and engage with AI technologies shaping society and the workplace. ",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi 05-06-2026 à 14:30 (durée 5h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "5h",
+      "heure" : "14:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66147,
    "intitule" : "Workshop - AI for All",
    "langueCoursCode" : "EN",
@@ -31504,7 +31524,10 @@
    "dateFin" : "10/06/2026",
    "description" : "Digital twins are virtual replicas used in industry and cities. This course introduces simulation for decision-making.\r\n\r\nDigital twins allow users to experiment safely with real-world systems. This course teaches participants to create and operate simplified digital twins using simulation platforms.\r\n\r\nLearners model machines, buildings, and processes and run “what-if” experiments. Participants build simple models and understand their practical value.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 10-06-2026 à 14:30 (durée 5h)",
    "horaires" : [ {
@@ -34816,7 +34839,10 @@
    "dateFin" : "19/06/2026",
    "description" : "Data shapes decisions in business, health, education, and public life. From understanding energy consumption to interpreting social trends, the ability to read and analyse information has become an essential life skill. Yet many adults feel intimidated by statistics, spreadsheets, and complex software.\r\n\r\nThis course removes those barriers by focusing on visual dashboards, no-code analytics platforms, and interactive experiments rather than formulas. Participants learn by doing: importing datasets, creating charts, and exploring patterns through guided laboratory sessions in a supportive environment.\r\n\r\nThrough practical exercises and real-world scenarios, learners gain confidence in interpreting data, questioning results, and communicating insights clearly. The course emphasizes critical thinking, responsible data use, and lifelong digital literacy.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi 19-06-2026 à 14:30 (durée 5h)",
    "horaires" : [ {
@@ -45269,7 +45295,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TRT",
    "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
