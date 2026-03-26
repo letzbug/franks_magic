@@ -19504,8 +19504,7 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "À noter : aucun cours n’aura lieu pendant les vacances scolaires. "
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -24834,6 +24833,60 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NUT-2",
+   "coursId" : "SO-NUT-2",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "20/05/2026",
+   "dateFin" : "20/05/2026",
+   "description" : "Atelier cuisine pratique et convivial pour découvrir les principes de la lacto-fermentation ainsi que ses nombreux bienfaits pour la santé.\r\n\r\nAu cours de ce workshop, vous apprendrez les bases de cette technique de conservation naturelle et réaliserez vous-même deux bocaux de légumes en explorant les deux méthodes principales : la saumure et la fermentation sèche.\r\n\r\nUne expérience accessible, ludique et enrichissante, qui vous permettra de repartir avec des préparations faites maison et les connaissances pour reproduire facilement ces techniques chez vous.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 20-05-2026 à 16:20 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66222,
+   "intitule" : "Atelier cuisine : conserver ses légumes grâce à la lactofermentation, principes et bienfaits",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NUT",
+   "matiereNom" : "Nutrition",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMjI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Le formateur met à disposition tout le matériel nécessaire. Une participation de 12,50 € par personne est à régler directement auprès du formateur."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -30584,6 +30637,60 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NUT-3",
+   "coursId" : "SO-NUT-3",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "03/06/2026",
+   "dateFin" : "03/06/2026",
+   "description" : "Atelier alliant théorie et pratique pour découvrir les bienfaits nutritionnels des boissons fermentées telles que le kéfir de fruits, le kombucha ou encore les pétillants de fleurs.\r\n\r\nAprès une introduction théorique, vous réaliserez vous-même deux préparations : un kéfir de fruits et une boisson pétillante à base de fleurs.\r\n\r\nUn atelier accessible et convivial, qui vous permettra de comprendre les bases de la fermentation et de repartir avec des préparations à déguster chez vous.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 03-06-2026 à 16:20 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66223,
+   "intitule" : "Faire sa boisson fermentée : kéfir d'eau, kombucha, pétillant de fleurs, principes et bienfaits",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NUT",
+   "matiereNom" : "Nutrition",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMjM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Le formateur met à disposition tout le matériel nécessaire. Une participation de 12,50 € par personne est à régler directement auprès du formateur."
+}, {
+   "adresseCours" : {
       "codePostal" : "2132",
       "localite" : "Luxembourg",
       "nom" : "Centre Convict",
@@ -32779,6 +32886,64 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-COA-13",
+   "coursId" : "SO-COA-13",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "11/06/2026",
+   "dateFin" : "11/06/2026",
+   "description" : "Cet atelier aide les parents à comprendre leur ado, gérer tensions et conflits, et retrouver sérénité et lien au quotidien. Vous découvrirez les grandes tendances du comportement adolescent et ce qui peut expliquer certaines réactions, pourquoi les humeurs changent, les oublis se multiplient et le plaisir immédiat prime parfois sur tout le reste. Grâce à des exemples concrets du quotidien, des exercices pratiques comme la reformulation ou la mise en perspective, des questions de réflexion et des échanges en groupe, vous apprendrez à ajuster votre rôle parental, instaurer de nouvelles règles adaptées à votre famille et désamorcer les conflits avant qu’ils ne s’enveniment. Vous repartirez avec des stratégies simples et applicables immédiatement pour renforcer votre relation, apaiser le quotidien et créer une dynamique familiale harmonieuse. Ce n’est ni vous, ni votre ado le problème, mais la compréhension et l’accompagnement de cette période clé de sa vie.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 11-06-2026 à 17:10 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66210,
+   "intitule" : "Mon ado et moi: et si le problème n'était ni lui ni vous?  Mode d’emploi pour ados… enfin presque",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COA",
+   "matiereNom" : "Coaching",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Les participants sont priés d’apporter un stylo et un cahier pour prendre des notes. "
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -36360,6 +36525,64 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Le formateur fournit le matériel nécessaire, dont le coût sera de 12 € par participant à régler directement au formateur."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-COA-14",
+   "coursId" : "SO-COA-14",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "25/06/2026",
+   "dateFin" : "25/06/2026",
+   "description" : "Du chaos à l´harmonie: réussir sa famille recomposée:\r\nLa théorie, c’est bien. Le vécu, c’est autre chose. On sous-estime souvent la complexité d’une famille recomposée : c’est une expérience intense, que seule l’immersion dans le quotidien permet de véritablement saisir. Cet atelier propose des solutions concrètes pour aider chacun à y trouver sa place.\r\nEntre divergences sur l’éducation, enfants qui testent les limites, rôle parfois incertain du beau-parent et tensions avec l’ex-partenaire, le quotidien peut vite devenir épuisant. Même avec les meilleures intentions, il est facile de se sentir dépassé, coincé entre ses responsabilités de parent, les exigences du couple et les dynamiques complexes de la recomposition familiale.\r\nVous apprendrez comment décoder les réactions des enfants (souvent liées à des besoins de sécurité ou à des conflits de loyauté) pour transformer les tensions en équilibre durable et renforcer le rôle du beau-parent, à poser des règles cohérentes qui sécurisent les enfants et protègent le couple, et à désamorcer les conflits avant qu’ils ne s’installent.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 25-06-2026 à 17:10 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66211,
+   "intitule" : "Du chaos à l’entente : Réussir sa famille recomposée -  Trouver sa juste place et gérer les conflits",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COA",
+   "matiereNom" : "Coaching",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Les participants sont priés d’apporter un stylo et un cahier pour prendre des notes. "
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
