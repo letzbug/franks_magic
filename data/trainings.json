@@ -36,7 +36,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "MU",
    "matiereNom" : "Musique",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -1833,6 +1833,9 @@
    "duree" : "40h",
    "enseignants" : [ {
       "nom" : "Reuland",
+      "prenom" : "Jos"
+   }, {
+      "nom" : "Reuland",
       "prenom" : "Nico"
    } ],
    "format" : "PRESENTIEL",
@@ -1841,6 +1844,14 @@
       "duree" : "2h",
       "heure" : "19:00",
       "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
    }, {
       "duree" : "2h",
       "heure" : "19:00",
@@ -46257,7 +46268,7 @@
    "matiereCode" : "HIST",
    "matiereNom" : "Histoire",
    "nbInscrits" : 15,
-   "nbPlaces" : 16,
+   "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Nzk%3D",
