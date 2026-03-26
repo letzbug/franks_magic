@@ -1,65 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-MU-4",
-   "coursId" : "AR-MU-4",
-   "coursType" : "CLASSIQUE",
-   "cout" : 108.0,
-   "dateDebut" : "27/03/2026",
-   "dateFin" : "10/07/2026",
-   "description" : "Der Kurs verbindet die beiden Elemente sprechen und singen miteinander. Dabei wird die luxemburgische Sprache als Ausgangspunkt dienen. Es werden Texte gelesen, erarbeitet - die Aussprache verbessert und einige werden gesungen.\r\nZiel ist es den Teilnehmern die Sprache und das Singen so zu vermitteln, dass sie die luxemburgische Sprache auf eine interessante Art erlernen und erweitern können.",
-   "duree" : "24 leçons",
-   "enseignants" : [ {
-      "nom" : "Lieser",
-      "prenom" : "Daniel"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64911,
-   "intitule" : "Lëtzebuergesch schwätzen a sangen - sangen a schwätzen",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "MU",
-   "matiereNom" : "Musique",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ5MTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "4221",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "Kulturfabrik - Salle Lino Jaune ",
@@ -46365,6 +46305,66 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-MU-4",
+   "coursId" : "AR-MU-4",
+   "coursType" : "CLASSIQUE",
+   "cout" : 108.0,
+   "dateDebut" : "27/03/2026",
+   "dateFin" : "10/07/2026",
+   "description" : "Der Kurs verbindet die beiden Elemente sprechen und singen miteinander. Dabei wird die luxemburgische Sprache als Ausgangspunkt dienen. Es werden Texte gelesen, erarbeitet - die Aussprache verbessert und einige werden gesungen.\r\nZiel ist es den Teilnehmern die Sprache und das Singen so zu vermitteln, dass sie die luxemburgische Sprache auf eine interessante Art erlernen und erweitern können.",
+   "duree" : "24 leçons",
+   "enseignants" : [ {
+      "nom" : "Lieser",
+      "prenom" : "Daniel"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64911,
+   "intitule" : "Lëtzebuergesch schwätzen a sangen - sangen a schwätzen",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "MU",
+   "matiereNom" : "Musique",
+   "nbInscrits" : 5,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ5MTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4702",
       "localite" : "Pétange",
       "nom" : "CIGL - Pétange",
@@ -46939,67 +46939,6 @@
       "websiteUrl" : "https://www.luxchine.org/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite.Au coût d'inscription s'ajouteront les frais de participation (28 euros)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-BE-12",
-   "coursId" : "SO-BE-12",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "20/03/2026",
-   "dateFin" : "27/03/2026",
-   "description" : "Apprenez à adopter de bonnes habitudes pour optimiser vos espaces, gagner du temps au quotidien et améliorer la gestion du linge.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Krier",
-      "prenom" : "Marie Paule",
-      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65813,
-   "intitule" : "HOME ORGANSING 2 : Organiser sa maison pour éviter le désordre et la perte de temps",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BE",
-   "matiereNom" : "Bien-être",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -50743,68 +50682,66 @@
    "renseignements" : "Chaque participant devra apporter des tubes de peinture acrylique variés, 2 à 3 pinceaux, une palette, un récipient pour l’eau, des serviettes pour les pinceaux, ainsi qu’une toile ou un support pour les exercices."
 }, {
    "adresseCours" : {
-      "codePostal" : "2163",
-      "localite" : "Luxembourg",
-      "nom" : "Institut français du Luxembourg",
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "47 avenue Monterey"
+      "rueNumero" : "14, Porte de France"
    },
-   "adresseInscription" : {
-      "codePostal" : "2163",
-      "localite" : "Luxembourg",
-      "nom" : "via courriel ou site internet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "47 avenue Monterey"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-837",
-   "coursId" : "LA-FR-837",
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-85",
+   "coursId" : "SO-YOG-85",
    "coursType" : "CLASSIQUE",
-   "cout" : 1190.0,
+   "cout" : 76.5,
    "dateDebut" : "02/03/2026",
-   "dateFin" : "27/03/2026",
-   "dateInscription" : "De 4 à 1 semaine avant le début de la session",
-   "description" : "L'apprenant peut comprendre, à condition que le débit soit lent et la diction claire :  la description et la définition des objets du quotidien\r\n des informations médicales\r\n des échanges dans un restaurant/dans un commerce\r\n des descriptions physiques et psychologiques\r\n des informations sur les médias préférés des français\r\n(cf référentiel IFL)\r\nCours collectifs de français disponibles du niveau A1.1 au C1, conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF",
-   "duree" : "60h",
-   "enseignants" : [ ],
+   "dateFin" : "13/07/2026",
+   "description" : "Un cours pour vous offrir une véritable parenthèse de régénération profonde grâce au Yoga Nidra (le yoga du sommeil conscient) et sonothérapie (soin par les sons). Accessible à tous, ce cours invite à libérer les tensions, apaiser le système nerveux et favoriser la récupération. La pratique guidée se fait allongée pour amener le corps et le mental dans un état de détente profonde. \r\nObjectifs du cours :\r\n• Apprendre à induire un état de relaxation profonde à travers le Yoga Nidra.\r\n• Découvrir le pouvoir régénérant des vibrations sonores sur le corps et l’esprit.\r\n• Soulager le stress, l’anxiété et la surcharge mentale.\r\n• Favoriser un meilleur sommeil, une meilleure écoute de soi et un relâchement durable des tensions.\r\n• Renforcer la capacité d’ancrage, de présence et de régulation émotionnelle.\r\n• Offrir un espace de reconnexion à soi, en douceur, sans exigence de performance.",
+   "duree" : "17 leçons",
+   "enseignants" : [ {
+      "nom" : "Sorcinelli",
+      "prenom" : "Fabiana"
+   } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h),\nMardi à 09:00 (durée 3h),\nMercredi à 09:00 (durée 3h),\nJeudi à 09:00 (durée 3h),\nVendredi à 09:00 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 60349,
-   "intitule" : "cours de français : session intensive",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 8,
+   "horairePrevu" : "Lundi à 17:10 (durée 0h50)",
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "17:10",
+      "jour" : "Lundi"
+   } ],
+   "id" : 63814,
+   "intitule" : "Yoga Nidra et Bain Sonore : Plongez au cœur du lâcher-prise",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MTQ%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "2163",
-         "localite" : "Luxembourg",
-         "nom" : "Institut Français du Luxembourg",
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "47, Avenue Monterey"
+         "rueNumero" : "14, Porte de France"
       },
-      "code" : "IFL",
-      "mail" : "cours@ifluxembourg.lu",
-      "nom" : "Institut Français du Luxembourg",
-      "nomContact" : "Hausmesser",
-      "onlineReg" : false,
-      "prenomContact" : "Isabelle",
-      "statut" : "ASBL",
-      "telephone" : "462 166 39",
-      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
    },
-   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
-   "renseignements" : "Groupes de niveaux homogènes composés de 2 à 8 apprenants."
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg. Veuillez noter qu’il n’y a ni vestiaires ni douches disponibles sur notre site.",
+   "renseignements" : "Apportez une couverture, un coussin et des vêtements confortables. Le cours se déroule en position allongée ou assise. \r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "9085",
@@ -51053,68 +50990,6 @@
    },
    "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
    "renseignements" : "Merci d’apporter un tapis de yoga.\r\nVeuillez noter qu’il n’y a ni vestiaires ni douches disponibles sur notre site."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-85",
-   "coursId" : "SO-YOG-85",
-   "coursType" : "CLASSIQUE",
-   "cout" : 76.5,
-   "dateDebut" : "02/03/2026",
-   "dateFin" : "13/07/2026",
-   "description" : "Un cours pour vous offrir une véritable parenthèse de régénération profonde grâce au Yoga Nidra (le yoga du sommeil conscient) et sonothérapie (soin par les sons). Accessible à tous, ce cours invite à libérer les tensions, apaiser le système nerveux et favoriser la récupération. La pratique guidée se fait allongée pour amener le corps et le mental dans un état de détente profonde. \r\nObjectifs du cours :\r\n• Apprendre à induire un état de relaxation profonde à travers le Yoga Nidra.\r\n• Découvrir le pouvoir régénérant des vibrations sonores sur le corps et l’esprit.\r\n• Soulager le stress, l’anxiété et la surcharge mentale.\r\n• Favoriser un meilleur sommeil, une meilleure écoute de soi et un relâchement durable des tensions.\r\n• Renforcer la capacité d’ancrage, de présence et de régulation émotionnelle.\r\n• Offrir un espace de reconnexion à soi, en douceur, sans exigence de performance.",
-   "duree" : "17 leçons",
-   "enseignants" : [ {
-      "nom" : "Sorcinelli",
-      "prenom" : "Fabiana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:10 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "17:10",
-      "jour" : "Lundi"
-   } ],
-   "id" : 63814,
-   "intitule" : "Yoga Nidra et Bain Sonore : Plongez au cœur du lâcher-prise",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MTQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg. Veuillez noter qu’il n’y a ni vestiaires ni douches disponibles sur notre site.",
-   "renseignements" : "Apportez une couverture, un coussin et des vêtements confortables. Le cours se déroule en position allongée ou assise. \r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -60536,92 +60411,88 @@
    "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
    },
    "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Ettelbruck",
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
+      "rueNumero" : "2, am Foumichterwee"
    },
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-948",
-   "coursId" : "LA-LB-948",
+   "coursCode" : "LA-FR-1135",
+   "coursId" : "LA-FR-1135",
    "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
+   "cout" : 150.0,
    "dateDebut" : "12/01/2026",
-   "dateFin" : "27/03/2026",
-   "dateInscription" : "Tous les jours entre 9h et 12h",
+   "dateFin" : "26/03/2026",
+   "dateInscription" : "Lundi-Vendredi de 08:00-16:00 heures",
+   "description" : "Se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
    "domainesCompetences" : [ {
-      "competences" : [ "Peut identifier les formules de politesse et de salutation\r\n", "Peut comprendre les chiffres, les prix et l'heure\r\n", "Peut comprendre des expressions et mots familiers\r\n", "Peut comprendre des questions, instructions ou indications\r\ncourtes et élémentaires", "Peut manifester ma compréhension ou mon incompréhension\r\n", "Peut comprendre des consignes courtes et simples\r\n", "Peut comprendre l'appartenance ou la quantité\r\n", "Peut comprendre des informations ou des questions personnelles\r\nsimples", "Peut comprendre la description d'un objet ou d'une personne" ],
+      "competences" : [ "Peut comprendre quelques mots familiers.", "Peut comprendre des instructions très simples (consignes de classe).", "Peut comprendre des questions simples sur l'identité (nom, prénom, adresse et nationalité)", "Peut comprendre des informations chiffrées simples (téléphone et adresse.)." ],
       "domaine" : "Compréhension orale"
    }, {
-      "competences" : [ "Peut épeler\r\n", "Peut comprendre des indications et messages courts et simples\r\n", "Peut comprendre des textes courts avec des mots familiers et\r\ncourants", "Peut comprendre et suivre des instructions, des indications\r\n", "Peut comprendre des textes simples avec des informations et des\r\ndescriptions courtes", "Peut comprendre des textes simples donnant des informations et\r\ndes descriptions sur l'identité, la présentation, la description,\r\nsur les évènements dans le temps, sur la localisation, la\r\nmétéo..." ],
+      "competences" : [ "Peut reconnaître des noms, mots, expressions courantes (par exemple sur des panneaux, des affiches publicitaires).", "Peut repérer des données, des chiffres ou d'autres informations et suivre des indications brèves et simples." ],
       "domaine" : "Compréhension écrite"
    }, {
-      "competences" : [ "Peut se présenter\r\n", "Peut parler de mon environnement quotidien (donner mes\r\ncoordonnées, parler de ma famille, de mes loisirs.)", "Peut lire un texte à voix haute.\r\n", "Peut exprimer l'appartenance ou la quantité.\r\n", "Peut entrer en contact avec quelqu'un.\r\n", "Peut utiliser des expressions élémentaires de salutation et de\r\ncongé.", "Peut réagir à des messages et instructions simples.\r\n", "Peut poser et répondre à des questions personnelles.\r\n", "Peut répondre par l'affirmative ou par la négative.\r\n", "Peut présenter quelqu'un (identité, nom, âge, nationalité,\r\nprofession, lieu d'habitation.)", "Peut décrire un objet, une personne.\r\n", "Peut désigner quelque chose ou quelqu'un, dire le prix d'un objet", "Peut exprimer des besoins dans des situations quotidiennes.\r\n", "Peut se situer dans le temps (situer des événements dans le\r\ntemps, dire la date, l'heure...)", "Peut se situer dans l'espace ( situer un lieu, localiser une ville...)\r\n", "Peut demander un service, une information à quelqu'un\r\n(demander un prix, demander l'heure, un objet...)" ],
-      "domaine" : "Production Orale"
+      "competences" : [ "Peut utiliser des expressions élémentaires de salutation et congé", "Peut poser des questions personnelles, répondre à des questions personnelles (sur l'identité).", "Peut présenter très brièvement quelqu'un (membre de sa famille, ami, ...).", "Peut se débrouiller avec les nombres (pour être capable de donner ses coordonnées)." ],
+      "domaine" : "Expression orale"
    }, {
-      "competences" : [ "Peut remplir une fiche de renseignements personnels (une fiche\r\nd'identité, une fiche d'inscription, un formulaire simple...)", "Peut écrire un texte de présentation simple sur soi-même et sur\r\nles autres", "Peut écrire des messages très simples à des amis (lettre ou email)\r\n", "Peut écrire des phrases simples au présent\r\n", "Peut décrire le lieu ou il habite (pièces de la maison, objets du\r\nquotidien)" ],
-      "domaine" : "Production écrite"
+      "competences" : [ "Peut recopier des mots, des chiffres.", "Peut noter des mots, des chiffres en vue de se les remémorer.", "Peut remplir une fiche d'hôtel ou un formulaire simple." ],
+      "domaine" : "Expression écrite"
    } ],
-   "duree" : "60h",
+   "duree" : "50h",
    "enseignants" : [ {
-      "nom" : "Albuquerque",
-      "prenom" : "Fabio"
+      "nom" : "Bergmans",
+      "prenom" : "Miranda"
    } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:30 (durée 2h), Mercredi à 17:30 (durée 2h), Vendredi à 17:30 (durée 2h)",
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:30 (durée 2h30),\nJeudi à 09:30 (durée 2h30)",
    "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "17:30",
+      "duree" : "2h30",
+      "heure" : "09:30",
       "jour" : "Lundi"
    }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Vendredi"
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
    } ],
-   "id" : 60899,
-   "intitule" : "Luxembourgeois",
+   "id" : 63270,
+   "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 22,
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 9,
    "nbPlaces" : 25,
-   "niveau" : "A1.2 du CECRL",
+   "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
+         "codePostal" : "9151",
+         "localite" : "Eschdorf",
+         "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
+         "rueNumero" : "2, am Foumichterwee"
       },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
       "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
+      "prenomContact" : "Fabio",
       "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "Renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "codePostal" : "8211",
@@ -61484,270 +61355,6 @@
       "statut" : "ASBL",
       "telephone" : "621 464 422",
       "websiteUrl" : "https://efid.lu/"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1290",
-   "coursId" : "LA-FR-1290",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "12/01/2026",
-   "dateFin" : "27/03/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des phrases  et des expressions relatives à ce dont il a  besoin dans des situations simples de la vie quotidienne, dans des magasins, à la poste,  à la banque", "comprendre suffisamment pour échanger des propos habituels sans trop d'efforts ", "comprendre les points essentiels d'annonces,  de messages brefs,  simples et clairs\r\n" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "trouver, identifier  des informations précises  dans des documents  écrits simples  tels que lettres,dépliants, publicités, articles de presse", "comprendre un texte court et simple  contenant des termes courants \r\n", "comprendre un règlement écrit simplement\r\n", " comprendre un mode d'emploi\r\n" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "décrire des  objets \r\n", "comparer  des personnes, des lieux, des objets", "donner brièvement des justifications", "exprimer ses opinions\r\n", "raconter une histoire simple (énoncés reliés par les articulations les plus fréquentes)\r\n" ],
-      "domaine" : "expression orale"
-   }, {
-      "competences" : [ "échanger des idées simples et  des renseignements\r\n", "obtenir et fournir des biens et services (commander un repas, acheter un billet)\r\n", "faire,  accepter  une offre, une invitation, des excuses", "faire des suggestions et réagir à des propositions  " ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "rédiger une annonce ou y réagir pour demander des précisions\r\n", "rédiger simplement des consignes\r\n", " faire une description  brève d'un  événement passé, d'activités passées, d'expériences professionnelles" ],
-      "domaine" : "expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Drissi",
-      "prenom" : "Imen"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 16:20 (durée 1h40), Mercredi à 16:20 (durée 1h40), Vendredi à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63728,
-   "intitule" : "Français, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 20,
-   "nbPlaces" : 24,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "A2.1 requis",
-   "renseignements" : "Accessible aux personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9151",
-      "localite" : "Eschdorf",
-      "nom" : "Landakademie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, am Foumichterwee"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1135",
-   "coursId" : "LA-FR-1135",
-   "coursType" : "CLASSIQUE",
-   "cout" : 150.0,
-   "dateDebut" : "12/01/2026",
-   "dateFin" : "26/03/2026",
-   "dateInscription" : "Lundi-Vendredi de 08:00-16:00 heures",
-   "description" : "Se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut comprendre quelques mots familiers.", "Peut comprendre des instructions très simples (consignes de classe).", "Peut comprendre des questions simples sur l'identité (nom, prénom, adresse et nationalité)", "Peut comprendre des informations chiffrées simples (téléphone et adresse.)." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut reconnaître des noms, mots, expressions courantes (par exemple sur des panneaux, des affiches publicitaires).", "Peut repérer des données, des chiffres ou d'autres informations et suivre des indications brèves et simples." ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Peut utiliser des expressions élémentaires de salutation et congé", "Peut poser des questions personnelles, répondre à des questions personnelles (sur l'identité).", "Peut présenter très brièvement quelqu'un (membre de sa famille, ami, ...).", "Peut se débrouiller avec les nombres (pour être capable de donner ses coordonnées)." ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "Peut recopier des mots, des chiffres.", "Peut noter des mots, des chiffres en vue de se les remémorer.", "Peut remplir une fiche d'hôtel ou un formulaire simple." ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Bergmans",
-      "prenom" : "Miranda"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:30 (durée 2h30),\nJeudi à 09:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63270,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 9,
-   "nbPlaces" : 25,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
-         "nom" : "Landakademie",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
-      },
-      "code" : "LANAKA",
-      "fax" : "+352 89 95 68-40",
-      "mail" : "fabio@landakademie.lu",
-      "nom" : "Landakademie",
-      "nomContact" : "Da Silva Loureiro",
-      "onlineReg" : false,
-      "prenomContact" : "Fabio",
-      "statut" : "ASBL",
-      "telephone" : "89 95 68 28",
-      "websiteUrl" : "https://www.landakademie.lu/"
-   },
-   "renseignements" : "Renseignements complémentaires lors de l'inscription"
-}, {
-   "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 Rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 Rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-950",
-   "coursId" : "LA-LB-950",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "12/01/2026",
-   "dateFin" : "27/03/2026",
-   "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Peut communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. \r\nPeut décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut suivre des directives simple comme un itinéraire.\r\n", "Peut comprendre l'idée générale d'un texte.\r\n", "Peut comprendre des informations relatives à la famille, aux\r\nachats et à l'environnement.", "Peut identifier l'élément principal des nouvelles télévisées." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut trouver des renseignements précis dans des documents\r\nsimples.", "Peut comprendre différents types de lettres ou emails.\r\n", "Peut comprendre des faits décrits dans des articles simples.\r\n", "Peut comprendre des consignes rédigées simplement" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Peut saluer, se présenter, présenter quelqu'un, remercier.\r\n", "Peut poser des questions et y répondre.\r\n", "Peut utiliser des formules de politesse simples.\r\n", "Peut décrire des lieux, des objets, des activités quotidiennes, ses\r\ngouts, un évènement.", "Peut exprimer ses opinions, expliquer pourquoi une chose plait\r\nou déplait.", "Peut dire ce qu'il aime ou pas.\r\n", "Peut exprimer des projets\r\n", "Peut obtenir et fournir des biens et services.\r\n", "Peut commencer, poursuivre et terminer une brève conversation.", "Peut demander de répéter en cas d'incompréhension." ],
-      "domaine" : "Production Orale"
-   }, {
-      "competences" : [ "Peut écrire des messages simples et courts pour entrer en contact\r\nou exprimer des remerciements.", "Peut écrire des phrases simples au présent, au passé et au futur.\r\n", "Peut décrire des activités quotidiennes.\r\n", "Peut faire la description d'un évènement, d'activités passées,\r\nd'expériences personnelles." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Albuquerque",
-      "prenom" : "Fabio"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 19:30 (durée 2h), Mercredi à 19:30 (durée 2h), Vendredi à 19:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 60901,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
-   "nbPlaces" : 25,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
    }
 }, {
    "adresseCours" : {
@@ -62817,97 +62424,6 @@
       "telephone" : "+352 54 50 61 206"
    },
    "renseignements" : "Il n’y a pas cours pendant les vacances scolaires"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1343",
-      "localite" : "Luxembourg",
-      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "15, Montée de Clausen"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1343",
-      "localite" : "Luxembourg",
-      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "15, Montée de Clausen"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1080",
-   "coursId" : "LA-FR-1080",
-   "coursType" : "CLASSIQUE",
-   "cout" : 132.0,
-   "dateDebut" : "07/01/2026",
-   "dateFin" : "27/03/2026",
-   "dateInscription" : "À partir de 05/11/2025, du lundi au vendredi, de 09h30 à 12h15 et de 13h30 à 17h30.",
-   "description" : "Être capable de : - communiquer simplement dans son environnement personnel et professionnel pour décrire des lieux et des personnes ; parler de sa famille, de ses activités, de son travail ; échanger des informations, suivre et donner des instructions.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent (simple) relatifs à soi-même, à la famille, au travail, aux achats;\r\n", "Je peux saisir l'essentiel d'annonces / messages simples." ],
-      "domaine" : "Comprendre / Écouter "
-   }, {
-      "competences" : [ "Je peux lire des textes courts et simples, trouver une information dans des documents comme des publicités, des prospectus, des menus...\r\nJe peux comprendre des lettres personnelles courts et simples.\r\n" ],
-      "domaine" : "Comprendre / Lire "
-   }, {
-      "competences" : [ "Je suis capable de communiquer lors des tâches simples et habituelles (sujets et activités familiers) Échanges brefs." ],
-      "domaine" : "Parler / Prendre part à une conversation"
-   }, {
-      "competences" : [ "Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille, mes conditions de vie, mon activité professionnelle actuelle ou récente." ],
-      "domaine" : "Parler / S'exprimer oralement en continue "
-   }, {
-      "competences" : [ "Écrire des notes et des messages simples et courts, je peux écrire une lettre personnelle simple (par exemple, des remerciements). " ],
-      "domaine" : "Écrire "
-   } ],
-   "duree" : "44h",
-   "enseignants" : [ {
-      "nom" : "Tallarico",
-      "prenom" : "Rosella"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 14:00 (durée 2h),\nVendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63008,
-   "intitule" : "Français - A1.2",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 14,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1343",
-         "localite" : "Luxembourg",
-         "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, Montée de Clausen"
-      },
-      "code" : "CASA",
-      "fax" : "+352 46 90 70",
-      "mail" : "infocasa@pt.lu",
-      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-      "nomContact" : "Ferreira Trindade",
-      "onlineReg" : false,
-      "prenomContact" : "José",
-      "statut" : "ASBL",
-      "telephone" : "+352 432749/464819",
-      "websiteUrl" : "https://www.casa-asbl.lu"
-   },
-   "renseignements" : "Le cours de Français est présentiel."
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
