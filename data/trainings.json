@@ -55239,294 +55239,6 @@
       "nom" : "Centre pour le développement des compétences relatives à la vue",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "CDV",
-   "categorieCodeUnipop" : "CDV",
-   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
-   "coursCode" : "CDV-TAB-10",
-   "coursId" : "CDV-TAB-10",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "23/02/2026",
-   "dateFin" : "28/03/2026",
-   "dateInscription" : "Inscription possible jusqu'au 5 juin 2025",
-   "description" : "Manipulation d'un smartphone ou d'une tablette avec un outil d'accessibilité comme VoiceOver ou TalkBack:\r\n- Téléphoner, SMS, E-mail\r\n- Réseaux sociaux\r\n- Calendrier\r\n- Contacts\r\n- Recherche Internet\r\n- Lecture de documents...",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Zigrand",
-      "prenom" : "Tom Liam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 13:00 (durée 1h)",
-   "horaires" : [ {
-      "duree" : "1h",
-      "heure" : "13:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 60027,
-   "intitule" : "2.2 LU (2) L'accès aux \"tablettes and smartphones\" pour personnes aveugles et malvoyantes",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tablets and smartphones",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8080",
-         "localite" : "Bertrange",
-         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "17A, Route de Longwy"
-      },
-      "code" : "CDV",
-      "fax" : "+352 45 43 06 700",
-      "mail" : "frank.groben@cc-cdv.lu",
-      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-      "nomContact" : "Groben",
-      "onlineReg" : false,
-      "prenomContact" : "Frank",
-      "statut" : "MENFPS",
-      "telephone" : "+352 45 43 06 500"
-   },
-   "prerequis" : "- avoir un smartphone ou une tablette\r\n- cours réservé aux personnes ayant un trouble relatif à la vue",
-   "renseignements" : "6 séances pour chaque horaire\r\nToute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "CDV",
-   "categorieCodeUnipop" : "CDV",
-   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
-   "coursCode" : "CDV-TAB-22",
-   "coursId" : "CDV-TAB-22",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "23/02/2026",
-   "dateFin" : "28/03/2026",
-   "dateInscription" : "Inscription possible jusqu'au 5 juin 2025",
-   "description" : "Manipulation d'un smartphone ou d'une tablette avec un outil d'accessibilité comme VoiceOver ou TalkBack:\r\n- Téléphoner, SMS, E-mail\r\n- Réseaux sociaux\r\n- Calendrier\r\n- Contacts\r\n- Recherche Internet\r\n- Lecture de documents...",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Zigrand",
-      "prenom" : "Tom Liam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 09:00 (durée 1h)",
-   "horaires" : [ {
-      "duree" : "1h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 60039,
-   "intitule" : "2.2 JE (1) L'accès aux \"tablettes and smartphones\" pour personnes aveugles et malvoyantes",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tablets and smartphones",
-   "nbInscrits" : 1,
-   "nbPlaces" : 6,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8080",
-         "localite" : "Bertrange",
-         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "17A, Route de Longwy"
-      },
-      "code" : "CDV",
-      "fax" : "+352 45 43 06 700",
-      "mail" : "frank.groben@cc-cdv.lu",
-      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-      "nomContact" : "Groben",
-      "onlineReg" : false,
-      "prenomContact" : "Frank",
-      "statut" : "MENFPS",
-      "telephone" : "+352 45 43 06 500"
-   },
-   "prerequis" : "avoir un smartphone ou une tablette",
-   "renseignements" : "6 séances pour chaque horaire\r\nToute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "CDV",
-   "categorieCodeUnipop" : "CDV",
-   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
-   "coursCode" : "CDV-TAB-16",
-   "coursId" : "CDV-TAB-16",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "23/02/2026",
-   "dateFin" : "28/03/2026",
-   "dateInscription" : "Inscription possible jusqu'au 5 juin 2025",
-   "description" : "Manipulation d'un smartphone ou d'une tablette avec un outil d'accessibilité comme VoiceOver ou TalkBack:\r\n- Téléphoner, SMS, E-mail\r\n- Réseaux sociaux\r\n- Calendrier\r\n- Contacts\r\n- Recherche Internet\r\n- Lecture de documents...",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Zigrand",
-      "prenom" : "Tom Liam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 12:00 (durée 1h)",
-   "horaires" : [ {
-      "duree" : "1h",
-      "heure" : "12:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 60033,
-   "intitule" : "2.2 MA L'accès aux \"tablettes and smartphones\" pour personnes aveugles et malvoyantes",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tablets and smartphones",
-   "nbInscrits" : 1,
-   "nbPlaces" : 6,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8080",
-         "localite" : "Bertrange",
-         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "17A, Route de Longwy"
-      },
-      "code" : "CDV",
-      "fax" : "+352 45 43 06 700",
-      "mail" : "frank.groben@cc-cdv.lu",
-      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-      "nomContact" : "Groben",
-      "onlineReg" : false,
-      "prenomContact" : "Frank",
-      "statut" : "MENFPS",
-      "telephone" : "+352 45 43 06 500"
-   },
-   "prerequis" : "avoir un smartphone ou une tablette",
-   "renseignements" : "6 séances pour chaque horaire\r\nToute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "CDV",
-   "categorieCodeUnipop" : "CDV",
-   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
-   "coursCode" : "CDV-TAB-28",
-   "coursId" : "CDV-TAB-28",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "23/02/2026",
-   "dateFin" : "28/03/2026",
-   "dateInscription" : "Inscription possible jusqu'au 5 juin 2025",
-   "description" : "Manipulation d'un smartphone ou d'une tablette avec un outil d'accessibilité comme VoiceOver ou TalkBack:\r\n- Téléphoner, SMS, E-mail\r\n- Réseaux sociaux\r\n- Calendrier\r\n- Contacts\r\n- Recherche Internet\r\n- Lecture de documents...",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Zigrand",
-      "prenom" : "Tom Liam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 13:00 (durée 1h)",
-   "horaires" : [ {
-      "duree" : "1h",
-      "heure" : "13:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 60045,
-   "intitule" : "2.2 JE (1) L'accès aux \"tablettes and smartphones\" pour personnes aveugles et malvoyantes",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tablets and smartphones",
-   "nbInscrits" : 1,
-   "nbPlaces" : 6,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8080",
-         "localite" : "Bertrange",
-         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "17A, Route de Longwy"
-      },
-      "code" : "CDV",
-      "fax" : "+352 45 43 06 700",
-      "mail" : "frank.groben@cc-cdv.lu",
-      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-      "nomContact" : "Groben",
-      "onlineReg" : false,
-      "prenomContact" : "Frank",
-      "statut" : "MENFPS",
-      "telephone" : "+352 45 43 06 500"
-   },
-   "prerequis" : "avoir un smartphone ou une tablette",
-   "renseignements" : "6 séances pour chaque horaire\r\nToute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
       "rueNumero" : "17a, rte de Longwy"
    },
    "adresseInscription" : {
@@ -55592,78 +55304,6 @@
    },
    "prerequis" : "-Avoir des connaissances de l'ordinateur (allumer, ouvrir logiciel)\t\r\n-Intéressé d'élaborer ses connaissances \r\n-Travailler indépendant \r\n-cours réservé pour des personnes ayant des troubles relatifs à la vue\r\n",
    "renseignements" : "Toute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17 A, Rte de Longwy"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "CDV",
-   "categorieCodeUnipop" : "CDV",
-   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
-   "coursCode" : "CDV-TAB-4",
-   "coursId" : "CDV-TAB-4",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "23/02/2026",
-   "dateFin" : "28/03/2026",
-   "dateInscription" : "Inscription possible jusqu'au 5 juin 2025",
-   "description" : "Manipulation d'un smartphone ou d'une tablette avec un outil d'accessibilité comme VoiceOver ou TalkBack:\r\n- Téléphoner, SMS, E-mail\r\n- Réseaux sociaux\r\n- Calendrier\r\n- Contacts\r\n- Recherche Internet\r\n- Lecture de documents...",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Zigrand",
-      "prenom" : "Tom Liam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 09:00 (durée 1h)",
-   "horaires" : [ {
-      "duree" : "1h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 60021,
-   "intitule" : "2.2 LU (1) L'accès aux \"tablettes and smartphones\" pour personnes aveugles et malvoyantes",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tablets and smartphones",
-   "nbInscrits" : 1,
-   "nbPlaces" : 6,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8080",
-         "localite" : "Bertrange",
-         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "17A, Route de Longwy"
-      },
-      "code" : "CDV",
-      "fax" : "+352 45 43 06 700",
-      "mail" : "frank.groben@cc-cdv.lu",
-      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-      "nomContact" : "Groben",
-      "onlineReg" : false,
-      "prenomContact" : "Frank",
-      "statut" : "MENFPS",
-      "telephone" : "+352 45 43 06 500"
-   },
-   "prerequis" : "- avoir un smartphone ou une tablette\r\n- cours réservé aux personnes ayant un trouble relatif à la vue",
-   "renseignements" : "6 séances pour chaque horaire\r\nToute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "8080",
@@ -61647,67 +61287,6 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch/Alzette",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
-   "coursCode" : "IN-3DP-3",
-   "coursId" : "IN-3DP-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 148.5,
-   "dateDebut" : "10/01/2026",
-   "dateFin" : "28/03/2026",
-   "description" : "Le cours couvre les bases et les aspects avancés de l'impression 3D, incluant la modélisation 3D avec Fusion 360, la préparation à l’impression à l’aide de logiciels de tranchage, l’utilisation des machines, la détection et la résolution des erreurs.\r\n\r\nLes participant·e·s conçoivent des modèles 3D simples à complexes, découvrent différentes fonctionnalités et réalisent des projets d'impression pratiques. À la fin du cours, les résultats sont présentés et discutés.\r\n\r\nContenu du cours :\r\n > Introduction à l’impression 3D (technologies et considérations de conception)\r\n > Bases de la modélisation 3D (avec Autodesk Fusion 360)\r\n > Fondamentaux de l’impression 3D (présentation des imprimantes et du G-code)\r\n > Préparation de l’impression avec un slicer (PrusaSlicer)\r\n > Techniques avancées de préparation et post-traitement\r\n > Optimisation de l’impression et réglages avancés\r\n > Modélisation d’assemblages complexes (avec Fusion 360)\r\n > Application des acquis dans des projets pratiques et défis créatifs\r\n > Clôture et présentation des projets",
-   "duree" : "33 leçons",
-   "enseignants" : [ {
-      "nom" : "Lorang",
-      "prenom" : "Johnny"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 09:20 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "09:20",
-      "jour" : "Samedi"
-   } ],
-   "id" : 62072,
-   "intitule" : "3D Masterclass:Des bases aux créations complexes avec l'imprimante 3D",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "3DP",
-   "matiereNom" : "3D-Printing",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjIwNzI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -63627,76 +63206,86 @@
    "renseignements" : "Tél.:  +352 691 50 22 41; +352 621 63 64 12; Le cours est ouvert aux personnes à besoins spécifiques."
 }, {
    "adresseCours" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
+      "codePostal" : "8473",
+      "localite" : "Eischen",
+      "nom" : "Ecole centrale \"Vir Wëller\"",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "17a, rte de Longwy"
+      "rueNumero" : "19, rue de Hobscheid"
    },
    "adresseInscription" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "17a, rte de Longwy"
+      "rueNumero" : "2, am Foumichterwee"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "CDV",
-   "categorieCodeUnipop" : "CDV",
-   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
-   "coursCode" : "CDV-INF-8",
-   "coursId" : "CDV-INF-8",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-920",
+   "coursId" : "LA-LB-920",
    "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
+   "cout" : 90.0,
    "dateDebut" : "05/01/2026",
-   "dateFin" : "28/03/2026",
-   "dateInscription" : "Inscription possible jusqu'au 31 octobre 2025",
-   "description" : "Premiers pas avec un système d'exploitation (au choix de l'apprenant) et l'ordinateur.\r\nFaire connaissance des possibilités offertes par l'informatique. \r\nPremier pas avec les outils d'accessibilité adaptés aux besoins de l'apprenant.",
-   "duree" : "12h",
+   "dateFin" : "04/05/2026",
+   "dateInscription" : "lundi-vendredi de 08:00 - 16:00 heures",
+   "description" : "- suite du cours de luxembourgeois A1.1 (LA-LB-919)\r\n\r\n- se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Versteet Begréissungsformelen", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock "
+   } ],
+   "duree" : "30h",
    "enseignants" : [ {
-      "nom" : "Zigrand",
-      "prenom" : "Tom Liam"
+      "nom" : "Martin",
+      "prenom" : "Benita"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 09:00 (durée 1h)",
+   "horairePrevu" : "Lundi à 19:00 (durée 2h)",
    "horaires" : [ {
-      "duree" : "1h",
-      "heure" : "09:00",
-      "jour" : "Vendredi"
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
    } ],
-   "id" : 60006,
-   "intitule" : "Systèmes d'exploitations pour personnes malvoyantes et aveugles",
+   "id" : 60534,
+   "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "INF",
-   "matiereNom" : "Informatique",
-   "nbInscrits" : 1,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 22,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "8080",
-         "localite" : "Bertrange",
-         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
+         "codePostal" : "9151",
+         "localite" : "Eschdorf",
+         "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "17A, Route de Longwy"
+         "rueNumero" : "2, am Foumichterwee"
       },
-      "code" : "CDV",
-      "fax" : "+352 45 43 06 700",
-      "mail" : "frank.groben@cc-cdv.lu",
-      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-      "nomContact" : "Groben",
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
       "onlineReg" : false,
-      "prenomContact" : "Frank",
-      "statut" : "MENFPS",
-      "telephone" : "+352 45 43 06 500"
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
    },
-   "prerequis" : "- cours réservé pour des personnes ayant des troubles relatifs à la vue",
-   "renseignements" : "12  séances\r\nToute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu"
+   "prerequis" : "avoir suivi le cours de luxembourgeois A1.1 (LA-LB-919)",
+   "renseignements" : "renseignements complémentaires lors de l'inscription "
 }, {
    "adresseCours" : {
       "codePostal" : "3542",
@@ -64654,232 +64243,6 @@
       "websiteUrl" : "http://www.amitalux.lu/"
    },
    "prerequis" : "Avoir suivi le cours LA-IT-117 en 2025"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17a, rte de Longwy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17a, rte de Longwy"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "CDV",
-   "categorieCodeUnipop" : "CDV",
-   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
-   "coursCode" : "CDV-INF-5",
-   "coursId" : "CDV-INF-5",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "05/01/2026",
-   "dateFin" : "28/03/2026",
-   "dateInscription" : "Inscription possible jusqu'au 31 octobre 2025",
-   "description" : "Premiers pas avec un système d'exploitation (au choix de l'apprenant) et l'ordinateur.\r\nFaire connaissance des possibilités offertes par l'informatique. \r\nPremier pas avec les outils d'accessibilité adaptés aux besoins de l'apprenant.",
-   "duree" : "12h",
-   "enseignants" : [ {
-      "nom" : "Zigrand",
-      "prenom" : "Tom Liam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 14:00 (durée 1h)",
-   "horaires" : [ {
-      "duree" : "1h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 60003,
-   "intitule" : "Systèmes d'exploitations pour personnes malvoyantes et aveugles",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "INF",
-   "matiereNom" : "Informatique",
-   "nbInscrits" : 1,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8080",
-         "localite" : "Bertrange",
-         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "17A, Route de Longwy"
-      },
-      "code" : "CDV",
-      "fax" : "+352 45 43 06 700",
-      "mail" : "frank.groben@cc-cdv.lu",
-      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-      "nomContact" : "Groben",
-      "onlineReg" : false,
-      "prenomContact" : "Frank",
-      "statut" : "MENFPS",
-      "telephone" : "+352 45 43 06 500"
-   },
-   "prerequis" : "- cours réservé pour des personnes ayant des troubles relatifs à la vue",
-   "renseignements" : "12  séances\r\nToute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17a, rte de Longwy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8080",
-      "localite" : "Bertrange",
-      "nom" : "Centre pour le développement des compétences relatives à la vue",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "17a, rte de Longwy"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "CDV",
-   "categorieCodeUnipop" : "CDV",
-   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
-   "coursCode" : "CDV-INF-11",
-   "coursId" : "CDV-INF-11",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "05/01/2026",
-   "dateFin" : "28/03/2026",
-   "dateInscription" : "Inscription possible jusqu'au 31 octobre 2025",
-   "description" : "Premiers pas avec un système d'exploitation (au choix de l'apprenant) et l'ordinateur.\r\nFaire connaissance des possibilités offertes par l'informatique. \r\nPremier pas avec les outils d'accessibilité adaptés aux besoins de l'apprenant.",
-   "duree" : "12h",
-   "enseignants" : [ {
-      "nom" : "Zigrand",
-      "prenom" : "Tom Liam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 12:00 (durée 1h)",
-   "horaires" : [ {
-      "duree" : "1h",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 60009,
-   "intitule" : "Systèmes d'exploitations pour personnes malvoyantes et aveugles",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "INF",
-   "matiereNom" : "Informatique",
-   "nbInscrits" : 2,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8080",
-         "localite" : "Bertrange",
-         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "17A, Route de Longwy"
-      },
-      "code" : "CDV",
-      "fax" : "+352 45 43 06 700",
-      "mail" : "frank.groben@cc-cdv.lu",
-      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
-      "nomContact" : "Groben",
-      "onlineReg" : false,
-      "prenomContact" : "Frank",
-      "statut" : "MENFPS",
-      "telephone" : "+352 45 43 06 500"
-   },
-   "prerequis" : "- cours réservé pour des personnes ayant des troubles relatifs à la vue",
-   "renseignements" : "12  séances\r\nToute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8473",
-      "localite" : "Eischen",
-      "nom" : "Ecole centrale \"Vir Wëller\"",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, rue de Hobscheid"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9151",
-      "localite" : "Eschdorf",
-      "nom" : "Landakademie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, am Foumichterwee"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-920",
-   "coursId" : "LA-LB-920",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "05/01/2026",
-   "dateFin" : "04/05/2026",
-   "dateInscription" : "lundi-vendredi de 08:00 - 16:00 heures",
-   "description" : "- suite du cours de luxembourgeois A1.1 (LA-LB-919)\r\n\r\n- se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Versteet Begréissungsformelen", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
-      "domaine" : "Héierverstoen"
-   }, {
-      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
-      "domaine" : "Liesverstoen"
-   }, {
-      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
-      "domaine" : "Mëndlechen Ausdrock "
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Martin",
-      "prenom" : "Benita"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 19:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 60534,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 22,
-   "nbPlaces" : 25,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
-         "nom" : "Landakademie",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
-      },
-      "code" : "LANAKA",
-      "fax" : "+352 89 95 68-40",
-      "mail" : "fabio@landakademie.lu",
-      "nom" : "Landakademie",
-      "nomContact" : "Da Silva Loureiro",
-      "onlineReg" : false,
-      "prenomContact" : "Fabio",
-      "statut" : "ASBL",
-      "telephone" : "89 95 68 28",
-      "websiteUrl" : "https://www.landakademie.lu/"
-   },
-   "prerequis" : "avoir suivi le cours de luxembourgeois A1.1 (LA-LB-919)",
-   "renseignements" : "renseignements complémentaires lors de l'inscription "
 }, {
    "adresseCours" : {
       "codePostal" : "2090",
