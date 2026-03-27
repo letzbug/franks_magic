@@ -9393,7 +9393,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 18,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -10775,17 +10775,32 @@
       "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pauly",
+      "prenom" : "Séverine"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 1h50),\nMercredi à 09:00 (durée 1h50),\nVendredi à 09:00 (durée 1h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h50",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h50",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h50",
+      "heure" : "09:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 61588,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 16,
    "nbPlaces" : 20,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -17420,7 +17435,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 0,
+   "nbInscrits" : 5,
    "nbPlaces" : 19,
    "niveau" : "Avancé 2",
    "onlineRegistration" : true,
