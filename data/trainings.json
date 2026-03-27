@@ -136,6 +136,108 @@
    "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7540",
+      "localite" : "Rollingen",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "141, rue de Luxembourg"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-23",
+   "coursId" : "CIN-LB-23",
+   "coursType" : "CLASSIQUE",
+   "cout" : 750.0,
+   "dateDebut" : "07/04/2026",
+   "dateFin" : "23/04/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "30h",
+   "enseignants" : [ {
+      "nom" : "Lorang",
+      "prenom" : "Claudine"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi 13-04-2026 à 18:00 (durée 3h) et 18:00 (durée 3h), Mardi 07-04-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Mercredi 08-04-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Jeudi 09-04-2026 à 18:00 (durée 3h) et 18:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65478,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 6,
+   "nbPlaces" : 9,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0Nzg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7540",
+         "localite" : "Rollingen",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "141, rue de Luxembourg"
+      },
+      "code" : "LCPB",
+      "mail" : "lorangclaudine@yahoo.com",
+      "nom" : "Lorang Claudine Pierrette B. - Lëtzebuerger Sprooch a Kultur Formatrice",
+      "nomContact" : "Lorang",
+      "onlineReg" : true,
+      "prenomContact" : "Claudine",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 621 345 595"
+   },
+   "prerequis" : "aucun",
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -9291,7 +9393,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 5,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -14130,7 +14232,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -17962,7 +18064,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 0,
+   "nbInscrits" : 8,
    "nbPlaces" : 19,
    "niveau" : "Avancé 1",
    "onlineRegistration" : true,
@@ -21860,6 +21962,61 @@
       "telephone" : "+352 516 121-538"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite,\r\nHors vacances scolaires\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-CRO-20",
+   "coursId" : "AR-CRO-20",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.5,
+   "dateDebut" : "06/05/2026",
+   "dateFin" : "20/05/2026",
+   "description" : "Vous savez crocheter et vous avez envie de découvrir les bases de l’amigurumi ? Venez explorer une nouvelle façon de créer.\r\nDécouvrez l’univers du amigurumi à travers un atelier créatif et accessible.\r\nLors de ce workshop, vous apprendrez à crocheter un joli cactus pour apporter une touche originale et décorative à votre intérieur… sans jamais avoir à l'arroser !\r\nNous aborderons ensemble les techniques essentielles : le rond magique, les augmentations et diminutions invisibles, ainsi que l’assemblage et la couture des éléments. \r\nTout au long du cours, des conseils et astuces vous seront partagés pour vous guider pas à pas.\r\nÀ la fin de l’atelier, vous repartirez avec vos créations et les patrons, prêts à continuer l’aventure chez vous.",
+   "duree" : "9 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 17:10 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 66174,
+   "intitule" : "Amigurumi-Apprendre à crocheter un cactus",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "CRO",
+   "matiereNom" : "Crochet",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNzQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "À noter : les cours n'auront pas lieu pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Merci de prévoir pour le 1er cours : 1 pelote coton n°3 (50 g), crochet 2,5, 100 g de ouate, aiguille à laine, marqueur de rang, ciseaux. Matériel disponible en boutique de loisirs créatifs."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -33021,6 +33178,64 @@
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-107",
+   "coursId" : "SO-YOG-107",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "13/06/2026",
+   "dateFin" : "13/06/2026",
+   "description" : "Formée à la méthode du Dr Bernadette de Gasquet, je vous guide vers une pratique du yoga plus consciente, respectueuse et efficace. Ici, il ne s’agit pas seulement de “faire des postures”, mais de comprendre comment et pourquoi les pratiquer, en lien avec la respiration et l’alignement.\r\n\r\nJe vous propose une série de workshops mêlant anatomie accessible et pratique guidée. Chaque atelier, indépendant, vous apporte des repères concrets pour protéger le dos, le périnée et les articulations, ainsi que des outils simples à intégrer dans votre quotidien.\r\n\r\nOuvert à tous—pratiquants, enseignants ou personnes en reprise—avec un objectif : vous rendre autonome.\r\n\r\nAtelier : Hanches & psoas – stabilité et liberté de mouvement\r\nLe psoas, muscle profond essentiel, joue un rôle clé dans la posture, le dos et la respiration. Cet atelier vous aide à mieux le comprendre pour retrouver à la fois stabilité et mobilité, sans forcer.\r\n\r\nGrâce à une approche claire et des exercices ciblés, vous apprendrez à distinguer étirement et relâchement, à comprendre l’impact du psoas sur les lombaires et le bassin, et à améliorer votre posture globale.\r\n\r\nIdéal pour les sportifs, les personnes souffrant de tensions lombaires et les pratiquants souhaitant gagner en aisance dans les postures debout et en fluidité dans leurs mouvements.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 13-06-2026 à 09:20 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "09:20",
+      "jour" : "Samedi"
+   } ],
+   "id" : 66152,
+   "intitule" : "Workshop \" Yoga & Anatomie\" - Hanches & psoas : stabilité, mobilité et liberté de mouvement",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "À apporter : - Tapis de Yoga, Deux Blocs de Yoga, Une sangle de Yoga non élastique.\r\n\r\nVeuillez noter que le site ne dispose pas de vestiaires ni de douches.\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
    "coursCode" : "SO-YOG-95",
    "coursId" : "SO-YOG-95",
    "coursType" : "CLASSIQUE",
@@ -36073,6 +36288,65 @@
    },
    "prerequis" : "A2",
    "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-111",
+   "coursId" : "SO-YOG-111",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "20/06/2026",
+   "dateFin" : "20/06/2026",
+   "description" : "Cet atelier est spécialement conçu pour les futurs parents, idéal à partir du 6e mois de grossesse, afin de vivre ensemble un temps de connexion et de compréhension du corps. Ce workshop s’appuie sur les principes de la méthode De Gasquet : protection du périnée, respiration physiologique et postures adaptées à la grossesse. Pourquoi pratiquer le yoga en couple ? - pour renforcer le lien entre les futurs parents, - pour impliquer activement le/ la partenaire dans la grossesse, - pour apprendre des postures et gestes pour le quotidien, - pour soulager les tensions (dos, bassin, jambes lourdes), - pour créer un espace de confiance et de communication. Le/la partenaire apprend des techniques simples de mobilisation du bassin, d’aide aux postures, de massage et de soutien respiratoire. - Modalités d’inscription 1 inscription = 1 personne 2 inscriptions = 1 couple",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 20-06-2026 à 10:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   } ],
+   "id" : 66156,
+   "intitule" : "Workshop - Yoga Prénatal en Couple - Méthode Dr De Gasquet",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Découvrez qui je suis sur mon site internet: https://aurelie-yoga-ayurveda.com/ \r\n\r\n",
+   "renseignements" : "À apporter : un tapis de yoga, un châle non élastique ou une écharpe de portage, ainsi qu’une serviette. Veuillez noter que le site ne dispose pas de vestiaires ni de douches."
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
