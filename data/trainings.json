@@ -13132,7 +13132,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 20,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -13883,7 +13883,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 13,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -13961,7 +13961,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 1,
+   "nbInscrits" : 7,
    "nbPlaces" : 20,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -17751,7 +17751,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 19,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
@@ -18009,7 +18009,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 19,
    "niveau" : "Avancé 1",
    "onlineRegistration" : true,
@@ -21495,8 +21495,12 @@
       "prenom" : "Karin"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 09:00 (durée 3h),\nJeudi à 09:00 (durée 3h),\nVendredi à 09:00 (durée 3h)",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
    "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
       "duree" : "3h",
       "heure" : "09:00",
       "jour" : "Mardi"
@@ -21515,7 +21519,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 15,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -34436,8 +34440,12 @@
       "prenom" : "Karin"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 09:00 (durée 3h),\nJeudi à 09:00 (durée 3h),\nVendredi à 09:00 (durée 3h)",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
    "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
       "duree" : "3h",
       "heure" : "09:00",
       "jour" : "Mardi"
