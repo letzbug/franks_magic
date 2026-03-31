@@ -12922,7 +12922,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 9,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -16701,7 +16701,7 @@
    "langueCoursNom" : "Portugais",
    "matiereCode" : "PT",
    "matiereNom" : "Découvrir le GDL en portugais",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -18557,7 +18557,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -19868,136 +19868,6 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Forum Campus Geeseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "40, bd Pierre Dupong"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-45",
-   "coursId" : "BP-EN-45",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "28/04/2026",
-   "dateFin" : "30/04/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Kazemi Gorabari",
-      "prenom" : "Hamed"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 28-04-2026 à 18:00 (durée 3h),\nJeudi 30-04-2026 à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 58179,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 10,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxNzk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coOrganisateurs" : [ "Ligue Médico-Sociale" ],
-   "coursCode" : "SCI-FINA-1",
-   "coursId" : "SCI-FINA-1",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "28/04/2026",
-   "dateFin" : "28/04/2026",
-   "description" : "In diesem Workshop lernen Sie, wie Sie Schritt für Schritt eine stabile finanzielle Basis für Ihr Leben aufbauen. \r\nSie gewinnen einen klaren Überblick über Einnahmen, Ausgaben und Konten, entdecken Sparpotenziale und erfahren, wie Sie gezielt Rücklagen bilden, Schulden abbauen und langfristige Ziele erreichen können.\r\nAm Anfang stehen dabei Ihre persönlichen Ziele: Sie lernen, bewusste finanzielle Entscheidungen zu treffen, die zu Ihrem Leben und Ihren Prioritäten passen.\r\nPraktische Übungen im Workshop helfen Ihnen, Ihre persönlichen Finanzen in den Griff zu bekommen.",
-   "duree" : "3 leçons",
-   "enseignants" : [ {
-      "nom" : "Conférence",
-      "prenom" : "Up"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 28-04-2026 à 17:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 65271,
-   "intitule" : "Gesond Finanzen - besser liewen:D'Grondlagen vun der perséinlecher Finanzplanung",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "FINA",
-   "matiereNom" : "Finances",
-   "nbInscrits" : 6,
-   "nbPlaces" : 15,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyNzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Die Teilnehmer erhalten begleitende Kursunterlagen auf Deutsch und Französisch. \r\nZur Information: Workshop dauert 3 Stunden."
-}, {
-   "adresseCours" : {
       "codePostal" : "2163",
       "localite" : "Luxembourg",
       "nom" : "Institut français du Luxembourg",
@@ -20060,6 +19930,68 @@
    },
    "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
    "renseignements" : "Groupes de niveaux homogènes composés de 4 à 7 apprenants.\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coOrganisateurs" : [ "Ligue Médico-Sociale" ],
+   "coursCode" : "SCI-FINA-1",
+   "coursId" : "SCI-FINA-1",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "28/04/2026",
+   "dateFin" : "28/04/2026",
+   "description" : "In diesem Workshop lernen Sie, wie Sie Schritt für Schritt eine stabile finanzielle Basis für Ihr Leben aufbauen. \r\nSie gewinnen einen klaren Überblick über Einnahmen, Ausgaben und Konten, entdecken Sparpotenziale und erfahren, wie Sie gezielt Rücklagen bilden, Schulden abbauen und langfristige Ziele erreichen können.\r\nAm Anfang stehen dabei Ihre persönlichen Ziele: Sie lernen, bewusste finanzielle Entscheidungen zu treffen, die zu Ihrem Leben und Ihren Prioritäten passen.\r\nPraktische Übungen im Workshop helfen Ihnen, Ihre persönlichen Finanzen in den Griff zu bekommen.",
+   "duree" : "3 leçons",
+   "enseignants" : [ {
+      "nom" : "Conférence",
+      "prenom" : "Up"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 28-04-2026 à 17:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 65271,
+   "intitule" : "Gesond Finanzen - besser liewen:D'Grondlagen vun der perséinlecher Finanzplanung",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "FINA",
+   "matiereNom" : "Finances",
+   "nbInscrits" : 6,
+   "nbPlaces" : 15,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyNzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Die Teilnehmer erhalten begleitende Kursunterlagen auf Deutsch und Französisch. \r\nZur Information: Workshop dauert 3 Stunden."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -20669,7 +20601,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -22631,7 +22563,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 6,
+   "nbInscrits" : 8,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -24378,7 +24310,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
