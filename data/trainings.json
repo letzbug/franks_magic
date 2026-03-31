@@ -57,7 +57,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "DAN",
    "matiereNom" : "Danse",
-   "nbInscrits" : 7,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13900,7 +13900,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -13978,7 +13978,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 17,
+   "nbInscrits" : 18,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -14080,84 +14080,6 @@
    },
    "prerequis" : "Niveau A 1.2 acquis",
    "renseignements" : "Formateur Mme. Schaus"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4086",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "Ecole primaire Lallange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "8, bd. Pierre Dupong"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4044",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "https://administration.esch.lu/cours-de-langues/",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://administration.esch.lu/cours-de-langues/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1341",
-   "coursId" : "LA-LB-1341",
-   "coursType" : "CLASSIQUE",
-   "cout" : 100.0,
-   "dateDebut" : "14/04/2026",
-   "dateFin" : "02/07/2026",
-   "dateInscription" : "à partir du 17 mars à 10h",
-   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité (par exemple, informations personnelles et familiales simples, achats, environnement proche, travail). Peut communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. ",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité (par exemple, informations personnelles et familiales simples, achats, environnement proche, travail). Peut communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. " ],
-      "domaine" : "Langues"
-   } ],
-   "duree" : "38h",
-   "enseignants" : [ {
-      "nom" : "Reisdörfer",
-      "prenom" : "Joseph"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:30 (durée 2h), Jeudi à 18:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63841,
-   "intitule" : "Luxembourgeois - intensif",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 19,
-   "nbPlaces" : 20,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4044",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "Ville d'Esch-sur-Alzette",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "6, Place Boltgen"
-      },
-      "code" : "VDE",
-      "mail" : "coursdelangues@villeesch.lu",
-      "nom" : "Ville d'Esch-sur-Alzette",
-      "nomContact" : "Schoettert",
-      "onlineReg" : false,
-      "prenomContact" : "Chantal",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 27 54 27 80"
-   },
-   "prerequis" : "Niveau A 1.2 acquis",
-   "renseignements" : "Formateur M.Reisdoerfer"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -17796,7 +17718,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 19,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
@@ -17889,7 +17811,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -18288,7 +18210,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 8,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -30784,6 +30706,60 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PHOT-52",
+   "coursId" : "AR-PHOT-52",
+   "coursType" : "CLASSIQUE",
+   "cout" : 54.0,
+   "dateDebut" : "02/06/2026",
+   "dateFin" : "30/06/2026",
+   "description" : "Die Kunst, beeindruckende Bilder zu gestalten.\r\nIn diesem Kurs lernst du, deine Kamera optimal einzustellen, Bilder kreativ zu komponieren und Inspiration für deine Fotoprojekte zu finden. Außerdem erfährst du, wie du Licht gezielt einsetzen kannst, um deine Motive perfekt in Szene zu setzen. Ideal für Einsteiger, die ihre fotografischen Fähigkeiten systematisch aufbauen und ihre eigenen Projekte wirkungsvoll umsetzen möchten.",
+   "duree" : "12 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 66293,
+   "intitule" : "Fotografie-Basiskurs",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PHOT",
+   "matiereNom" : "Photographie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Eigenes Kameraequipment wird empfohlen"
+}, {
+   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Forum Campus Geeseknäppchen",
@@ -31853,6 +31829,60 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt et du Programme du vivre-ensemble interculturel ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PHOT-53",
+   "coursId" : "AR-PHOT-53",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "06/06/2026",
+   "dateFin" : "06/06/2026",
+   "description" : "Explore the magic of an ancient, poetic photographic technique in this hands-on workshop! Using sunlight, plants, and images, participants will create their own unique prints in stunning deep blue tones. No prior experience is needed, only your curiosity and creativity!",
+   "duree" : "5 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 06-06-2026 à 13:40 (durée 4h10)",
+   "horaires" : [ ],
+   "id" : 66296,
+   "intitule" : "Cyanotype: Poetic Photography",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "PHOT",
+   "matiereNom" : "Photographie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "The instructor provides the necessary supplies, which participants reimburse directly at €25 each.\r\n\r\nThe instructor speaks Luxembourgish, French, and German."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -36213,6 +36243,60 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PHOT-51",
+   "coursId" : "AR-PHOT-51",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.5,
+   "dateDebut" : "17/06/2026",
+   "dateFin" : "01/07/2026",
+   "description" : "In diesem Kurs lernst du, Fotos gezielt auszuwählen und professionell zu bearbeiten, individuelle Masken zu erstellen und die Bilder zu einer stimmigen Bildserie zusammenzuführen. Du erhältst praxisnahe Tipps und Techniken, um deine Fotos ästhetisch ansprechend zu gestalten und kreative Projekte umzusetzen. Ideal für alle, die ihre fotografischen Arbeiten auf ein höheres Niveau bringen und ihre eigenen Serien professionell präsentieren möchten.",
+   "duree" : "9 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 66292,
+   "intitule" : "Capture One – Fotos professionell entwickeln",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PHOT",
+   "matiereNom" : "Photographie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Ein Laptop wird empfohlen, ebenso wie eine Fotobearbeitungssoftware wie Capture One (Testversion möglich) oder ein vergleichbares Programm wie Lightroom. Die Benutzeroberfläche kann sich leicht unterscheiden, das Grundprinzip bleibt jedoch dasselbe."
 }, {
    "adresseCours" : {
       "codePostal" : "-",
