@@ -2838,7 +2838,7 @@
    "dateDebut" : "13/04/2026",
    "dateFin" : "15/05/2026",
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. \r\nPeut communiquer lors de tâches simples et habituelles sur des sujets familiers. \r\nPeut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
    "domainesCompetences" : [ {
       "competences" : [ " eng Weebeschreiwung verstoen\r\n", "eng Wunnengsbeschreiwung verstoen\r\n", " Informatiounen iwwert Aktivitéite vun enger Persoun, hir Pläng awer och dat, wat scho geschitt ass, verstoen\r\n", " eng Persoun unhand vun enger Beschreiwung identifizéieren\r\n", "Wiederprevisioune verstoen\r\n", " e Verbuet, en Uerder oder eng Erlaabnis verstoen (am privaten an am ëffentleche Beräich)", "Rotschléi verstoen (Imperativ)" ],
       "domaine" : "Héierverstoen "
@@ -2881,7 +2881,7 @@
    "matiereNom" : "Luxembourgeois",
    "nbInscrits" : 0,
    "nbPlaces" : 24,
-   "niveau" : "A2.3 du CECRL",
+   "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -2902,7 +2902,7 @@
       "telephone" : "+352 26 56 16 92",
       "websiteUrl" : "http://www.cflh.lu"
    },
-   "prerequis" : "Niveau A2.2 acquis"
+   "prerequis" : "Niveau A1.1 acquis"
 }, {
    "adresseCours" : {
       "codePostal" : "1921",
@@ -13805,7 +13805,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -16215,7 +16215,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -18894,7 +18894,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -33140,7 +33140,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "COS",
    "matiereNom" : "Cosmétiques",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
