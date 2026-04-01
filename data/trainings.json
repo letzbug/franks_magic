@@ -24710,6 +24710,71 @@
    }
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1511",
+   "coursId" : "LA-LB-1511",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "19/05/2026",
+   "dateFin" : "18/06/2026",
+   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
+   "description" : "Nommer différents types d'habitation et parler des avantages et inconvénients, citer des conditions et des conséquences. \r\nRéagir à une réclamation. \r\nConnaître le système politique, participer à une discussion, formuler des déclarations diverses.",
+   "domainesCompetences" : [ {
+      "competences" : [ "nommer différents types d'habitation", "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "nommer des conditions et des conséquences", "formuler des souhaits et des hypothèses", "se plaindre et réagir à une réclamation", "faire le compte-rendu d'un reportage politico-social", "participer à une discussion politico-social et défendre son point de vue", "dire si l'on est d'accord ou non avec des déclarations diverses" ],
+      "domaine" : "expression orale "
+   }, {
+      "competences" : [ "connaître et nommer différents types d'habitation", "faire la différence entre des propositions, des souhaits et des questions polies", "apprendre à connaître le système politique", "comprendre et formuler différentes opinions" ],
+      "domaine" : "compréhension orale "
+   }, {
+      "competences" : [ "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "formuler des souhaits et des hypothèses", "se plaindre et réagir à une réclamation" ],
+      "domaine" : "expression écrite "
+   }, {
+      "competences" : [ "comprendre des textes au sujets des différents types d'habitation", "faire la différence entre des propositions, des souhaits et des questions polies", "apprendre à connaître le système politique", "comprendre un reportage politico-social" ],
+      "domaine" : "compréhension écrite "
+   } ],
+   "duree" : "45h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:30 (durée 2h30), Mardi à 09:30 (durée 2h30), Mercredi à 09:30 (durée 2h30), Jeudi à 09:30 (durée 2h30), Vendredi à 09:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 66195,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "B1.3 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3493",
+         "localite" : "Dudelange",
+         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue Batty Weber"
+      },
+      "code" : "Moien",
+      "mail" : "moienasbl@pt.lu",
+      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
+      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
+      "onlineReg" : true,
+      "prenomContact" : "Moien",
+      "statut" : "ASBL",
+      "telephone" : "www.moienasbl.lu",
+      "websiteUrl" : "http://www.moienasbl.lu"
+   },
+   "renseignements" : "MOIEN ASBL \r\ninformation, inscription et paiement en ligne sur le site www.moienasbl.lu"
+}, {
+   "adresseCours" : {
       "codePostal" : "1278",
       "localite" : "Luxembourg",
       "nom" : "Clae services asbl",
@@ -62029,7 +62094,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "12/01/2026",
-   "dateFin" : "27/03/2026",
+   "dateFin" : "03/04/2026",
    "dateInscription" : "inscription sur rdv: info@efid.lu",
    "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
