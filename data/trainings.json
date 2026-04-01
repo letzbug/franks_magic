@@ -762,7 +762,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 4,
+   "nbInscrits" : 6,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -17337,7 +17337,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 19,
    "niveau" : "Avancé 2",
    "onlineRegistration" : true,
@@ -17554,7 +17554,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -17723,7 +17723,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 12,
+   "nbInscrits" : 11,
    "nbPlaces" : 19,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
@@ -17903,7 +17903,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 7,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -31110,60 +31110,6 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PHOT-52",
-   "coursId" : "AR-PHOT-52",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "02/06/2026",
-   "dateFin" : "30/06/2026",
-   "description" : "Die Kunst, beeindruckende Bilder zu gestalten.\r\nIn diesem Kurs lernst du, deine Kamera optimal einzustellen, Bilder kreativ zu komponieren und Inspiration für deine Fotoprojekte zu finden. Außerdem erfährst du, wie du Licht gezielt einsetzen kannst, um deine Motive perfekt in Szene zu setzen. Ideal für Einsteiger, die ihre fotografischen Fähigkeiten systematisch aufbauen und ihre eigenen Projekte wirkungsvoll umsetzen möchten.",
-   "duree" : "12 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 66293,
-   "intitule" : "Fotografie-Basiskurs",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "PHOT",
-   "matiereNom" : "Photographie",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Eigenes Kameraequipment wird empfohlen"
-}, {
-   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Forum Campus Geeseknäppchen",
@@ -31836,67 +31782,6 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PAP-7",
-   "coursId" : "AR-PAP-7",
-   "coursType" : "CLASSIQUE",
-   "cout" : 36.0,
-   "dateDebut" : "04/06/2026",
-   "dateFin" : "25/06/2026",
-   "description" : "Donnez vie à vos souvenirs dans un album unique et créatif ! Au fil de ce cours, vous apprendrez à transformer vos photos, dessins, autocollants et autres idées en véritables œuvres personnelles. Capturez vos moments précieux, exprimez votre créativité et repartez avec un livre rempli de souvenirs colorés et originaux. Que vous soyez débutant ou amateur de loisirs créatifs, ce cours vous offre une expérience ludique et inspirante pour conserver vos plus beaux instants.",
-   "duree" : "8 leçons",
-   "enseignants" : [ {
-      "nom" : "Lang",
-      "prenom" : "Jessie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66291,
-   "intitule" : "Scrapbooking : conserver ses souvenirs de manière créative",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PAP",
-   "matiereNom" : "Paper arts/crafts",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Un remboursement de 15€ sera demandé à chaque participant.\r\n\r\nLa formatrice parle français, allemand, luxembourgeois et anglais."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
