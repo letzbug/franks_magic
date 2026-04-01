@@ -17554,7 +17554,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 4,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -17729,7 +17729,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -17816,7 +17816,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -33751,6 +33751,65 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge de fournir tout le matériel nécessaire pour l'atelier, avec un remboursement de 50 euros. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCM",
+   "categorieCodeUnipop" : "SCM",
+   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
+   "coOrganisateurs" : [ "HAG Luxembourg" ],
+   "coursCode" : "SCM-SAN-4",
+   "coursId" : "SCM-SAN-4",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "13/06/2026",
+   "dateFin" : "13/06/2026",
+   "description" : "Vous surveillez votre vue, vos dents, vos muscles, vos os, votre peau… mais avez-vous pensé à votre cœur? \r\nNotre guest speaker, le Dr Pierre Setbon, alerte sur une réalité ignorée : trop souvent banalisé, le stress, chez les hommes et les femmes et ses complications est pourtant à l’origine de nombreuses maladies cardiovasculaires. Se sentir stressé double le risque de crise cardiaque. À partir de son expérience acquise depuis plus de trente ans auprès d’un grand nombre de patients, le Dr Setbon a mis au point une méthode simple et adaptée à chacun pour ne plus souffrir du stress et protéger son coeur durablement.\r\nIl nous alertera aussi sur une réalité banalisée : depuis trop longtemps, les femmes en particulier, mais n’ont pas le réflexe d’aller chez le cardiologue. \r\nCette conférence, organisée par HAG Luxembourg est animée par Guy Brandenbourger,  avec les interventions du Dr Michel Mouly, chirurgien gynécologue, et cancérologue à Paris, et de la Docteure Akkuzu, médecin généraliste et spécialisée en Microbiote en Santé, Longévité et Ménopause, à Dudelange\r\n• Tout ce qu’il faut savoir sur le cœur des femmes : son fonctionnement, \r\nles risques qu’il peut connaître (tako-tsubo, contraception, DOLA, etc.) ;\r\n• Des conseils et solutions pratiques pour en prendre soin : quand prendre rendez-vous, les habitudes à adopter.\r\n• 7 exemples d’ordonnances adaptées à l’âge et aux symptômes de chacune, pour mieux vous accompagner.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 13-06-2026 à 14:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:00",
+      "jour" : "Samedi"
+   } ],
+   "id" : 66299,
+   "intitule" : "Votre ordonnance cardio au féminin - Conférence Santé",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "SAN",
+   "matiereNom" : "Santé",
+   "nbInscrits" : 0,
+   "nbPlaces" : 200,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Accueil et dédicace dès 14h00 du dernier ouvrage du Dr Pierre Setbon, paru en mars 2026 et la conférence commencera à 14h30."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
