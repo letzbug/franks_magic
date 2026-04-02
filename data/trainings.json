@@ -762,7 +762,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 8,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -3797,8 +3797,8 @@
    } ],
    "duree" : "60h",
    "enseignants" : [ {
-      "nom" : "Gil",
-      "prenom" : "Sabine"
+      "nom" : "Relativo",
+      "prenom" : "Camille"
    } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
@@ -17415,7 +17415,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 10,
+   "nbInscrits" : 12,
    "nbPlaces" : 19,
    "niveau" : "Avancé 2",
    "onlineRegistration" : true,
@@ -23493,7 +23493,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 36.0,
    "dateDebut" : "15/05/2026",
-   "dateFin" : "10/07/2026",
+   "dateFin" : "17/07/2026",
    "description" : "Welcome to this mindfulness course, where you are invited to embark on a journey of self-discovery and inner peace. This course is designed to provide you with practical tools and techniques to cultivate mindfulness in your daily life. Through guided meditations, and reflective practices, you will learn how to reduce stress, enhance focus, and foster a deeper connection with yourself and the world around you.",
    "duree" : "8 leçons",
    "enseignants" : [ ],
@@ -23528,7 +23528,7 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "Please note: there will be no classes during school holidays in Luxembourg.\r\n\r\nThe instructor speaks Luxembourgish, French, and German"
+   "renseignements" : "Please note: there will be no classes during school holidays in Luxembourg.\r\nOn the 5th of june there will be no class as well!\r\nThe instructor speaks Luxembourgish, French, and German"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
