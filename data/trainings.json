@@ -11169,6 +11169,80 @@
    "adresseCours" : {
       "codePostal" : "9089",
       "localite" : "Ettelbruck",
+      "nom" : "Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
+      "nom" : "Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-957",
+   "coursId" : "LA-LB-957",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "13/04/2026",
+   "dateFin" : "01/07/2026",
+   "dateInscription" : "Tous les jours de 9h à 12h",
+   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées, en relation avec des domaines immédiats de priorité. Comprendre un échange qui porte sur l'expression d'une impression, d'un sentiment, d'un gout, d'un accord ou d'un désaccord, en termes simples. Suivre des directives et des instructions claires et précises.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Peut suivre des directives simples comme un itinéraire.", "Peut comprendre l'idée générale d'un texte.", "Peut comprendre des informations relatives à la famille, aux achats et à l'environnement.", "Peut comprendre des consignes simples." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut trouver des renseignements précis dans des documents simples.", "Peut comprendre différents types de lettres ou emails.", "Peut comprendre des faits d'écrits dans des articles simples.", "Peut comprendre des consignes rédigées simplement" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut saluer, se présenter, présenter quelqu'un, remercier.", "Peut poser des questions et y répondre.", "Peut utiliser des formules de politesse simples.", "Peut décrie des lieux, des objets, des activités quotidiennes, ses gouts, un évènement.", "Peut exprimer ses opinions, expliquer pourquoi pourquoi une chose plait ou déplait.", "Peut dire ce qu'il aime ou pas.", "Peut exprimer des projets.", "Peut obtenir ou fournir des biens et des services", "Peut commencer, poursuivre et terminer une brève conversation.", "Peut  demander de répéter en cas d'incompréhension." ],
+      "domaine" : "Production orale"
+   }, {
+      "competences" : [ "Peut écrire des messages simples et courts pour entrer en contact ou exprimer des remerciements.", "Peut écrire des phrases simples au présent, au passé et au futur.", "Peut décrire des activités quotidiennes.", "Peut faire la description d'un évènement, d'activités passées, d'expériences personnelles." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 17:30 (durée 2h), Mercredi à 17:30 (durée 2h), Jeudi à 17:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 60947,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9089",
+         "localite" : "Ettelbruck",
+         "nom" : "Ettelbruck",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, rue Michel Weber"
+      },
+      "code" : "APE",
+      "mail" : "mariadelfinalbuquerque@yahoo.fr",
+      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
+      "nomContact" : "Henriques Tomaz",
+      "onlineReg" : false,
+      "prenomContact" : "Maria Delfina",
+      "statut" : "ASBL",
+      "telephone" : "+352 691 500 047"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
       "nom" : "Association des parents d'elèves d'Ettelbruck",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
@@ -11268,7 +11342,7 @@
       "nom" : "Association des parents d'elèves d'Ettelbruck",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
+      "rueNumero" : "4, Rue de l'Arcade - Place de la Liberation"
    },
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
@@ -11295,25 +11369,10 @@
       "domaine" : "Production écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Albuquerque",
-      "prenom" : "Fabio"
-   } ],
+   "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:30 (durée 2h), Mercredi à 17:30 (durée 2h), Vendredi à 17:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Vendredi"
-   } ],
+   "horairePrevu" : "Lundi à 19:30 (durée 2h), Mercredi à 19:30 (durée 2h), Jeudi à 19:30 (durée 2h)",
+   "horaires" : [ ],
    "id" : 60945,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "FR",
