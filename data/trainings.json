@@ -24956,10 +24956,33 @@
       "domaine" : "compréhension écrite "
    } ],
    "duree" : "45h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Baur",
+      "prenom" : "Lydia"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:30 (durée 2h30), Mardi à 09:30 (durée 2h30), Mercredi à 09:30 (durée 2h30), Jeudi à 09:30 (durée 2h30), Vendredi à 09:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66195,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
