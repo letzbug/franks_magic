@@ -352,7 +352,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -5281,7 +5281,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -36775,60 +36775,6 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PHOT-51",
-   "coursId" : "AR-PHOT-51",
-   "coursType" : "CLASSIQUE",
-   "cout" : 40.5,
-   "dateDebut" : "17/06/2026",
-   "dateFin" : "01/07/2026",
-   "description" : "In diesem Kurs lernst du, Fotos gezielt auszuwählen und professionell zu bearbeiten, individuelle Masken zu erstellen und die Bilder zu einer stimmigen Bildserie zusammenzuführen. Du erhältst praxisnahe Tipps und Techniken, um deine Fotos ästhetisch ansprechend zu gestalten und kreative Projekte umzusetzen. Ideal für alle, die ihre fotografischen Arbeiten auf ein höheres Niveau bringen und ihre eigenen Serien professionell präsentieren möchten.",
-   "duree" : "9 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 66292,
-   "intitule" : "Capture One – Fotos professionell entwickeln",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "PHOT",
-   "matiereNom" : "Photographie",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Ein Laptop wird empfohlen, ebenso wie eine Fotobearbeitungssoftware wie Capture One (Testversion möglich) oder ein vergleichbares Programm wie Lightroom. Die Benutzeroberfläche kann sich leicht unterscheiden, das Grundprinzip bleibt jedoch dasselbe."
 }, {
    "adresseCours" : {
       "codePostal" : "-",
