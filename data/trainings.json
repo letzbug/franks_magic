@@ -5340,17 +5340,32 @@
       "domaine" : "La compétence en production d'interaction"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Le Ridourd",
+      "prenom" : "Cathy"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 2h), Mardi à 18:00 (durée 2h), Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65496,
    "intitule" : "Français",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
