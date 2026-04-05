@@ -2660,10 +2660,29 @@
       "domaine" : "Écrire "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Chies",
+      "prenom" : "Martine"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65515,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "FR",
@@ -3365,17 +3384,36 @@
       "domaine" : "Production écrite "
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Kaiser",
+      "prenom" : "Gilles"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65516,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 8,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -5599,17 +5637,32 @@
       "domaine" : "Expression Ecrite Schrëftlechen Ausdrock (SA)"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Kaiser",
+      "prenom" : "Gilles"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 2h), Mardi à 18:00 (durée 2h), Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65514,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 12,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
