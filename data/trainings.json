@@ -195,7 +195,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -4159,17 +4159,32 @@
       "domaine" : "Production orale et d'interaction"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Chaibi",
+      "prenom" : "Nora Habiba"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 18:00 (durée 2h), Mardi à 18:00 (durée 2h), Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65505,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 3,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -5181,7 +5196,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 11,
+   "nbInscrits" : 13,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -5265,7 +5280,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -12107,17 +12122,36 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 12:00 (durée 2h),\nMardi à 12:00 (durée 2h),\nMercredi à 12:00 (durée 2h),\nJeudi à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 61422,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 14,
    "nbPlaces" : 20,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -13992,84 +14026,6 @@
    "renseignements" : "Formateur Mme Duka Chiara"
 }, {
    "adresseCours" : {
-      "codePostal" : "4272",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "Ecole primaire Nonnewisen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place Adeline Pellegrino"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4044",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "https://administration.esch.lu/cours-de-langues/",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://administration.esch.lu/cours-de-langues/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1339",
-   "coursId" : "LA-FR-1339",
-   "coursType" : "CLASSIQUE",
-   "cout" : 100.0,
-   "dateDebut" : "14/04/2026",
-   "dateFin" : "02/07/2026",
-   "dateInscription" : "à partir du 17 mars à 10h",
-   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés très simples qui visent à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un et poser à une personne des questions la concernant, par exemple sur son lieu d'habitation, ses relations, ce qui lui appartient etc., et peut répondre aux mêmes types de questions. ",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés très simples qui visent à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un et poser à une personne des questions la concernant, par exemple sur son lieu d'habitation, ses relations, ce qui lui appartient etc., et peut répondre aux mêmes types de questions. " ],
-      "domaine" : "Langues"
-   } ],
-   "duree" : "38h",
-   "enseignants" : [ {
-      "nom" : "Valla Kameni Kwente",
-      "prenom" : "Danielle"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:00 (durée 2h), Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63846,
-   "intitule" : "Français - intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 19,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4044",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "Ville d'Esch-sur-Alzette",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "6, Place Boltgen"
-      },
-      "code" : "VDE",
-      "mail" : "coursdelangues@villeesch.lu",
-      "nom" : "Ville d'Esch-sur-Alzette",
-      "nomContact" : "Schoettert",
-      "onlineReg" : false,
-      "prenomContact" : "Chantal",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 27 54 27 80"
-   },
-   "prerequis" : "Niveau A 1.1 acquis",
-   "renseignements" : "Formateur Mme. Valla"
-}, {
-   "adresseCours" : {
       "codePostal" : "4086",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "Ecole primaire Lallange",
@@ -15009,10 +14965,25 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 18:15 (durée 3h),\nMercredi à 18:15 (durée 3h),\nJeudi à 18:15 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:15",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:15",
+      "jour" : "Jeudi"
+   } ],
    "id" : 61423,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -17281,7 +17252,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -17579,7 +17550,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -17841,7 +17812,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -18240,7 +18211,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -18407,7 +18378,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 8,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -18707,6 +18678,78 @@
    "renseignements" : "Groupes de niveaux homogènes composés de 2 à 8 apprenants."
 }, {
    "adresseCours" : {
+      "codePostal" : "-",
+      "localite" : "-",
+      "nom" : "En ligne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "En ligne"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "BP",
+   "categorieCodeUnipop" : "CIT",
+   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
+   "coursCode" : "BP-EN-42",
+   "coursId" : "BP-EN-42",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "20/04/2026",
+   "dateFin" : "24/04/2026",
+   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Alhajjaji",
+      "prenom" : "Shamsaldin Ahmed Shamsaldin"
+   } ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi 20-04-2026 à 14:00 (durée 2h),\nMercredi 22-04-2026 à 14:00 (durée 2h),\nVendredi 24-04-2026 à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 58145,
+   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Découvrir le GDL en anglais",
+   "nbInscrits" : 17,
+   "nbPlaces" : 18,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxNDU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1273",
+         "localite" : "Luxembourg-Hamm",
+         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "13c, rue de Bitbourg"
+      },
+      "code" : "MFSVA",
+      "fax" : "+352 247-85730",
+      "mail" : "programme.zesummeliewen@fm.etat.lu",
+      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+      "nomContact" : "Programme",
+      "onlineReg" : true,
+      "prenomContact" : "Equipe",
+      "statut" : "MENFPS",
+      "telephone" : ".",
+      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+   },
+   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
       "codePostal" : "4802",
       "localite" : "Lamadelaine",
       "nom" : "Lycée Mathias Adam",
@@ -18959,7 +19002,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -20057,7 +20100,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 11,
+   "nbInscrits" : 10,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -23943,7 +23986,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -27576,7 +27619,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 23,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
