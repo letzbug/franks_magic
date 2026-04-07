@@ -539,7 +539,7 @@
    "dateInscription" : "27/03 au 09/04/2026",
    "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité.\r\nPeut communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels.\r\nPeut décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
    "domainesCompetences" : [ {
-      "competences" : [ "Écouter - Je peux comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui me concerne de très près (par exemple moi-même, ma famille, les achats, l'environnement proche, le travail). Je peux saisir l'essentiel d'annonces et de messages simples et clairs.", "Lire - Je peux lire des textes courts très simples. Je peux trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus, les menus et les horaires et je peux comprendre des lettres personnelles courtes et simples." ],
+      "competences" : [ "Lire - Je peux lire des textes courts très simples. Je peux trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus, les menus et les horaires et je peux comprendre des lettres personnelles courtes et simples.", "Écouter - Je peux comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui me concerne de très près (par exemple moi-même, ma famille, les achats, l'environnement proche, le travail). Je peux saisir l'essentiel d'annonces et de messages simples et clairs." ],
       "domaine" : "Comprendre"
    }, {
       "competences" : [ "Prendre part à une conversation - Je peux communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers. Je peux avoir des échanges très brefs même si, en règle générale, je ne comprends pas assez pour poursuivre une conversation.", "S'exprimer oralement en continu - Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille et d'autres gens, mes conditions de vie, ma formation et mon activité professionnelle actuelle ou récente." ],
@@ -643,7 +643,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -3214,6 +3214,9 @@
    "dateInscription" : "27/03 au 09/04/2026",
    "description" : "Objectifs généraux de la formation : pour approfondir vos connaissances de la langue et de la culture luxembourgeoise pour développer vos compétences linguistiques et grammaticales pour améliorer vos compétences communicatives pour développer votre compréhension.",
    "domainesCompetences" : [ {
+      "competences" : [ "Parler de sa vie quotidienne et professionnelle de façon relativement détaillée. exprimer un souhait, un désir. Donner un conseil, Demander et proposer un service. Structurer son propos. Demander des renseignements. Exprimer et répondre à l'agacement. Parler de ses projets professionnels. Exprimer sa capacité à faire quelque chose. Exprimer une évidence. Exprimer la peur, l'inquiétude. Exprimer son approbation. Protester." ],
+      "domaine" : "Production écrite "
+   }, {
       "competences" : [ "Pouvoir comprendre presque tous les détails d'un message clair dont le débit n'est pas trop rapide et portant sur la vie courante - audios et vidéos" ],
       "domaine" : "Compréhension orale"
    }, {
@@ -3222,9 +3225,6 @@
    }, {
       "competences" : [ "Parler de sa vie quotidienne et professionnelle de façon relativement détaillée. exprimer un souhait, un désir. Donner un conseil, Demander et proposer un service. Structurer son propos. Demander des renseignements. Exprimer et répondre à l'agacement. Parler de ses projets professionnels. Exprimer sa capacité à faire quelque chose. Exprimer une évidence. Exprimer la peur, l'inquiétude. Exprimer son approbation. Protester." ],
       "domaine" : "Production orale et d'interaction "
-   }, {
-      "competences" : [ "Parler de sa vie quotidienne et professionnelle de façon relativement détaillée. exprimer un souhait, un désir. Donner un conseil, Demander et proposer un service. Structurer son propos. Demander des renseignements. Exprimer et répondre à l'agacement. Parler de ses projets professionnels. Exprimer sa capacité à faire quelque chose. Exprimer une évidence. Exprimer la peur, l'inquiétude. Exprimer son approbation. Protester." ],
-      "domaine" : "Production écrite "
    } ],
    "duree" : "60h",
    "enseignants" : [ {
@@ -3794,7 +3794,7 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
    "description" : "Peut comprendre le contenu essentiel dans un texte complexe. Peut communiquer avec un degré de spontanéité et d'aisance. Peut s'exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d'actualité en exposer les avantages et les inconvénients.",
    "domainesCompetences" : [ {
-      "competences" : [ " comprendre une intervention sur des sujets spécialisés abstraits ou complexes, même hors de son domaine, avec parfois la nécessité de faire confirmer quelques détails, notamment si l'accent n'est pas familier.", " suivre la plupart des conférences, discussions et débats avec aisance.", "comprendre une gamme étendue de matériel enregistré ou radiodiffusé, y compris en langue non standard et identifier des détails fins incluant l'implicite des attitudes et des relations des interlocuteurs.", "comprendre les différents registres de langue et des jeux de mots.", "extraire des détails précis d'une annonce publique émise dans de mauvaises conditions et déformée par la sonorisation." ],
+      "competences" : [ "comprendre les différents registres de langue et des jeux de mots.", " comprendre une intervention sur des sujets spécialisés abstraits ou complexes, même hors de son domaine, avec parfois la nécessité de faire confirmer quelques détails, notamment si l'accent n'est pas familier.", " suivre la plupart des conférences, discussions et débats avec aisance.", "comprendre une gamme étendue de matériel enregistré ou radiodiffusé, y compris en langue non standard et identifier des détails fins incluant l'implicite des attitudes et des relations des interlocuteurs.", "extraire des détails précis d'une annonce publique émise dans de mauvaises conditions et déformée par la sonorisation." ],
       "domaine" : "compréhension orale"
    }, {
       "competences" : [ "comprendre tout type de correspondance, avec l'utilisation éventuelle d'un dictionnaire.", " comprendre la majorité des points de détails, identifier les attitudes, opinions exposées ou implicites dans les textes que l'on peut rencontrer dans la vie sociale, professionnelle ou universitaire", " identifier des points de détail fins, y compris les attitudes, que les opinions soient explicites ou implicites.", " reconnaître le schéma argumentatif d'un texte et retrouver les arguments importants dans des textes d'actualité ou de sujets personnels", "identifier les attitudes, opinions explicites ou implicites dans les textes que l'on peut rencontrer dans la vie sociale, professionnelle ou universitaire.", "comprendre les sigles, le politiquement correct, des expressions idiomatiques." ],
@@ -4184,7 +4184,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -5395,7 +5395,7 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
    "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
    "domainesCompetences" : [ {
-      "competences" : [ " verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \r\n", " d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\r\n ", "d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ) : Wéi ass een oder eppes ?", "d'Auerzäite verstoen (5 Minuttenofstänn)\r\n" ],
+      "competences" : [ "d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ) : Wéi ass een oder eppes ?", " verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \r\n", " d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\r\n ", "d'Auerzäite verstoen (5 Minuttenofstänn)\r\n" ],
       "domaine" : "Héierverstoen "
    }, {
       "competences" : [ "verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\r\n    \r\n", "ganz einfach Froen zu senger oder enger anerer Persoun verstoen\r\n\r\n", " einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen " ],
@@ -5571,7 +5571,7 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
    "description" : "Peut comprendre le contenu essentiel dans un texte complexe. Peut communiquer avec un degré de spontanéité et d'aisance. Peut s'exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d'actualité en exposer les avantages et les inconvénients.",
    "domainesCompetences" : [ {
-      "competences" : [ "comprendre une intervention sur des sujets spécialisés abstraits ou complexes, même hors de son domaine, avec parfois la nécessité de faire confirmer quelques détails, notamment si l’accent n’est pas familier. ", "suivre la plupart des conférences, discussions et débats avec aisance. \r\n", " comprendre une gamme étendue de matériel enregistré ou radiodiffusé, y compris en langue non standard et identifier des détails fins incluant l’implicite des attitudes et des relations des interlocuteurs.", "comprendre les différents registres de langue et des jeux de mots.\r\n", "extraire des détails précis d’une annonce publique émise dans de mauvaises conditions et déformée par la sonorisation. " ],
+      "competences" : [ "comprendre les différents registres de langue et des jeux de mots.\r\n", "comprendre une intervention sur des sujets spécialisés abstraits ou complexes, même hors de son domaine, avec parfois la nécessité de faire confirmer quelques détails, notamment si l’accent n’est pas familier. ", "suivre la plupart des conférences, discussions et débats avec aisance. \r\n", " comprendre une gamme étendue de matériel enregistré ou radiodiffusé, y compris en langue non standard et identifier des détails fins incluant l’implicite des attitudes et des relations des interlocuteurs.", "extraire des détails précis d’une annonce publique émise dans de mauvaises conditions et déformée par la sonorisation. " ],
       "domaine" : "compréhension orale"
    }, {
       "competences" : [ " comprendre les sigles, le politiquement correct, des expressions idiomatiques.\r\n", "comprendre tout type de correspondance, avec l’utilisation éventuelle d’un dictionnaire.\r\n", "comprendre la majorité des points de détails, identifier les attitudes, opinions exposées ou implicites dans les textes que l’on peut rencontrer dans la vie sociale, professionnelle ou universitaire", " identifier des points de détail fins, y compris les attitudes, que les opinions soient explicites ou implicites.", " reconnaître le schéma argumentatif d’un texte et retrouver les arguments importants dans des textes d’actualité ou de sujets personnels", " identifier les attitudes, opinions explicites ou implicites dans les textes que l’on peut rencontrer dans la vie sociale, professionnelle ou universitaire." ],
@@ -8508,7 +8508,7 @@
    "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
    "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
    "domainesCompetences" : [ {
-      "competences" : [ "Peut comprendre quelques mots familiers.", "Peut comprendre des instructions très simples (consignes de classe).", "Peut comprendre des questions simples sur l'identité (nom, prénom, adresse et nationalité)", "Peut comprendre des informations chiffrées simples (téléphone et adresse.)." ],
+      "competences" : [ "Peut comprendre des informations chiffrées simples (téléphone et adresse.).", "Peut comprendre quelques mots familiers.", "Peut comprendre des instructions très simples (consignes de classe).", "Peut comprendre des questions simples sur l'identité (nom, prénom, adresse et nationalité)" ],
       "domaine" : "Compréhension orale"
    }, {
       "competences" : [ "Peut reconnaître des noms, mots, expressions courantes (par exemple sur des panneaux, des affiches publicitaires).", "Peut repérer des données, des chiffres ou d'autres informations et suivre des indications brèves et simples." ],
@@ -10049,6 +10049,9 @@
    "dateInscription" : "toute l'année de 08.00-11.30 et 13.30-16.00 hrs",
    "description" : "Comprendre des conversations quotidiennes et y participer, donner votre opinion et échanger des idées sur des sujets actuels, comprendre les grandes lignes de textes clairement rédigés, comprendre la plupart des informations dans une émission de télévision, raconter un événement, une expérience ou un rêve, décrire un espoir ou un but,écrire une lettre, un email structuré, exposer brièvement des raisons ou des explications pour un projet ou une idée",
    "domainesCompetences" : [ {
+      "competences" : [ "L'apprenant peut engager une conversation simplement dans plusieurs domaines et notamment professionnels. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
+      "domaine" : "Expression orale"
+   }, {
       "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne. ", "L'apprenant est en mesure de lire les correspondances officielles et les courriels professionnels. \r\n", "L'apprenant peut trouver rapidement les informations demandées  dans un texte. \r\n" ],
       "domaine" : "Compréhension écrite -  "
    }, {
@@ -10057,9 +10060,6 @@
    }, {
       "competences" : [ "L'apprenant est capable de répondre à un courriel. ", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées par écrit. " ],
       "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "L'apprenant peut engager une conversation simplement dans plusieurs domaines et notamment professionnels. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
-      "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
    "enseignants" : [ ],
@@ -10781,6 +10781,9 @@
    "dateInscription" : "toute l'année par mail",
    "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
    "domainesCompetences" : [ {
+      "competences" : [ "Peut écrire une lettre personnelle\r\n-Peut faire une description brève d'un événement, d'activités passées, d'expériences personnelles\r\n-Peut prendre quelques notes en écoutant une Conversation" ],
+      "domaine" : "EXPRESSION ECRITE"
+   }, {
       "competences" : [ "Peut identifier l'élément principal de nouvelles télévisées : un événement, un accident (ayant trait à un sujet courant, prévisible, si le débit est lent et la langue clairement articulée)" ],
       "domaine" : "COMPREHENSION DE L'ORAL"
    }, {
@@ -10789,9 +10792,6 @@
    }, {
       "competences" : [ "Peut (se) décrire, se présenter, présenter quelqu'un\r\n-Peut raconter une histoire avec une simple liste de points successifs / énoncés reliés par les articulations les plus fréquentes\r\n-Peut faire la description brève d'un événement (personnel)" ],
       "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Peut écrire une lettre personnelle\r\n-Peut faire une description brève d'un événement, d'activités passées, d'expériences personnelles\r\n-Peut prendre quelques notes en écoutant une Conversation" ],
-      "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "60h",
    "enseignants" : [ {
@@ -11234,7 +11234,7 @@
       "competences" : [ "Peut identifier des formules de politesse et de salutations\r\n", "Peut comprendre les chiffres, les prix et l'heure\r\n", "Peut comprendre des mots et expressions familiers\r\n", "Peut comprendre des questions, instructions ou indications\r\ncourtes et élémentaires", "Peut manifester ma compréhension ou mon incompréhension\r\n", "Peut comprendre des consignes courtes et simples\r\n", "Peut comprendre l'appartenance ou la quantité\r\n", "Peut comprendre des informations ou des questions personnelles\r\nsimples" ],
       "domaine" : "Compréhension orale"
    }, {
-      "competences" : [ "Peut épeler\r\n", "Peut comprendre des messages et indications simples et courts\r\n", "Peut comprendre et suivre des instructions, des indications\r\n", "Peut comprendre des textes simples donnant des informations et\r\ndes descriptions sur l'identité, la présentation,", "Peut comprendre des textes simples avec des informations et\r\ndescriptions courtes" ],
+      "competences" : [ "Peut épeler\r\n", "Peut comprendre des messages et indications simples et courts\r\n", "Peut comprendre et suivre des instructions, des indications\r\n", "Peut comprendre des textes simples avec des informations et\r\ndescriptions courtes", "Peut comprendre des textes simples donnant des informations et\r\ndes descriptions sur l'identité, la présentation," ],
       "domaine" : "Compréhension écrite"
    }, {
       "competences" : [ "Peut se présenter présenter quelqu'un (identité, nom, âge,\r\nnationalité, profession, lieu d'habitation...)", "Peut parler de son environnement quotidien (donner ses\r\ncoordonnées, parler de sa famille...)", "Peut llire un texte à voix haute\r\n", "Peut exprimer l'appartenance / la quantité\r\n", "Peut entrer en contact avec quelqu'un\r\n", "Peut utiliser des expressions élémentaires de salutation et de\r\ncongé.", "Peut réagir à des messages et instructions simples\r\n", "Peut poser et répondre à des questions personnelles\r\n", "Peut répondre par l'affirmative, répondre par la négative\r\n", "Peut présenter quelqu'un (identité, nom, âge, nationalité,\r\nprofession, lieu d'habitation...)" ],
@@ -11691,6 +11691,9 @@
    "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21-538\r\nCoursinformatiques@dudelange.lu",
    "description" : "Compétences en traitement de texte, tableur et présentation et gestion Outlook.",
    "domainesCompetences" : [ {
+      "competences" : [ "Maîtriser les fonctions de base de Word. Maîtriser le ruban, les principales onglets, groupes de commandes et les raccourcis. ", "Créer et saisir de documents. ", "Mettre en forme des caractères et introduire effets de texte et typographie.", "Modifier la casse, indice, exposant, couleur pour texte et pour arrière-plan.", "Faire de l’insertion : des puces, liste ordonnée et non-ordonnée, entête de page et de pied de page, numérotation de pages, saut de pages, bordures, caractères spéciaux et symboles. ", " Introduire des marges, reproduire la mise en forme des caractères. ", "Mettre en forme des paragraphes, faire glisser les différentes marques de retrait.", "Créer, modifier, mettre à jour les styles de police et de paragraphe, faire les captures des images, insertion des images, comment positionner les images par rapport au texte, changer style d'affichage des images. ", "Créer des tableaux, appliquer un format ou style automatique à un tableau, fusionner, fractionner les cellules d'un tableau, mise en forme des tableaux. " ],
+      "domaine" : "TRAITEMENT DE TEXTE"
+   }, {
       "competences" : [ "Connaître les principes de base d'Excel, les notions de tableur, classeur, cellule et feuille de calcul. ", "Dupliquer automatiquement des cellules et manipuler des lignes, des colonnes et des cellules.", "Créer une de table de calcul et de planning hebdomadaire. ", "Mettre en forme le style dans les feuilles de calcul. Maîtriser les raccourcis de base. ", "Remplir automatiquement des feuilles de calcul à l'aide de la fonction de génération de nombres aléatoires à des intervalles prédéfinis. ", "Présenter des formes des cellules spécifiques et utiliser des fonctions fournies par la base de données du logiciel d'application Excel. ", "Créer des formules de calcul personnalisées en tenant compte des opérateurs mathématiques utilisés et de l'ordre des opérations. ", "Réaliser une mise en forme conditionnelle. Créer et insérer des fonctions logiques conditionnelles. ", "Comprendre et utiliser des références (valeurs) relatives et absolues en Excel. ", "Créer des graphiques simples avec les données saisies dans une feuille de calcul. Créer des graphiques sparkline avec les données saisies dans une feuille de calcul. " ],
       "domaine" : "TABLEUR"
    }, {
@@ -11699,9 +11702,6 @@
    }, {
       "competences" : [ "Informations générales sur le courrier électronique : les serveurs de courrier entrant/sortant, comment créer un compte Outlook. ", "Mail gratuit, envoyer/recevoir des messages, planifier l'envoi, joindre des fichiers. " ],
       "domaine" : "MESSAGERIE"
-   }, {
-      "competences" : [ "Maîtriser les fonctions de base de Word. Maîtriser le ruban, les principales onglets, groupes de commandes et les raccourcis. ", "Créer et saisir de documents. ", "Mettre en forme des caractères et introduire effets de texte et typographie.", "Modifier la casse, indice, exposant, couleur pour texte et pour arrière-plan.", "Faire de l’insertion : des puces, liste ordonnée et non-ordonnée, entête de page et de pied de page, numérotation de pages, saut de pages, bordures, caractères spéciaux et symboles. ", " Introduire des marges, reproduire la mise en forme des caractères. ", "Mettre en forme des paragraphes, faire glisser les différentes marques de retrait.", "Créer, modifier, mettre à jour les styles de police et de paragraphe, faire les captures des images, insertion des images, comment positionner les images par rapport au texte, changer style d'affichage des images. ", "Créer des tableaux, appliquer un format ou style automatique à un tableau, fusionner, fractionner les cellules d'un tableau, mise en forme des tableaux. " ],
-      "domaine" : "TRAITEMENT DE TEXTE"
    } ],
    "duree" : "40h",
    "enseignants" : [ {
@@ -14509,6 +14509,9 @@
    "dateInscription" : "toute l'année de 08:00-11:30 et 13:30-16:00",
    "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
+      "competences" : [ "Ka mat Hëllef vun engem Questionnaire, dee virbereet gouf, e staark gesteierten Interview mat e puer spontanen Zousazfroe féieren.", "Kann an einfache Froe Rotschléi ginn an der froen.", "Ka bei informellen Diskussiounen iwwer Themen, déi en/se/et intresséieren, am Allgemengen déi wiesentlech Punkte verstoen, virausgesat, et gëtt däitlech Standardsprooch geschwat, a ka selwer op eng einfach Manéier Meenungen ausdrécken oder Leit no hirer Meenung froen.", "Kann an einfache Situatioune mat Verwaltungen eens ginn z.B. um Policebüro mellen, dass een eppes geklaut krut; eng Aarbechtserlaabnes froen an an deem Kontext op Froen äntweren; iwwer Telefon Renseignementer froen an eng Brochure froen.", "Kann an de meeschte Situatiounen zuwee kommen, mat deenen een als Benotzer vum ëffentlechen Transport, als «Tourist fir een Dag» zu Lëtzebuergoder beim Organiséiere vun Auslandsreese konfrontéiert gëtt (z.B. beim Schalter op der Gare, am Touristebüro, an enger Reesagence Renseignementerfroen, Billjeeë kafen, Reservatioune maachen).", "Kann ouni Virbereedung u Gespréicher iwwer Themen deelhuelen, déi e/se/et gutt kennt (z.B. iwwer en neie Restaurant, e friemt Land, Erfahrungen op der Aarbecht, am Cours), wann d'Gespréichspartner hir Ausdrocksweis a Schwätzvitesse upassen a Gedold weisen.", "Kann einfach faktuell Informatiounen austauschen iwwer Themen, déi e/se/et gutt kennt an iwwer Themen aus sengem/hirem Fach oder Interessegebitt.", "Kann Deeler vun deem, wat en anere gesot huet, widderhuelen, fir dat géigesäitegt Versteesdemech ze sécheren. Kann anerer opfuerderen, um Gespréich deelzehuelen." ],
+      "domaine" : "Mëndlech Interactioun"
+   }, {
       "competences" : [ "Kann einfach technesch Informatioune verstoen, wéi z.B. Instruktioune fir en Apparat, deen een all Dag benotzt, ze bedéngen.", "Kann detailléiert Weebeschreiwunge suivéieren.", "Ka konkret Erklärungen, Uweisungen an Opdräg verstoen, z.B. op der Aarbecht am Cours, bei Fräizäitaktivitéiten.", "Kann an enger kuerzer, einfacher, linearer Erzielung d'Handlung suivéieren a wichteg Detailer verstoen.", "Ka bei Gespréicher tëscht Mammesproochler iwwer Themen aus Beräicher wéi Aarbecht, Schoul/Formatioun, Fräizäit, déi e/se/et gutt kennt an déi en/se/et intresséieren, d'Haaptpunkte matkréien, wa kloer Standardsprooch geschwat gëtt.", "Kann och méi laang an/oder méi komplex Messagë verstoen, wa se a kloer artikuléierter Standardsprooch geschwat sinn.", "Kann d'Haaptpunkten aus Toundokumenter iwwer einfach Theme vu perséinlechem oder allgemengem Interessi verstoen, wa kloer Standardsprooch an zimlech lues geschwat gëtt.", "Kann, soulaang se onkomplizéiert bleiwen a kloer an an einfacher Standardsprooch presentéiert ginn, Beschreiwunge vu Saache verstoen, déi e/se/et gutt kennt oder déi e/se/et perséinlech intresséieren." ],
       "domaine" : "Héierverstoen"
    }, {
@@ -14517,9 +14520,6 @@
    }, {
       "competences" : [ "Ka Plazen, Saachen a Persounen, déi e/se/et gutt kennt oder déi en/se/et intresséieren, einfach beschreiwen (z.B. d'Uertschaft aus där e/se/et kënnt, déi eege Wunneng, e Familljemember, d'Aarbechtsplaz).", "Kann einfach Informatioune ginn, déi en/se/et direkt betreffen (z.B. iwwer Hobbyen oder wou e/se/et mat enger Aarbecht drun ass), a kloer maachen, wat em/er dobäi am wichtegsten ass oder wat déi wichtegst Vir - an Nodeeler sinn.", "Kann e kuerzen, ageübten Text iwwer en einfacht Thema, dat e/se/et gutt kennt, esou virdroen, dass en/se/et trotz friemer Intonatioun a Betounung kloer ze verstoen ass.", "Kann Usiichten, Pläng, Ziler oder Handlunge kuerz an einfach justifiéieren oder erklären.", "Kann Dreem an Hoffnungen einfach beschreiwen, z.B. säin/hiert Dramhaus, seng/hir Hoffnunge vis-à-vis vun enger neier Aarbechtsplaz, seng/hir Ziler an engem Cours.", "Ka vun Erfahrungen an Evenementer einfach a linear erzielen an dobäi eege Reaktiounen a Meenungen abezéien.", "Ka linear vun der eegener berufflecher Carrière, vu perséinleche Projeten schwätzen." ],
       "domaine" : "Monologescht Schwätzen"
-   }, {
-      "competences" : [ "Ka mat Hëllef vun engem Questionnaire, dee virbereet gouf, e staark gesteierten Interview mat e puer spontanen Zousazfroe féieren.", "Kann an einfache Froe Rotschléi ginn an der froen.", "Ka bei informellen Diskussiounen iwwer Themen, déi en/se/et intresséieren, am Allgemengen déi wiesentlech Punkte verstoen, virausgesat, et gëtt däitlech Standardsprooch geschwat, a ka selwer op eng einfach Manéier Meenungen ausdrécken oder Leit no hirer Meenung froen.", "Kann an einfache Situatioune mat Verwaltungen eens ginn z.B. um Policebüro mellen, dass een eppes geklaut krut; eng Aarbechtserlaabnes froen an an deem Kontext op Froen äntweren; iwwer Telefon Renseignementer froen an eng Brochure froen.", "Kann an de meeschte Situatiounen zuwee kommen, mat deenen een als Benotzer vum ëffentlechen Transport, als «Tourist fir een Dag» zu Lëtzebuergoder beim Organiséiere vun Auslandsreese konfrontéiert gëtt (z.B. beim Schalter op der Gare, am Touristebüro, an enger Reesagence Renseignementerfroen, Billjeeë kafen, Reservatioune maachen).", "Kann ouni Virbereedung u Gespréicher iwwer Themen deelhuelen, déi e/se/et gutt kennt (z.B. iwwer en neie Restaurant, e friemt Land, Erfahrungen op der Aarbecht, am Cours), wann d'Gespréichspartner hir Ausdrocksweis a Schwätzvitesse upassen a Gedold weisen.", "Kann einfach faktuell Informatiounen austauschen iwwer Themen, déi e/se/et gutt kennt an iwwer Themen aus sengem/hirem Fach oder Interessegebitt.", "Kann Deeler vun deem, wat en anere gesot huet, widderhuelen, fir dat géigesäitegt Versteesdemech ze sécheren. Kann anerer opfuerderen, um Gespréich deelzehuelen." ],
-      "domaine" : "Mëndlech Interactioun"
    }, {
       "competences" : [ "Kann an einfache Situatioune mat Verwaltunge korrespondéieren z.B. fir Informatiounsbroschüren ze froen oder ze mellen dass een eppes geklaut krut.", "Kann einfach a verständlech Saachen, Plazen, Persoune beschreiwen, déi e/se/et perséinlech intresséieren oder déi e/se/et gutt kennt an dobäi z.D. och perséinlech Meenungen ausdrécken.", "Kann eng einfach Annonce opsetzen. Ka schrëftlech op Annoncë reagéieren a méi oder méi genee Informatioune verlaangen.", "Kann an engem einfache Virtrag (Konferenz, Visite guidée, Cours,...) Notizen a Form vun enger Lëscht vun Haaptpunkte maachen, souwäit en/se/et d'Thema kennt an einfach an däitlech Standardsproochgeschwat gëtt.", "Kann e perséinleche Bréif schreiwe fir Neiegkeete matzedeelen, an doranner am Detail, awer einfach iwwer Erfahrungen, Gefiller, Evenementer erzielen.", "Ka fir Frënn, Employéën, Léierpersounen oder anerer, mat deenen en/se/et am alldeegleche Liewen ze dinn huet, Notize schreiwe mat einfachen Informatiounen, déi hie/si/hatt selwer oder den Empfänger direkt betreffen, a ka verständlech maache wat em/er dobäi am Wichtegsten ass. Kann och Notize schreiwe fir Informatiounen ze froen.", "Kann eng einfach strukturéiert Geschicht, eng Anekdot linear erzielen." ],
       "domaine" : "Schrëfltechen Ausdrock"
@@ -14740,7 +14740,7 @@
    "dateInscription" : "Lundi à vendredi 9h à 18h",
    "description" : "Internetführerschäin Modul 1 - Entdecken der Computerwelt, Tablett, Laptop, Desktop, Handy (Hardware). - Betriebssystems Windows10 Aufbau und Funktion. - Sicherer Umgang mit Informatik- und Kommunikationstechnik. - Briefe schreiben, Bilder bearbeiten, drucken, spielen mit digitalen Geräten. - Internet benutzen, elektronische Post verwenden, eigenes E-Mail Konto einrichten und benutzen.",
    "domainesCompetences" : [ {
-      "competences" : [ "Connaître les divers outils numériques et leur application (Hardware).", "Connaître les différents logiciels de traitement de données (Software).", "Emploi sécurisé des TIC.", "Créer et modifier des textes.", "Créer et modifier des images.", "Comprendre le \"worldwide web\".", "Créer et gérer des messages électroniques (E-Mail SMS/MMS)." ],
+      "competences" : [ "Connaître les divers outils numériques et leur application (Hardware).", "Connaître les différents logiciels de traitement de données (Software).", "Emploi sécurisé des TIC.", "Créer et gérer des messages électroniques (E-Mail SMS/MMS).", "Créer et modifier des textes.", "Créer et modifier des images.", "Comprendre le \"worldwide web\"." ],
       "domaine" : "Internetführerschäin"
    } ],
    "duree" : "20h",
@@ -18264,7 +18264,7 @@
    "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
    "description" : "Créer des fonctions mathématiques personnalisées\r\n-\tRésoudre des formules complexes\r\n-\tLes fonctions conditionnelles imbriquées\r\n-\tLes fonctions pour les dates DATE.IF\r\n-\tLes fonctions conditionnelles OU et ET\r\n-\tLes fonctions SOMME.SI et NB.SI\r\n-\tLes fonctions de recherches dans les tableaux\r\n-\tLes fonctions de recherchs dans une base de données, de type liste, qui se trouve sur la même ou une autre feuille\r\n-\tLes fonctions de texte pour manipuler des informations textuelles.",
    "domainesCompetences" : [ {
-      "competences" : [ "Initiation au tableur Excel", "Identifier et personnaliser l'interface de travail, en maîtriser les principales fonctions permettant la création de tableaux de calcul.", "Paramétrer le tableau en vue de l'impression.", " Présenter les données sous forme de graphiques. ", "Sécuriser les données, sauvegarder un modèle" ],
+      "competences" : [ "Identifier et personnaliser l'interface de travail, en maîtriser les principales fonctions permettant la création de tableaux de calcul.", "Paramétrer le tableau en vue de l'impression.", " Présenter les données sous forme de graphiques. ", "Sécuriser les données, sauvegarder un modèle", "Initiation au tableur Excel" ],
       "domaine" : "Tableurs"
    } ],
    "duree" : "20h",
@@ -20991,7 +20991,7 @@
    "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
    "description" : "Comprendre les points essentiels quand un langage clair et standard est utilisé et s'il s'agit de choses familières dans le travail, à l'école, dans les loisirs etc. ; \r\nSe débrouiller dans la plupart des situations quotidiennes; \r\nProduire un discours simple et cohérent sur des sujets familiers et dans ses domaines d'intérêt; \r\nRaconter un événement, une expérience ou un rêve, \r\nDécrire un espoir ou un but et exposer brièvement des raisons ou explications pour un projet ou une idée.",
    "domainesCompetences" : [ {
-      "competences" : [ "raconter des événements au passé de manière plus approfondie (enfance, vacances, souvenirs)", "participer à des conversations sur des sujets d'actualité", "échanger des points de vue personnels, exprimer son accord ou son désaccord", "exprimer ses sentiments et réagir aux sentiments exprimés par d'autres", "s'exprimer en utilisant des formules de politesse plus élaborées" ],
+      "competences" : [ "exprimer ses sentiments et réagir aux sentiments exprimés par d'autres", "raconter des événements au passé de manière plus approfondie (enfance, vacances, souvenirs)", "participer à des conversations sur des sujets d'actualité", "échanger des points de vue personnels, exprimer son accord ou son désaccord", "s'exprimer en utilisant des formules de politesse plus élaborées" ],
       "domaine" : "expression orale"
    }, {
       "competences" : [ "comprendre des récits courts sur des sujets familiers", "comprendre des questions sur des thèmes précis (médecin, administration...)", "comprendre l'essentiel ou les points principaux des journaux radio ou télévisés" ],
@@ -24288,7 +24288,7 @@
    "dateInscription" : "Tous les jours de 9h à 12h",
    "description" : "Comprendre des questions simples au sujet de sa personne, de son identité ainsi que de sa famille ou ses amis Apprendre à répondre aux questions relatives à la présentation Identifier les paramètres d'une situation de communication claire dans la vie quotidienne",
    "domainesCompetences" : [ {
-      "competences" : [ "Peut identifier les formules de politesse et de salutation\r\n", "Peut comprendre les chiffres, les prix et l'heure\r\n", "Peut comprendre des expressions et mots familiers\r\n", "Peut comprendre des questions, instructions ou indications\r\ncourtes et élémentaires", "Peut manifester ma compréhension ou mon incompréhension\r\n", "Peut comprendre des consignes courtes et simples\r\n", "Peut comprendre l'appartenance ou la quantité\r\n", "Peut comprendre des informations ou des questions personnelles\r\nsimples", "Peut comprendre la description d'un objet ou d'une personne" ],
+      "competences" : [ "Peut comprendre des questions, instructions ou indications\r\ncourtes et élémentaires", "Peut identifier les formules de politesse et de salutation\r\n", "Peut comprendre les chiffres, les prix et l'heure\r\n", "Peut comprendre des expressions et mots familiers\r\n", "Peut manifester ma compréhension ou mon incompréhension\r\n", "Peut comprendre des consignes courtes et simples\r\n", "Peut comprendre l'appartenance ou la quantité\r\n", "Peut comprendre des informations ou des questions personnelles\r\nsimples", "Peut comprendre la description d'un objet ou d'une personne" ],
       "domaine" : "Compréhension orale"
    }, {
       "competences" : [ "Peut épeler\r\n", "Peut comprendre des indications et messages courts et simples\r\n", "Peut comprendre des textes courts avec des mots familiers et\r\ncourants", "Peut comprendre et suivre des instructions, des indications\r\n", "Peut comprendre des textes simples avec des informations et des\r\ndescriptions courtes", "Peut comprendre des textes simples donnant des informations et\r\ndes descriptions sur l'identité, la présentation, la description,\r\nsur les évènements dans le temps, sur la localisation, la météo..." ],
@@ -25035,6 +25035,9 @@
    "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
    "description" : "Nommer différents types d'habitation et parler des avantages et inconvénients, citer des conditions et des conséquences. \r\nRéagir à une réclamation. \r\nConnaître le système politique, participer à une discussion, formuler des déclarations diverses.",
    "domainesCompetences" : [ {
+      "competences" : [ "comprendre des textes au sujets des différents types d'habitation", "faire la différence entre des propositions, des souhaits et des questions polies", "apprendre à connaître le système politique", "comprendre un reportage politico-social" ],
+      "domaine" : "compréhension écrite "
+   }, {
       "competences" : [ "nommer différents types d'habitation", "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "nommer des conditions et des conséquences", "formuler des souhaits et des hypothèses", "se plaindre et réagir à une réclamation", "faire le compte-rendu d'un reportage politico-social", "participer à une discussion politico-social et défendre son point de vue", "dire si l'on est d'accord ou non avec des déclarations diverses" ],
       "domaine" : "expression orale "
    }, {
@@ -25043,9 +25046,6 @@
    }, {
       "competences" : [ "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "formuler des souhaits et des hypothèses", "se plaindre et réagir à une réclamation" ],
       "domaine" : "expression écrite "
-   }, {
-      "competences" : [ "comprendre des textes au sujets des différents types d'habitation", "faire la différence entre des propositions, des souhaits et des questions polies", "apprendre à connaître le système politique", "comprendre un reportage politico-social" ],
-      "domaine" : "compréhension écrite "
    } ],
    "duree" : "45h",
    "enseignants" : [ {
@@ -26896,7 +26896,7 @@
       "competences" : [ "utiliser des formules de politesse simples \r\n", "saluer, présenter quelqu'un, remercier \r\n", "poser des questions, répondre à des questions \r\n", "demander et échanger des renseignements personnels et sur autrui \r\n", "demander des directives et en donner / demander et expliquer son chemin à l'aide   d'une carte " ],
       "domaine" : "interaction orale"
    }, {
-      "competences" : [ "écrire  des messages  simples et courts (entrer en contact, exprimer  des remerciements ou excuses)                            \r\n", "écrire une suite de phrases simples : sur sa famille, sur son environnement,  sur sa formation, sur  son travail ", "écrire une lettre personnelle très simple " ],
+      "competences" : [ "écrire  des messages  simples et courts (entrer en contact, exprimer  des remerciements ou excuses)                            \r\n", "écrire une lettre personnelle très simple ", "écrire une suite de phrases simples : sur sa famille, sur son environnement,  sur sa formation, sur  son travail " ],
       "domaine" : "expression écrite"
    } ],
    "duree" : "60 leçons",
@@ -27771,7 +27771,7 @@
       "competences" : [ "faire une description claire et détaillée en rapport avec son vécu\r\n", "faire une présentation détaillée : souligner les points importants, développer et justifier les idées par des points secondaires et des exemples pertinents", "expliquer un point de vue sur un problème : donner des avantages, des inconvénients, argumenter pour ou contre " ],
       "domaine" : "expression orale en continu"
    }, {
-      "competences" : [ " transmettre une information détaillée\r\n", "participer à une conversation informelle/formelle", " exprimer, exposer ses opinions et les défendre avec pertinence", "émettre des hypothèses", " réagir aux arguments d'autrui", "faire des commentaires", "mettre en évidence que l'interlocuteur doit faire des concessions\r\n", "exposer ses raisons pour obtenir un dédommagement" ],
+      "competences" : [ " transmettre une information détaillée\r\n", "participer à une conversation informelle/formelle", " exprimer, exposer ses opinions et les défendre avec pertinence", "émettre des hypothèses", " réagir aux arguments d'autrui", "faire des commentaires", "exposer ses raisons pour obtenir un dédommagement", "mettre en évidence que l'interlocuteur doit faire des concessions\r\n" ],
       "domaine" : "interaction orale"
    }, {
       "competences" : [ "faire la description élaborée d'événements réels ou imaginaires, raconter une histoire.", "écrire des lettres (souligner ce qui est important dans un événement ou une expérience)", "écrire des lettres (faire des commentaires sur les nouvelles et les points de vue du correspondant)", "faire résumer des informations et des arguments empruntés à des sources diverses.", "résumer des textes (extraits de nouvelles, entretiens) et faire des commentaires", "écrire son opinion et la justifier." ],
@@ -28442,7 +28442,7 @@
    "dateInscription" : "Hôtel de Ville de Dudelange. \r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
    "description" : "Comprendre et utiliser des phrases simples au quotidien. Se présenter, décrire, échanger des informations personnelles et concrètes simples avec des termes simples et courants. Communiquer avec un interlocuteur qui s'exprime clairement et lentement.",
    "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des mots familiers, des expressions courantes et simples au sujet de sa famille. \r\n", "Comprendre des mots familiers, des expressions très courantes au sujet de son environnement concret et immédiat, exprimés dans un débit lent et distinct. \r\n", "Comprendre des questions simples, formulées dans un débit plus ou moins lent, au sujet de soi, de sa famille et de son environnement concret et immédiat (profession, logement, lieux de vie...) \r\n", "Identifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne. \r\n", "Comprendre une description simple d'une personne, d'un objet, d'un fait, exprimée de façon simple et avec des termes courants. \r\n", "Comprendre les expressions d'appartenance \r\n", "Comprendre les énoncés chiffrés (heures, dates, numéros de téléphone, prix...) \r\n", "Comprendre de courts échanges sur les loisirs et activités \r\n\r\n", "Comprendre de courts échanges sur de simples et brèves indications autour des activités du quotidien. ", "Comprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet de soi-même. \r\n" ],
+      "competences" : [ "Identifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne. \r\n", "Comprendre des mots familiers, des expressions courantes et simples au sujet de sa famille. \r\n", "Comprendre des mots familiers, des expressions très courantes au sujet de son environnement concret et immédiat, exprimés dans un débit lent et distinct. \r\n", "Comprendre des questions simples, formulées dans un débit plus ou moins lent, au sujet de soi, de sa famille et de son environnement concret et immédiat (profession, logement, lieux de vie...) \r\n", "Comprendre une description simple d'une personne, d'un objet, d'un fait, exprimée de façon simple et avec des termes courants. \r\n", "Comprendre les expressions d'appartenance \r\n", "Comprendre les énoncés chiffrés (heures, dates, numéros de téléphone, prix...) \r\n", "Comprendre de courts échanges sur les loisirs et activités \r\n\r\n", "Comprendre de courts échanges sur de simples et brèves indications autour des activités du quotidien. ", "Comprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet de soi-même. \r\n" ],
       "domaine" : "COMPREHENSION ORALE"
    }, {
       "competences" : [ " Poser et répondre à des questions simples sur des sujets familiers (famille, lieu de vie, métiers, loisirs et activités) \r\n", "Exprimer son goût et ses préférences \r\n", "Décrire et poser des questions sur le caractère d'une personne, d'un objet \r\n", "Poser et répondre à des questions sur l'heure, la date, le tarif et les activités du quotidien. \r\n", "Parler de ses loisirs et activités. Poser et répondre à des questions simples autour des loisirs et activités. \r\n\r\n", "Suivre et exprimer de brèves et simples indications au quotidien (indiquer, retrouver un emplacement/ suivre une notice simple)" ],
@@ -29200,7 +29200,7 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
    "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
    "domainesCompetences" : [ {
-      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n", " suivre des indications brèves et simples\r\n", "comprendre des messages simples" ],
+      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n", "comprendre des messages simples", " suivre des indications brèves et simples\r\n" ],
       "domaine" : "compréhension orale"
    }, {
       "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) \r\n", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
@@ -30106,6 +30106,9 @@
    "dateFin" : "13/07/2026",
    "description" : "Être capable de s'entretenir en arabe sur des sujets d'intérêt personnel et dans des contextes professionnels.\r\nDéveloppement de l'expression orale et de la compétence générale en arabe .\r\nPoints de grammaire fondamentaux reliés au type de discours pratiqué.",
    "domainesCompetences" : [ {
+      "competences" : [ "understand eazy public announcements , predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good , if messages are pronounced slowly ." ],
+      "domaine" : "listening  "
+   }, {
       "competences" : [ " Recognize names, the most common words or expressions in simple situations of the everyday life: signs, handwritten indications doubled by icons, prices, schedules; spot and understand quantified data, proper nouns and other very simple information.\r\n" ],
       "domaine" : "Reading "
    }, {
@@ -30114,9 +30117,6 @@
    }, {
       "competences" : [ "Communicate, in a very simple way, provided that his interlocutor shows himself comprehensive, speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave; answer simple questions on information as the age, the origin, the language, the place of residence, understand, agree / refuse and execute very simple instructions; ask somebody of its news and react;\r\n" ],
       "domaine" : "Speaking "
-   }, {
-      "competences" : [ "understand eazy public announcements , predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good , if messages are pronounced slowly ." ],
-      "domaine" : "listening  "
    } ],
    "duree" : "60h",
    "enseignants" : [ ],
@@ -30190,7 +30190,7 @@
       "competences" : [ " Informationen über die Familie, Hobbys,Arbeit,Reisen und Verschiedenes austauschen : ", "Symptome, meinen physischen Zustand einem Arzt beschreiben ", "Fakten weitergeben\r\n", "nach Direktiven und Anweisungen fragen", "überrraschung, Freude Traurigkeit ausdrücken, mein Einverständnis/Abweisung ausdrücken…,  ", "den Grund eines Problems angeben / darüber diskutieren und eine Lösung finden ", "die Meinung anderer erfragen, meine Meinung sagen", "einGespräch anfangen, weiterführen und beenden", "Zufriedenheit, Unzufreidenheit, eine Beschwerde ausdrücken" ],
       "domaine" : "Mündliche Interaktion"
    }, {
-      "competences" : [ "einfache Texte schreiben\r\n", "über unvorhergesehen Erignisse berichten( Unfall, usw.)", "eine Anekdote erzählen\r\n", "meine Wünsche ,Träume beschreiben", "kurze Sätze machen\r\n", "einfache Informationen zusammenfassen", " persönliche Briefe schreiben (Berichten,beschreiben, die Erfahrung im Einzelnen beschreiben, Ereignisse, Projekte)" ],
+      "competences" : [ "einfache Texte schreiben\r\n", "über unvorhergesehen Erignisse berichten( Unfall, usw.)", "eine Anekdote erzählen\r\n", "meine Wünsche ,Träume beschreiben", "kurze Sätze machen\r\n", " persönliche Briefe schreiben (Berichten,beschreiben, die Erfahrung im Einzelnen beschreiben, Ereignisse, Projekte)", "einfache Informationen zusammenfassen" ],
       "domaine" : "Schriftlicher Ausdruck"
    } ],
    "duree" : "60h",
@@ -45465,7 +45465,7 @@
    "dateInscription" : "inscription sur rdv: info@efid.lu",
    "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant peut comprendre une conversation simple et en rapporter le contenu.", "L'apprenant est en mesure de comprendre un échange simple entre natifs" ],
+      "competences" : [ "L'apprenant est en mesure de comprendre un échange simple entre natifs", "L'apprenant peut comprendre une conversation simple et en rapporter le contenu." ],
       "domaine" : "Compréhension orale"
    }, {
       "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne." ],
@@ -46599,7 +46599,7 @@
       "competences" : [ "Ka kloer formuléiert, onkomplizéiert Instruktioune fir d'Benotzung vun engem Apparat verstoen.", "Kann a Beschreiwunge vu Saachen, déi en/se/et intresséieren, Haaptinformatioune verstoen.", "Kann an onkomplizéierten, alldeeglechen Noriichten an Zeitungsartikelen wichteg Eenzelinformatioune verstoen, z.B. wie wat wou gemaach huet oder wat wéini wou geschitt ass (ë.a. Fait-diversë wéi :Noriichten iwwer d'Liewen an d'Carrière vu prominente Leit; Accidenter, Delikter a Verbriechen zu Lëtzebuerg; Katastrophen uechter d'Welt,...).", "Kann an einfachen, privaten oder héichoffizielle Standardbréiwer dat Wiesentlecht verstoen (z.B.Convocatioun op d'Versammlung vun engem Veräin mat der Dagesuerdnung).", "Kann an alldeeglechen Texten, déi - dacks a Form vu Lëschten - eng Offer presentéieren, wichteg Informatioune lokaliséieren a verstoen, resp.erausfannen, ob eppes derbäi ass, wat en/se/et intresséiert.", "Kann a kuerzen normativen Texter, déi fir de breede Public bestëmmt sinn, relevant Informatioune lokaliséieren a verstoen." ],
       "domaine" : "Liesverstoen"
    }, {
-      "competences" : [ "Ka Plazen, Saachen a Persounen, déi e/se/et gutt kennt oder déi en/se/et intresséieren, einfach beschreiwen (z.B. d'Uertschaft aus där e/se/et kënnt, déi eege Wunneng, e Familljemember, d'Aarbechtsplaz).", "Kann einfach Informatioune ginn, déi en/se/et direkt betreffen (z.B. iwwer Hobbyen oder wou e/se/et mat enger Aarbecht drun ass), a kloer maachen, wat em/er dobäi am wichtegsten ass oder wat déi wichtegst Vir - an Nodeeler sinn.", "Kann e kuerzen, ageübten Text iwwer en einfacht Thema, dat e/se/et gutt kennt, esou virdroen, dass en/se/et trotz friemer Intonatioun a Betounung kloer ze verstoen ass.", "Kann Usiichten, Pläng, Ziler oder Handlunge kuerz an einfach justifiéieren oder erklären.", "Kann Dreem an Hoffnungen einfach beschreiwen, z.B. säin/hiert Dramhaus, seng/hir Hoffnunge vis-à-vis vun enger neier Aarbechtsplaz, seng/hir Ziler an engem Cours.", "Ka vun Erfahrungen an Evenementer einfach a linear erzielen an dobäi eege Reaktiounen a Meenungen abezéien.", "Ka linear vun der eegener berufflecher Carrière, vu perséinleche Projeten schwätzen." ],
+      "competences" : [ "Ka Plazen, Saachen a Persounen, déi e/se/et gutt kennt oder déi en/se/et intresséieren, einfach beschreiwen (z.B. d'Uertschaft aus där e/se/et kënnt, déi eege Wunneng, e Familljemember, d'Aarbechtsplaz).", "Kann einfach Informatioune ginn, déi en/se/et direkt betreffen (z.B. iwwer Hobbyen oder wou e/se/et mat enger Aarbecht drun ass), a kloer maachen, wat em/er dobäi am wichtegsten ass oder wat déi wichtegst Vir - an Nodeeler sinn.", "Kann e kuerzen, ageübten Text iwwer en einfacht Thema, dat e/se/et gutt kennt, esou virdroen, dass en/se/et trotz friemer Intonatioun a Betounung kloer ze verstoen ass.", "Ka linear vun der eegener berufflecher Carrière, vu perséinleche Projeten schwätzen.", "Kann Usiichten, Pläng, Ziler oder Handlunge kuerz an einfach justifiéieren oder erklären.", "Kann Dreem an Hoffnungen einfach beschreiwen, z.B. säin/hiert Dramhaus, seng/hir Hoffnunge vis-à-vis vun enger neier Aarbechtsplaz, seng/hir Ziler an engem Cours.", "Ka vun Erfahrungen an Evenementer einfach a linear erzielen an dobäi eege Reaktiounen a Meenungen abezéien." ],
       "domaine" : "Monologescht Schwätzen"
    }, {
       "competences" : [ "Ka mat Hëllef vun engem Questionnaire, dee virbereet gouf, e staark gesteierten Interview mat e puer spontanen Zousazfroe féieren.", "Kann an einfache Froe Rotschléi ginn an der froen.", "Ka bei informellen Diskussiounen iwwer Themen, déi en/se/et intresséieren, am Allgemengen déi wiesentlech Punkte verstoen, virausgesat, et gëtt däitlech Standardsprooch geschwat, a ka selwer op eng einfach Manéier Meenungen ausdrécken oder Leit no hirer Meenung froen.", "Kann an einfache Situatioune mat Verwaltungen eens ginn z.B. um Policebüro mellen, dass een eppes geklaut krut; eng Aarbechtserlaabnes froen an an deem Kontext op Froen äntweren; iwwer Telefon Renseignementer froen an eng Brochure froen.", "Kann an de meeschte Situatiounen zuwee kommen, mat deenen een als Benotzer vum ëffentlechen Transport, als «Tourist fir een Dag» zu Lëtzebuergoder beim Organiséiere vun Auslandsreese konfrontéiert gëtt (z.B. beim Schalter op der Gare, am Touristebüro, an enger Reesagence Renseignementerfroen, Billjeeë kafen, Reservatioune maachen).", "Kann ouni Virbereedung u Gespréicher iwwer Themen deelhuelen, déi e/se/et gutt kennt (z.B. iwwer en neie Restaurant, e friemt Land, Erfahrungen op der Aarbecht, am Cours), wann d'Gespréichspartner hir Ausdrocksweis a Schwätzvitesse upassen a Gedold weisen.", "Kann einfach faktuell Informatiounen austauschen iwwer Themen, déi e/se/et gutt kennt an iwwer Themen aus sengem/hirem Fach oder Interessegebitt.", "Kann Deeler vun deem, wat en anere gesot huet, widderhuelen, fir dat géigesäitegt Versteesdemech ze sécheren. Kann anerer opfuerderen, um Gespréich deelzehuelen." ],
@@ -47849,7 +47849,7 @@
    "dateInscription" : "Lundi à vendredi 9h à 18h",
    "description" : "MS Word Modul 2 Fortgeschritten:\r\n-Eine Tabelle in Word einfügen und bearbeiten.\r\n-Der Index: erstellen und benutzen.\r\n-Der Briefkopf: Kopf- und Fußzeile anfertigen und anwenden.\r\n-Die Funktion Etiketten und Briefumschläge anwenden, Serienbriefe erzeugen.",
    "domainesCompetences" : [ {
-      "competences" : [ "Publipostage, étiquettes et enveloppes, manipuler les tabulations.", "Connaissances approfondies." ],
+      "competences" : [ "Connaissances approfondies.", "Publipostage, étiquettes et enveloppes, manipuler les tabulations." ],
       "domaine" : "Traitement de texte"
    } ],
    "duree" : "10h",
@@ -48982,7 +48982,7 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
    "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul",
    "domainesCompetences" : [ {
-      "competences" : [ "réagir  durant une conversation concernant des sujets personnels et familiers\r\n\r\n\r\n", " réagir à des messages et instructions simples\r\n", "comprendre le contenu d'une description  ou d'une histoire simple", "identifier des émotions, des opinions et des besoins exprimés dans un langage facile\r\n" ],
+      "competences" : [ "identifier des émotions, des opinions et des besoins exprimés dans un langage facile\r\n", "réagir  durant une conversation concernant des sujets personnels et familiers\r\n\r\n\r\n", " réagir à des messages et instructions simples\r\n", "comprendre le contenu d'une description  ou d'une histoire simple" ],
       "domaine" : "COMPRENDRE"
    }, {
       "competences" : [ "parler de soi-même, de son travail, de sa vie quotidienne et de ses intérêts \r\n\r\n", "faire une conversation simple ", "formuler des messages, explications et instructions simples ", "exprimer ses besoins dans des situations quotidiennes\r\n" ],
@@ -49100,7 +49100,7 @@
       "competences" : [ "réagir à des sentiments tels que la surprise, la joie, la tristesse, la curiosité et l'indifférence et les exprimer.", "soutenir une conversation ou une discussion\r\n", " échanger de l'information sur des sujets familiers, d'intérêt personnel ou pertinents pour la vie quotidienne (par exemple, la famille, les loisirs, le travail, les voyages et les faits d'actualité).", "commenter brièvement le point de vue d'autrui.\r\n", "comparer et opposer des alternatives \r\n", "émettre ou solliciter un point de vue personnel ou une opinion sur des points d'intérêt général.\r\n", "exprimer poliment ses convictions, ses opinions, son accord et son désaccord.\r\n", "commenter brièvement le point de vue d'autrui\r\n", "commencer, poursuivre et terminer une simple conversation en tête-à-tête sur des sujets familiers ou d'intérêt personnel" ],
       "domaine" : "Interaction orale"
    }, {
-      "competences" : [ "écrire des descriptions détaillées simples et directes sur une gamme étendue de sujets familiers (centre d'intérêt, famille, aspects culturels) ", "rédiger un programme ( de sorties, de lieux à visiter, ..)\r\n", "rédiger un questionnaire \r\n", "comparer des gens, des pays, des situations..\r\n", "faire le compte rendu d'expériences en décrivant ses souvenirs, ses sentiments, ses réactions, \r\n", "écrire la description d'un évènement, d'un voyage \r\n", "raconter une histoire \r\n", "paraphraser ( écrire à la manière de )\r\n" ],
+      "competences" : [ "écrire des descriptions détaillées simples et directes sur une gamme étendue de sujets familiers (centre d'intérêt, famille, aspects culturels) ", "rédiger un programme ( de sorties, de lieux à visiter, ..)\r\n", "rédiger un questionnaire \r\n", "comparer des gens, des pays, des situations..\r\n", "paraphraser ( écrire à la manière de )\r\n", "faire le compte rendu d'expériences en décrivant ses souvenirs, ses sentiments, ses réactions, \r\n", "écrire la description d'un évènement, d'un voyage \r\n", "raconter une histoire \r\n" ],
       "domaine" : "Expression écrite"
    }, {
       "competences" : [ "conjuguer les principaux verbes au temps de l'indicatif \r\n", "utiliser le comparatif et le superlatif ", "utiliser les pronoms compléments simples et doubles \r\n", "utiliser l'impératif, les pronoms compléments à l'impératif ", "utiliser les temps du passé ", "utiliser le conditionnel présent et passé \r\n", "utiliser le passif", " utiliser le subjonctif ", "utiliser le gérondif et le participe présent\r\n" ],
@@ -49186,7 +49186,7 @@
    "dateInscription" : "lundi et jeudi de 14h0 à 17h30\r\nvendredi de 9h30 à 13h00",
    "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
    "domainesCompetences" : [ {
-      "competences" : [ "comprendre des mots familiers, des expressions très courantes, simples et concrètes de la vie de tous les jours \r\n", " comprendre des questions, ou indications très courtes et élémentaires ", "comprendre et suivre des consignes de base pour réaliser différents exercices \r\n", "comprendre les chiffres, les prix, les couleurs et l'heure (heure entière, demi-heure) " ],
+      "competences" : [ "comprendre les chiffres, les prix, les couleurs et l'heure (heure entière, demi-heure) ", "comprendre des mots familiers, des expressions très courantes, simples et concrètes de la vie de tous les jours \r\n", " comprendre des questions, ou indications très courtes et élémentaires ", "comprendre et suivre des consignes de base pour réaliser différents exercices \r\n" ],
       "domaine" : "compréhension orale"
    }, {
       "competences" : [ "comprendre des phrases simples donnant des informations de base sur la vie quotidienne (prix, heures, couleurs), surtout si elles contiennent des images qui facilitent la compréhension ", "comprendre (suivre) des indications brèves et simples ", "comprendre et suivre des consignes de base pour réaliser différents exercices \r\n" ],
@@ -56107,6 +56107,9 @@
    "dateInscription" : "Période d'inscription : 12.01.2026 - 06.02.2026\r\n\r\nlundi - vendredi\r\n9.00 - 12.00 et 14.00 - 18.00",
    "description" : "Continuation du cours Alphabétisation en langue française - Intenstif - ALPHA 1.5.",
    "domainesCompetences" : [ {
+      "competences" : [ "Utilisation de formules de politesse et de salutations ;", "Présenter son identité." ],
+      "domaine" : "Parler"
+   }, {
       "competences" : [ "Utilisation de formules de politesse et salutations courantes ;", "Suivi des instructions simples ;", "Manifestation de la compréhension ou de l'incompréhension." ],
       "domaine" : "Comprendre"
    }, {
@@ -56115,9 +56118,6 @@
    }, {
       "competences" : [ "Connaissance de toutes les lettres de l'alphabet ;", "Lecture de syllabes simples ;", "Lecture de mots construits à partir de syllabes simples." ],
       "domaine" : "Lire"
-   }, {
-      "competences" : [ "Utilisation de formules de politesse et de salutations ;", "Présenter son identité." ],
-      "domaine" : "Parler"
    }, {
       "competences" : [ "Compter jusqu'à 30 ;", "Comparer et ordonner des nombres ;", "Maîtrise des additions et soustractions de nombres entiers ;", "Manipulation d'argent." ],
       "domaine" : "Calculer"
@@ -57825,6 +57825,9 @@
    "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
    "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
    "domainesCompetences" : [ {
+      "competences" : [ "Peut recopier des mots, des chiffres.", "Peut noter des mots, des chiffres en vue de se les remémorer.", "Peut remplir une fiche d'hôtel ou un formulaire simple." ],
+      "domaine" : "Expression écrite"
+   }, {
       "competences" : [ "Peut comprendre quelques mots familiers.", "Peut comprendre des instructions très simples (consignes de classe).", "Peut comprendre des questions simples sur l'identité (nom, prénom, adresse et nationalité)", "Peut comprendre des informations chiffrées simples (téléphone et adresse.)." ],
       "domaine" : "Compréhension orale"
    }, {
@@ -57833,9 +57836,6 @@
    }, {
       "competences" : [ "Peut utiliser des expressions élémentaires de salutation et congé", "Peut poser des questions personnelles, répondre à des questions personnelles (sur l'identité).", "Peut présenter très brièvement quelqu'un (membre de sa famille, ami, ...).", "Peut se débrouiller avec les nombres (pour être capable de donner ses coordonnées)." ],
       "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "Peut recopier des mots, des chiffres.", "Peut noter des mots, des chiffres en vue de se les remémorer.", "Peut remplir une fiche d'hôtel ou un formulaire simple." ],
-      "domaine" : "Expression écrite"
    } ],
    "duree" : "50h",
    "enseignants" : [ {
@@ -58877,7 +58877,7 @@
    "dateInscription" : "Hôtel de Ville de Dudelange. \r\nCoursdelangues@dudelange.lu \r\ntél; 51 61 21 538",
    "description" : "Comprendre/utiliser de courtes phrases isolées et expressions fréquentes dans les commerces et au travail. achats, travail. \r\nComprendre et décrire son environnement immédiat. \r\nFormuler des besoins immédiats.",
    "domainesCompetences" : [ {
-      "competences" : [ "Comprendre une description : d'une personne, d'une famille. ", "Comprendre les échanges simples utilisant des termes usuels sur le déroulement type d'une journée. ", "Connaître des termes relatifs aux hobbies. ", "Comprendre l'heure, les horaires et autres expressions de temps. ", "Comprendre des phrases isolées sur le temps qu'il fait. ", "Connaître des termes relatifs aux nourritures, lieux de commerce. ", "Comprendre de courts échanges au restaurant (commande, à boire, à manger-réservation) ", "Comprendre des mots relatifs au corps humain (nommer les parties du corps). ", "Comprendre de courts échanges chez le médecin (expressions simples de symptômes)." ],
+      "competences" : [ "Comprendre l'heure, les horaires et autres expressions de temps. ", "Comprendre une description : d'une personne, d'une famille. ", "Comprendre les échanges simples utilisant des termes usuels sur le déroulement type d'une journée. ", "Connaître des termes relatifs aux hobbies. ", "Comprendre des phrases isolées sur le temps qu'il fait. ", "Connaître des termes relatifs aux nourritures, lieux de commerce. ", "Comprendre de courts échanges au restaurant (commande, à boire, à manger-réservation) ", "Comprendre des mots relatifs au corps humain (nommer les parties du corps). ", "Comprendre de courts échanges chez le médecin (expressions simples de symptômes)." ],
       "domaine" : "COMPREHENSION ORALE"
    }, {
       "competences" : [ "Décrire une personne. ", "Échanger succinctement sur le thème de la famille/amis (questions-nommer, décrire avec des mots simples).  ", "Décrire, poser des questions sur le déroulement d'une journée. ", "Dire ses hobbies et de ses activités de loisirs. ", "Fixer un rendez-vous. ", "Parler du temps, de la météo. Poser des questions sur le temps qu'il fait. ", "Nommer et décrire des aliments et des boissons. ", "Échanger succinctement dans un magasin.  ", "Dire ce que l'on aime manger ou boire ou pas. ", "Commander quelque chose à boire ou à manger. ", "Participer succinctement à une conversation chez le médecin. " ],
@@ -59229,7 +59229,7 @@
       "competences" : [ "Comprendre une description : d'une personne, d'une famille. ", "Comprendre les échanges simples utilisant des termes usuels sur le déroulement type d'une journée. ", "Connaître des termes relatifs aux hobbies. \r\n", "Comprendre l'heure, les horaires et autres expressions de temps. ", "Comprendre des phrases isolées sur le temps qu'il fait. ", "Connaître des termes relatifs aux nourritures, lieux de commerce. ", "Comprendre de courts échanges au restaurant (commande, à boire, à manger-réservation). ", "Comprendre des mots relatifs au corps humain (nommer les parties du corps). ", "Comprendre de courts échanges chez le médecin (expressions simples de symptômes). " ],
       "domaine" : "COMPREHENSION ORALE"
    }, {
-      "competences" : [ "Décrire une personne. ", "Parler de /Poser des questions sur sa famille et de ses amis.  ", "Décrire, poser des questions sur le déroulement d'une journée. ", "Dire ses hobbies et de ses activités de loisirs. ", "Fixer un rendez-vous. ", "Parler du temps, de la météo. Poser des questions sur le temps qu'il fait. ", "Nommer et décrire des aliments et des boissons. ", "Échanger succinctement dans un magasin. ", "Dire ce que l'on aime manger ou boire ou pas. ", "Commander quelque chose à boire ou à manger. \r\n", "Participer succinctement à une conversation chez le médecin. " ],
+      "competences" : [ "Décrire une personne. ", "Parler de /Poser des questions sur sa famille et de ses amis.  ", "Parler du temps, de la météo. Poser des questions sur le temps qu'il fait. ", "Décrire, poser des questions sur le déroulement d'une journée. ", "Dire ses hobbies et de ses activités de loisirs. ", "Fixer un rendez-vous. ", "Nommer et décrire des aliments et des boissons. ", "Échanger succinctement dans un magasin. ", "Dire ce que l'on aime manger ou boire ou pas. ", "Commander quelque chose à boire ou à manger. \r\n", "Participer succinctement à une conversation chez le médecin. " ],
       "domaine" : "EXPRESSION ORALE"
    }, {
       "competences" : [ "Ecrire des phrases simples isolées sur soi (identité), sur sa famille. ", "Ecrire des phrases isolées sur son environnement immédiat (noms de commerce, de nourritures, de parties du corps, l'heure).\r\n" ],
@@ -59313,7 +59313,7 @@
    "dateInscription" : "CoursEnsemble@i-a.lu\r\n51 61 21 538",
    "description" : "Parler français sur des sujets de la vie quotidienne, sociale et culturelle. Communiquer autour de tâches simples et habituelles et échanger des informations sur des sujets et des activités familiers.Utiliser une série de phrases ou d'expressions pour décrire ma famille et d'autres gens, ma vie sociale, ma formation et mon activité professionnelle actuelle ou récente. Donner son avis, exprimer ses goûts.",
    "domainesCompetences" : [ {
-      "competences" : [ "Comprendre une présentation et une description  simples d´une personne, d´un objet et d´un fait. ", "Comprendre globalement les grands axes des informations radiodiffusées-télévisées. ", "Comprendre une demande-un souhait. \r\n", "Comprendre des instructions. ", "Comprendre une explication formulée en des termes simples et courants.  ", "Comprendre un court récit d´événements passés sur des thèmes fréquemment rencontrés au quotidien. ", "Comprendre une invitation, proposition, un refus et un consentement.  " ],
+      "competences" : [ "Comprendre des instructions. ", "Comprendre une présentation et une description  simples d´une personne, d´un objet et d´un fait. ", "Comprendre globalement les grands axes des informations radiodiffusées-télévisées. ", "Comprendre une demande-un souhait. \r\n", "Comprendre une explication formulée en des termes simples et courants.  ", "Comprendre un court récit d´événements passés sur des thèmes fréquemment rencontrés au quotidien. ", "Comprendre une invitation, proposition, un refus et un consentement.  " ],
       "domaine" : "COMPREHENSION ORALE"
    }, {
       "competences" : [ "Parler de soi, de sa famille, de sa ville, de sa culture. ", "Décrire aisément en détail: une personne, un objet et un fait (dimension/situation/quantité...etc). ", "Parler d´événement passé. ", "Parler de projet. ", "Présenter des excuses-remercier-demander poliment", "Exprimer son accord/désaccord-son opinion. ", "Rapporter des propos au présent. ", "Converser en utilisant les formules usuelles spécifiques  de certaines situations formelles comme à la  poste-à la commune-à la banque-gare....etc. " ],
@@ -60491,7 +60491,7 @@
    "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
    "description" : "Décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter/décliner une invitation, demander un service, raconter un évènement, verbes et grammaire de base",
    "domainesCompetences" : [ {
-      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen.", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
+      "competences" : [ "Kann sech oder eng aner Persoun virstellen", "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen.", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
       "domaine" : "Mëndlechen Ausdrock"
    }, {
       "competences" : [ "Kann e kuerzen einfachen Text op eng Kaart oder Mail schreiwen", "Kann e Formulaire ausfëllen (Numm, Adress, Nationalitéit, Zivilstand)" ],
@@ -61706,6 +61706,9 @@
    "dateInscription" : "inscription sur rdv: info@efid.lu",
    "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
+      "competences" : [ "L'apprenant peut faire part de ses idées .", "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne." ],
+      "domaine" : "Expression écrite"
+   }, {
       "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne." ],
       "domaine" : "Compréhension écrite"
    }, {
@@ -61714,9 +61717,6 @@
    }, {
       "competences" : [ "L'apprenant peut engager une conversation simple. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.\r\n", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
       "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées ." ],
-      "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
    "enseignants" : [ {
@@ -62209,7 +62209,7 @@
    "dateInscription" : "électroniquement sous https://www.sirodange.com/cours-de-langue/",
    "description" : "Discussions sur des sujets d'actualité ou de la vie quotidienne, résumés des livres, rappels de grammaire. \r\nDialogues en groupe, scènes de la vie courante",
    "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant maîtrise la langue italienne de façon à pouvoir entamer une discussion sur des sujets d'actualité, de la vie quotidienne et administrative et d'y participer de façon active.", "Le volet italien écrit permet, à part la rédaction de lettres, de réaliser des résumés de livres et de répondre à toute lettre ou demande." ],
+      "competences" : [ "Le volet italien écrit permet, à part la rédaction de lettres, de réaliser des résumés de livres et de répondre à toute lettre ou demande.", "L'apprenant maîtrise la langue italienne de façon à pouvoir entamer une discussion sur des sujets d'actualité, de la vie quotidienne et administrative et d'y participer de façon active." ],
       "domaine" : "Italien en conversation"
    } ],
    "duree" : "33h",
@@ -62596,6 +62596,9 @@
    "dateInscription" : "lundi-vendredi de 08:00 - 16:00 heures",
    "description" : "- suite du cours de luxembourgeois B1.1 (LA-LB-927)\r\n- comprendre des points essentiels quand un langage standard est utilisé. Se débrouiller dans la plupart des situations. Raconter un événement et donner brièvement des explications pour une idée. ",
    "domainesCompetences" : [ {
+      "competences" : [ "Kann Dreem, Hoffnungen oder Ziler beschreiwen, erzielen oder erklären ", "Kann d'Handlung vun engem Buch oder Film erzielen a seng Reaktiounen ausdrécken ", "Kann Evenementer, Erliefnisser an Erfarungen erzielen ", "Ka seng Projeten, Iddien a Meenunge kuerz begrënnen oder erklären " ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
       "competences" : [ "Kann alldeeglech Gespréicher verstoen", "Kann de gréissten Deel vun den Informatiounen vu Noriichten, Reportagen, Sendungen um Radio an op der Tëlee ... iwwert aktuell Themen oder Theme vu perséinlichem oder berufflechem Interessi verstoen", "Kann d'Haaptpunkten an engem Gespréich iwwert geleefeg, bekannt a vertraut Themen oder Interessegebieder verstoen (Themen wéi Alldag, Famill, Hobbyen, Aarbecht, Reesen...)", "Kann Informatiounen iwwer Erfarungen, Erliefnisser an Evenementer verstoen ", "Kann Informatiounen iwwert Pläng, Projeten, Dreem, Hoffnungen an Ziler verstoen " ],
       "domaine" : "Héierverstoen"
    }, {
@@ -62604,9 +62607,6 @@
    }, {
       "competences" : [ "Kann an alldeeglechen, privaten a beruffleche Situatiounen eens gin ", "Kann ouni Preparatioun Gespréicher iwwer den Alldag, vertraut a geleefeg Themen an/oder Interessegebieder féieren (Themen: Alldag, Famill, Hobbyen, Aarbecht, Reesen)", "Kann Iddien, Meenungen an Informatiounen iwwert aktuell Themen oder praktesch Problemer austauschen" ],
       "domaine" : "Mëndlech Interaktioun"
-   }, {
-      "competences" : [ "Kann d'Handlung vun engem Buch oder Film erzielen a seng Reaktiounen ausdrécken ", "Kann Evenementer, Erliefnisser an Erfarungen erzielen ", "Ka seng Projeten, Iddien a Meenunge kuerz begrënnen oder erklären ", "Kann Dreem, Hoffnungen oder Ziler beschreiwen, erzielen oder erklären " ],
-      "domaine" : "Mëndlechen Ausdrock"
    }, {
       "competences" : [ "Kann e Bréif oder eng strukturéieret Mail schreiwen ", "Kann a kuerzen a kohärenten Text iwwert vertraut Themen oder Interessegebieder schreiwen " ],
       "domaine" : "Schrëftlechen Ausdrock"
@@ -64227,7 +64227,7 @@
    "dateInscription" : "Huncherange, Mercredi, le 17 septembre 2025 de 18H30 à 20H30 -\r\nDudelange, Jeudi, le 18 septembre 2025 de 18H30 à 20H30",
    "description" : "Enumérer et localiser des objets, demander ou donner des indications de lieux, parler de prix. Faire des comparaisons. Parler d'actions passées, faire des hypothèses..",
    "domainesCompetences" : [ {
-      "competences" : [ "localiser et parler des transports et des commerces. \r\ndemander des indications concernant un parcours ou un itinéraire. \r\n- exprimer la possibilité ou la nécessité.\r\n- citer les principales pièces de la maison et de leur ameublement. \r\n- énumérer et localiser des objets dans la maison. \r\ndonner des indications de temps et de lieu.\r\n", "s'informer sur des horaires, demander pour obtenir. \r\nparler de voyages, des loisirs, des habitudes personnelles. \r\n- faire des comparaisons, exprimer des souhaits et se référer aux affirmations d'autrui.\r\n- parler d'actions dans le passé, donner des explications et formuler des hypothèses. \r\n- donner des conseils. \r\nexprimer des sensations physiques ou des émotions.\r\n" ],
+      "competences" : [ "s'informer sur des horaires, demander pour obtenir. \r\nparler de voyages, des loisirs, des habitudes personnelles. \r\n- faire des comparaisons, exprimer des souhaits et se référer aux affirmations d'autrui.\r\n- parler d'actions dans le passé, donner des explications et formuler des hypothèses. \r\n- donner des conseils. \r\nexprimer des sensations physiques ou des émotions.\r\n", "localiser et parler des transports et des commerces. \r\ndemander des indications concernant un parcours ou un itinéraire. \r\n- exprimer la possibilité ou la nécessité.\r\n- citer les principales pièces de la maison et de leur ameublement. \r\n- énumérer et localiser des objets dans la maison. \r\ndonner des indications de temps et de lieu.\r\n" ],
       "domaine" : "Production orale"
    }, {
       "competences" : [ "comprendre des textes, des conversations simples. \r\ncomprendre des informations concernant des horaires, des transports ou des commerces.\r\ncomprendre des informations liées à un déplacement ou à la localisation en centre ville de commerces, musées, administrations, activités de loisir. \r\ncomprendre une conversation concernant la maison et son ameublement. \r\n", "comprendre des indications de temps et de lieu.\r\ncomprendre une conversation concernant des voyages, des habitudes personnelles ou des loisirs. \r\ncomprendre des comparaisons ou des hypothèses. \r\ncomprendre une conversation liée aux sensations physiques, ou à des émotions.\r\n" ],
@@ -71306,14 +71306,14 @@
    "dateInscription" : "Lundi 15 septembre 2025 de 17h30 à 19h30 ou en ligne",
    "description" : "Apprentissage des lettres. Apprendre à connaître  \"Pinyin\", la prononciation, le rythme et l'intonation. Introduction de mots simples pour apprendre à lire et à écrire.\r\nMaîtriser à la fin environ 100 mots (nom, âge, chiffres, couleurs, famille, objets quotidiens). Le point fort est mis sur l'écrit et la lecture.",
    "domainesCompetences" : [ {
+      "competences" : [ "savoir reconnaître et lire des textes simples avec un vocabulaire simple et familier" ],
+      "domaine" : "Compréhension "
+   }, {
       "competences" : [ "savoir prendre part à une conversation en décrivant sa famille, ses amis, ses loisirs ;\r\nsavoir s'exprimer en utilisant le temps, la date, l'année, le jour de la semaine etc." ],
       "domaine" : "Compétences orales"
    }, {
       "competences" : [ "savoir écrire une petite prestation de soi-même ainsi que rédiger une courte lettre ;\r\nsavoir écrire son nom, des dates et même sa nationalité et son lieu de résidence" ],
       "domaine" : "Compétences écrites"
-   }, {
-      "competences" : [ "savoir reconnaître et lire des textes simples avec un vocabulaire simple et familier" ],
-      "domaine" : "Compréhension "
    } ],
    "duree" : "52 leçons",
    "enseignants" : [ {
@@ -73282,7 +73282,7 @@
    "dateInscription" : "30 juin 2025",
    "description" : "Cours de dessin d'observation, le nuancier de couleurs à cercle (théorie des couleurs), différentes techniques de base comme par exemple :\r\nLe fusain, l'acrylique, le crayon, le pastel ainsi que l'apprentissage de la mise en page",
    "domainesCompetences" : [ {
-      "competences" : [ "Savoir utiliser des contrastes de couleurs et leurs combinassions.", "Le nuancier de couleurs à cercle et la combinassions des contrastes primaire et secondaire.\r\n" ],
+      "competences" : [ "Le nuancier de couleurs à cercle et la combinassions des contrastes primaire et secondaire.\r\n", "Savoir utiliser des contrastes de couleurs et leurs combinassions." ],
       "domaine" : "La théorie des couleurs "
    }, {
       "competences" : [ "Acquérir un sens des proportions, de la disposition, et de la composition d'un dessin ou 'une peinture." ],
