@@ -13508,17 +13508,32 @@
       "domaine" : "Mëndlech Interactioun"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Feller",
+      "prenom" : "Christine"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 11:00 (durée 2h),\nMercredi à 11:00 (durée 2h),\nJeudi à 11:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63376,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 14,
    "nbPlaces" : 20,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -17837,7 +17852,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -22930,7 +22945,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
