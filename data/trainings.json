@@ -133,7 +133,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -221,7 +221,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -1003,10 +1003,29 @@
       "domaine" : "Expression Ecrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Koster",
+      "prenom" : "Fiona Sushita Claude"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65512,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "FR",
@@ -1467,10 +1486,29 @@
       "domaine" : "Expression Ecrite Schrëftlechen Ausdrock (SA)"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Albuquerque",
+      "prenom" : "Fabio"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65511,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "FR",
@@ -3340,10 +3378,29 @@
       "domaine" : "Expression Ecrite Schrëftlechen Ausdrock (SA)"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Chies",
+      "prenom" : "Martine"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65510,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "FR",
@@ -4228,7 +4285,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 8,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -5240,7 +5297,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 17,
+   "nbInscrits" : 18,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -8315,7 +8372,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -9079,7 +9136,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 16,
    "nbPlaces" : 20,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -9536,84 +9593,6 @@
    "renseignements" : "Langue véhiculaire l'arabe "
 }, {
    "adresseCours" : {
-      "codePostal" : "4272",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "Ecole primaire Nonnewisen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place Adeline Pellegrino"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4044",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "https://administration.esch.lu/cours-de-langues/",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://administration.esch.lu/cours-de-langues/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-DE-124",
-   "coursId" : "LA-DE-124",
-   "coursType" : "CLASSIQUE",
-   "cout" : 100.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "01/07/2026",
-   "dateInscription" : "à partir du 17 mars à 10h",
-   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité (par exemple, informations personnelles et familiales simples, achats, environnement proche, travail). Peut communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. ",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité (par exemple, informations personnelles et familiales simples, achats, environnement proche, travail). Peut communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. " ],
-      "domaine" : "Langues"
-   } ],
-   "duree" : "38h",
-   "enseignants" : [ {
-      "nom" : "Akbari",
-      "prenom" : "Afsaneh"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 18:00 (durée 2h), Mercredi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63847,
-   "intitule" : "Allemand - intensif",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "DE",
-   "matiereNom" : "Allemand",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4044",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "Ville d'Esch-sur-Alzette",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "6, Place Boltgen"
-      },
-      "code" : "VDE",
-      "mail" : "coursdelangues@villeesch.lu",
-      "nom" : "Ville d'Esch-sur-Alzette",
-      "nomContact" : "Schoettert",
-      "onlineReg" : false,
-      "prenomContact" : "Chantal",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 27 54 27 80"
-   },
-   "prerequis" : "Niveau A 1.2 acquis",
-   "renseignements" : "Formateur Mme Lentz"
-}, {
-   "adresseCours" : {
       "codePostal" : "2543",
       "localite" : "Luxembourg",
       "nom" : "Luxembourg",
@@ -9887,7 +9866,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 15,
    "niveau" : "B1 du CECRL",
    "onlineRegistration" : false,
@@ -13232,84 +13211,6 @@
    "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
-      "codePostal" : "4086",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "Ecole Primaire de Lallange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "8 bd Pierre Dupong"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4044",
-      "localite" : "Https://administration.esch.lu/cours-De-Langues/",
-      "nom" : "https://administration.esch.lu/cours-de-langues/",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://administration.esch.lu/cours-de-langues/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-EN-198",
-   "coursId" : "LA-EN-198",
-   "coursType" : "CLASSIQUE",
-   "cout" : 100.0,
-   "dateDebut" : "14/04/2026",
-   "dateFin" : "30/06/2026",
-   "dateInscription" : "à partir du 17 mars à 10h00",
-   "description" : "Peut comprendre les points essentiels de ce qui est dit à condition qu'un langage clair et standard soit utilisé, et qu'il s'agisse de choses familières (travail, école, université, études, loisirs, voyages, tourisme...). Peut se débrouiller dans la plupart des situations familières. Peut produire des discours simples et cohérents sur des sujets familiers.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut comprendre les points essentiels de ce qui est dit à condition qu'un langage clair et standard soit utilisé, et qu'il s'agisse de choses familières (travail, école, université, études, loisirs, voyages, tourisme...). Peut se débrouiller dans la plupart des situations familières. Peut produire des discours simples et cohérents sur des sujets familiers." ],
-      "domaine" : "Langues"
-   } ],
-   "duree" : "38h",
-   "enseignants" : [ {
-      "nom" : "Simon",
-      "prenom" : "Bénédicte"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:00 (durée 2h), Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65091,
-   "intitule" : "Anglais",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Anglais",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "B1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4044",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "Ville d'Esch-sur-Alzette",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "6, Place Boltgen"
-      },
-      "code" : "VDE",
-      "mail" : "coursdelangues@villeesch.lu",
-      "nom" : "Ville d'Esch-sur-Alzette",
-      "nomContact" : "Schoettert",
-      "onlineReg" : false,
-      "prenomContact" : "Chantal",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 27 54 27 80"
-   },
-   "prerequis" : "Niveau A 2.2 Aquis",
-   "renseignements" : "Formateur: Mme Simon"
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -13894,7 +13795,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 10,
    "nbPlaces" : 18,
    "niveau" : "B1.3 du CECRL",
    "onlineRegistration" : false,
@@ -18032,7 +17933,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -18743,6 +18644,84 @@
       "statut" : "Administration Communale",
       "telephone" : "+352 516 121-538"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville de Dudelange ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TAB-111",
+   "coursId" : "IN-TAB-111",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "21/04/2026",
+   "dateFin" : "26/05/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
+   "description" : "Initiation au tableur Excel. Maîtriser les principales fonctions permettant la création, une utilisation efficace et la sauvegarde d'un tableau de calcul (opérations mathématiques dans les feuilles de calcul, gestion des cellules et feuilles, remplissage automatique des listes, utilisation de formes spécifiques de cellules et des raccourcis de base...). Paramétrer et sécuriser le tableau en vue de l'impression ou de partage en ligne.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Initiation au tableur Excel", "Identifier et personnaliser l'interface de travail, en maîtriser les principales fonctions permettant la création de tableaux de calcul.", "Paramétrer le tableau en vue de l'impression.", " Présenter les données sous forme de graphiques. ", "Sécuriser les données, sauvegarder un modèle" ],
+      "domaine" : "Tableurs"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65355,
+   "intitule" : "Excel 1/2",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "TAB",
+   "matiereNom" : "Tableurs",
+   "nbInscrits" : 1,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "prerequis" : "Cours accessible aux personnes ayant une notion d'Excel\r\nPossibilité de langue véhiculaire: français et anglais",
+   "renseignements" : "Excel 2\r\nAccès pour personnes à mobilité réduite\r\nHors vacances scolaires\r\n"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
