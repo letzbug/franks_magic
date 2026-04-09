@@ -10863,7 +10863,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 20,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -19842,7 +19842,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 20,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -20064,7 +20064,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "FINA",
    "matiereNom" : "Finances",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -20346,7 +20346,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "FINA",
    "matiereNom" : "Finances",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -22035,10 +22035,17 @@
    "dateFin" : "15/07/2026",
    "description" : "What if anthropology wasn’t just something you read about but something you could live? Over ten sessions, you’ll travel through stories of pirates and ghosts, yaks and thinking forests, robot-gods and wandering mushrooms. Together, we’ll explore how humans and all living beings make sense of the world in their own way. This isn’t a lecture series, it’s an adventure for the curious: an invitation to see, listen, and imagine differently. Each class will take place in an unusual or unexpected location across Luxembourg places that echo the theme of the day. You might find yourself learning about forest spirits among the trees, ghosts in a haunted castle or discussing globalization inside an old factory. You don’t need any background in anthropology, just curiosity and a taste for discovery. Through stories, conversations, and shared experiences, we’ll connect Luxembourgish culture with worlds from afar, comparing local traditions, memories, and ways of living to those found across the globe. Here, learning happens in dialogue: everyone brings their own stories, questions, and thoughts. Whether you come out of curiosity or passion, you’ll leave with new ways of thinking.",
    "duree" : "20 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Johnson",
+      "prenom" : "Théophile"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66294,
    "intitule" : "Thinking Differently: An Introduction to Anthropology",
    "langueCoursCode" : "EN",
@@ -22998,10 +23005,17 @@
    "dateFin" : "14/07/2026",
    "description" : "Participants will explore a variety of poetic forms, nurture their creativity, and learn to express their thoughts and emotions through verse. With personalized guidance and practical exercises, they will refine their style and gain confidence in their writing.",
    "duree" : "16 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Renneboog",
+      "prenom" : "Ellen"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   } ],
    "id" : 66295,
    "intitule" : "Poetry Writing",
    "langueCoursCode" : "EN",
@@ -33877,10 +33891,17 @@
    "dateFin" : "13/06/2026",
    "description" : "Explore the magic of an ancient, poetic photographic technique in this hands-on workshop! Using sunlight, plants, and images, participants will create their own unique prints in stunning deep blue tones. No prior experience is needed, only your curiosity and creativity!",
    "duree" : "5 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Renneboog",
+      "prenom" : "Ellen"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 13-06-2026 à 13:40 (durée 4h10)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h10",
+      "heure" : "13:40",
+      "jour" : "Samedi"
+   } ],
    "id" : 66296,
    "intitule" : "Cyanotype: Poetic Photography",
    "langueCoursCode" : "EN",
