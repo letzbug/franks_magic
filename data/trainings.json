@@ -465,7 +465,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 8,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -3365,7 +3365,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 1,
+   "nbInscrits" : 22,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -4634,7 +4634,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 12,
    "nbPlaces" : 24,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -6027,7 +6027,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 6,
    "nbPlaces" : 24,
    "niveau" : "B2.3 du CECRL",
    "onlineRegistration" : false,
@@ -7707,7 +7707,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 10,
    "nbPlaces" : 18,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -9031,17 +9031,32 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bribosia",
+      "prenom" : "Bénédicte"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:30 (durée 2h),\nMardi à 17:30 (durée 2h),\nVendredi à 17:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63467,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 6,
    "nbPlaces" : 20,
    "niveau" : "C1 du CECRL",
    "onlineRegistration" : false,
@@ -9461,7 +9476,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 18,
    "nbPlaces" : 20,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -9548,7 +9563,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 19,
    "nbPlaces" : 20,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -9842,226 +9857,6 @@
    "renseignements" : "Formateur Mme. Duka"
 }, {
    "adresseCours" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1180",
-   "coursId" : "LA-FR-1180",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "11/05/2026",
-   "description" : "Comprendre des textes variés balayant les domaines de la vie quotidienne, comprendre une conversation simple et en rapporter le contenu, comprendre un échange simple entre natifs, répondre à un courriel ; décrire le caractère d'une personne; engager une conversation simple, expliquer des notions ou des démarches élémentaires. L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement.",
-   "domainesCompetences" : [ {
-      "competences" : [ "* peut utiliser quelques formules de politesse (s'excuser, demander de répéter, de parler plus lentement, ...)\r\n* peut commander ou demander quelque chose dans un magasin ou dans un restaurant\r\n* peut exprimer ses souhaits quand il fait ses courses (magasins, produits, quantités)\r\n*peut donner des indications temporelles (jour de la semaine, mois, date)\r\npeut suivre une conversation simple sur la météo\r\n*peut exprimer ce qu'il aime ou n'aime pas (choses ou activités)\r\n" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "*peut reconnaître des expressions simples de la vie courante (présentation, salutations excuses)\r\n*peut comprendre des questions simples concernant les coordonnées personnelles\r\n*peut comprendre des questions simples concernant les achats, loisirs et le travail\r\n" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "*peut rédiger une carte postale, un courriel, un texto\r\n*peut passer un message simple\r\n*peut laisser un bref message d'information\r\n" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "* peut comprendre un formulaire (indications sur la personne, la situation familiale)\r\n*peut comprendre l'essentiel des indications sur des affiches, des panneaux (prix, lieu, horaire)\r\n" ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 12:00 (durée 3h), Mardi à 12:00 (durée 3h), Mercredi à 12:00 (durée 3h), Jeudi à 12:00 (durée 3h), Vendredi à 12:00 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 63449,
-   "intitule" : "Français",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 22,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   },
-   "prerequis" : "A1.1 CECRL",
-   "renseignements" : "Langue véhiculaire l'arabe "
-}, {
-   "adresseCours" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1185",
-   "coursId" : "LA-FR-1185",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "11/05/2026",
-   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines de l'environnement quotidien . Pouvoir communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels Savoir décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut comprendre suffisamment pour communiquer sur des sujets familiers et simples sans effort excessif. Peut se débrouiller avec les demandes directes de la vie quotidienne : trouver une information factuelle et la transmettre. Peut répondre à des questions et en poser sur les habitudes et les activités journalières." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut utiliser des formules de politesse simples et courantes pour s'adresser à quelqu'un ou le saluer. Peut faire et accepter une offre, une invitation et des excuses. Peut dire ce qu'il / elle aime ou non. simple sans effort excessif, en demandant en termes très simples de répéter en cas d'incompréhension." ],
-      "domaine" : "expression orale "
-   }, {
-      "competences" : [ "Trouver, identifier des informations précises dans des documents écrits simples tels que lettres, dépliants, publicités, articles de presse comprendre un texte court et simple contenant des termes courants comprendre un règlement écrit simplement comprendre un mode d'emploi." ],
-      "domaine" : "compréhension écrite "
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 63454,
-   "intitule" : "Français",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   },
-   "prerequis" : "Niveau A2.1 du CECRL"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1181",
-   "coursId" : "LA-FR-1181",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "11/05/2026",
-   "description" : "Compétences visées par le cours\r\nEchanger des informations sur des sujets de la vie quotidienne : vous présenter et présenter votre entourage, parler de vos activités, de votre santé ; de votre environnement : logement, loisirs, commerces, voyages, vacances. Décrire et comparer des lieux (ville, quartier, habitation), des personnes, des objets Demander et donner des conseils, des indications",
-   "domainesCompetences" : [ {
-      "competences" : [ "peut donner et demander des renseignements (direction, chemin)\r\npeut indiquer où il a mal (médecin, infirmier/ère)\r\npeut faire des comparaisons et indiquer des préférences\r\npeut décrire une personne (caractère, sentiments)\r\npeut laisser un bref message au téléphone, prendre et annuler un rendez-vous au téléphone\r\npeut raconter des évènements au passé (enfance, vacances, souvenirs, ...)\r\n" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "Comprendre et utiliser des phrases simples face à des besoins concrets ou des sujets familiers. Se présenter, échanger des informations personnelles simples. Se débrouiller au quotidien dans des situations de communication simple." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut écrire avec une relative exactitude phonétique  des mots courts qui appartiennent à son vocabulaire oral. Peut s'exprimer et répondre aux fonctions langagières de base telles que l'échange d'information et la demande et exprimer simplement une idée et une opinion." ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "*peut lire des textes courts très courts. peut trouver une information prévisible dans des documents courants (petites publicités, prospectus, menus, horaires) et  peut comprendre l'essentiel des indications sur des affiches, des panneaux (prix, lieu, horaire)" ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 63450,
-   "intitule" : "Français",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 22,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   },
-   "prerequis" : "Niveau A1.2 du CECRL",
-   "renseignements" : "langues véhiculaires: arabe-  luxembourgeois "
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -10258,17 +10053,32 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guilhamelou Hobby",
+      "prenom" : "Laurence"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 14:00 (durée 2h),\nMercredi à 14:00 (durée 2h),\nJeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63355,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 9,
    "nbPlaces" : 20,
    "niveau" : "B1.3 du CECRL",
    "onlineRegistration" : false,
@@ -10334,17 +10144,32 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guilhamelou Hobby",
+      "prenom" : "Laurence"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 09:00 (durée 2h),\nMercredi à 09:00 (durée 2h),\nJeudi à 09:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63354,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 9,
    "nbPlaces" : 20,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -10673,17 +10498,32 @@
       "domaine" : "Schrëfltechen Ausdrock"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Achen",
+      "prenom" : "Juliette"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 18:30 (durée 2h),\nMercredi à 18:30 (durée 2h),\nJeudi à 18:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63392,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 1,
+   "nbInscrits" : 11,
    "nbPlaces" : 20,
    "niveau" : "B1.3 du CECRL",
    "onlineRegistration" : false,
@@ -12412,7 +12252,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 18,
    "nbPlaces" : 20,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -13691,7 +13531,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -13946,7 +13786,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 13,
    "nbPlaces" : 19,
    "niveau" : "Conversation",
    "onlineRegistration" : false,
@@ -15037,7 +14877,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 9,
    "nbPlaces" : 20,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -17946,7 +17786,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 17,
+   "nbInscrits" : 18,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -19995,7 +19835,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
