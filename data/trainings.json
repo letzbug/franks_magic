@@ -2912,7 +2912,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 13,
    "nbPlaces" : 22,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -3095,7 +3095,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 12,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -3183,7 +3183,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 8,
    "nbPlaces" : 24,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -4333,77 +4333,6 @@
       "websiteUrl" : "https://www.lux-online-educ-center.com"
    },
    "prerequis" : "Niveau A2 toutes compétences validées"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1408",
-   "coursId" : "LA-LB-1408",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "11/05/2026",
-   "description" : "A l'issue du cours, l'apprenant sera capable de : répondre à des questions simples au sujet de lui-même, son lieu d'habitation, de personnes ou objets familiers et de poser de telles questions ; d'intervenir avec des mots simples ; de réagir dans des domaines familiers ou qui l'intéressent.",
-   "domainesCompetences" : [ {
-      "competences" : [ " understand public announcements (schedules, departure, arrival...), predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good (either noise, or music...), if messages are pronounced slowly." ],
-      "domaine" : "listening  "
-   }, {
-      "competences" : [ " Recognise names, the most common words or expressions in simple situations of everyday life: signs, handwritten indications doubled by icons, prices, schedules; spot and understand quantified data, proper nouns and other very simple information." ],
-      "domaine" : "Reading"
-   }, {
-      "competences" : [ "Copy words or brief messages, write figures and dates; recognize various written forms: printed characters, scripts, capital letters and readable handwritten forms; give information about himself: his name, his nationality, his address, his age, his date of birth, in questionnaires or index cards of information; write a very simple message." ],
-      "domaine" : "Writing"
-   }, {
-      "competences" : [ "Communicate, in a very simple way, provided that his interlocutor shows himself comprehensive, speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave; answer simple questions on information as the age, the origin, the language, the place of residence, understand, agree/refuse and execute very simple instructions; ask somebody of its news and react." ],
-      "domaine" : "Speaking"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 14:00 (durée 3h), Mardi à 14:00 (durée 3h), Mercredi à 14:00 (durée 3h), Jeudi à 14:00 (durée 3h), Vendredi à 14:00 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 65070,
-   "intitule" : "Luxembourgeois A1.1- Accelerated-Feb-2026",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   },
-   "renseignements" : "langues véhiculaires:  Français et arabe \r\nManuel « Schwätzt Dir Lëtzebuergesch? A1 » Chap 1,2,3\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "6401",
@@ -6027,7 +5956,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 6,
+   "nbInscrits" : 5,
    "nbPlaces" : 24,
    "niveau" : "B2.3 du CECRL",
    "onlineRegistration" : false,
@@ -7890,7 +7819,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 8,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -7985,7 +7914,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 9,
    "nbPlaces" : 18,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -8076,7 +8005,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 13,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -9087,78 +9016,6 @@
       "nom" : "DISTANCE"
    },
    "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1189",
-   "coursId" : "LA-FR-1189",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "29/06/2026",
-   "dateInscription" : "toute l'année",
-   "description" : "Consolider les acquis lexicaux et grammaticaux; élargir le vocabulaire courant. Le champs lexical sera étendu; approfondir la grammaire:utilisation de propositions subordonnées et introduction de nouveaux temps de la conjugaison (conditionnel, plus que parfait, futur antérieur). Les quatre aptitudes langagières seront exercées (documents écrits, sonores et visuels, jeux, discussions)",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre globalement un récit, un exposé ou un débat sur un sujet familier.", "suivre des émissions sur l'actualité et les informations." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "lire des articles et des rapports sur des thèmes généraux ou d'actualité et comprendre le contenu même si certains termes sont inconnus.  ", "lire un texte littéraire contemporain en prose et comprend l'essentiel du récit." ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "converser avec un interlocuteur natif de façon spontanée sur des thèmes familiers et présenter ses opinions.", "s'exprimer en continu sur ses centres d'intérêt.  ", "développer un point de vue sur un sujet d'actualité et expliquer les avantages et inconvénients de diverses possibilités." ],
-      "domaine" : "Expressiion orale"
-   }, {
-      "competences" : [ "écrire des textes clairs sur ses sujets d'intérêt.  ", "écrire un rapport en transmettant une information. ", "écrire des lettres en soulignant sa vision personnelle des événements." ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:30 (durée 2h), Mardi à 09:30 (durée 2h), Vendredi à 09:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 63465,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "B2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
       "codePostal" : "2543",
       "localite" : "Luxembourg",
       "nom" : "Luxembourg",
@@ -9658,7 +9515,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 15,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -10195,82 +10052,6 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "7220",
-      "localite" : "Walferdange",
-      "nom" : "Centre Prince Henri, 1er étage, salle 1",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "3, route de Diekirch "
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1161",
-   "coursId" : "LA-FR-1161",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "29/06/2026",
-   "dateInscription" : "toute l'année de 08.00-11.30 et 13.30-16.00 hrs",
-   "description" : "Comprendre des conversations quotidiennes et y participer, donner votre opinion et échanger des idées sur des sujets actuels, comprendre les grandes lignes de textes clairement rédigés, comprendre la plupart des informations dans une émission de télévision, raconter un événement, une expérience ou un rêve, décrire un espoir ou un but,écrire une lettre, un email structuré, exposer brièvement des raisons ou des explications pour un projet ou une idée",
-   "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne. ", "L'apprenant est en mesure de lire les correspondances officielles et les courriels professionnels. \r\n", "L'apprenant peut trouver rapidement les informations demandées  dans un texte. \r\n" ],
-      "domaine" : "Compréhension écrite -  "
-   }, {
-      "competences" : [ "L'apprenant peut comprendre une conversation simple et en rapporter le contenu.\r\n", "L'apprenant est en mesure de comprendre un échange simple entre natifs, dans un éventail de domaines plus large.\r\n" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "L'apprenant est capable de répondre à un courriel. ", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées par écrit. " ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "L'apprenant peut engager une conversation simplement dans plusieurs domaines et notamment professionnels. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
-      "domaine" : "Expression orale"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 11:00 (durée 2h),\nMercredi à 11:00 (durée 2h),\nJeudi à 11:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 63353,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "B1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "3524",
       "localite" : "Dudelange",
       "nom" : "Ecole BRILL",
@@ -10526,168 +10307,6 @@
    "nbInscrits" : 11,
    "nbPlaces" : 20,
    "niveau" : "B1.3 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1266",
-   "coursId" : "LA-LB-1266",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "29/06/2026",
-   "dateInscription" : "toute l'année par mail",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
-   "domainesCompetences" : [ {
-      "competences" : [ "-Peut identifier l'élément principal de nouvelles télévisées : un événement, un accident (ayant trait à un sujet courant, prévisible, si le débit est lent et la langue clairement articulée)" ],
-      "domaine" : "COMPREHENSION DE L'ORAL"
-   }, {
-      "competences" : [ "-Peut comprendre une lettre personnelle\r\n-Peut comprendre les faits décrits dans des articles informatifs simples\r\n-Peut reconnaître différents types de lettres : demande d'informations, commandes, confirmations\r\n-Peut comprendre des consignes, concernant par exemple la sécurité, la santé, si elles sont rédigées simplement" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "-Peut (se) décrire, se présenter, présenter quelqu'un\r\n-Peut raconter une histoire avec une simple liste de points successifs / énoncés reliés par les articulations les plus fréquentes\r\n-Peut faire la description brève d'un événement (personnel)\r\n-Peut exprimer ses opinions, dire en quoi une chose plaît et déplaît\r\n-Peut donner brièvement des justifications\r\n-Peut expliquer ses projets" ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "-Peut écrire une lettre personnelle\r\n-Peut faire une description brève d'un événement, d'activités passées, d'expériences personnelles\r\n-Peut prendre quelques notes en écoutant une Conversation\r\n-Peut remplir un tableau" ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:00 (durée 2h),\nMardi à 09:00 (durée 2h),\nMercredi à 09:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 63391,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1263",
-   "coursId" : "LA-LB-1263",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "29/06/2026",
-   "dateInscription" : "toute l'année de 08:00-11:30 et 13:30-16:00",
-   "description" : "Comprendre des conversations quotidiennes et y participer, donner votre opinion et échanger des idées sur des sujets actuels, comprendre les grandes lignes de textes clairement rédigés, comprendre la plupart des informations dans une émission de télévision, raconter un événement, une expérience ou un rêve, décrire un espoir ou un but, écrire une lettre, un email structuré, exposer brièvement des raisons ou des explications pour un projet ou une idée",
-   "domainesCompetences" : [ {
-      "competences" : [ "ka kuerz, einfach Texter verstoen, an deenen e ganz geleefege Vocabulaire virkënnt \r\n", "kann a kuerzer, einfacher privater Korrespondenz d'Haaptinformatiounen an d'Positioun vum Schreiwer verstoen ", "kann einfach Instruktioune verstoen wa se schrëttweis opgebaut sinn\r\n" ],
-      "domaine" : "Lieseverstoen"
-   }, {
-      "competences" : [ "kann dacks gebrauchten Ausdréck a Wierder verstoen, wann et ëm Theme gee wéi z.B. elementar Informatiounen iwwer Persounen d'Famill, d'Akafen, d'Aarbecht, dat direkt Ëmfeld enthalen ", "2.2 kann a Situatiounen (Buttek, Restaurant, Cours) einfach, objektiv Informatioune verstoen, déi och Zuelen kann an alldeegleche Situatioune kuerz, einfach a kloer Instruktioune verstoen: Klass, Repondeur, Weebeschreiwung " ],
-      "domaine" : "Héierverstoen "
-   }, {
-      "competences" : [ "kann e puer einfach Sätz iwwer déi eege Famill, seng /hir Liewensverhältnisser beschreiwen ", "ka Persounen, Hobbyen, Plazen einfach, awer verständlech beschreiwen ", "kann op enger Kaart aus der Vakanz ganz einfach a kuerz soen wéi et /er geet geet an iwwert d'Vakanzesituatioun, d'Wieder an seng/hir alldeeglech Aktivitéiten erzielen\r\n" ],
-      "domaine" : "schrëftlechen Ausdrock"
-   }, {
-      "competences" : [ "Ka mat e puer einfachen Sätz an Ausréck seng/hir d'Famill aner Leit seng/hir Liewensverhältnisser beschreiwen ", "Ka mat einfache Mëttelen erklären, wéi een eppes mécht ", "Ka no einfacher Weebeschreiwung froen a selwer eng einfach Weebeschreiwung ginn\r\n" ],
-      "domaine" : "monologescht Schwätzen"
-   }, {
-      "competences" : [ "Ka sech an einfache Situatioune verstännegen an einfach Alldagsgespréicher verstoen ", "Kann an alldeegleche Situatiounen Informatioune froen a ginn ", "Ka kuerz, einfach, alldeeglech Telefonsgespréicher verstoen an adequat äntweren " ],
-      "domaine" : "mëndlech Interaktioun "
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Achen",
-      "prenom" : "Juliette"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:30 (durée 2h),\nMercredi à 18:30 (durée 2h),\nJeudi à 18:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63388,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 21,
-   "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -12002,78 +11621,6 @@
    "nbInscrits" : 14,
    "nbPlaces" : 20,
    "niveau" : "B2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-60",
-   "coursId" : "LA-LB-60",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "29/06/2026",
-   "dateInscription" : "toute l'année par mail",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
-   "domainesCompetences" : [ {
-      "competences" : [ "-Peut identifier l'élément principal de nouvelles télévisées : un événement, un accident (ayant trait à un sujet courant, prévisible, si le débit est lent et la langue clairement articulée)" ],
-      "domaine" : "COMPREHENSION DE L'ORAL"
-   }, {
-      "competences" : [ "-Peut comprendre une lettre personnelle\r\n-Peut comprendre les faits décrits dans des articles informatifs simples\r\n-Peut reconnaître différents types de lettres : demande d'informations, commandes, confirmations\r\n-Peut comprendre des consignes, concernant par exemple la sécurité, la santé, si elles sont rédigées simplement" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "-Peut (se) décrire, se présenter, présenter quelqu'un\r\n-Peut raconter une histoire avec une simple liste de points successifs / énoncés reliés par les articulations les plus fréquentes\r\n-Peut faire la description brève d'un événement (personnel)\r\n-Peut exprimer ses opinions, dire en quoi une chose plaît et déplaît\r\n-Peut donner brièvement des justifications\r\n-Peut expliquer ses projets" ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "-Peut écrire une lettre personnelle\r\n-Peut faire une description brève d'un événement, d'activités passées, d'expériences personnelles\r\n-Peut prendre quelques notes en écoutant une Conversation\r\n-Peut remplir un tableau" ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 11:15 (durée 2h),\nMardi à 11:15 (durée 2h),\nMercredi à 11:15 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61457,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -18207,78 +17754,6 @@
    },
    "prerequis" : "Accessible aux personnes ayant une base en informatique\r\nInitiation PC& Internet acquis. ",
    "renseignements" : "Langues possibles: français, anglais\r\nApplications bureautiques 2/2\r\nAccessible aux personnes à mobilité réduite\r\n"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1279",
-   "coursId" : "LA-LB-1279",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "20/04/2026",
-   "dateFin" : "19/05/2026",
-   "description" : "Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need.",
-   "domainesCompetences" : [ {
-      "competences" : [ "understand public announcements (schedules, departure, arrival...), predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good (either noise, or music...), if messages are pronounced slowly and / or clearly, are illustrated (plan, drawings...) or doubled by the paper and repeated." ],
-      "domaine" : "listening"
-   }, {
-      "competences" : [ "recognize the most common words or expressions in simple situations of the everyday life: signs, handwritten indications , prices, schedules; spot and understand quantified data, other very simple information in a short text; identify globally the function of certain common texts of the daily environment or the school environment; understand texts constituted by one or two sentences, containing familiar words " ],
-      "domaine" : "Reading"
-   }, {
-      "competences" : [ "copy words or brief messages, write figures and dates; recognize various written forms: printed characters, scripts, capital letters and readable handwritten forms; give information about himself: his name, his nationality, his address, his age, his date of birth, in questionnaires or index cards of information; write a very simple message concerning the activities of the daily life containing some personal details.\r\n" ],
-      "domaine" : "Writing"
-   }, {
-      "competences" : [ "communicate, in a very simple way, , speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave; answer simple questions, the origin, the language, the residence¿ understand, agree / refuse and execute very simple instructions; ask somebody of its news and react; ask objects, services to somebody, give or return objects, services to  somebody, by managing, in particular, the numbers and the hour¿" ],
-      "domaine" : "Speaking"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 63462,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 22,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   },
-   "prerequis" : "A1.2 CECRL",
-   "renseignements" : "Langue véhiculaire aussi le Français "
 }, {
    "adresseCours" : {
       "codePostal" : "4802",
@@ -31653,6 +31128,59 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-18",
+   "coursId" : "SCI-PSY-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "04/06/2026",
+   "dateFin" : "18/06/2026",
+   "description" : "Ce cours propose une introduction structurée aux fondements de la psychologie en tant que discipline scientifique. Il offre une vue d’ensemble des concepts clés, de l’histoire du domaine, des grandes expériences et des principales catégories de troubles psychiques.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66251,
+   "intitule" : "Psychologie 1 - Les bases",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -31908,6 +31436,59 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "tout le niveau B1 acquis"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-19",
+   "coursId" : "SCI-PSY-19",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "05/06/2026",
+   "dateFin" : "19/06/2026",
+   "description" : "Dieser Kurs bietet eine strukturierte Einführung in die Grundlagen der Psychologie als wissenschaftliche Disziplin. Er vermittelt einen Überblick über zentrale Begriffe, die historische Entwicklung des Fachs, klassische Experimente sowie grundlegende Bereiche der Psychopathologie.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66252,
+   "intitule" : "Psychologie 1 - Grundlagen der Psychologie",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -36462,6 +36043,59 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-20",
+   "coursId" : "SCI-PSY-20",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "17/06/2026",
+   "dateFin" : "17/06/2026",
+   "description" : "Le stress est souvent perçu comme quelque chose à éliminer ou à “gérer”. Ce court cycle propose une autre approche : comprendre ce que le stress signale, comment la surcharge s’installe, et ce qui fait réellement une différence au quotidien.\r\n\r\nL’accent est mis sur la compréhension et des outils concrets, sans recettes miracles, sans pression de performance, sans thérapie de groupe.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 17-06-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66253,
+   "intitule" : "Stress et surcharge mentale - Compréhension et pratique, au-delà des solutions rapides",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "-",
       "localite" : "-",
       "nom" : "En ligne",
@@ -37374,6 +37008,114 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-23",
+   "coursId" : "SCI-PSY-23",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "25/06/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "Ce cours s’inscrit dans la continuité directe de « Psychologie : Les bases » et s’adresse aux participants disposant déjà de notions fondamentales en psychologie.\r\nL’objectif est d’aller au-delà des bases afin d’explorer plus en profondeur les mécanismes qui influencent le comportement humain au quotidien.\r\nAu fil des séances, différentes thématiques essentielles seront abordées, telles que les émotions, la motivation, la mémoire, la communication et le développement humain, présentées de manière structurée, claire et accessible.\r\nL’approche privilégie la compréhension concrète plutôt que la théorie pure, afin de donner des repères utiles pour mieux saisir pourquoi les individus pensent, ressentent et agissent de certaines façons.\r\nLes participants développeront ainsi une lecture plus fine du comportement humain, tant pour leur propre fonctionnement que pour celui des autres.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66572,
+   "intitule" : "Psychologie 2 – Approfondissement des mécanismes du comportement humain",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY1NzI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Ce cours est destiné aux personnes ayant suivi « Psychologie : Les bases ». - SCI-PSY-18"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-24",
+   "coursId" : "SCI-PSY-24",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "26/06/2026",
+   "dateFin" : "10/07/2026",
+   "description" : "Dieser Kurs baut direkt auf „Psychologie 1: Grundlagen der Psychologie“ auf und richtet sich an Teilnehmende, die bereits über ein solides Grundverständnis der Psychologie verfügen.\r\n\r\nZiel ist es, über die Grundlagen hinauszugehen und die Mechanismen, die menschliches Verhalten im Alltag prägen, vertieft zu erschließen.\r\n\r\nIm Verlauf des Kurses werden zentrale Themenbereiche wie Emotionen, Motivation, Gedächtnis, Kommunikation und menschliche Entwicklung behandelt. Die Inhalte werden klar strukturiert und verständlich vermittelt, wobei ein besonderer Fokus auf ihrer praktischen Relevanz liegt.\r\n\r\nStatt Psychologie ausschließlich als theoretische Disziplin zu betrachten, bietet der Kurs konkrete Orientierung, um besser zu verstehen, warum Menschen denken, fühlen und handeln, wie sie es tun.\r\n\r\nDie Teilnehmenden entwickeln so ein differenzierteres Verständnis für menschliches Verhalten – sowohl im Hinblick auf sich selbst als auch auf andere.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 18:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 66573,
+   "intitule" : "Psychologie 2 – Vertiefung: Die Mechanismen menschlichen Verhaltens verstehen",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY1NzM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : " Dieser Kurs richtet sich an Personen, die „Psychologie 1: Grundlagen der Psychologie“ besucht haben. (SCI-PSY-19)"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -37928,6 +37670,63 @@
       "statut" : "Administration Communale",
       "telephone" : "33 01 44 207",
       "websiteUrl" : "http://www.walfer.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-22",
+   "coursId" : "SCI-PSY-22",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "01/07/2026",
+   "dateFin" : "01/07/2026",
+   "description" : "Stress und dauerhafte Überlastung betreffen viele Menschen — besonders im Familien-, Pflege- und Gesundheitsalltag. Dieser kurze Kurs bietet eine klare und praktische Einführung darin, wie Stress entsteht, was er signalisiert und was tatsächlich hilfreich ist.\r\n\r\nIm Mittelpunkt stehen Verständnis und konkrete Werkzeuge für reale Situationen — keine Schnelllösungen, keine Wundermethoden, keine Gruppentherapie.\r\n\r\nTageskurs  — geeignet u. a. für Eltern, Gesundheits- und Pflegeberufe, Schichtarbeitende und Personen mit flexiblem Zeitplan",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 01-07-2026 à 10:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66255,
+   "intitule" : "Stress und mentale Überlastung verstehen - Was wirklich passiert, und was im Alltag hilft",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
    }
 }, {
    "adresseCours" : {
@@ -39501,6 +39300,63 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-21",
+   "coursId" : "SCI-PSY-21",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "17/07/2026",
+   "dateFin" : "17/07/2026",
+   "description" : "Stress wird oft als etwas gesehen, das man nur „reduzieren“ oder „managen“ muss. Dieser kurze Kurs verfolgt einen anderen Ansatz: verstehen, was Stress signalisiert, wie Überlastung entsteht und was im Alltag tatsächlich hilfreich ist.\r\n\r\nDer Fokus liegt auf Verständnis und konkreten Werkzeugen — ohne Wundermethoden, ohne Leistungsdruck, keine Gruppentherapie.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 17-07-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66254,
+   "intitule" : "Stress und mentale Überlastung verstehen - Was wirklich passiert, und was im Alltag hilft",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "-",
