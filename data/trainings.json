@@ -465,7 +465,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -5777,7 +5777,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 13,
    "nbPlaces" : 20,
    "niveau" : "A1 du CECRL",
    "onlineRegistration" : false,
@@ -7724,7 +7724,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 9,
    "nbPlaces" : 24,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -9012,76 +9012,6 @@
    "prerequis" : "B2 terminé et réussi"
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-AR-17",
-   "coursId" : "LA-AR-17",
-   "coursType" : "CLASSIQUE",
-   "cout" : 200.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "26/05/2026",
-   "description" : "A ce niveau vous êtes capable de communiquer avec des mots et des phrases simples dans vos activités quotidiennes.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Il comprend des énoncés simples visant à satisfaire des besoins concrets ainsi que des expressions familières. " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "l’élève commence à communiquer dans des situations simples de la vie quotidienne. Il acquiert progressivement les bases de la grammaire et du vocabulaire  " ],
-      "domaine" : "expression orale "
-   }, {
-      "competences" : [ " acquisition progressive des règles fondamentales de la lecture orale." ],
-      "domaine" : "compréhension écrite "
-   }, {
-      "competences" : [ "utiliser un vocabulaire simple et des phrases courtes ,donner des informations simples sur soi (nom, adresse, nationalité)...." ],
-      "domaine" : "Ecrire (expression écrite)"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 19:30 (durée 2h), Mercredi à 19:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 63470,
-   "intitule" : "Arabe",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "AR",
-   "matiereNom" : "Arabe",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "1617",
       "localite" : "Luxembourg",
       "nom" : "CLAE services asbl",
@@ -9610,7 +9540,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 18,
    "nbPlaces" : 22,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -29225,81 +29155,6 @@
    },
    "prerequis" : "A1.1 du CECRL",
    "renseignements" : "langue véhiculaire : français , anglais \r\nOnline tool:  ZOOM® (nothing to buy or download)\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-AR-18",
-   "coursId" : "LA-AR-18",
-   "coursType" : "CLASSIQUE",
-   "cout" : 200.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "13/07/2026",
-   "description" : "Être capable de s'entretenir en arabe sur des sujets d'intérêt personnel et dans des contextes professionnels.\r\nDéveloppement de l'expression orale et de la compétence générale en arabe .\r\nPoints de grammaire fondamentaux reliés au type de discours pratiqué.",
-   "domainesCompetences" : [ {
-      "competences" : [ " Recognize names, the most common words or expressions in simple situations of the everyday life: signs, handwritten indications doubled by icons, prices, schedules; spot and understand quantified data, proper nouns and other very simple information.\r\n" ],
-      "domaine" : "Reading "
-   }, {
-      "competences" : [ "Copy words or brief messages, write figures and dates; recognize various written forms: printed characters, scripts, readable handwritten forms; give information about himself: his name, his nationality, his address, his age, his date of birth, in questionnaires or index cards of information; write a very simple sentences  .\r\n" ],
-      "domaine" : "Writing "
-   }, {
-      "competences" : [ "Communicate, in a very simple way, provided that his interlocutor shows himself comprehensive, speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave; answer simple questions on information as the age, the origin, the language, the place of residence, understand, agree / refuse and execute very simple instructions; ask somebody of its news and react;\r\n" ],
-      "domaine" : "Speaking "
-   }, {
-      "competences" : [ "understand eazy public announcements , predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good , if messages are pronounced slowly ." ],
-      "domaine" : "listening  "
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Mardi à 19:30 (durée 2h), Jeudi à 19:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 63471,
-   "intitule" : "Arabe",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "AR",
-   "matiereNom" : "Arabe",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   },
-   "prerequis" : "A1.1 du CECRL"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
