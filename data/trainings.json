@@ -40,7 +40,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 12,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1631,7 +1631,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 11,
    "nbPlaces" : 20,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -1883,87 +1883,6 @@
    },
    "prerequis" : "niveau B1.1 acquis",
    "renseignements" : " accessible aux personnes à mobilité réduite "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-COA-10",
-   "coursId" : "SO-COA-10",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "01/07/2026",
-   "description" : "Au 21e siècle, la parentalité peut être un défi quotidien. On a des enfants, mais pas toujours le mode d’emploi… Entre les conflits, les cris et le manque d’autonomie, il est facile de se sentir perdu.\r\nDécouvrez des outils simples et pratiques pour instaurer respect, coopération et sérénité à la maison, issus de la Discipline Positive (une approche éducative mondialement reconnue).\r\nDans cette formation, vous apprendrez entre autres à mieux comprendre vos enfants, à poser des limites claires tout en restant bienveillant et à gérer les conflits avec sérénité. Vous découvrirez comment encourager la responsabilité, l'autonomie et la coopération au sein de votre famille, tout en réduisant les tensions.\r\nCette approche vous aidera à renforcer votre rôle de parent, à équilibrer votre vie de famille et à créer un environnement propice à l’épanouissement de tous les membres du foyer. En quelques heures seulement, vous transformerez votre quotidien et retrouverez une parentalité sereine, tout en favorisant le bien-être et la coopération avec vos enfants.",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Van Vaerenberg",
-      "prenom" : "Jennifer"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 15-04-2026 à 18:00 (durée 2h30), 18:00 (durée 2h30), 18:00 (durée 2h30), 18:00 (durée 2h30), 18:00 (durée 2h30) et 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 64028,
-   "intitule" : "Devenir un parent confiant : stratégies simples pour une maison apaisée",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COA",
-   "matiereNom" : "Coaching",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMjg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Les cours auront lieu une semaine sur deux, les mercredis suivants :\r\n15/04/2026, 29/04/2026, 13/05/2026, 03/06/2026, 17/06/2026 et 01/07/2026"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -5677,7 +5596,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "SCN",
    "matiereNom" : "Sciences naturelles",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 150,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -35216,7 +35135,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "HIST",
    "matiereNom" : "Histoire",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -38033,7 +37952,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 23,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -41187,7 +41106,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PHOT",
    "matiereNom" : "Photographie",
-   "nbInscrits" : 4,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
