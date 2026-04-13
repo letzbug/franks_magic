@@ -285,7 +285,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -540,7 +540,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 19,
    "niveau" : "Conversation",
    "onlineRegistration" : false,
@@ -6567,7 +6567,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "FINA",
    "matiereNom" : "Finances",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -6787,7 +6787,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "FINA",
    "matiereNom" : "Finances",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -9993,7 +9993,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 36.0,
    "dateDebut" : "15/05/2026",
-   "dateFin" : "17/07/2026",
+   "dateFin" : "24/07/2026",
    "description" : "Welcome to this mindfulness course, where you are invited to embark on a journey of self-discovery and inner peace. This course is designed to provide you with practical tools and techniques to cultivate mindfulness in your daily life. Through guided meditations, and reflective practices, you will learn how to reduce stress, enhance focus, and foster a deeper connection with yourself and the world around you.",
    "duree" : "8 leçons",
    "enseignants" : [ ],
@@ -10028,7 +10028,7 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "Please note: there will be no classes during school holidays in Luxembourg.\r\nOn the 5th of june there will be no class as well!\r\nThe instructor speaks Luxembourgish, French, and German"
+   "renseignements" : "Please note that there will be no classes on 22 May and during school holidays in Luxembourg.\r\nOn the 5th of june there will be no class as well!\r\nThe instructor speaks Luxembourgish, French, and German"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -18098,7 +18098,7 @@
    "duree" : "6 leçons",
    "enseignants" : [ {
       "nom" : "Rufolo",
-      "prenom" : "Dana"
+      "prenom" : "Dr. Dana"
    } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 03-06-2026 à 18:00 (durée 1h40), Jeudi 04-06-2026 à 18:00 (durée 1h40), Vendredi 05-06-2026 à 18:00 (durée 1h40)",
@@ -34296,7 +34296,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -37507,7 +37507,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 20,
    "niveau" : "A2 du CECRL",
    "onlineRegistration" : false,
@@ -37602,7 +37602,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 18,
    "nbPlaces" : 19,
    "niveau" : "A1 du CECRL",
    "onlineRegistration" : false,
@@ -37626,93 +37626,6 @@
       "websiteUrl" : "https://www.clae.lu/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "CLAE services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "26, Rue Gasperich"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "CLAE services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "26, rue de Gasperich"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1107",
-   "coursId" : "LA-FR-1107",
-   "coursType" : "CLASSIQUE",
-   "cout" : 144.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "13/07/2026",
-   "dateInscription" : "Le mercredi 1er avril 2026 uniquement sur rendez-vous",
-   "description" : "Est en voie de comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité. Est en voie de communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. Est en voie de décrire avec des moyens simples sa formation, son environnement immédiat et d'évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Lire des textes courts très simples et trouver une information particulière prévisible dans des documents courants." ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels.", "gérer des actions sociales coopératives très courtes mais est rarement capable de comprendre suffisamment pour alimenter volontairement la conversation." ],
-      "domaine" : "Production orale"
-   }, {
-      "competences" : [ "Ecrire des notes et messages simples et courts.", "rédiger une lettre d'invitation ou un descriptif." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "48h",
-   "enseignants" : [ {
-      "nom" : "Kalisz",
-      "prenom" : "Sophie"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 10:00 (durée 2h),\nMercredi à 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63056,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 19,
-   "nbPlaces" : 20,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1617",
-         "localite" : "Luxembourg",
-         "nom" : "Clae services asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "26, rue de Gasperich"
-      },
-      "code" : "CLAE",
-      "mail" : "patricia.lopes@clae.lu",
-      "nom" : "Clae services asbl",
-      "nomContact" : "Lopes",
-      "onlineReg" : false,
-      "prenomContact" : "Patricia",
-      "statut" : "ASBL",
-      "telephone" : "+352 29 86 86 1",
-      "websiteUrl" : "https://www.clae.lu/"
-   },
-   "renseignements" : "Accès pour personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "codePostal" : "2522",
@@ -47404,8 +47317,8 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
+   "nbInscrits" : 11,
+   "nbPlaces" : 11,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MDc%3D",
@@ -53766,6 +53679,67 @@
       "statut" : "ASBL",
       "telephone" : "621 464 422",
       "websiteUrl" : "https://efid.lu/"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4354",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-Esch/Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "22, rue Henri Koch"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
+   "coursCode" : "IN-3DP-3",
+   "coursId" : "IN-3DP-3",
+   "coursType" : "CLASSIQUE",
+   "cout" : 148.5,
+   "dateDebut" : "10/01/2026",
+   "dateFin" : "25/04/2026",
+   "description" : "Le cours couvre les bases et les aspects avancés de l'impression 3D, incluant la modélisation 3D avec Fusion 360, la préparation à l’impression à l’aide de logiciels de tranchage, l’utilisation des machines, la détection et la résolution des erreurs.\r\n\r\nLes participant·e·s conçoivent des modèles 3D simples à complexes, découvrent différentes fonctionnalités et réalisent des projets d'impression pratiques. À la fin du cours, les résultats sont présentés et discutés.\r\n\r\nContenu du cours :\r\n > Introduction à l’impression 3D (technologies et considérations de conception)\r\n > Bases de la modélisation 3D (avec Autodesk Fusion 360)\r\n > Fondamentaux de l’impression 3D (présentation des imprimantes et du G-code)\r\n > Préparation de l’impression avec un slicer (PrusaSlicer)\r\n > Techniques avancées de préparation et post-traitement\r\n > Optimisation de l’impression et réglages avancés\r\n > Modélisation d’assemblages complexes (avec Fusion 360)\r\n > Application des acquis dans des projets pratiques et défis créatifs\r\n > Clôture et présentation des projets",
+   "duree" : "33 leçons",
+   "enseignants" : [ {
+      "nom" : "Lorang",
+      "prenom" : "Johnny"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 09:20 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "09:20",
+      "jour" : "Samedi"
+   } ],
+   "id" : 62072,
+   "intitule" : "3D Masterclass:Des bases aux créations complexes avec l'imprimante 3D",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "3DP",
+   "matiereNom" : "3D-Printing",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjIwNzI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
    }
 }, {
    "adresseCours" : {
