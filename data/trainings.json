@@ -314,11 +314,11 @@
       "prenom" : "Myriam"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:50 (durée 1h40)",
+   "horairePrevu" : "Mercredi à 18:50 (durée 1h40)",
    "horaires" : [ {
       "duree" : "1h40",
       "heure" : "18:50",
-      "jour" : "Jeudi"
+      "jour" : "Mercredi"
    } ],
    "id" : 66175,
    "intitule" : "Se reconnecter à soi à travers l'Art du Mandala - dessin de Mandala et méditation",
@@ -507,7 +507,8 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   }
+   },
+   "renseignements" : "Bitte bringen Sie Ihren Fotoapparat mit."
 }, {
    "adresseCours" : {
       "codePostal" : "1343",
@@ -1060,7 +1061,10 @@
    "dateFin" : "16/04/2026",
    "description" : "Découvrez comment les sources d'eau sont protégées, la qualité de l'eau garantie et des technologies innovantes mises en œuvre. Lors de notre visite guidée exclusive de l'Administration nationale de la gestion de l'eau, vous aurez un aperçu des tâches quotidiennes et des défis auxquels sont confrontés les experts.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Conférence",
+      "prenom" : "Up"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi 16-04-2026 à 14:00 (durée 1h40)",
    "horaires" : [ {
@@ -1074,7 +1078,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ENAG",
    "matiereNom" : "Environnement et agriculture",
-   "nbInscrits" : 7,
+   "nbInscrits" : 6,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2155,7 +2159,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -2385,8 +2389,8 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "prerequis" : "Vorausgesetzt werden grundlegende fotografische Kenntnisse, insbesondere das Verständnis des Zusammenspiels von Blende, Verschlusszeit und ISO.",
-   "renseignements" : "Der praktische Teil des Kurses kann gegebenenfalls am Wochenende stattfinden.\r\nBitte beachten Sie, dass während der Schulferien in Luxemburg keine Kurse stattfinden."
+   "prerequis" : "Vorausgesetzt werden grundlegende fotografische Kenntnisse, insbesondere das Verständnis des Zusammenspiels von Blende, Verschlusszeit und ISO.\r\n\r\n",
+   "renseignements" : "Bitte bringen Sie Ihren Fotoapparat und Ihre Blende mit.\r\nDer praktische Teil des Kurses kann gegebenenfalls am Wochenende stattfinden.\r\nBitte beachten Sie, dass während der Schulferien in Luxemburg keine Kurse stattfinden."
 }, {
    "adresseCours" : {
       "codePostal" : "8211",
@@ -2453,7 +2457,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -2540,7 +2544,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -2715,7 +2719,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -2802,7 +2806,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 20,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -5618,7 +5622,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 25,
    "niveau" : "A1 du CECRL",
    "onlineRegistration" : true,
@@ -15397,7 +15401,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -22371,7 +22375,10 @@
    "dateFin" : "25/06/2026",
    "description" : "Du chaos à l´harmonie: réussir sa famille recomposée:\r\nLa théorie, c’est bien. Le vécu, c’est autre chose. On sous-estime souvent la complexité d’une famille recomposée : c’est une expérience intense, que seule l’immersion dans le quotidien permet de véritablement saisir. Cet atelier propose des solutions concrètes pour aider chacun à y trouver sa place.\r\nEntre divergences sur l’éducation, enfants qui testent les limites, rôle parfois incertain du beau-parent et tensions avec l’ex-partenaire, le quotidien peut vite devenir épuisant. Même avec les meilleures intentions, il est facile de se sentir dépassé, coincé entre ses responsabilités de parent, les exigences du couple et les dynamiques complexes de la recomposition familiale.\r\nVous apprendrez comment décoder les réactions des enfants (souvent liées à des besoins de sécurité ou à des conflits de loyauté) pour transformer les tensions en équilibre durable et renforcer le rôle du beau-parent, à poser des règles cohérentes qui sécurisent les enfants et protègent le couple, et à désamorcer les conflits avant qu’ils ne s’installent.",
    "duree" : "3 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Namegabe",
+      "prenom" : "Kellya Mfitu Maria-Elisabeth"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi 25-06-2026 à 17:10 (durée 2h30)",
    "horaires" : [ {
@@ -32453,7 +32460,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 9,
+   "nbInscrits" : 11,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -37276,7 +37283,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 9,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -67337,4 +67344,69 @@
    },
    "prerequis" : "- le cours s'adresse à des personnes ayant des beoins relatifs à la vue",
    "renseignements" : "Toute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\nRenseignements supplémentaires: www.cc-cdv.lu"
+}, {
+   "adresseCours" : {
+      "codePostal" : "8080",
+      "localite" : "Bertrange",
+      "nom" : "Gracie Barra Sandweiler, Hall 8 ZI Rolach, Sandweiler ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "17a, rte de Longwy"
+   },
+   "adresseInscription" : {
+      "codePostal" : "8080",
+      "localite" : "Bertrange",
+      "nom" : "Centre pour le développement des compétences relatives à la vue",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "17a, rte de Longwy"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "CDV",
+   "categorieCodeUnipop" : "CDV",
+   "categorieNom" : "PERSONNES À BESOINS SPÉCIFIQUES",
+   "coursCode" : "CDV-SPO-28",
+   "coursId" : "CDV-SPO-28",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "15/09/2025",
+   "dateFin" : "15/07/2026",
+   "dateInscription" : "Inscription possible jusqu'au 5 septembre 2025",
+   "description" : "Le Brazilian Jiu-Jitsu (BJJ) est un art martial particulièrement adapté aux personnes aveugles et malvoyantes, car il repose principalement sur le contact, les sensations et la perception corporelle, plutôt que sur la vision.\r\n\r\nCe cours propose un apprentissage progressif, sécurisé et inclusif, avec une pédagogie adaptée aux besoins spécifiques des participants.\r\n L’accent est mis sur :\r\n•\tLe travail au contact et la compréhension des positions par le toucher\r\n•\tL’apprentissage de techniques de contrôle et de défense au sol\r\n•\tLe développement de la confiance en soi, de l’équilibre et de la coordination\r\n•\tL’orientation dans l’espace grâce à des repères tactiles et verbaux\r\n•\tLe respect, la communication et l’entraide entre participants\r\n\r\nLes exercices sont expliqués de manière verbale et tactile, avec démonstrations guidées. Des situations pratiques encadrées permettent à chacun de progresser à son rythme, dans un cadre bienveillant et sécurisé.",
+   "duree" : "54h05",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 09:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66598,
+   "intitule" : "Brazilian Jiu-Jitsu",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "SPO",
+   "matiereNom" : "Activités motrices",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8080",
+         "localite" : "Bertrange",
+         "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "17A, Route de Longwy"
+      },
+      "code" : "CDV",
+      "fax" : "+352 45 43 06 700",
+      "mail" : "frank.groben@cc-cdv.lu",
+      "nom" : "Centre Pour Le Développement Des Compétences Relatives À La Vue",
+      "nomContact" : "Groben",
+      "onlineReg" : false,
+      "prenomContact" : "Frank",
+      "statut" : "MENFPS",
+      "telephone" : "+352 45 43 06 500"
+   },
+   "prerequis" : "-\tUniquement pour élèves malvoyants et aveugles\r\n-\tÊtre apte à pratiquer une activité physique à intensité modérée\r\n",
+   "renseignements" : "- Toute demande est à  adresser à  M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1 \r\n- Renseignements supplémentaires: www.cc-cdv.lu- \r\n- le cours s'adresse à des personnes ayant des beoins relatifs à la vue "
 } ]
