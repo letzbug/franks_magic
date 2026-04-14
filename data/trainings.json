@@ -1,985 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "adresseInscription" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-PRE-23",
-   "coursId" : "IN-PRE-23",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "20/05/2026",
-   "dateInscription" : "30.03.2026 - 10.04.2026\r\n09H00 - 17H00",
-   "description" : "Présentation de l'interface, barres d'outils, barres des menus.\r\nVisualiser des présentations PowerPoint.\r\nConsignes à respecter pour les présentations.\r\nCréation de présentations PowerPoint.\r\nInsertion des effets spéciaux.",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 14:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61822,
-   "intitule" : "Microsoft PowerPoint",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "PRE",
-   "matiereNom" : "Présentations",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Lopes Philippe Tel: 26 70 17 12 e-mail: istuffsandweiler@pt.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-ELEC-20",
-   "coursId" : "AR-ELEC-20",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "22/04/2026",
-   "description" : "Ist Ihr Gerät kaputt? Keine Sorge, es kann nur besser werden! In unserem Reparaturkurs lernen Sie, wie Sie defekte Geräte selbst reparieren können. Bringen Sie Ihre defekten Gegenstände mit und lassen Sie uns gemeinsam daran arbeiten.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Pietschmann",
-      "prenom" : "Thomas"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 22-04-2026 à 18:00 (durée 1h40) et 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 64674,
-   "intitule" : "Réparer ou recycler ? Keine Angst vorm reparieren! Kaputt ist es schon! Reparaturkurs",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "ELEC",
-   "matiereNom" : "Elec/trique-tronique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ2NzQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Le cours peut également être donné en français."
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie-Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1443",
-   "coursId" : "LA-FR-1443",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "19/05/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. Peut se débrouiller dans des situations rencontrées en voyage. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre les points essentiels quand un langage clair et standard est utilisé et s’il s’agit de sujets familiers concernant le travail, l’école, les loisirs…\r\n", "comprendre l’essentiel des programmes diffusés de radio ou de télévision sur l’actualité   ou sur des sujets qui nous intéressent\t\t\r\n", "suivre un exposé relatif à mon domaine à condition que la langue soit standard et clairement articulée   ", "comprendre des informations et des directives à propos de produits et de services\t\t\r\n" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "parcourir un texte long pour y localiser des informations recherchées \r\n", "trouver et comprendre l’information pertinente dans les écrits quotidiens tels que : lettres, prospectus, documents officiels et articles journalistiques non complexes\t\t\r\n", "comprendre un mode d’emploi (un appareil par exemple) s’il est direct, non complexe et rédigé clairement\t\t\r\n", "comprendre l’énoncé d’événements, de sentiments et de souhaits suffisamment pour entretenir une correspondance régulière avec un ami\t\t\r\n", "identifier les arguments et les conclusions d’un texte argumentatif\t\t" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "écrire des lettres personnelles (donner des nouvelles, décrire en détail expériences…)\r\n", "écrire une histoire de façon linéaire\t\t\r\n\r\n", "rédiger une réclamation\r\n", "rédiger un compte-rendu simple dans une langue suffisamment correcte " ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "participer à un entretien préparé mais  reformuler certains points pour comprendre et être compris \t\t", "faire face à la majorité des situations qu’on peut rencontrer", " intervenir sans préparation dans des conversations sur des sujets familiers ou d’intérêt personnel ou qui concernent la vie quotidienne\r\n", "donner des instructions détaillées, des conseils (demander à qqn de faire qqch)  \r\n", "rapporter en partie ce qu’un interlocuteur a dit (reformuler les paroles de qqn)\t\t" ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "s’exprimer de manière simple afin de raconter des expériences, des événements, ses espoirs, ses buts…\r\n", "raconter une histoire\t\t\r\n", "expliquer une difficulté\t\t", "faire une réclamation, développer une argumentation suffisamment claire \t\t", " exposer brièvement les raisons et explications de ses opinons, de ses projets ou de ses actions ", " exposer brièvement les raisons et explications de ses opinons, de ses projets ou de ses actions " ],
-      "domaine" : "Expression orale en continu"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Marsal",
-      "prenom" : "Gayane"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65193,
-   "intitule" : "Français, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 8,
-   "nbPlaces" : 20,
-   "niveau" : "B1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau B1.1 acquis",
-   "renseignements" : " accessible aux personnes à mobilité réduite "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COS-5",
-   "coursId" : "AR-COS-5",
-   "coursType" : "CLASSIQUE",
-   "cout" : 13.5,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "15/04/2026",
-   "description" : "Apprenez à formuler et fabriquer une crème corporelle hydratante à base d’ingrédients naturels, en découvrant les principes de l’émulsion cosmétique.",
-   "duree" : "3 leçons",
-   "enseignants" : [ {
-      "nom" : "Bakayoko",
-      "prenom" : "Ahoua Eve",
-      "presentation" : "https://missbak.com/en/pages/impact-social-missbak?srsltid=AfmBOorxsp0ZXyMqo9qFsvWH2a_O2wMzNwJI1tjrMGt1yC-FAYdU--Xs"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 15-04-2026 à 11:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "11:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65821,
-   "intitule" : "Workshop - Créez votre crème corporelle naturelle: maîtrisez l’art de l’émulsion",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COS",
-   "matiereNom" : "Cosmétiques",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MjE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 25 euros."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-MAND-3",
-   "coursId" : "AR-MAND-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 45.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "13/05/2026",
-   "description" : "Et si le Mandala devenait bien plus qu’un dessin ?\r\nCe cycle de 5 séances vous invite à ralentir, à respirer… et à entrer dans une pratique à la fois créative et profondément apaisante. Destiné aux personnes ayant déjà exploré les bases du Mandala, ce cours vous propose d’aller plus loin, autant dans le geste que dans l’expérience intérieure.\r\nAu fil des séances, vous découvrirez de nouvelles techniques (ombrages, effets de relief, dotting) tout en développant une approche plus consciente et intuitive de la création. Le souffle, le rythme et la répétition deviennent alors des portes d’entrée vers un état méditatif.\r\nPeu à peu, le mandala se transforme en un véritable outil de reconnexion à soi :\r\nun espace pour se déposer, s’exprimer, et se découvrir autrement.\r\n Un temps pour créer\r\n Un temps pour ressentir\r\n Un temps pour se retrouver\r\nAucune compétence artistique particulière n’est requise, seulement l’envie d’explorer en douceur et en profondeur.",
-   "duree" : "10 leçons",
-   "enseignants" : [ {
-      "nom" : "Klein",
-      "prenom" : "Myriam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:50 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66175,
-   "intitule" : "Se reconnecter à soi à travers l'Art du Mandala - dessin de Mandala et méditation",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "MAND",
-   "matiereNom" : "Mandalas",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNzU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "À noter : le cours n’aura pas lieu le 14 mai 2026 en raison du jour férié.",
-   "renseignements" : "Matériel requis: Un compas; Une équerre Aristo; Crayons ordinaire & crayons de couleur; Feuille de dessin A4 et/ou A5; Règle ;Mandala Dotting-tools; Gouache -Lot de stylos pointe fine 0.2/0.3/0.4/0.5...\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie-Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1450",
-   "coursId" : "LA-FR-1450",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "19/05/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. Peut se débrouiller dans des situations rencontrées en voyage. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre les points essentiels quand un langage clair et standard est utilisé et s’il s’agit de sujets familiers concernant le travail, l’école, les loisirs…\r\n", "comprendre l’essentiel des programmes diffusés de radio ou de télévision sur l’actualité   ou sur des sujets qui nous intéressent\t\t\r\n", "suivre un exposé relatif à mon domaine à condition que la langue soit standard et clairement articulée   ", "comprendre des informations et des directives à propos de produits et de services\t\t\r\n" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "parcourir un texte long pour y localiser des informations recherchées \r\n", "trouver et comprendre l’information pertinente dans les écrits quotidiens tels que : lettres, prospectus, documents officiels et articles journalistiques non complexes\t\t\r\n", "comprendre un mode d’emploi (un appareil par exemple) s’il est direct, non complexe et rédigé clairement\t\t\r\n", "comprendre l’énoncé d’événements, de sentiments et de souhaits suffisamment pour entretenir une correspondance régulière avec un ami\t\t\r\n", "identifier les arguments et les conclusions d’un texte argumentatif\t\t" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "écrire des lettres personnelles (donner des nouvelles, décrire en détail expériences…)\r\n", "écrire une histoire de façon linéaire\t\t\r\n\r\n", "rédiger une réclamation\r\n", "rédiger un compte-rendu simple dans une langue suffisamment correcte " ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "rapporter en partie ce qu’un interlocuteur a dit (reformuler les paroles de qqn)\t\t", "participer à un entretien préparé mais  reformuler certains points pour comprendre et être compris \t\t", "faire face à la majorité des situations qu’on peut rencontrer", " intervenir sans préparation dans des conversations sur des sujets familiers ou d’intérêt personnel ou qui concernent la vie quotidienne\r\n", "donner des instructions détaillées, des conseils (demander à qqn de faire qqch)  \r\n" ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "s’exprimer de manière simple afin de raconter des expériences, des événements, ses espoirs, ses buts…\r\n", "raconter une histoire\t\t\r\n", "expliquer une difficulté\t\t", "faire une réclamation, développer une argumentation suffisamment claire \t\t", " exposer brièvement les raisons et explications de ses opinons, de ses projets ou de ses actions ", " exposer brièvement les raisons et explications de ses opinons, de ses projets ou de ses actions " ],
-      "domaine" : "Expression orale en continu"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Marsal",
-      "prenom" : "Gayane"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 12:45 (durée 3h), Mardi à 12:45 (durée 3h), Mercredi à 12:45 (durée 3h), Jeudi à 12:45 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "12:45",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "12:45",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "12:45",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "12:45",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65200,
-   "intitule" : "Français, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "B1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau B1.1 acquis"
-}, {
-   "adresseCours" : {
-      "codePostal" : "9085",
-      "localite" : "Ettelbruck",
-      "nom" : "CNFPC-Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "77 Rue Jean Pierre Thill"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PHOT-49",
-   "coursId" : "AR-PHOT-49",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "20/05/2026",
-   "description" : "Lernen Sie, Ihre Kamera kreativ einzusetzen: Von den Grundlagen der Kamera und Zubehör über ISO, Blende, Verschlusszeit und Autofokus bis zu Weißabgleich, Farbmanagement und Schärfentiefe. Praxisnah und verständlich – für beeindruckende Fotos mit voller Kontrolle über Bildgestaltung.",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Noesen",
-      "prenom" : "Georges"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63927,
-   "intitule" : "Einstieg in die digitale Fotografie",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "PHOT",
-   "matiereNom" : "Photographie",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Bitte bringen Sie Ihren Fotoapparat mit."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1343",
-      "localite" : "Luxembourg",
-      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "15, Montée de Clausen"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1343",
-      "localite" : "Luxembourg",
-      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "15, Montée de Clausen"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1083",
-   "coursId" : "LA-FR-1083",
-   "coursType" : "CLASSIQUE",
-   "cout" : 132.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "10/07/2026",
-   "dateInscription" : "À partir de 03/11/2025, du lundi au vendredi, de 09h30 à 12h15 et de 13h30 à 17h30.",
-   "description" : "Être capable de : - communiquer simplement dans son environnement personnel et professionnel pour décrire des lieux et des personnes ; parler de sa famille, de ses activités, de son travail ; échanger des informations, suivre et donner des instructions.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent (simple) relatifs à soi-même, à la famille, au travail, aux achats;\r\n", "Je peux saisir l'essentiel d'annonces / messages simples." ],
-      "domaine" : "Comprendre / Écouter "
-   }, {
-      "competences" : [ "Je peux lire des textes courts et simples, trouver une information dans des documents comme des publicités, des prospectus, des menus...\r\nJe peux comprendre des lettres personnelles courts et simples.\r\n" ],
-      "domaine" : "Comprendre / Lire "
-   }, {
-      "competences" : [ "Je suis capable de communiquer lors des tâches simples et habituelles (sujets et activités familiers) Échanges brefs." ],
-      "domaine" : "Parler / Prendre part à une conversation"
-   }, {
-      "competences" : [ "Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille, mes conditions de vie, mon activité professionnelle actuelle ou récente." ],
-      "domaine" : "Parler / S'exprimer oralement en continue "
-   }, {
-      "competences" : [ "Écrire des notes et des messages simples et courts, je peux écrire une lettre personnelle simple (par exemple, des remerciements). " ],
-      "domaine" : "Écrire "
-   } ],
-   "duree" : "44h",
-   "enseignants" : [ {
-      "nom" : "Tallarico",
-      "prenom" : "Rosella"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 14:00 (durée 2h),\nVendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63013,
-   "intitule" : "Français - A1.2",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 13,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1343",
-         "localite" : "Luxembourg",
-         "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, Montée de Clausen"
-      },
-      "code" : "CASA",
-      "fax" : "+352 46 90 70",
-      "mail" : "infocasa@pt.lu",
-      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-      "nomContact" : "Ferreira Trindade",
-      "onlineReg" : false,
-      "prenomContact" : "José",
-      "statut" : "ASBL",
-      "telephone" : "+352 432749/464819",
-      "websiteUrl" : "https://www.casa-asbl.lu"
-   },
-   "renseignements" : "Le cours de Français est présentiel."
-}, {
-   "adresseCours" : {
-      "codePostal" : "6960",
-      "localite" : "Senningen",
-      "nom" : "Internetstuff Niederanven",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "128, rue de Trèves"
-   },
-   "adresseInscription" : {
-      "codePostal" : "6960",
-      "localite" : "Senningen",
-      "nom" : "Internetstuff Niederanven",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "128, rue de Trèves"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-WIND-20",
-   "coursId" : "IN-WIND-20",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "20/05/2026",
-   "dateInscription" : "30.03.2026 - 10.04.2026\r\n09h00 - 16h00",
-   "description" : "Présentation de l'interface Windows.\r\nStructure de dossiers.\r\nExplication des fonctions du panneau de configuration.\r\nInstallation / désinstallation de programmes.\r\nLe gestionnaire des tâches.\r\nCréer et gérer des utilisateurs.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Savoir configurer l'ordinateur à l'aide du Panneau de configuration.\r\nConnaître la structure des dossiers de Windows \r\n(Mes documents, Mes images, Téléchargement, etc...)\r\n" ],
-      "domaine" : "Système d'exploitation"
-   } ],
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 09:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61566,
-   "intitule" : "Microsoft Windows",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "WIND",
-   "matiereNom" : "Windows",
-   "nbInscrits" : 0,
-   "nbPlaces" : 8,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Ehmann Fernand Tel: 621 223 522 e-mail: niederanven@gmail.com"
-}, {
-   "adresseCours" : {
-      "codePostal" : "6960",
-      "localite" : "Senningen",
-      "nom" : "Internetstuff Niederanven",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "128, rue de Trèves"
-   },
-   "adresseInscription" : {
-      "codePostal" : "6960",
-      "localite" : "Senningen",
-      "nom" : "Internetstuff Niederanven",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "128, rue de Trèves"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TRT-101",
-   "coursId" : "IN-TRT-101",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "20/05/2026",
-   "dateInscription" : "30.03.2026 - 10.04.2026\r\n09h00 -16h00",
-   "description" : "Présentation de l'interface, barres d'outils.\r\nÉtudier les fonctions principales: saisie de données, enregistrer, copier, coller, effacer, imprimer.\r\nLa mise en forme des caractères.\r\nLa mise en forme des paragraphes.\r\nLa mise en page.",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 14:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61565,
-   "intitule" : "Microsoft Word",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TRT",
-   "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 0,
-   "nbPlaces" : 8,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Ehmann Fernand Tel: 621 223 522 e-mail: niederanven@gmail.com"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-959",
-   "coursId" : "LA-FR-959",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "20/05/2026",
-   "dateInscription" : "toute l'année entre 08:00 et 11:30 et 13.30-16.00 hrs",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
-   "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne. " ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "L'apprenant peut comprendre une conversation simple et en rapporter le contenu.\r\n", "L'apprenant est en mesure de comprendre un échange simple entre natifs\r\n" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "L'apprenant est capable de répondre à un courriel. ", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées . " ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "L'apprenant peut engager une conversation simple.  Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
-      "domaine" : "Expression orale"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Verri",
-      "prenom" : "Valentino"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:00 (durée 3h),\nMardi à 18:00 (durée 3h),\nMercredi à 18:00 (durée 3h),\nJeudi à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 60996,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 14,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-958",
-   "coursId" : "LA-FR-958",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "20/05/2026",
-   "dateInscription" : "toute l'année entre 08:00 et 11:30 et 13.30-16.00 hrs",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
-   "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne. " ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "L'apprenant peut comprendre une conversation simple et en rapporter le contenu.\r\n", "L'apprenant est en mesure de comprendre un échange simple entre natifs\r\n" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "L'apprenant est capable de répondre à un courriel. ", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées . " ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "L'apprenant peut engager une conversation simple.  Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
-      "domaine" : "Expression orale"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Verri",
-      "prenom" : "Valentino"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 08:30 (durée 3h),\nMardi à 08:30 (durée 3h),\nMercredi à 08:30 (durée 3h),\nJeudi à 08:30 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "08:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 60995,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 16,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "adresseInscription" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-105",
-   "coursId" : "IN-TAB-105",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "20/05/2026",
-   "dateInscription" : "30.03.2026 - 10.04.2026\r\n09H00 - 17H00",
-   "description" : "Calculs avec des formules: si, recherche verticale.\r\nCalculs avec des cases bloquées.\r\nCalculs avec des formules combinées.\r\nFormatage conditionnel.\r\nFiltres automatiques.\r\nCréation de graphiques.",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 09:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61823,
-   "intitule" : "Microsoft Excel",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Lopes Philippe Tel: 26 70 17 12 e-mail: istuffsandweiler@pt.lu"
-}, {
-   "adresseCours" : {
       "codePostal" : "1254",
       "localite" : "Hollerich",
       "nom" : "Blumm Geesseknäppchen",
@@ -32205,6 +31225,285 @@
       "websiteUrl" : "https://www.luxchine.org/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, Montée de Clausen"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, Montée de Clausen"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1083",
+   "coursId" : "LA-FR-1083",
+   "coursType" : "CLASSIQUE",
+   "cout" : 132.0,
+   "dateDebut" : "15/04/2026",
+   "dateFin" : "10/07/2026",
+   "dateInscription" : "À partir de 03/11/2025, du lundi au vendredi, de 09h30 à 12h15 et de 13h30 à 17h30.",
+   "description" : "Être capable de : - communiquer simplement dans son environnement personnel et professionnel pour décrire des lieux et des personnes ; parler de sa famille, de ses activités, de son travail ; échanger des informations, suivre et donner des instructions.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent (simple) relatifs à soi-même, à la famille, au travail, aux achats;\r\n", "Je peux saisir l'essentiel d'annonces / messages simples." ],
+      "domaine" : "Comprendre / Écouter "
+   }, {
+      "competences" : [ "Je peux lire des textes courts et simples, trouver une information dans des documents comme des publicités, des prospectus, des menus...\r\nJe peux comprendre des lettres personnelles courts et simples.\r\n" ],
+      "domaine" : "Comprendre / Lire "
+   }, {
+      "competences" : [ "Je suis capable de communiquer lors des tâches simples et habituelles (sujets et activités familiers) Échanges brefs." ],
+      "domaine" : "Parler / Prendre part à une conversation"
+   }, {
+      "competences" : [ "Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille, mes conditions de vie, mon activité professionnelle actuelle ou récente." ],
+      "domaine" : "Parler / S'exprimer oralement en continue "
+   }, {
+      "competences" : [ "Écrire des notes et des messages simples et courts, je peux écrire une lettre personnelle simple (par exemple, des remerciements). " ],
+      "domaine" : "Écrire "
+   } ],
+   "duree" : "44h",
+   "enseignants" : [ {
+      "nom" : "Tallarico",
+      "prenom" : "Rosella"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 14:00 (durée 2h),\nVendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 63013,
+   "intitule" : "Français - A1.2",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 13,
+   "nbPlaces" : 20,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1343",
+         "localite" : "Luxembourg",
+         "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, Montée de Clausen"
+      },
+      "code" : "CASA",
+      "fax" : "+352 46 90 70",
+      "mail" : "infocasa@pt.lu",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "nomContact" : "Ferreira Trindade",
+      "onlineReg" : false,
+      "prenomContact" : "José",
+      "statut" : "ASBL",
+      "telephone" : "+352 432749/464819",
+      "websiteUrl" : "https://www.casa-asbl.lu"
+   },
+   "renseignements" : "Le cours de Français est présentiel."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-ELEC-20",
+   "coursId" : "AR-ELEC-20",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "15/04/2026",
+   "dateFin" : "22/04/2026",
+   "description" : "Ist Ihr Gerät kaputt? Keine Sorge, es kann nur besser werden! In unserem Reparaturkurs lernen Sie, wie Sie defekte Geräte selbst reparieren können. Bringen Sie Ihre defekten Gegenstände mit und lassen Sie uns gemeinsam daran arbeiten.",
+   "duree" : "4 leçons",
+   "enseignants" : [ {
+      "nom" : "Pietschmann",
+      "prenom" : "Thomas"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 22-04-2026 à 18:00 (durée 1h40) et 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 64674,
+   "intitule" : "Réparer ou recycler ? Keine Angst vorm reparieren! Kaputt ist es schon! Reparaturkurs",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "ELEC",
+   "matiereNom" : "Elec/trique-tronique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ2NzQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Le cours peut également être donné en français."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-MAND-3",
+   "coursId" : "AR-MAND-3",
+   "coursType" : "CLASSIQUE",
+   "cout" : 45.0,
+   "dateDebut" : "15/04/2026",
+   "dateFin" : "13/05/2026",
+   "description" : "Et si le Mandala devenait bien plus qu’un dessin ?\r\nCe cycle de 5 séances vous invite à ralentir, à respirer… et à entrer dans une pratique à la fois créative et profondément apaisante. Destiné aux personnes ayant déjà exploré les bases du Mandala, ce cours vous propose d’aller plus loin, autant dans le geste que dans l’expérience intérieure.\r\nAu fil des séances, vous découvrirez de nouvelles techniques (ombrages, effets de relief, dotting) tout en développant une approche plus consciente et intuitive de la création. Le souffle, le rythme et la répétition deviennent alors des portes d’entrée vers un état méditatif.\r\nPeu à peu, le mandala se transforme en un véritable outil de reconnexion à soi :\r\nun espace pour se déposer, s’exprimer, et se découvrir autrement.\r\n Un temps pour créer\r\n Un temps pour ressentir\r\n Un temps pour se retrouver\r\nAucune compétence artistique particulière n’est requise, seulement l’envie d’explorer en douceur et en profondeur.",
+   "duree" : "10 leçons",
+   "enseignants" : [ {
+      "nom" : "Klein",
+      "prenom" : "Myriam"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:50 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66175,
+   "intitule" : "Se reconnecter à soi à travers l'Art du Mandala - dessin de Mandala et méditation",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "MAND",
+   "matiereNom" : "Mandalas",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNzU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "À noter : le cours n’aura pas lieu le 14 mai 2026 en raison du jour férié.",
+   "renseignements" : "Matériel requis: Un compas; Une équerre Aristo; Crayons ordinaire & crayons de couleur; Feuille de dessin A4 et/ou A5; Règle ;Mandala Dotting-tools; Gouache -Lot de stylos pointe fine 0.2/0.3/0.4/0.5...\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "9085",
+      "localite" : "Ettelbruck",
+      "nom" : "CNFPC-Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "77 Rue Jean Pierre Thill"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PHOT-49",
+   "coursId" : "AR-PHOT-49",
+   "coursType" : "CLASSIQUE",
+   "cout" : 54.0,
+   "dateDebut" : "15/04/2026",
+   "dateFin" : "20/05/2026",
+   "description" : "Lernen Sie, Ihre Kamera kreativ einzusetzen: Von den Grundlagen der Kamera und Zubehör über ISO, Blende, Verschlusszeit und Autofokus bis zu Weißabgleich, Farbmanagement und Schärfentiefe. Praxisnah und verständlich – für beeindruckende Fotos mit voller Kontrolle über Bildgestaltung.",
+   "duree" : "12 leçons",
+   "enseignants" : [ {
+      "nom" : "Noesen",
+      "prenom" : "Georges"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 63927,
+   "intitule" : "Einstieg in die digitale Fotografie",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "PHOT",
+   "matiereNom" : "Photographie",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Bitte bringen Sie Ihren Fotoapparat mit."
 }, {
    "adresseCours" : {
       "codePostal" : "4702",
