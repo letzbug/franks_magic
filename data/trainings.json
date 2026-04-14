@@ -4451,7 +4451,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -7639,78 +7639,6 @@
    "renseignements" : "Inscrivez-vous avant le 08-05-2026"
 }, {
    "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-48",
-   "coursId" : "BP-EN-48",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "11/05/2026",
-   "dateFin" : "15/05/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Simpson",
-      "prenom" : "Anne"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi 11-05-2026 à 12:00 (durée 2h),\nMercredi 13-05-2026 à 12:00 (durée 2h),\nVendredi 15-05-2026 à 12:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 58186,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 17,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxODY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -9484,7 +9412,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -16025,7 +15953,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -51475,6 +51403,7 @@
    "dateInscription" : "Les mercredis à 19h30",
    "description" : "La Mudam Akademie propose de faire découvrir l’art moderne et contemporain, en racontant comment les artistes d’hier et d’aujourd’hui se font les inventeurs d’univers esthétiques, autant que les catalyseurs et interprètes des grands enjeux de société.\r\n\r\nEn résonance directe avec les expositions du Mudam et sa vaste programmation, ce cycle de conférences montre comment le musée peut être un lieu ouvert sur le monde et ses transformations. Pour un public novice autant que des personnes plus averties, la Mudam Akademie souhaite rendre l’histoire de l’art accessible à toutes et tous.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Histoire de l'Art"
    } ],
    "duree" : "7h",
@@ -51571,6 +51500,7 @@
    "dateInscription" : "Les mercredis à 18h",
    "description" : "La Mudam Akademie propose de faire découvrir l’art moderne et contemporain, en racontant comment les artistes d’hier et d’aujourd’hui se font les inventeurs d’univers esthétiques, autant que les catalyseurs et interprètes des grands enjeux de société.\r\n\r\nEn résonance directe avec les expositions du Mudam et sa vaste programmation, ce cycle de conférences montre comment le musée peut être un lieu ouvert sur le monde et ses transformations. Pour un public novice autant que des personnes plus averties, la Mudam Akademie souhaite rendre l’histoire de l’art accessible à toutes et tous.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Histoire de l'Art"
    } ],
    "duree" : "7h",
@@ -64720,12 +64650,16 @@
    "dateInscription" : "à partir de juin 2025 en mairie",
    "description" : "Apprendre le luxembourgeois pour améliorer l'insertion sociale et professionnelle, approche communicative développant des compétences de communication orale.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Production orale"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension orale "
    }, {
+      "competences" : [ null ],
       "domaine" : "Production écrite"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
@@ -64800,10 +64734,13 @@
    "dateInscription" : "à partir de juillet 2025",
    "description" : "Apprendre le luxembourgeois pour améliorer l'insertion sociale et professionnelle, approche communicative  développant des compétences de communication orale.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Production orale"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension orale "
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
@@ -64878,10 +64815,13 @@
    "dateInscription" : "à partir de juillet 2025 au Centre Social",
    "description" : "Apprendre le luxembourgeois pour améliorer l'insertion sociale et professionnelle, approche communicative  développant des compétences de communication orale.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Production orale"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension orale "
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
@@ -64956,12 +64896,16 @@
    "dateInscription" : "à partir de juillet 2025 à la MJC",
    "description" : "Apprendre le luxembourgeois pour améliorer l'insertion sociale et professionnelle, approche communicative  développant des compétences de communication orale.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Production orale"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension orale "
    }, {
+      "competences" : [ null ],
       "domaine" : "Production écrite"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
@@ -65036,12 +64980,16 @@
    "dateInscription" : "en mairie à partir de juillet 2025",
    "description" : "Apprendre le luxembourgeois pour améliorer l'insertion sociale et professionnelle, approche communicative développant des compétences de communication orale.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Production orale"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension orale "
    }, {
+      "competences" : [ null ],
       "domaine" : "Production écrite"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
@@ -65116,12 +65064,16 @@
    "dateInscription" : "en mairie à partir de juillet 2025",
    "description" : "Apprendre le luxembourgeois pour améliorer l'insertion sociale et professionnelle, approche communicative  développant des compétences de communication orale.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Production orale"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension orale "
    }, {
+      "competences" : [ null ],
       "domaine" : "Production écrite"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
@@ -65196,10 +65148,13 @@
    "dateInscription" : "à partir de juillet 2025 à l'AFAL",
    "description" : "Apprendre le luxembourgeois pour améliorer l'insertion sociale et professionnelle, approche communicative développant des compétences de communication orale.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Compréhension écrite"
    }, {
+      "competences" : [ null ],
       "domaine" : "Production orale"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension orale "
    } ],
    "duree" : "60h",
@@ -65274,12 +65229,16 @@
    "dateInscription" : "à partir de juillet 2025 à l'AFAL",
    "description" : "Apprendre le luxembourgeois pour améliorer l'insertion sociale et professionnelle, approche communicative  développant des compétences de communication orale.",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Production orale"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension orale "
    }, {
+      "competences" : [ null ],
       "domaine" : "Production écrite"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
@@ -65354,12 +65313,16 @@
    "dateInscription" : "dès juin 2025 à la MJC",
    "description" : "Apprendre le luxembourgeois pour améliorer l'insertion sociale et professionnelle, approche communicative développant des compétences de communication orale",
    "domainesCompetences" : [ {
+      "competences" : [ null ],
       "domaine" : "Production orale "
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension orale"
    }, {
+      "competences" : [ null ],
       "domaine" : "Production écrite"
    }, {
+      "competences" : [ null ],
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
