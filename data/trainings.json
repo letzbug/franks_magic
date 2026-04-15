@@ -1,482 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-HIST-16",
-   "coursId" : "SCI-HIST-16",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "16/04/2026",
-   "dateFin" : "02/07/2026",
-   "description" : "Ce cours n’est pas une synthèse encyclopédique de plus, mais une véritable architecture critique de la modernité. Il montre comment les sociétés fabriquent leurs normes en s’appuyant sur les rationalités qui les dominent — mythiques, théologiques, philosophiques, économiques ou aujourd’hui algorithmiques. En proposant une lecture transversale, accessible tout en restant conceptuellement rigoureuse, il offre aux participants des outils intellectuels pour comprendre en profondeur les mutations présentes… et celles qui se dessinent déjà.",
-   "duree" : "20 leçons",
-   "enseignants" : [ {
-      "nom" : "Kreins",
-      "prenom" : "Jean-Marie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61497,
-   "intitule" : "Des dieux antiques aux algorithmes : pour une archéologie critique de l’Occident",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "HIST",
-   "matiereNom" : "Histoire",
-   "nbInscrits" : 12,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE0OTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4361",
-      "localite" : "Esch/alzette",
-      "nom" : "Administration de la gestion de l'eau",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, avenue du Rock'n'roll"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCM",
-   "categorieCodeUnipop" : "SCM",
-   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
-   "coOrganisateurs" : [ "Administration de la gestion de l'eau" ],
-   "coursCode" : "SCM-ENAG-20",
-   "coursId" : "SCM-ENAG-20",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "16/04/2026",
-   "dateFin" : "16/04/2026",
-   "description" : "Découvrez comment les sources d'eau sont protégées, la qualité de l'eau garantie et des technologies innovantes mises en œuvre. Lors de notre visite guidée exclusive de l'Administration nationale de la gestion de l'eau, vous aurez un aperçu des tâches quotidiennes et des défis auxquels sont confrontés les experts.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Conférence",
-      "prenom" : "Up"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 16-04-2026 à 14:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65316,
-   "intitule" : "Visite du laboratoire de l'administration de la gestion de l'eau",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "ENAG",
-   "matiereNom" : "Environnement et agriculture",
-   "nbInscrits" : 6,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzMTY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La visite guidée durera 2 heures. Le responsable de la visite parle également luxembourgeois.\r\nVeuillez utiliser les transports publics (gare de Belval) ou les parkings publics à Esch/Belval."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coOrganisateurs" : [ "GERO A.S.B.L.", "https://www.gero.lu/" ],
-   "coursCode" : "SO-BE-10",
-   "coursId" : "SO-BE-10",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "16/04/2026",
-   "dateFin" : "16/04/2026",
-   "description" : "D’Pensioun – e wichtege Liewensofschnëtt, dacks mat vill Freed erwaart, heiansdo awer och mat e bëssen Onsécherheet verbonnen. Et ass dofir wichteg, sech fréi genuch Gedanken ze maachen: Wéi wëll ech liewen? Wéi eng Pläng hunn ech? Wéi gesäit meng finanziell, wunnlech, sozial a privat Situatioun aus?\r\n\r\nAn dësem interaktive Virtrag mat engem éierenamtlechen GERO-Pensiounscoach kritt Dir vill nëtzlech Informatiounen an Iddien, wéi Dir Iech ganz perséinlech a bewosst op d’Pensioun virbereede kënnt an dëse neie Liewensofschnëtt ofwiesslungsräich a sënnvoll gestalte kënnt.\r\n\r\nDuerno kënne Froen nach verdéift a gemeinsam diskutéiert ginn. Wichteg: Am Kader vum Virtrag gi keng finanziell an/oder juristesch Froe behandelt.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Conférence",
-      "prenom" : "Up"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 16-04-2026 à 17:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65412,
-   "intitule" : "Pensioun – An elo? De Wiessel gutt erliewen!",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "BE",
-   "matiereNom" : "Bien-être",
-   "nbInscrits" : 17,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0MTI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "De Virtrag dauert 2 Stonnen an ass komplett gratis.\r\n\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "8473",
-      "localite" : "Eischen",
-      "nom" : "Ecole centrale \"Vir Wëller\"",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, rue de Hobscheid"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9151",
-      "localite" : "Eschdorf",
-      "nom" : "Landakademie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, am Foumichterwee"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TRT-128",
-   "coursId" : "IN-TRT-128",
-   "coursType" : "CLASSIQUE",
-   "cout" : 48.0,
-   "dateDebut" : "16/04/2026",
-   "dateFin" : "18/06/2026",
-   "dateInscription" : "lundi - jeudi  de 8:00 -16:00 heuers",
-   "description" : "Geometrische Formen zeichnen mit Word, formatieren, ausrichten und regruppieren. Organigramme und Icons erstellen. Anonymisieren von Informationen mit artistischen Effekten von Fotos. Publipostage.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Connaît les menus\r\n\r\n", "Peut gérer les fichiers\r\n", "Peut se servir des caractères spéciaux", "Peut formater les textes et paragraphes", "Peut insérer une image" ],
-      "domaine" : "Révision Word"
-   }, {
-      "competences" : [ "Peut insérer des formes géométriques\r\n", "Peut manipuler la taille, couleur, bordure, ombre, 3D\r\n", "Peut tourner, superposer et regrouper les objets\r\n", "Peut faire des alignements" ],
-      "domaine" : "Objets géométriques"
-   }, {
-      "competences" : [ "Peut insérer une Textbox\r\n", "Peut remplir la Textbox avec du texte et une bordure\r\n", "Peut se servir des effets spéciaux" ],
-      "domaine" : "Word Art"
-   }, {
-      "competences" : [ "Peut se servir des icônes\r\n", "Peut manipuler les 3D modèles", "Peut se servir de Smartart" ],
-      "domaine" : "Traitement des nouveautés"
-   }, {
-      "competences" : [ "Peut créer un document principal et une étiquette", "Peut créer un tableau et une base de donnée", "Peut faire une fusion" ],
-      "domaine" : "Quick label"
-   } ],
-   "duree" : "16h",
-   "enseignants" : [ {
-      "nom" : "Gnad",
-      "prenom" : "Christiane"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63476,
-   "intitule" : "Word Créatif",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TRT",
-   "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 0,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
-         "nom" : "Landakademie",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
-      },
-      "code" : "LANAKA",
-      "fax" : "+352 89 95 68-40",
-      "mail" : "fabio@landakademie.lu",
-      "nom" : "Landakademie",
-      "nomContact" : "Da Silva Loureiro",
-      "onlineReg" : false,
-      "prenomContact" : "Fabio",
-      "statut" : "ASBL",
-      "telephone" : "89 95 68 28",
-      "websiteUrl" : "https://www.landakademie.lu/"
-   },
-   "renseignements" : "Inscriptions par téléphone au 89 95 68-28, par email à cours@landakademie.lu ou sur le site Internet www.landakademie.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-INFU-96",
-   "coursId" : "IN-INFU-96",
-   "coursType" : "CLASSIQUE",
-   "cout" : 60.0,
-   "dateDebut" : "16/04/2026",
-   "dateFin" : "02/07/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "MAC OS MX : Connaître les divers outils numériques et leur application \"Hardware\". Connaître les différents logiciels de traitement de données \"Software\". Emploi sécurisé des TIC. Comprendre le \"world wide web\". Créer et gérer des messages électroniques (E-Mail SMS/MMS). Créer et modifier des textes. - Créer et modifier des images.\r\n\r\nMacintosh auf die eigenen Bedürfnisse einpassen, Systemkonfiguration. Betriebssystem und Apps aktualisieren. Soziale Netzwerke: Netzwerke kennenlernen, Privatsphäre schützen. Elektronische Unterschrift: LuxTrust kennen und nutzen. E-Commerce: Online einkaufen, Veranstaltungen und Reisen buchen, usw. Zuverlässigkeit der Angebote prüfen. Verwaltungsvorgänge online erledigen (Steuererklärung, Formulare, usw.) guichet.lu kennen und nutzen. E-Banking: online Bank benutzen.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Connaître les divers outils numériques et leur application (Hardware).\r\n- Emploi sécurisé des TIC.\r\n- Créer et modifier des textes.\r\n- Créer et modifier des images.\r\n- Comprendre le \"worldwide web\".\r\n- Créer et gérer des messages électroniques (E-Mail SMS/MMS).", "Connaître les différents logiciels de traitement de données (Software)." ],
-      "domaine" : "Internetführerschäin"
-   } ],
-   "duree" : "20h",
-   "enseignants" : [ {
-      "nom" : "Toth",
-      "prenom" : "Laszlo",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 16:00 (durée 1h45)",
-   "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "16:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61855,
-   "intitule" : "Mac OS M-X-3",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "INFU",
-   "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 0,
-   "nbPlaces" : 5,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Keine Macintosh OS, Linux OS oder Android OS Grundkenntnisse sind erforderlich  -  Aucune connaissance de base de Macintosh OS n'est requise",
-   "renseignements" : "Inscrivez-vous avant le 13-04-2026!"
-}, {
-   "adresseCours" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "adresseInscription" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-NET-43",
-   "coursId" : "IN-NET-43",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "16/04/2026",
-   "dateFin" : "21/05/2026",
-   "dateInscription" : "30.03.2026 - 10.04.2026\r\n09H00-17H00",
-   "description" : "Initiation à l'Internet.\r\nLes moteurs de recherche.\r\nLe navigateur Firefox.\r\nTéléchargement de fichiers.\r\nGoogle Earth, Youtube, Skype ....\r\nAcheter en ligne: Amazon, Ebay.\r\nSécurité sur Internet.",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 09:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61827,
-   "intitule" : "Internet",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "NET",
-   "matiereNom" : "Internet",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Lopes Philippe Tel: 26 70 17 12 e-mail: istuffsandweiler@pt.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "adresseInscription" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-MUME-49",
-   "coursId" : "IN-MUME-49",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "16/04/2026",
-   "dateFin" : "21/05/2026",
-   "dateInscription" : "30.03.2026 - 10.04.2026\r\n09H00 - 17H00",
-   "description" : "L'appareil photo numérique.\r\nTéléchargement des photos sur l'ordinateur.\r\nRetravailler les photos avec le programme GIMP2 (Open Source).\r\nImprimer les photos en différents formats.\r\nCataloguer les photos.\r\nGraver les photos sur CD avec CDBurnerXP (Open Source).",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61821,
-   "intitule" : "Photographie digitale",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "MUME",
-   "matiereNom" : "Multimédia",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Lopes Philippe Tel: 26 70 17 12 e-mail: istuffsandweiler@pt.lu"
-}, {
-   "adresseCours" : {
       "codePostal" : "5252",
       "localite" : "Sandweiler",
       "nom" : "Internetstuff Sandweiler",
@@ -31144,6 +30667,231 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-HIST-16",
+   "coursId" : "SCI-HIST-16",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "16/04/2026",
+   "dateFin" : "02/07/2026",
+   "description" : "Ce cours n’est pas une synthèse encyclopédique de plus, mais une véritable architecture critique de la modernité. Il montre comment les sociétés fabriquent leurs normes en s’appuyant sur les rationalités qui les dominent — mythiques, théologiques, philosophiques, économiques ou aujourd’hui algorithmiques. En proposant une lecture transversale, accessible tout en restant conceptuellement rigoureuse, il offre aux participants des outils intellectuels pour comprendre en profondeur les mutations présentes… et celles qui se dessinent déjà.",
+   "duree" : "20 leçons",
+   "enseignants" : [ {
+      "nom" : "Kreins",
+      "prenom" : "Jean-Marie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 61497,
+   "intitule" : "Des dieux antiques aux algorithmes : pour une archéologie critique de l’Occident",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "HIST",
+   "matiereNom" : "Histoire",
+   "nbInscrits" : 12,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE0OTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
+}, {
+   "adresseCours" : {
+      "codePostal" : "8473",
+      "localite" : "Eischen",
+      "nom" : "Ecole centrale \"Vir Wëller\"",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, rue de Hobscheid"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TRT-128",
+   "coursId" : "IN-TRT-128",
+   "coursType" : "CLASSIQUE",
+   "cout" : 48.0,
+   "dateDebut" : "16/04/2026",
+   "dateFin" : "18/06/2026",
+   "dateInscription" : "lundi - jeudi  de 8:00 -16:00 heuers",
+   "description" : "Geometrische Formen zeichnen mit Word, formatieren, ausrichten und regruppieren. Organigramme und Icons erstellen. Anonymisieren von Informationen mit artistischen Effekten von Fotos. Publipostage.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Connaît les menus\r\n\r\n", "Peut gérer les fichiers\r\n", "Peut se servir des caractères spéciaux", "Peut formater les textes et paragraphes", "Peut insérer une image" ],
+      "domaine" : "Révision Word"
+   }, {
+      "competences" : [ "Peut insérer des formes géométriques\r\n", "Peut manipuler la taille, couleur, bordure, ombre, 3D\r\n", "Peut tourner, superposer et regrouper les objets\r\n", "Peut faire des alignements" ],
+      "domaine" : "Objets géométriques"
+   }, {
+      "competences" : [ "Peut insérer une Textbox\r\n", "Peut remplir la Textbox avec du texte et une bordure\r\n", "Peut se servir des effets spéciaux" ],
+      "domaine" : "Word Art"
+   }, {
+      "competences" : [ "Peut se servir des icônes\r\n", "Peut manipuler les 3D modèles", "Peut se servir de Smartart" ],
+      "domaine" : "Traitement des nouveautés"
+   }, {
+      "competences" : [ "Peut créer un document principal et une étiquette", "Peut créer un tableau et une base de donnée", "Peut faire une fusion" ],
+      "domaine" : "Quick label"
+   } ],
+   "duree" : "16h",
+   "enseignants" : [ {
+      "nom" : "Gnad",
+      "prenom" : "Christiane"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 19:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63476,
+   "intitule" : "Word Créatif",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "TRT",
+   "matiereNom" : "Traitement de texte",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9151",
+         "localite" : "Eschdorf",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, am Foumichterwee"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "Inscriptions par téléphone au 89 95 68-28, par email à cours@landakademie.lu ou sur le site Internet www.landakademie.lu"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-INFU-96",
+   "coursId" : "IN-INFU-96",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "16/04/2026",
+   "dateFin" : "02/07/2026",
+   "dateInscription" : "Lundi à vendredi 9h à 18h",
+   "description" : "MAC OS MX : Connaître les divers outils numériques et leur application \"Hardware\". Connaître les différents logiciels de traitement de données \"Software\". Emploi sécurisé des TIC. Comprendre le \"world wide web\". Créer et gérer des messages électroniques (E-Mail SMS/MMS). Créer et modifier des textes. - Créer et modifier des images.\r\n\r\nMacintosh auf die eigenen Bedürfnisse einpassen, Systemkonfiguration. Betriebssystem und Apps aktualisieren. Soziale Netzwerke: Netzwerke kennenlernen, Privatsphäre schützen. Elektronische Unterschrift: LuxTrust kennen und nutzen. E-Commerce: Online einkaufen, Veranstaltungen und Reisen buchen, usw. Zuverlässigkeit der Angebote prüfen. Verwaltungsvorgänge online erledigen (Steuererklärung, Formulare, usw.) guichet.lu kennen und nutzen. E-Banking: online Bank benutzen.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Connaître les divers outils numériques et leur application (Hardware).\r\n- Emploi sécurisé des TIC.\r\n- Créer et modifier des textes.\r\n- Créer et modifier des images.\r\n- Comprendre le \"worldwide web\".\r\n- Créer et gérer des messages électroniques (E-Mail SMS/MMS).", "Connaître les différents logiciels de traitement de données (Software)." ],
+      "domaine" : "Internetführerschäin"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ {
+      "nom" : "Toth",
+      "prenom" : "Laszlo",
+      "site" : "http://www.cigpetange.lu"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 16:00 (durée 1h45)",
+   "horaires" : [ {
+      "duree" : "1h45",
+      "heure" : "16:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 61855,
+   "intitule" : "Mac OS M-X-3",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "INFU",
+   "matiereNom" : "Internetfürerschäin",
+   "nbInscrits" : 0,
+   "nbPlaces" : 5,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4702",
+         "localite" : "Pétange",
+         "nom" : "CIGL - Pétange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "4, rue Pierre Grégoire"
+      },
+      "code" : "CIGL - P",
+      "fax" : "+352 23 65 20 03",
+      "mail" : "info@cyberhall.lu",
+      "nom" : "CIGL - Pétange",
+      "nomContact" : "Toth",
+      "onlineReg" : false,
+      "prenomContact" : "Laszlo",
+      "statut" : "ASBL",
+      "telephone" : "+352 23 65 17 33 33",
+      "websiteUrl" : "http://www.cigpetange.lu"
+   },
+   "prerequis" : "Keine Macintosh OS, Linux OS oder Android OS Grundkenntnisse sind erforderlich  -  Aucune connaissance de base de Macintosh OS n'est requise",
+   "renseignements" : "Inscrivez-vous avant le 13-04-2026!"
+}, {
+   "adresseCours" : {
       "codePostal" : "1343",
       "localite" : "Luxembourg",
       "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
@@ -34831,7 +34579,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 10,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
