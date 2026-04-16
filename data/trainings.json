@@ -3256,6 +3256,78 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "6793",
+      "localite" : "Grevenmacher",
+      "nom" : "MiKO",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "23, route de Trèves"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-37",
+   "coursId" : "LA-FR-37",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "27/04/2026",
+   "dateFin" : "10/07/2026",
+   "dateInscription" : "jusqu'au 17/04/2026",
+   "description" : "un cours de français niveau A2.1. respectant les principes définis par le CECRL pour les langues",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Naciri Mohamed-El",
+      "prenom" : "Mustapha"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 08:30 (durée 2h), Mercredi à 08:30 (durée 2h), Vendredi à 08:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 61227,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 19,
+   "nbPlaces" : 20,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjEyMjc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6760",
+         "localite" : "Grevenmacher",
+         "nom" : "Maacher Lycée",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "18, rue de Münschecker"
+      },
+      "code" : "MLG",
+      "fax" : "+352 750 665 5200",
+      "mail" : "csa@mlg.lu",
+      "nom" : "Maacher Lycée",
+      "nomContact" : "Stroesser",
+      "onlineReg" : true,
+      "prenomContact" : "Jessica",
+      "statut" : "MENFPS",
+      "telephone" : "+352 750 665 5255",
+      "websiteUrl" : "https://www.maacherlycee.lu/"
+   }
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -35271,7 +35343,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 25,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : true,
@@ -39515,6 +39587,99 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
+      "nom" : "Association des parents d'elèves d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9089",
+      "localite" : "Ettelbruck",
+      "nom" : "Association des parents d'elèves d'Ettelbruck",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, rue Michel Weber"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-945",
+   "coursId" : "LA-FR-945",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "17/03/2026",
+   "dateFin" : "21/05/2026",
+   "dateInscription" : "Tous les jours de 9h à 12h",
+   "description" : "Comprendre les points essentiels d'un message quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc...\r\nComprendre un récit court.\r\nSuivre les points principaux d'un exposé et identifer le type e message entendu.",
+   "domainesCompetences" : [ {
+      "competences" : [ "peux comprendre des points essentiels quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc...", "peux comprendre l'essentiel de nombreuses émissions de radio ou de télévision sur l'actualité ou sur des sujets qui m'intéressent à titre personnel ou professionnel si l'on parle d'une façon relativement lente et distincte." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "peux comprendre des textes rédigés essentiellement dans une langue courante ou relative à mon travail.", "peux comprendre la description d'évènements, l'expression de sentiments et de souhaits dans des lettres personnelles." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "peux faire face à la majorité des situations que l'on peut rencontrer au cours d'un voyage dans une région ou la langue est parlée.", "peux prendre part sans préparation à une conversation sur des sujets familiers ou d'intérêt personnel ou qui concernent la vie quotidienne (famille, loisirs, travail, voyage et actualité).", "peux articuler des expressions de manière simple afin de raconter des expériences et des évènements, mes rêves, mes espoirs et mes buts. ", "peux brièvement donner les raisons et explications de mes opinions ou projets.", "peux raconter une histoire ou l'intrigue d'un livre ou d'un film et exprimer mes réactions." ],
+      "domaine" : "Production orale"
+   }, {
+      "competences" : [ "peux écrire un texte simple et cohérent sur des sujets familiers ou qui m'intéressent personnellement.", "peux écrire des lettres personnelles pour décrire expériences et impressions." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Silvino Cardoso",
+      "prenom" : "Ana Carina"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 17:30 (durée 2h), Mardi à 17:30 (durée 2h), Mercredi à 17:30 (durée 2h), Jeudi à 17:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 60942,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 15,
+   "nbPlaces" : 25,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9089",
+         "localite" : "Ettelbruck",
+         "nom" : "Ettelbruck",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, rue Michel Weber"
+      },
+      "code" : "APE",
+      "mail" : "mariadelfinalbuquerque@yahoo.fr",
+      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
+      "nomContact" : "Henriques Tomaz",
+      "onlineReg" : false,
+      "prenomContact" : "Maria Delfina",
+      "statut" : "ASBL",
+      "telephone" : "+352 691 500 047"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -39597,25 +39762,25 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-945",
-   "coursId" : "LA-FR-945",
+   "coursCode" : "LA-FR-895",
+   "coursId" : "LA-FR-895",
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "16/03/2026",
    "dateFin" : "21/05/2026",
    "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre les points essentiels d'un message quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc...\r\nComprendre un récit court.\r\nSuivre les points principaux d'un exposé et identifer le type e message entendu.",
+   "description" : "Comprendre des questions simples au sujet  de sa personne, de son identité ainsi que de sa famille ou ses amis\r\nApprendre à répondre aux questions relatives à la présentation\r\nIdentifier les paramètres d'une situation de communication claire dans la vie quotidienne",
    "domainesCompetences" : [ {
-      "competences" : [ "peux comprendre des points essentiels quand un langage clair et standard est utilisé et s'il s'agit de sujets familiers concernant le travail, l'école, les loisirs, etc...", "peux comprendre l'essentiel de nombreuses émissions de radio ou de télévision sur l'actualité ou sur des sujets qui m'intéressent à titre personnel ou professionnel si l'on parle d'une façon relativement lente et distincte." ],
+      "competences" : [ "Identifier des formules de politesse et de salutations", "Comprendre les chiffres, les prix et l'heure", "Comprendre des mots et expressions familiers", "Comprendre des questions, instructions ou indications courtes et élémentaires", "Manifester ma compréhension ou mon incompréhension", "Comprendre des consignes courtes et simples", "Comprendre l'appartenance ou la quantité", "Comprendre des informations ou des questions personnelles simples" ],
       "domaine" : "Compréhension orale"
    }, {
-      "competences" : [ "peux comprendre des textes rédigés essentiellement dans une langue courante ou relative à mon travail.", "peux comprendre la description d'évènements, l'expression de sentiments et de souhaits dans des lettres personnelles." ],
+      "competences" : [ "Epeler\r\n\r\n", "Comprendre des messages et indications simples et courts", "Comprendre et suivre des instructions, des indications", "Comprendre des textes simples donnant des informations et des descriptions sur l'identité, la présentation,", "Comprendre des textes simples avec des informations et descriptions courtes" ],
       "domaine" : "Compréhension écrite"
    }, {
-      "competences" : [ "peux faire face à la majorité des situations que l'on peut rencontrer au cours d'un voyage dans une région ou la langue est parlée.", "peux prendre part sans préparation à une conversation sur des sujets familiers ou d'intérêt personnel ou qui concernent la vie quotidienne (famille, loisirs, travail, voyage et actualité).", "peux articuler des expressions de manière simple afin de raconter des expériences et des évènements, mes rêves, mes espoirs et mes buts. ", "peux brièvement donner les raisons et explications de mes opinions ou projets.", "peux raconter une histoire ou l'intrigue d'un livre ou d'un film et exprimer mes réactions." ],
+      "competences" : [ "Se présenter\r\n", "Présenter quelqu'un (identité, nom, âge, nationalité, profession, lieu d'habitation...)", "Parler de mon environnement quotidien (donner mes coordonnées, parler de ma famille...)", "Lire un texte à voix haute", "Exprimer l'appartenance / la quantité", "Entrer en contact avec quelqu'un", "Utiliser des expressions élémentaires de salutation et de congé", " Réagir à des messages et instructions simples", "Poser et répondre à des questions personnelles", "Répondre par l'affirmative, répondre par la négative" ],
       "domaine" : "Production orale"
    }, {
-      "competences" : [ "peux écrire un texte simple et cohérent sur des sujets familiers ou qui m'intéressent personnellement.", "peux écrire des lettres personnelles pour décrire expériences et impressions." ],
+      "competences" : [ "Remplir une fiche de renseignements personnels (une fiche d'identité, d'inscription, un formulaire ...)\r\n", "Ecrire un texte de présentation simple", "Ecrire des messages très simples", "Ecrire des phrases simples au présent", "Ecrire des phrases avec la négation de base" ],
       "domaine" : "Production écrite"
    } ],
    "duree" : "60h",
@@ -39642,15 +39807,15 @@
       "heure" : "17:30",
       "jour" : "Jeudi"
    } ],
-   "id" : 60942,
+   "id" : 60885,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 0,
    "nbPlaces" : 25,
-   "niveau" : "B1.1 du CECRL",
+   "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -40050,99 +40215,6 @@
    },
    "prerequis" : "cours d'alphabétisation requis",
    "renseignements" : "non accessible aux personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-895",
-   "coursId" : "LA-FR-895",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "16/03/2026",
-   "dateFin" : "21/05/2026",
-   "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre des questions simples au sujet  de sa personne, de son identité ainsi que de sa famille ou ses amis\r\nApprendre à répondre aux questions relatives à la présentation\r\nIdentifier les paramètres d'une situation de communication claire dans la vie quotidienne",
-   "domainesCompetences" : [ {
-      "competences" : [ "Identifier des formules de politesse et de salutations", "Comprendre les chiffres, les prix et l'heure", "Comprendre des mots et expressions familiers", "Comprendre des questions, instructions ou indications courtes et élémentaires", "Manifester ma compréhension ou mon incompréhension", "Comprendre des consignes courtes et simples", "Comprendre l'appartenance ou la quantité", "Comprendre des informations ou des questions personnelles simples" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Epeler\r\n\r\n", "Comprendre des messages et indications simples et courts", "Comprendre et suivre des instructions, des indications", "Comprendre des textes simples donnant des informations et des descriptions sur l'identité, la présentation,", "Comprendre des textes simples avec des informations et descriptions courtes" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Se présenter\r\n", "Présenter quelqu'un (identité, nom, âge, nationalité, profession, lieu d'habitation...)", "Parler de mon environnement quotidien (donner mes coordonnées, parler de ma famille...)", "Lire un texte à voix haute", "Exprimer l'appartenance / la quantité", "Entrer en contact avec quelqu'un", "Utiliser des expressions élémentaires de salutation et de congé", " Réagir à des messages et instructions simples", "Poser et répondre à des questions personnelles", "Répondre par l'affirmative, répondre par la négative" ],
-      "domaine" : "Production orale"
-   }, {
-      "competences" : [ "Remplir une fiche de renseignements personnels (une fiche d'identité, d'inscription, un formulaire ...)\r\n", "Ecrire un texte de présentation simple", "Ecrire des messages très simples", "Ecrire des phrases simples au présent", "Ecrire des phrases avec la négation de base" ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Silvino Cardoso",
-      "prenom" : "Ana Carina"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:30 (durée 2h), Mardi à 17:30 (durée 2h), Mercredi à 17:30 (durée 2h), Jeudi à 17:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 60885,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
