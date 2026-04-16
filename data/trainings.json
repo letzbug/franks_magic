@@ -1882,7 +1882,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2486,7 +2486,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "SCN",
    "matiereNom" : "Sciences naturelles",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 150,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2509,6 +2509,90 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Ne manquez pas cette occasion unique d'explorer la géographie sous un nouvel angle. Une soirée inspirante et riche en découvertes vous attend. Rejoignez-nous pour un moment de partage et d'échange !"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1512",
+   "coursId" : "LA-FR-1512",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "23/04/2026",
+   "dateFin" : "23/07/2026",
+   "dateInscription" : "Lundi-Jeudi de 08:00 - 16:00 heures",
+   "description" : "décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter, décliner une invitation, demander un service, raconter un événement au passé, verbes et grammaires de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui concerne l'apprenant de très près (par ex. lui-même, sa famille, ses achats, son environnements proche, son travail)", "Saisir l'essentiel d'annonces, de messages, de dialogues ou de textes simples et clairs" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Lire et comprendre des textes courts et simples\r\n", "Trouver une information particulière prévisible dans des documents simples et courants comme les prospectus, les petites annonces, les menus \r\n.", "Comprendre des consignes et des textes courts et simples\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers\r\n", "Avoir des échanges très brefs sans pour autant poursuivre une conversation\r\n", "Utiliser une série de phrases ou d'expressions simples pour décrire sa famille et d'autres gens, ses conditions de vie, sa formation et son activité professionnelle actuelle, récente ou passée " ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Ecrire des notes et des messages simples et courts \r\n", "Ecrire une lettre ou un récit personnel en phrases très simples \r\n", "Ecrire une dictée très simple\r\n" ],
+      "domaine" : "Expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Bergmans",
+      "prenom" : "Miranda"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:30 (durée 2h30), Jeudi à 09:30 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65451,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 10,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9151",
+         "localite" : "Eschdorf",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, am Foumichterwee"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -2548,7 +2632,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "OR",
    "matiereNom" : "Origami",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -2571,6 +2655,140 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 6 euros."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1193",
+   "coursId" : "LA-FR-1193",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "24/04/2026",
+   "dateFin" : "28/07/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "comprendre le contenu essentiel au travail, à l'école et aux loisirs. Se débrouiller lors d'un voyage. Tenir un discours simple et cohérent sur des sujets divers. Raconter et décrire un évènement, rêve ou un projet. Expliquer une idée",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des nouvelles", "comprendre des différents dialogues", "comprendre un message téléphonique enregistré", "comprendre un petit documentaire" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre des annonces publicitaires", "comprendre des informations et instructions", "comprendre l'horoscope", "comprendre des menus", "comprendre des articles de presse et différents genres de textes" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter, donner et demander des informations de caractère personnel, professionnel et des loisirs", "faire des déscriptions au passé", "donner son avis, poser des questions, conseiller", "faire des comparaisons, faire un résumé", "donner des informations simples sur un problème de santé", "parler des expériences personnelles", "parler des fêtes et traditions de son pays" ],
+      "domaine" : "expression orale"
+   }, {
+      "competences" : [ "répondre à des questions d'interprétation, à une enquête", "remplir des documents" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h30), Vendredi à 14:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 63474,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9151",
+         "localite" : "Eschdorf",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, am Foumichterwee"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissances en français",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-9",
+   "coursId" : "IN-DIG-9",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "24/04/2026",
+   "dateFin" : "24/04/2026",
+   "description" : "Satellites influence navigation, weather forecasting, internet access, and climate monitoring. Yet many people are unaware of how space systems actually work. This course demystifies modern space technology in a practical and accessible way.\r\n\r\nParticipants will explore how satellites are designed, launched, and operated, using everyday examples and visual tools. No technical background is required.\r\n\r\nThe course promotes scientific curiosity and digital citizenship in a rapidly evolving space economy.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 24-04-2026 à 14:30 (durée 5h)",
+   "horaires" : [ {
+      "duree" : "5h",
+      "heure" : "14:30",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66085,
+   "intitule" : "Satellites for Everyone: Powering Connectivity, Navigation, and Data",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwODU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "2132",
@@ -2645,66 +2863,6 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "renseignements" : "non accessible aux personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-DIG-9",
-   "coursId" : "IN-DIG-9",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "24/04/2026",
-   "dateFin" : "24/04/2026",
-   "description" : "Satellites influence navigation, weather forecasting, internet access, and climate monitoring. Yet many people are unaware of how space systems actually work. This course demystifies modern space technology in a practical and accessible way.\r\n\r\nParticipants will explore how satellites are designed, launched, and operated, using everyday examples and visual tools. No technical background is required.\r\n\r\nThe course promotes scientific curiosity and digital citizenship in a rapidly evolving space economy.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Jaffer",
-      "prenom" : "Ghulam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 24-04-2026 à 14:30 (durée 5h)",
-   "horaires" : [ {
-      "duree" : "5h",
-      "heure" : "14:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66085,
-   "intitule" : "Satellites for Everyone: Powering Connectivity, Navigation, and Data",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DIG",
-   "matiereNom" : "Digital",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwODU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -4740,6 +4898,80 @@
    "renseignements" : "public visé: personnes  ayant  suivi des cours d'alphabétisation mais en difficulté d'apprentissage  à l' écrit"
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-25",
+   "coursId" : "CIN-LB-25",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "04/05/2026",
+   "dateFin" : "21/05/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 65491,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 8,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0OTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
       "codePostal" : "1921",
       "localite" : "Luxembourg",
       "nom" : "lycée de garçons",
@@ -6174,6 +6406,84 @@
    "renseignements" : "Cours organisés à distance via l'outil ZOOM. Groupes de niveaux homogènes composés de 4 à 8 apprenants.\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-22",
+   "coursId" : "CIN-LB-22",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "12/05/2026",
+   "dateFin" : "09/06/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 18:15 (durée 2h), Mercredi 13-05-2026 à 18:15 (durée 2h), Jeudi 21-05-2026 à 18:15 (durée 2h), 18:15 (durée 2h) et 18:15 (durée 2h), Samedi à 10:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Samedi"
+   } ],
+   "id" : 65390,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 7,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzOTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -6967,6 +7277,80 @@
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-32",
+   "coursId" : "CIN-LB-32",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "18/05/2026",
+   "dateFin" : "10/06/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "25h30",
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:30 (durée 1h30), Mardi à 08:30 (durée 1h30), Mercredi à 08:30 (durée 1h30), Jeudi à 08:30 (durée 1h30), Vendredi à 08:30 (durée 1h30)",
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "08:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "08:30",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66545,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 2,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY1NDU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -7360,6 +7744,56 @@
       "telephone" : "621 534 221"
    },
    "prerequis" : "Avoir le niveau A2.2"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-7",
+   "coursId" : "CIN-LB-7",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "18/05/2026",
+   "dateFin" : "03/06/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "27h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi 18-05-2026 à 18:00 (durée 3h) et 18:00 (durée 3h), Mardi 19-05-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Mercredi 20-05-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Jeudi 28-05-2026 à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 63842,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4NDI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7540",
+         "localite" : "Rollingen",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "141, rue de Luxembourg"
+      },
+      "code" : "LCPB",
+      "mail" : "lorangclaudine@yahoo.com",
+      "nom" : "Lorang Claudine Pierrette B. - Lëtzebuerger Sprooch a Kultur Formatrice",
+      "nomContact" : "Lorang",
+      "onlineReg" : true,
+      "prenomContact" : "Claudine",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 621 345 595"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "9089",
@@ -8807,6 +9241,80 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge de fournir tout le matériel nécessaire pour l'atelier, avec un remboursement de 50 euros. "
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-29",
+   "coursId" : "CIN-LB-29",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "27/05/2026",
+   "dateFin" : "12/06/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66212,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "1254",
@@ -15812,7 +16320,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -16426,6 +16934,112 @@
       "websiteUrl" : "http://www.cigr.lu"
    },
    "renseignements" : "M. Lopes Philippe Tel: 26 70 17 12 e-mail: istuffsandweiler@pt.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-27",
+   "coursId" : "CIN-LB-27",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "10/06/2026",
+   "dateFin" : "06/07/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi 15-06-2026 à 18:15 (durée 2h), 18:15 (durée 2h), 18:15 (durée 2h) et 18:15 (durée 2h), Mercredi 10-06-2026 à 18:15 (durée 2h), 18:15 (durée 2h) et 18:15 (durée 2h), Jeudi 11-06-2026 à 18:15 (durée 2h), 18:15 (durée 2h) et 18:15 (durée 2h), Samedi 13-06-2026 à 10:00 (durée 2h), 10:00 (durée 2h) et 10:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Samedi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Samedi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Samedi"
+   } ],
+   "id" : 66158,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 3,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -28090,7 +28704,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -30726,6 +31340,153 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-34",
+   "coursId" : "CIN-LB-34",
+   "coursType" : "CLASSIQUE",
+   "cout" : 225.0,
+   "dateDebut" : "16/04/2026",
+   "dateFin" : "16/07/2026",
+   "dateInscription" : "inscription sur www.lllc.lu possible à tout moment",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "35h",
+   "enseignants" : [ {
+      "nom" : "Jeitz",
+      "prenom" : "Fabienne"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi 28-04-2026 à 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30) et 12:15 (durée 1h30), Jeudi 16-04-2026 à 12:15 (durée 1h30), 12:15 (durée 2h), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30), 12:15 (durée 1h30) et 12:15 (durée 1h30)",
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66605,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 19,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.csl.lu/fr/lllc/formations-specialisees/formations-linguistiques-demande-de-nationalite-luxembourgeoise/cours-dinitiation-a-la-langue-luxembourgeoise-en-expression-orale-et-comprehension-de?aWQ9NjY2MDU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1950",
+         "localite" : "Luxembourg",
+         "nom" : "Chambre des salariés",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "18, rue Auguste Lumière"
+      },
+      "code" : "CSL",
+      "mail" : "csl@csl.lu",
+      "nom" : "Chambre des salariés du Luxembourg",
+      "nomContact" : "Sinanovic",
+      "onlineReg" : true,
+      "prenomContact" : "Melisa",
+      "statut" : "PREST_EXT",
+      "telephone" : "27 494 200",
+      "websiteUrl" : "https://www.csl.lu/fr/lllc/"
+   },
+   "prerequis" : "/"
 }, {
    "adresseCours" : {
       "codePostal" : "8473",
@@ -34096,7 +34857,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -34188,6 +34949,80 @@
       "websiteUrl" : "https://www.lux-online-educ-center.com"
    },
    "prerequis" : "A2.1 toutes compétences validées"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-20",
+   "coursId" : "CIN-LB-20",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "13/04/2026",
+   "dateFin" : "29/04/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 65331,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 8,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzMzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
