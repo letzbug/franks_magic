@@ -513,7 +513,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -1073,7 +1073,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 17,
+   "nbInscrits" : 18,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -3532,7 +3532,7 @@
    "coursCode" : "LA-DE-112",
    "coursId" : "LA-DE-112",
    "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
+   "cout" : 120.0,
    "dateDebut" : "29/04/2026",
    "dateFin" : "04/06/2026",
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
@@ -3553,7 +3553,7 @@
       "competences" : [ "einen sehr einfachen Brief, eine Mail schreiben mit Anrede u. Grußformel\r\n", " eine einfache Buchung (Hotel, Reise) vornehmen, bestellen, reservieren\r\n", "Dank und Entschuldigung schreiben\r\n", "strukturiert über Ereignisse berichten (Fest, Ausflug, Wochenende.)\r\n", "über alltägliche Dinge Auskunft geben z. B. Freizeitbeschäftigung\r\n", "einfache Sätze über seine Familie/Lebensbedingungen/Ausbildung/Arbeit schreiben\r\n" ],
       "domaine" : "Schriftlicher Ausdruck"
    } ],
-   "duree" : "60h",
+   "duree" : "40h",
    "enseignants" : [ {
       "nom" : "Wallenstein",
       "prenom" : "Jeannette"
@@ -31893,7 +31893,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 17,
+   "nbInscrits" : 18,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -32397,7 +32397,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 17,
+   "nbInscrits" : 18,
    "nbPlaces" : 19,
    "niveau" : "Conversation",
    "onlineRegistration" : false,
@@ -32571,7 +32571,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 13,
    "nbPlaces" : 18,
    "niveau" : "B1.3 du CECRL",
    "onlineRegistration" : false,
@@ -33828,7 +33828,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 2,
+   "nbInscrits" : 19,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -34588,7 +34588,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 22,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -36825,6 +36825,93 @@
       "websiteUrl" : "https://www.clae.lu/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "CLAE services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "26, Rue Gasperich"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "CLAE services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "26, rue de Gasperich"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1107",
+   "coursId" : "LA-FR-1107",
+   "coursType" : "CLASSIQUE",
+   "cout" : 144.0,
+   "dateDebut" : "13/04/2026",
+   "dateFin" : "13/07/2026",
+   "dateInscription" : "Le mercredi 1er avril 2026 uniquement sur rendez-vous",
+   "description" : "Est en voie de comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité. Est en voie de communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. Est en voie de décrire avec des moyens simples sa formation, son environnement immédiat et d'évoquer des sujets qui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Lire des textes courts très simples et trouver une information particulière prévisible dans des documents courants." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels.", "gérer des actions sociales coopératives très courtes mais est rarement capable de comprendre suffisamment pour alimenter volontairement la conversation." ],
+      "domaine" : "Production orale"
+   }, {
+      "competences" : [ "Ecrire des notes et messages simples et courts.", "rédiger une lettre d'invitation ou un descriptif." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "48h",
+   "enseignants" : [ {
+      "nom" : "Kalisz",
+      "prenom" : "Sophie"
+   } ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 63056,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 20,
+   "nbPlaces" : 21,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "renseignements" : "Accès pour personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "codePostal" : "2522",
