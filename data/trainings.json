@@ -1,387 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Forum Campus Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "40, boulevard Pierre Dupong"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-PT-2",
-   "coursId" : "BP-PT-2",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "18/04/2026",
-   "dateFin" : "25/04/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Gonçalves",
-      "prenom" : "Ana Isabel"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 18-04-2026 à 09:00 (durée 3h),\nSamedi 25-04-2026 à 09:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Samedi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 58143,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "PT",
-   "langueCoursNom" : "Portugais",
-   "matiereCode" : "PT",
-   "matiereNom" : "Découvrir le GDL en portugais",
-   "nbInscrits" : 7,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxNDM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-105",
-   "coursId" : "SO-YOG-105",
-   "coursType" : "CLASSIQUE",
-   "cout" : 13.5,
-   "dateDebut" : "18/04/2026",
-   "dateFin" : "18/04/2026",
-   "description" : "Formée à la méthode du Dr Bernadette de Gasquet, je vous accompagne vers une pratique du yoga plus consciente, respectueuse et efficace. Ici, il ne s’agit pas seulement d’enchaîner des postures, mais de comprendre comment et pourquoi les pratiquer, en lien avec la respiration et l’alignement.\r\n\r\nJe vous propose une série de workshops mêlant anatomie accessible et pratique guidée. Chaque atelier, indépendant, vous apporte des repères concrets pour protéger le dos, le périnée et les articulations, ainsi que des outils simples à intégrer dans votre quotidien.\r\n\r\nOuvert à tous—pratiquants, enseignants ou personnes en reprise—avec un objectif clair : vous rendre autonome dans votre pratique.\r\n\r\nAtelier : Périnée & sangle abdominale\r\nComprenez le rôle clé du périnée et du transverse dans le mouvement et la respiration. Apprenez à éviter les erreurs courantes (gainage inadapté, pressions mal gérées) et à coordonner souffle, posture et engagement profond.\r\n\r\nUn atelier essentiel pour prévenir les douleurs, renforcer en douceur et pratiquer en toute sécurité.",
-   "duree" : "3 leçons",
-   "enseignants" : [ {
-      "nom" : "Andreos",
-      "prenom" : "Aurélie",
-      "presentation" : "https://aurelie-yoga-ayurveda.com/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 18-04-2026 à 09:20 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "09:20",
-      "jour" : "Samedi"
-   } ],
-   "id" : 66150,
-   "intitule" : "Workshop \"Anatomie & Yoga\" - Périnée & sangle abdominale : comprendre, protéger, renforcer",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 8,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "À apporter : - Tapis de Yoga, Deux Blocs de Yoga, Une sangle de Yoga non élastique.\r\n\r\nVeuillez noter que le site ne dispose pas de vestiaires ni de douches.\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-93",
-   "coursId" : "SO-YOG-93",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "18/04/2026",
-   "dateFin" : "18/04/2026",
-   "description" : "Cet atelier propose de transformer les tensions et le stress en énergie positive grâce au rire. Par des exercices ludiques, des techniques de respiration et des rires stimulés, les participants relâchent les tensions physiques et mentales, renforcent leur résilience et cultivent une humeur joyeuse et dynamique. L’expérience crée également un espace de détente, de légèreté et de convivialité partagé avec le groupe.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Dos Santos Tomás",
-      "prenom" : "Sónia Isabel"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 18-04-2026 à 12:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 64043,
-   "intitule" : "Workshop - Transformer le stress en énergie positive avec le Yoga du rire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwNDM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-BE-8",
-   "coursId" : "SO-BE-8",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "18/04/2026",
-   "dateFin" : "18/04/2026",
-   "description" : "Cet atelier propose une lecture accessible des mécanismes du stress chronique et de leurs effets sur le corps. Il explique le rôle du cortisol, le lien avec l’inflammation et la fatigue, et présente des leviers naturels de prévention. Les participants comprendront l’impact de l’alimentation et du mode de vie, découvriront des plantes utiles et expérimenteront des techniques de relaxation pour mieux réguler et récupérer.\r\nDësen Atelier bitt eng verständlech Aféierung an d’Mechanisme vum chronesche Stress an an d’Auswierkungen, déi en op de Kierper huet. En erkläert d’Roll vum Kortisol, den Zesummenhang mat Entzündung an d'Gefill vu Middegkeet, a stellt natierlech Méiglechkeete fir d’Präventioun vir.\r\nD’Participante verstinn den Afloss vun der Ernärung an dem Liewensstil, léieren hëllefräich Planzlech Mëttel kennen a probéieren Entspanungstechniken aus, fir de Kierper besser ze reguléieren a sech méi séier erhuelen ze kënnen.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Sorcinelli",
-      "prenom" : "Fabiana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 18-04-2026 à 13:40 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "13:40",
-      "jour" : "Samedi"
-   } ],
-   "id" : 65165,
-   "intitule" : "Alimentation, plantes et techniques de relaxation pour gérer le Stress et l'inflammation",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "BE",
-   "matiereNom" : "Bien-être",
-   "nbInscrits" : 12,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxNjU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "À noter : aucun cours n’aura lieu pendant les vacances scolaires. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-COMMU-13",
-   "coursId" : "SCI-COMMU-13",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "18/04/2026",
-   "dateFin" : "02/05/2026",
-   "description" : "When people hear the word rhetoric, they often think of politicians or fancy speeches. But, in reality, rhetoric is simply how we get our ideas across -- whether we are speaking, writing, or posting online.\r\nYou already use rhetoric every day, i.e. when you convince a friend to try a new café, share a story, or write a post you hope others will enjoy. Want to express yourself with more confidence and authenticity? This workshop will help you speak with confidence, write with authenticity, and post with purpose, without sounding rehearsed or fake.\r\nThrough engaging slides, real-life examples, discussions, and role play, you will discover the secrets of presence, storytelling, and persuasive communication in a relaxed, supportive environment.\r\nTalk better. Write smarter. Post louder. Join us!",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Berthier",
-      "prenom" : "Rolade"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 18-04-2026 à 14:30 (durée 1h40), 14:30 (durée 1h40) et 14:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "14:30",
-      "jour" : "Samedi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "14:30",
-      "jour" : "Samedi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "14:30",
-      "jour" : "Samedi"
-   } ],
-   "id" : 63824,
-   "intitule" : "The Art of Public Rhetoric: Speaking, Writing, and Digital Expression",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "COMMU",
-   "matiereNom" : "Communication",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MjQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-SOP-5",
-   "coursId" : "SO-SOP-5",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "18/04/2026",
-   "dateFin" : "11/07/2026",
-   "description" : "Laissez-vous tenter à découvrir les différentes techniques qui favorisent l'épanouissement personnel.\r\nLa sophrologie pour améliorer l'état physique en assouplissant le corps, et pour soulager le stress par le souffle.\r\nLes cercles de paroles pour récupérer un état d'esprit calme et serein.\r\nSoyez curieux.....et venez essayer.",
-   "duree" : "30 leçons",
-   "enseignants" : [ {
-      "nom" : "Zaavy",
-      "prenom" : "Carole"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi à 11:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "11:10",
-      "jour" : "Samedi"
-   } ],
-   "id" : 63822,
-   "intitule" : "Cours de sophro-relaxation et cercle de parole",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "SOP",
-   "matiereNom" : "Sophrologie",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MjI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Merci de ramener un tapis de gymnastique, des vêtements confortables, ainsi qu’une bouteille d’eau."
-}, {
-   "adresseCours" : {
       "codePostal" : "4802",
       "localite" : "Lamadelaine",
       "nom" : "Lycée Technique Mathias Adam",
@@ -31376,6 +30994,136 @@
       "websiteUrl" : "https://www.luxchine.org/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-SOP-5",
+   "coursId" : "SO-SOP-5",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "18/04/2026",
+   "dateFin" : "11/07/2026",
+   "description" : "Laissez-vous tenter à découvrir les différentes techniques qui favorisent l'épanouissement personnel.\r\nLa sophrologie pour améliorer l'état physique en assouplissant le corps, et pour soulager le stress par le souffle.\r\nLes cercles de paroles pour récupérer un état d'esprit calme et serein.\r\nSoyez curieux.....et venez essayer.",
+   "duree" : "30 leçons",
+   "enseignants" : [ {
+      "nom" : "Zaavy",
+      "prenom" : "Carole"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 11:10 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "11:10",
+      "jour" : "Samedi"
+   } ],
+   "id" : 63822,
+   "intitule" : "Cours de sophro-relaxation et cercle de parole",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "SOP",
+   "matiereNom" : "Sophrologie",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MjI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Merci de ramener un tapis de gymnastique, des vêtements confortables, ainsi qu’une bouteille d’eau."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-COMMU-13",
+   "coursId" : "SCI-COMMU-13",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "18/04/2026",
+   "dateFin" : "02/05/2026",
+   "description" : "When people hear the word rhetoric, they often think of politicians or fancy speeches. But, in reality, rhetoric is simply how we get our ideas across -- whether we are speaking, writing, or posting online.\r\nYou already use rhetoric every day, i.e. when you convince a friend to try a new café, share a story, or write a post you hope others will enjoy. Want to express yourself with more confidence and authenticity? This workshop will help you speak with confidence, write with authenticity, and post with purpose, without sounding rehearsed or fake.\r\nThrough engaging slides, real-life examples, discussions, and role play, you will discover the secrets of presence, storytelling, and persuasive communication in a relaxed, supportive environment.\r\nTalk better. Write smarter. Post louder. Join us!",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Berthier",
+      "prenom" : "Rolade"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 18-04-2026 à 14:30 (durée 1h40), 14:30 (durée 1h40) et 14:30 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "14:30",
+      "jour" : "Samedi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "14:30",
+      "jour" : "Samedi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "14:30",
+      "jour" : "Samedi"
+   } ],
+   "id" : 63824,
+   "intitule" : "The Art of Public Rhetoric: Speaking, Writing, and Digital Expression",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "COMMU",
+   "matiereNom" : "Communication",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MjQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "1254",
