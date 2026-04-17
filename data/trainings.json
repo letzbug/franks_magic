@@ -513,7 +513,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 18,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -649,10 +649,25 @@
       "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pouwer",
+      "prenom" : "Paul"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65837,
    "intitule" : "Anglais",
    "langueCoursCode" : "EN",
@@ -811,7 +826,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -1300,17 +1315,32 @@
       "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pouwer",
+      "prenom" : "Paul"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 19:00 (durée 2h), Mardi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65840,
    "intitule" : "Anglais",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 6,
    "nbPlaces" : 20,
    "niveau" : "C1 du CECRL",
    "onlineRegistration" : false,
@@ -1372,10 +1402,25 @@
       "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pouwer",
+      "prenom" : "Paul"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 15:00 (durée 2h), Mardi à 15:00 (durée 2h), Jeudi à 15:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "15:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "15:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "15:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65839,
    "intitule" : "Anglais",
    "langueCoursCode" : "EN",
@@ -31829,95 +31874,65 @@
    "renseignements" : "Inscrivez-vous avant le 13-04-2026!"
 }, {
    "adresseCours" : {
-      "codePostal" : "1343",
-      "localite" : "Luxembourg",
-      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "codePostal" : "9085",
+      "localite" : "Ettelbruck",
+      "nom" : "CNFPC-Ettelbruck",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "15, Montée de Clausen"
+      "rueNumero" : "77 Rue Jean Pierre Thill"
    },
-   "adresseInscription" : {
-      "codePostal" : "1343",
-      "localite" : "Luxembourg",
-      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "15, Montée de Clausen"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1083",
-   "coursId" : "LA-FR-1083",
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PHOT-49",
+   "coursId" : "AR-PHOT-49",
    "coursType" : "CLASSIQUE",
-   "cout" : 132.0,
+   "cout" : 54.0,
    "dateDebut" : "15/04/2026",
-   "dateFin" : "10/07/2026",
-   "dateInscription" : "À partir de 03/11/2025, du lundi au vendredi, de 09h30 à 12h15 et de 13h30 à 17h30.",
-   "description" : "Être capable de : - communiquer simplement dans son environnement personnel et professionnel pour décrire des lieux et des personnes ; parler de sa famille, de ses activités, de son travail ; échanger des informations, suivre et donner des instructions.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent (simple) relatifs à soi-même, à la famille, au travail, aux achats;\r\n", "Je peux saisir l'essentiel d'annonces / messages simples." ],
-      "domaine" : "Comprendre / Écouter "
-   }, {
-      "competences" : [ "Je peux lire des textes courts et simples, trouver une information dans des documents comme des publicités, des prospectus, des menus...\r\nJe peux comprendre des lettres personnelles courts et simples.\r\n" ],
-      "domaine" : "Comprendre / Lire "
-   }, {
-      "competences" : [ "Je suis capable de communiquer lors des tâches simples et habituelles (sujets et activités familiers) Échanges brefs." ],
-      "domaine" : "Parler / Prendre part à une conversation"
-   }, {
-      "competences" : [ "Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille, mes conditions de vie, mon activité professionnelle actuelle ou récente." ],
-      "domaine" : "Parler / S'exprimer oralement en continue "
-   }, {
-      "competences" : [ "Écrire des notes et des messages simples et courts, je peux écrire une lettre personnelle simple (par exemple, des remerciements). " ],
-      "domaine" : "Écrire "
-   } ],
-   "duree" : "44h",
+   "dateFin" : "20/05/2026",
+   "description" : "Lernen Sie, Ihre Kamera kreativ einzusetzen: Von den Grundlagen der Kamera und Zubehör über ISO, Blende, Verschlusszeit und Autofokus bis zu Weißabgleich, Farbmanagement und Schärfentiefe. Praxisnah und verständlich – für beeindruckende Fotos mit voller Kontrolle über Bildgestaltung.",
+   "duree" : "12 leçons",
    "enseignants" : [ {
-      "nom" : "Tallarico",
-      "prenom" : "Rosella"
+      "nom" : "Noesen",
+      "prenom" : "Georges"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 14:00 (durée 2h),\nVendredi à 14:00 (durée 2h)",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
    "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
+      "duree" : "1h40",
+      "heure" : "18:00",
       "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
    } ],
-   "id" : 63013,
-   "intitule" : "Français - A1.2",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 18,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
+   "id" : 63927,
+   "intitule" : "Einstieg in die digitale Fotografie",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "PHOT",
+   "matiereNom" : "Photographie",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjc%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1343",
-         "localite" : "Luxembourg",
-         "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "15, Montée de Clausen"
+         "rueNumero" : "14, Porte de France"
       },
-      "code" : "CASA",
-      "fax" : "+352 46 90 70",
-      "mail" : "infocasa@pt.lu",
-      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
-      "nomContact" : "Ferreira Trindade",
-      "onlineReg" : false,
-      "prenomContact" : "José",
-      "statut" : "ASBL",
-      "telephone" : "+352 432749/464819",
-      "websiteUrl" : "https://www.casa-asbl.lu"
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "Le cours de Français est présentiel."
+   "renseignements" : "Bitte bringen Sie Ihren Fotoapparat mit."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -32045,67 +32060,6 @@
    },
    "prerequis" : "À noter : le cours n’aura pas lieu le 14 mai 2026 en raison du jour férié.",
    "renseignements" : "Matériel requis: Un compas; Une équerre Aristo; Crayons ordinaire & crayons de couleur; Feuille de dessin A4 et/ou A5; Règle ;Mandala Dotting-tools; Gouache -Lot de stylos pointe fine 0.2/0.3/0.4/0.5...\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "9085",
-      "localite" : "Ettelbruck",
-      "nom" : "CNFPC-Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "77 Rue Jean Pierre Thill"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PHOT-49",
-   "coursId" : "AR-PHOT-49",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "20/05/2026",
-   "description" : "Lernen Sie, Ihre Kamera kreativ einzusetzen: Von den Grundlagen der Kamera und Zubehör über ISO, Blende, Verschlusszeit und Autofokus bis zu Weißabgleich, Farbmanagement und Schärfentiefe. Praxisnah und verständlich – für beeindruckende Fotos mit voller Kontrolle über Bildgestaltung.",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Noesen",
-      "prenom" : "Georges"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63927,
-   "intitule" : "Einstieg in die digitale Fotografie",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "PHOT",
-   "matiereNom" : "Photographie",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Bitte bringen Sie Ihren Fotoapparat mit."
 }, {
    "adresseCours" : {
       "codePostal" : "4702",
@@ -35942,7 +35896,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 24,
    "niveau" : "B2.3 du CECRL",
    "onlineRegistration" : false,
@@ -36825,93 +36779,6 @@
       "websiteUrl" : "https://www.clae.lu/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "CLAE services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "26, Rue Gasperich"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "CLAE services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "26, rue de Gasperich"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1107",
-   "coursId" : "LA-FR-1107",
-   "coursType" : "CLASSIQUE",
-   "cout" : 144.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "13/07/2026",
-   "dateInscription" : "Le mercredi 1er avril 2026 uniquement sur rendez-vous",
-   "description" : "Est en voie de comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité. Est en voie de communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. Est en voie de décrire avec des moyens simples sa formation, son environnement immédiat et d'évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Lire des textes courts très simples et trouver une information particulière prévisible dans des documents courants." ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels.", "gérer des actions sociales coopératives très courtes mais est rarement capable de comprendre suffisamment pour alimenter volontairement la conversation." ],
-      "domaine" : "Production orale"
-   }, {
-      "competences" : [ "Ecrire des notes et messages simples et courts.", "rédiger une lettre d'invitation ou un descriptif." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "48h",
-   "enseignants" : [ {
-      "nom" : "Kalisz",
-      "prenom" : "Sophie"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63056,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 20,
-   "nbPlaces" : 21,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1617",
-         "localite" : "Luxembourg",
-         "nom" : "Clae services asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "26, rue de Gasperich"
-      },
-      "code" : "CLAE",
-      "mail" : "patricia.lopes@clae.lu",
-      "nom" : "Clae services asbl",
-      "nomContact" : "Lopes",
-      "onlineReg" : false,
-      "prenomContact" : "Patricia",
-      "statut" : "ASBL",
-      "telephone" : "+352 29 86 86 1",
-      "websiteUrl" : "https://www.clae.lu/"
-   },
-   "renseignements" : "Accès pour personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "codePostal" : "2522",
