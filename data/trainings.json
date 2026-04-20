@@ -1,273 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Forum Campus Geeseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "40, bd Pierre Dupong"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-43",
-   "coursId" : "BP-EN-43",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "21/04/2026",
-   "dateFin" : "23/04/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Chaib Draa",
-      "prenom" : "Khadidja"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 21-04-2026 à 18:00 (durée 3h),\nJeudi 23-04-2026 à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 58147,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 9,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxNDc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-CUIS-58",
-   "coursId" : "AR-CUIS-58",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "21/04/2026",
-   "dateFin" : "21/04/2026",
-   "description" : "Explorez et découvrez des produits variés, leurs origines, leurs différences et leurs modes de cuisson. Apprenez à les préparer correctement avant cuisson et laissez-vous surprendre par de nouvelles saveurs. Un atelier pour éveiller vos sens et élargir vos horizons culinaires !",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Gandang",
-      "prenom" : "Pascaline"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 21-04-2026 à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Mardi"
-   } ],
-   "id" : 64026,
-   "intitule" : "Voyage Culinaire : Foufou, Must Secs-Fumés et Street Food",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CUIS",
-   "matiereNom" : "Cuisine",
-   "nbInscrits" : 13,
-   "nbPlaces" : 13,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMjY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Le formateur fournit le matériel nécessaire, dont le coût sera de 12 € par participant à régler directement au formateur."
-}, {
-   "adresseCours" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Administration Communale de Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "B.P. 73"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Administration Communale de Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "B.P. 73"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-COL-18",
-   "coursId" : "IN-COL-18",
-   "coursType" : "CLASSIQUE",
-   "cout" : 60.0,
-   "dateDebut" : "21/04/2026",
-   "dateFin" : "26/05/2026",
-   "dateInscription" : "coursinformatiques@dudelange.lu\r\n51 61 21 538",
-   "description" : "Apprendre les techniques en collaboration à distance et en équipe. Maîtriser des outils logiciels qui permettent de simuler et de construire un environnement de collaboration traditionnel. ",
-   "duree" : "20h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 65351,
-   "intitule" : "Collaboration en ligne",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COL",
-   "matiereNom" : "Collaboration en ligne",
-   "nbInscrits" : 0,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville de Dudelange ",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-111",
-   "coursId" : "IN-TAB-111",
-   "coursType" : "CLASSIQUE",
-   "cout" : 60.0,
-   "dateDebut" : "21/04/2026",
-   "dateFin" : "26/05/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
-   "description" : "Initiation au tableur Excel. Maîtriser les principales fonctions permettant la création, une utilisation efficace et la sauvegarde d'un tableau de calcul (opérations mathématiques dans les feuilles de calcul, gestion des cellules et feuilles, remplissage automatique des listes, utilisation de formes spécifiques de cellules et des raccourcis de base...). Paramétrer et sécuriser le tableau en vue de l'impression ou de partage en ligne.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Initiation au tableur Excel", "Identifier et personnaliser l'interface de travail, en maîtriser les principales fonctions permettant la création de tableaux de calcul.", "Paramétrer le tableau en vue de l'impression.", " Présenter les données sous forme de graphiques. ", "Sécuriser les données, sauvegarder un modèle" ],
-      "domaine" : "Tableurs"
-   } ],
-   "duree" : "20h",
-   "enseignants" : [ {
-      "nom" : "Ioanid",
-      "prenom" : "Paul George"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65355,
-   "intitule" : "Excel 1/2",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 0,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Cours accessible aux personnes ayant une notion d'Excel\r\nPossibilité de langue véhiculaire: français et anglais",
-   "renseignements" : "Excel 2\r\nAccès pour personnes à mobilité réduite\r\nHors vacances scolaires\r\n"
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -29340,6 +29072,145 @@
       "websiteUrl" : "https://www.luxchine.org/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville de Dudelange ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TAB-111",
+   "coursId" : "IN-TAB-111",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "21/04/2026",
+   "dateFin" : "26/05/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
+   "description" : "Initiation au tableur Excel. Maîtriser les principales fonctions permettant la création, une utilisation efficace et la sauvegarde d'un tableau de calcul (opérations mathématiques dans les feuilles de calcul, gestion des cellules et feuilles, remplissage automatique des listes, utilisation de formes spécifiques de cellules et des raccourcis de base...). Paramétrer et sécuriser le tableau en vue de l'impression ou de partage en ligne.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Initiation au tableur Excel", "Identifier et personnaliser l'interface de travail, en maîtriser les principales fonctions permettant la création de tableaux de calcul.", "Paramétrer le tableau en vue de l'impression.", " Présenter les données sous forme de graphiques. ", "Sécuriser les données, sauvegarder un modèle" ],
+      "domaine" : "Tableurs"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65355,
+   "intitule" : "Excel 1/2",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "TAB",
+   "matiereNom" : "Tableurs",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "prerequis" : "Cours accessible aux personnes ayant une notion d'Excel\r\nPossibilité de langue véhiculaire: français et anglais",
+   "renseignements" : "Excel 2\r\nAccès pour personnes à mobilité réduite\r\nHors vacances scolaires\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Administration Communale de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "B.P. 73"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Administration Communale de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "B.P. 73"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-COL-18",
+   "coursId" : "IN-COL-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "21/04/2026",
+   "dateFin" : "26/05/2026",
+   "dateInscription" : "coursinformatiques@dudelange.lu\r\n51 61 21 538",
+   "description" : "Apprendre les techniques en collaboration à distance et en équipe. Maîtriser des outils logiciels qui permettent de simuler et de construire un environnement de collaboration traditionnel. ",
+   "duree" : "20h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65351,
+   "intitule" : "Collaboration en ligne",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "COL",
+   "matiereNom" : "Collaboration en ligne",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "2163",
