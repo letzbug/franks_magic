@@ -33896,7 +33896,7 @@
       "competences" : [ "1.  Ech kann verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "2.      Ech kann einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \t \t", " 3.      Ech kann d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\t \t \r\n\t\t\t \t \r\n", "4.      Ech kann d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ...) : Wéi ass een oder eppes ?\t \t \r\n\t\t", "5.      Ech kann d'Auerzäite verstoen (5 Minuttenofstänn)" ],
       "domaine" : "Compréhension Orale  Héierverstoen (HV)"
    }, {
-      "competences" : [ "1.      Ech kann verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\t \t \r\n\t\t", "3.      Ech kann einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen \t \t \r\n", "2.      Ech kann ganz einfach Froen zu senger oder enger anerer Persoun verstoen\t \t \r\n\t\t" ],
+      "competences" : [ "1.      Ech kann verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\t \t \r\n\t\t", "2.      Ech kann ganz einfach Froen zu senger oder enger anerer Persoun verstoen\t \t \r\n\t\t", "3.      Ech kann einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen \t \t \r\n" ],
       "domaine" : "Compréhension Ecrite Liesverstoen (LV)"
    }, {
       "competences" : [ "1.      Ech kann « Moien » an « Äddi » soen a froe wéi et engem geet an äntwere wann ee gefrot gëtt\r\n", "2.      Ech kann mech oder eng aner Persoun kuerz presentéieren : de Vir- a Familljennumm, den Alter, d'Nationalitéit, d'Sproochen, wou een/si hierkommen/kënnt, d'Address, de Beruff, d'Familljesituatioun\r\n\r\n", "3.      Ech kann eng aner Persoun no deene Saache froen\r\n", "4.      Ech kann meng perséinlech Donnéeë ginn an eng aner Persoun dono froen : d'Adress, d'Telefonsnummer, d'Emailaddress, de Gebuertsdatum\r\n", "5.      Ech kann d'Negatioun benotzen : « net » a « keen / keng »\r\n", "6.      Ech kann d'Auerzäit an den Datum (Dag a Mount) soe wann een dono gefrot gett\r\n", "7.      Ech kann d'Wochendeeg, d'Méint an d'Joreszäite benennen\r\n", "8.      Ech kann en Objet oder eng Persoun kuerz beschreiwen \r\n", "9.      Ech kann e kuerzen Text haart virliesen" ],
@@ -46988,9 +46988,6 @@
    "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21 538\r\ncoursensemble@i-a.lu",
    "description" : "Permettre aux apprenant(e)s peu ou pas scolarisé(e)s de comprendre et de se faire comprendre à travers l'apprentissage dynamique de la langue et la maîtrise des éléments du quotidien (méthode fonctionnelle). \r\nTransmission des compétences de base, travail sur l'épanouissement des apprenant(e)s (confiance en soi, autonomie, sentiment de sécurité...). \r\nFavoriser l'intégration et permettre l'interaction sociale grâce à l'apprentissage linguistique.",
    "domainesCompetences" : [ {
-      "competences" : [ "Remplir un formulaire d'inscription. \r\n\r\n", "Ecrire des phrases simples au présent sur des thèmes familiers (identité, famille, état physique-moral). \r\n", "Ecrire de courts messages (date, rdv, noter des numéros de téléphone). " ],
-      "domaine" : "EXPRESSION ECRITE"
-   }, {
       "competences" : [ "Comprendre des mots épelés en français. \r\n", "Comprendre les formules usuelles de politesse (excuse, remerciement, salutation). \r\n\r\n ", "Comprendre une présentation et les questions autour de la présentation\r\n", "Comprendre une description utilisant des mots simples et usuels (couleurs, vêtements, genre, nombre, dimension)", "Comprendre des lexiques familiers sur les situations familiales dans un débit lent et clair. \r\n", "Comprendre des lexiques familiers sur les situations professionnelles dans un débit lent et clair.\r\n", "Comprendre l'heure, les moments de la journée, les dates et saisons (la météo)", "Comprendre les lexiques courants sur le thème de la famille. \r\n\r\n", "Comprendre les lexiques courants sur les thèmes du corps, de la santé, des ressentis et émotions. ", "Comprendre l'expression de l'appartenance." ],
       "domaine" : "COMPREHENSION ORALE"
    }, {
@@ -46999,6 +46996,9 @@
    }, {
       "competences" : [ "Comprendre un formulaire d'inscription. \r\n\r\n", "Comprendre une liste de lexiques:  vêtements, corps, les maladies...\r\n", "Comprendre de courts textes de présentations écrits avec des mots simples et usuels . " ],
       "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "Remplir un formulaire d'inscription. \r\n\r\n", "Ecrire des phrases simples au présent sur des thèmes familiers (identité, famille, état physique-moral). \r\n", "Ecrire de courts messages (date, rdv, noter des numéros de téléphone). " ],
+      "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "50h",
    "enseignants" : [ {
