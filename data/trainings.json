@@ -36,17 +36,24 @@
       "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pouwer",
+      "prenom" : "Paul"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mercredi à 18:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 65841,
    "intitule" : "Anglais",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 8,
    "nbPlaces" : 20,
    "niveau" : "B2.3 du CECRL",
    "onlineRegistration" : false,
@@ -106,7 +113,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "SCN",
    "matiereNom" : "Sciences naturelles",
-   "nbInscrits" : 7,
+   "nbInscrits" : 6,
    "nbPlaces" : 150,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2492,104 +2499,6 @@
    "renseignements" : "moienasbl@pt.lu\r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
 }, {
    "adresseCours" : {
-      "codePostal" : "1921",
-      "localite" : "Luxembourg",
-      "nom" : "lycée de garçons",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place Auguste Laurent"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1493",
-   "coursId" : "LA-FR-1493",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "04/05/2026",
-   "dateFin" : "11/06/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut indiquer qu'il/elle ne comprend pas ce qui se dit \r\n", "Peut comprendre des mots familiers, des expressions très courantes, simples et concrètes de la vie de tous les jours \r\n", " Peut comprendre les chiffres, les prix, les couleurs, l'heure (heure entière, demi-heure) et la date \r\n", "Peut comprendre et suivre des consignes de base pour réaliser différents exercices d'écoute-compréhension et des instructions simples qui lui sont adressées lentement \r\n", "Peut comprendre des questions \r\n", "Peut comprendre des indications brèves et simples  \r\n\r\n", " Peut comprendre des instructions pour s'orienter ", "Peut comprendre des annonces publiques à condition qu'elles soient brèves: informations aux voyageurs  " ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ " Peut comprendre des phrases simples donnant des informations de base sur la vie quotidienne, dans la  retranscription de dialogues", "Peut lire pour s'orienter \r\n\r\n         ", "   Dans un courrier administratif :\r\n\r\nPeut repérer des formules de politesse ", "  Dans un courrier administratif :\r\nPeut comprendre l'objet de la lettre : en repérant les mots-clés ;" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "Peut se présenter et présenter quelqu'un (nom, prénom, âge, nationalité, profession, situation de famille) \r\n", "Peut donner des infos sur soi-même ou autrui (adresse / e-mail, numéro de téléphone, adresse postale) \r\n" ],
-      "domaine" : "expression orale en continu"
-   }, {
-      "competences" : [ "Peut entrer en contact avec qqn \r\n", "Peut utiliser des expressions élémentaires de salutation et de congé \r\n", "Peut poser et répondre à des questions personnelles simples (peut-être à condition de pouvoir faire répéter la demande et si le débit est lent et la langue clairement articulée)  ", "Peut désigner qqch ou qqn, demander le prix d'un objet : combien ça coûte ", " Peut donner et prendre rendez-vous \r\n", "Peut répondre à des questions simples ", " Peut dire ce qu'il aime ou  n'aime pas \r\n", "Peut accepter ou refuser une offre ou une invitation \r\n", "Possède un répertoire limité de courtes expressions mémorisées couvrant les premières nécessités vitales des situations prévisibles \r\n" ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "Peut recopier des mots entendus dans un dialogue ( des mots-clés présentés sous forme de liste) \r\n", "Peut remplir un formulaire administratif . \r\n" ],
-      "domaine" : "expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Postel-Cognoli",
-      "prenom" : "Bénédicte"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 14:30 (durée 2h30), Mardi à 14:30 (durée 2h30), Mercredi à 14:30 (durée 2h30), Jeudi à 14:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "14:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "14:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "14:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "14:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65263,
-   "intitule" : "Français, pratique de l'oral dans la vie quotidienne",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 13,
-   "nbPlaces" : 22,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "renseignements" : "public visé: personnes  ayant  suivi des cours d'alphabétisation mais en difficulté d'apprentissage  à l' écrit"
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -4288,7 +4197,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 25,
    "nbPlaces" : 30,
    "niveau" : "A1 du CECRL",
    "onlineRegistration" : false,
@@ -4624,7 +4533,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -4878,7 +4787,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -6659,7 +6568,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13216,7 +13125,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13740,7 +13649,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHIL",
    "matiereNom" : "Philosophie",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -15087,7 +14996,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -15330,7 +15239,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SAN",
    "matiereNom" : "Santé",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 200,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -18142,7 +18051,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -30078,7 +29987,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -30253,7 +30162,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 20,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -32126,7 +32035,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -32202,7 +32111,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 2,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -38114,7 +38023,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -49392,6 +49301,91 @@
       "telephone" : "+352 516 121-538"
    },
    "prerequis" : "Niveau B1: acquis"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1179",
+   "coursId" : "LA-FR-1179",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "26/01/2026",
+   "dateFin" : "22/04/2026",
+   "description" : "Comprendre quelques expressions familières et quotidiennes utilisées dans des situations de communication très récurrentes de la vie sociale ; peut s'identifier et répondre à des questions concernant, par exemple, sa nationalité, son âge, son lieu d'habitation, son école et éventuellement, poser lui-même des questions de ce type à quelqu'un ; comprendre des textes constitués d'une ou deux phrases, donner par écrit des informations sur soi.",
+   "domainesCompetences" : [ {
+      "competences" : [ " comprendre des instructions courtes et simples, prononcées lentement. \r\ncomprendre des annonces publiques (horaires, départ, arrivée...),\r\ncomprendre des informations répétitives (consignes pédagogiques), " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "L'apprenant peut :\r\n- reconnaitre des noms, des mots ou expressions les plus courants dans des situations  simples de la vie quotidienne : panneaux, indications manuscrites doublées d'icônes, prix, horaires ;\r\n- repérer et comprendre des données chiffrées, des noms propres et d'autres informations très simples dans un texte court ;\r\n" ],
+      "domaine" : "Compréhension écrite "
+   }, {
+      "competences" : [ "Se présenter, parler de soi-même, de son entourage et de sa vie: saluer quelqu'un et prendre congé avec des mots simples,... Se présenter (nom, âge, pays, nationalité,\r\nnuméro de téléphone...), Poser à d'autres personnes des questions, sur leur nom, leur adresse, leur âge Demander en phrases simples quelque chose à quelqu'un (p.ex. matériel scolaire, horaire) et réagir à une telle demande (Est-ce que je peux...)\r\n Avoir des échanges très brefs.\r\n" ],
+      "domaine" : "production orale "
+   }, {
+      "competences" : [ "Ecrire un message très court (mots clés, liste de mots ou de verbes) pour transmettre une consigne, répondre à un questionnaire ou compléter une fiche d'information.\r\n Décrire à l'aide de mots simples quelques\r\nobjets quotidiens \r\nEcrire des mots et des phrases très\r\nsimples en s'aidant de documents\r\nd'appoint (manuel de français, cahier\r\nde règles, ...)\r\nRédiger des notes simples, destinées\r\nà un usage personnel, concernant des\r\névènements ou des dates à respecter\r\n" ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Hamid Oudjana",
+      "prenom" : "Baya"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mardi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 63448,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 20,
+   "nbPlaces" : 20,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "3542",
