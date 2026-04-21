@@ -4,144 +4,6 @@
       "nom" : "DISTANCE"
    },
    "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-EN-213",
-   "coursId" : "LA-EN-213",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "22/04/2026",
-   "dateFin" : "01/07/2026",
-   "dateInscription" : "toute l'année de 08.00-11.30-13.30 à 16.00 hrs",
-   "description" : "Comprendre une grande gamme de textes longs et exigeants, saisir des significations implicites. S'exprimer couramment sans trop devoir chercher ses mots (traiter des sujets complexes) et de façon claire et bien structurée, manifester son contrôle des outils d'organisation, d'articulation et de cohésion du discours. Pouvoir utiliser la langue de façon efficace et souple dans sa vie sociale, professionnelle ou académique.",
-   "domainesCompetences" : [ {
-      "competences" : [ "peut comprendre les idées principales d'interventions assez longues sur des sujets familiers ou des sujets abstraits et dont le plan général est clair et indiqué par des marqueurs explicites\r\n- peut comprendre l'essentiel du contenu informatif d'un enregistrement en langue standard et le point de vue du ou des locuteurs. Peut repérer, quand elle est explicite, l'humeur du locuteur" ],
-      "domaine" : "COMPREHENSION DE L'ORAL"
-   }, {
-      "competences" : [ "peut lire la plupart de la correspondance courante et en saisir les points essentiels\r\n- peut parcourir, en prenant son temps, un texte long et complexe et en relever les points essentiels\r\n- peut comprendre des articles et des rapports sur des problèmes contemporains et dans lesquels les auteurs adoptent un point de vue particulier, et en saisir le schéma argumentatif" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "peut faire une intervention courte et spontanée dans la plupart des situations\r\n- peut faire une description de manière claire. (expérience vécue, sujets en relation avec son domaine d'intérêt)\r\n- peut développer, lors d'un débat, une argumentation claire et enchaînée avec logique, en confirmant ses points de vue par des exemples pertinents" ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "peut faire des descriptions détaillées sur une variété de sujets en rapport avec son environnement\r\n- peut prendre position sur des manifestations Culturelles\r\n- peut relater des informations et exprimer des points de vue et réagir à ceux des autres\r\n- peut laisser des messages qui transmettent une information immédiatement pertinente à des amis, des employés, ou toute autre personne fréquentée dans la vie quotidienne" ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Pouwer",
-      "prenom" : "Paul"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mercredi à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65841,
-   "intitule" : "Anglais",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Anglais",
-   "nbInscrits" : 8,
-   "nbPlaces" : 20,
-   "niveau" : "B2.3 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCM",
-   "categorieCodeUnipop" : "SCM",
-   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
-   "coOrganisateurs" : [ "Société Luxembourgeoise de Géographie" ],
-   "coursCode" : "SCM-SCN-16",
-   "coursId" : "SCM-SCN-16",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "22/04/2026",
-   "dateFin" : "22/04/2026",
-   "description" : "La Société Luxembourgeoise de Géographie et l'Université Populaire vous présentent la 4ième Nuit de la Géographie.\r\nVous êtes passionné par notre monde et curieux de découvrir ses secrets cachés ? Rejoignez-nous pour une nuit inoubliable dédiée à la géographie !\r\nLes orateurs sont: Monsieur Raphaël KEMMER \"Urban Verdichtung zu Lëtzebuerg. Schätzung vum Potenzial mat \"crowd-sourced\" Donnéeën\"; Dr. Dipl.-Ing. Caroline FABER \"Steierungsusätz fir eng flächespuersam Siidlungsentwécklung\"; Monsieur Léo METZ \"Hitzewellen in Luxemburg\"; Dr Ivonne WEICHOLD \"Climate Mapping Luxembourg: Synergies, Gaps and Overlaps\"",
-   "duree" : "2 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 22-04-2026 à 19:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "19:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66112,
-   "intitule" : "Nuit de la Géographie 2026",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "SCN",
-   "matiereNom" : "Sciences naturelles",
-   "nbInscrits" : 6,
-   "nbPlaces" : 150,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxMTI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Ne manquez pas cette occasion unique d'explorer la géographie sous un nouvel angle. Une soirée inspirante et riche en découvertes vous attend. Rejoignez-nous pour un moment de partage et d'échange !"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
       "codePostal" : "9151",
       "localite" : "Eschdorf",
       "nom" : "Landakademie",
@@ -3781,7 +3643,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 16,
    "nbPlaces" : 18,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -31240,71 +31102,6 @@
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-ELEC-20",
-   "coursId" : "AR-ELEC-20",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "22/04/2026",
-   "description" : "Ist Ihr Gerät kaputt? Keine Sorge, es kann nur besser werden! In unserem Reparaturkurs lernen Sie, wie Sie defekte Geräte selbst reparieren können. Bringen Sie Ihre defekten Gegenstände mit und lassen Sie uns gemeinsam daran arbeiten.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Pietschmann",
-      "prenom" : "Thomas"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 22-04-2026 à 18:00 (durée 1h40) et 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 64674,
-   "intitule" : "Réparer ou recycler ? Keine Angst vorm reparieren! Kaputt ist es schon! Reparaturkurs",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "ELEC",
-   "matiereNom" : "Elec/trique-tronique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ2NzQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Le cours peut également être donné en français."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
    "coursCode" : "AR-MAND-3",
    "coursId" : "AR-MAND-3",
    "coursType" : "CLASSIQUE",
@@ -34926,7 +34723,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 23,
+   "nbInscrits" : 22,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -41393,67 +41190,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-FISC-11",
-   "coursId" : "SCI-FISC-11",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "04/03/2026",
-   "dateFin" : "22/04/2026",
-   "description" : "Ce cours propose une explication claire et structurée de la déclaration fiscale, page par page, afin de comprendre quelles informations y renseigner et où trouver les documents nécessaires. Il aborde également d'autres formulaires spécifiques, tels que ceux relatifs aux revenus locatifs, à la vente de biens immobiliers ou à l’activité indépendante. L’objectif est de permettre aux participant·e·s de mieux comprendre leurs obligations fiscales et de remplir leur déclaration en toute autonomie.",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Keiser",
-      "prenom" : "Romain"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63851,
-   "intitule" : "Comment faire sa déclaration d'impôts personnelle",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FISC",
-   "matiereNom" : "Fiscalité",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4NTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -49315,91 +49051,6 @@
       "telephone" : "+352 516 121-538"
    },
    "prerequis" : "Niveau B1: acquis"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1179",
-   "coursId" : "LA-FR-1179",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "26/01/2026",
-   "dateFin" : "22/04/2026",
-   "description" : "Comprendre quelques expressions familières et quotidiennes utilisées dans des situations de communication très récurrentes de la vie sociale ; peut s'identifier et répondre à des questions concernant, par exemple, sa nationalité, son âge, son lieu d'habitation, son école et éventuellement, poser lui-même des questions de ce type à quelqu'un ; comprendre des textes constitués d'une ou deux phrases, donner par écrit des informations sur soi.",
-   "domainesCompetences" : [ {
-      "competences" : [ " comprendre des instructions courtes et simples, prononcées lentement. \r\ncomprendre des annonces publiques (horaires, départ, arrivée...),\r\ncomprendre des informations répétitives (consignes pédagogiques), " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "L'apprenant peut :\r\n- reconnaitre des noms, des mots ou expressions les plus courants dans des situations  simples de la vie quotidienne : panneaux, indications manuscrites doublées d'icônes, prix, horaires ;\r\n- repérer et comprendre des données chiffrées, des noms propres et d'autres informations très simples dans un texte court ;\r\n" ],
-      "domaine" : "Compréhension écrite "
-   }, {
-      "competences" : [ "Se présenter, parler de soi-même, de son entourage et de sa vie: saluer quelqu'un et prendre congé avec des mots simples,... Se présenter (nom, âge, pays, nationalité,\r\nnuméro de téléphone...), Poser à d'autres personnes des questions, sur leur nom, leur adresse, leur âge Demander en phrases simples quelque chose à quelqu'un (p.ex. matériel scolaire, horaire) et réagir à une telle demande (Est-ce que je peux...)\r\n Avoir des échanges très brefs.\r\n" ],
-      "domaine" : "production orale "
-   }, {
-      "competences" : [ "Ecrire un message très court (mots clés, liste de mots ou de verbes) pour transmettre une consigne, répondre à un questionnaire ou compléter une fiche d'information.\r\n Décrire à l'aide de mots simples quelques\r\nobjets quotidiens \r\nEcrire des mots et des phrases très\r\nsimples en s'aidant de documents\r\nd'appoint (manuel de français, cahier\r\nde règles, ...)\r\nRédiger des notes simples, destinées\r\nà un usage personnel, concernant des\r\névènements ou des dates à respecter\r\n" ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Hamid Oudjana",
-      "prenom" : "Baya"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mardi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63448,
-   "intitule" : "Français",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 20,
-   "nbPlaces" : 20,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "3542",
