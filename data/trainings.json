@@ -849,7 +849,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 4,
+   "nbInscrits" : 6,
    "nbPlaces" : 15,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -2290,7 +2290,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -6659,7 +6659,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -9772,7 +9772,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -12945,7 +12945,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -13740,7 +13740,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHIL",
    "matiereNom" : "Philosophie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -24170,6 +24170,429 @@
    "renseignements" : "Groupes de niveaux homogènes composés de 4 à 8 apprenants."
 }, {
    "adresseCours" : {
+      "codePostal" : "6635",
+      "localite" : "Wasserbillig",
+      "nom" : "Bâtiment Miseler Spatzen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "11, rue St Martin"
+   },
+   "adresseInscription" : {
+      "codePostal" : "6630",
+      "localite" : "Wasserbillig",
+      "nom" : "Administration Communale de Mertert / Wasserbillig",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1-3, Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1541",
+   "coursId" : "LA-LB-1541",
+   "coursType" : "CLASSIQUE",
+   "cout" : 75.0,
+   "dateDebut" : "01/09/2026",
+   "dateFin" : "18/12/2026",
+   "dateInscription" : "Lundi - Vendredi de 07:00 à 16:00",
+   "description" : "Donner aux apprenants la chance de parler la langue luxembourgeoise",
+   "duree" : "30h",
+   "enseignants" : [ {
+      "nom" : "Halbig",
+      "prenom" : "Karin"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 09:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 66654,
+   "intitule" : "A2-Conversation",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "Conversation",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6630",
+         "localite" : "Wasserbillig",
+         "nom" : "Administration Communale de Mertert / Wasserbillig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1-3, Grand-Rue"
+      },
+      "code" : "A.C. MERWA",
+      "fax" : "/",
+      "mail" : "rachel.gotting@mertert.lu",
+      "nom" : "Commune de Mertert ",
+      "nomContact" : "GOTTING",
+      "onlineReg" : false,
+      "prenomContact" : "Rachel",
+      "statut" : "Administration Communale",
+      "telephone" : "74 00 16 122"
+   },
+   "renseignements" : "Donner aux apprenants la chance de parler la langue luxembourgeoise"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "6630",
+      "localite" : "Wasserbillig",
+      "nom" : "Administration Communale de Mertert / Wasserbillig",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1-3, Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1538",
+   "coursId" : "LA-LB-1538",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "01/09/2026",
+   "dateFin" : "17/12/2026",
+   "dateInscription" : "Lundi - Vendredi de 07:00 à 16:00",
+   "description" : "Donner aux apprenants la chance de parler la langue luxembourgeoise",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Achen",
+      "prenom" : "Juliette"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 20:00 (durée 2h), Jeudi à 20:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "20:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "20:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66651,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6630",
+         "localite" : "Wasserbillig",
+         "nom" : "Administration Communale de Mertert / Wasserbillig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1-3, Grand-Rue"
+      },
+      "code" : "A.C. MERWA",
+      "fax" : "/",
+      "mail" : "rachel.gotting@mertert.lu",
+      "nom" : "Commune de Mertert ",
+      "nomContact" : "GOTTING",
+      "onlineReg" : false,
+      "prenomContact" : "Rachel",
+      "statut" : "Administration Communale",
+      "telephone" : "74 00 16 122"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "6630",
+      "localite" : "Wasserbillig",
+      "nom" : "Administration Communale de Mertert / Wasserbillig",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1-3, Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1537",
+   "coursId" : "LA-LB-1537",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "01/09/2026",
+   "dateFin" : "17/12/2026",
+   "dateInscription" : "Lundi - Vendredi de 07:00 à 16:00",
+   "description" : "Donner aux apprenants la chance de parler la langue luxembourgeoise",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Achen",
+      "prenom" : "Juliette"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 17:45 (durée 2h), Jeudi à 17:45 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:45",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "17:45",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66650,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6630",
+         "localite" : "Wasserbillig",
+         "nom" : "Administration Communale de Mertert / Wasserbillig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1-3, Grand-Rue"
+      },
+      "code" : "A.C. MERWA",
+      "fax" : "/",
+      "mail" : "rachel.gotting@mertert.lu",
+      "nom" : "Commune de Mertert ",
+      "nomContact" : "GOTTING",
+      "onlineReg" : false,
+      "prenomContact" : "Rachel",
+      "statut" : "Administration Communale",
+      "telephone" : "74 00 16 122"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "6635",
+      "localite" : "Wasserbillig",
+      "nom" : "Bâtiment Miseler Spatzen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "11, rue St Martin"
+   },
+   "adresseInscription" : {
+      "codePostal" : "6630",
+      "localite" : "Wasserbillig",
+      "nom" : "Administration Communale de Mertert / Wasserbillig",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1-3, Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1539",
+   "coursId" : "LA-LB-1539",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/09/2026",
+   "dateFin" : "18/12/2026",
+   "dateInscription" : "Lundi - Vendredi de 07:00 à 16:00",
+   "description" : "Donner aux apprenants la chance de parler la langue luxembourgeoise",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Halbig",
+      "prenom" : "Karin"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 08:15 (durée 2h), Jeudi à 08:15 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "08:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:15",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66652,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6630",
+         "localite" : "Wasserbillig",
+         "nom" : "Administration Communale de Mertert / Wasserbillig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1-3, Grand-Rue"
+      },
+      "code" : "A.C. MERWA",
+      "fax" : "/",
+      "mail" : "rachel.gotting@mertert.lu",
+      "nom" : "Commune de Mertert ",
+      "nomContact" : "GOTTING",
+      "onlineReg" : false,
+      "prenomContact" : "Rachel",
+      "statut" : "Administration Communale",
+      "telephone" : "74 00 16 122"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "6635",
+      "localite" : "Wasserbillig",
+      "nom" : "Bâtiment Miseler Spatzen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "11, rue St Martin"
+   },
+   "adresseInscription" : {
+      "codePostal" : "6630",
+      "localite" : "Wasserbillig",
+      "nom" : "Administration Communale de Mertert / Wasserbillig",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1-3, Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1540",
+   "coursId" : "LA-LB-1540",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/09/2026",
+   "dateFin" : "18/12/2026",
+   "dateInscription" : "Lundi - Vendredi de 07:00 à 16:00",
+   "description" : "Donner aux apprenants la chance de parler la langue luxembourgeoise",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Halbig",
+      "prenom" : "Karin"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 10:15 (durée 2h), Jeudi à 10:15 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:15",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66653,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6630",
+         "localite" : "Wasserbillig",
+         "nom" : "Administration Communale de Mertert / Wasserbillig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1-3, Grand-Rue"
+      },
+      "code" : "A.C. MERWA",
+      "fax" : "/",
+      "mail" : "rachel.gotting@mertert.lu",
+      "nom" : "Commune de Mertert ",
+      "nomContact" : "GOTTING",
+      "onlineReg" : false,
+      "prenomContact" : "Rachel",
+      "statut" : "Administration Communale",
+      "telephone" : "74 00 16 122"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "6635",
+      "localite" : "Wasserbillig",
+      "nom" : "Bâtiment Miseler Spatzen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "11, rue St Martin"
+   },
+   "adresseInscription" : {
+      "codePostal" : "6630",
+      "localite" : "Wasserbillig",
+      "nom" : "Administration Communale de Mertert / Wasserbillig",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1-3, Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1542",
+   "coursId" : "LA-LB-1542",
+   "coursType" : "CLASSIQUE",
+   "cout" : 75.0,
+   "dateDebut" : "04/09/2026",
+   "dateFin" : "18/12/2026",
+   "dateInscription" : "Lundi - Vendredi de 07:00 à 16:00",
+   "description" : "Donner aux apprenants la chance de parler la langue luxembourgeoise",
+   "duree" : "30h",
+   "enseignants" : [ {
+      "nom" : "Halbig",
+      "prenom" : "Karin"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 09:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66655,
+   "intitule" : "B1-Conversation",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "Conversation",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6630",
+         "localite" : "Wasserbillig",
+         "nom" : "Administration Communale de Mertert / Wasserbillig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1-3, Grand-Rue"
+      },
+      "code" : "A.C. MERWA",
+      "fax" : "/",
+      "mail" : "rachel.gotting@mertert.lu",
+      "nom" : "Commune de Mertert ",
+      "nomContact" : "GOTTING",
+      "onlineReg" : false,
+      "prenomContact" : "Rachel",
+      "statut" : "Administration Communale",
+      "telephone" : "74 00 16 122"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "-",
       "localite" : "Luxembourg",
       "nom" : "En ligne",
@@ -29655,7 +30078,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -51303,7 +51726,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 150.0,
    "dateDebut" : "12/01/2026",
-   "dateFin" : "26/03/2026",
+   "dateFin" : "02/04/2026",
    "dateInscription" : "Lundi-Vendredi de 08:00 - 16:00 heures",
    "description" : "décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter, décliner une invitation, demander un service, raconter un événement au passé, verbes et grammaires de base.",
    "domainesCompetences" : [ {
@@ -51325,7 +51748,7 @@
       "prenom" : "Miranda"
    } ],
    "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 14:00 (durée 2h30),\nJeudi à 14:00 (durée 2h30)",
+   "horairePrevu" : "Lundi à 14:00 (durée 2h30), Jeudi à 14:00 (durée 2h30)",
    "horaires" : [ {
       "duree" : "2h30",
       "heure" : "14:00",
