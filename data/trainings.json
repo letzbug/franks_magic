@@ -607,7 +607,7 @@
    "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
-      "nom" : "Forum Campus Geesseknäppchen",
+      "nom" : "Forum Campus Geeseknäppchen",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
       "rueNumero" : "40, bd Pierre Dupong"
@@ -616,8 +616,8 @@
    "categorieCode" : "BP",
    "categorieCodeUnipop" : "CIT",
    "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-45",
-   "coursId" : "BP-FR-45",
+   "coursCode" : "BP-EN-44",
+   "coursId" : "BP-EN-44",
    "coursType" : "CLASSIQUE",
    "cout" : 0.0,
    "dateDebut" : "27/04/2026",
@@ -625,8 +625,8 @@
    "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
    "duree" : "6h",
    "enseignants" : [ {
-      "nom" : "Barroso Medina",
-      "prenom" : "Leonor Del Carmen"
+      "nom" : "Carvalho",
+      "prenom" : "Mónica"
    } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi 27-04-2026 à 18:00 (durée 3h),\nJeudi 30-04-2026 à 18:00 (durée 3h)",
@@ -639,17 +639,17 @@
       "heure" : "18:00",
       "jour" : "Jeudi"
    } ],
-   "id" : 58178,
+   "id" : 58177,
    "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 2,
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Découvrir le GDL en anglais",
+   "nbInscrits" : 11,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxNzg%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxNzc%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "1273",
@@ -997,6 +997,74 @@
       "telephone" : "33 01 44 207",
       "websiteUrl" : "http://www.walfer.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Forum Campus Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "40, bd Pierre Dupong"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "BP",
+   "categorieCodeUnipop" : "CIT",
+   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
+   "coursCode" : "BP-FR-45",
+   "coursId" : "BP-FR-45",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "27/04/2026",
+   "dateFin" : "30/04/2026",
+   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Barroso Medina",
+      "prenom" : "Leonor Del Carmen"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi 27-04-2026 à 18:00 (durée 3h),\nJeudi 30-04-2026 à 18:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 58178,
+   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Découvrir le GDL en français",
+   "nbInscrits" : 2,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxNzg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1273",
+         "localite" : "Luxembourg-Hamm",
+         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "13c, rue de Bitbourg"
+      },
+      "code" : "MFSVA",
+      "fax" : "+352 247-85730",
+      "mail" : "programme.zesummeliewen@fm.etat.lu",
+      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+      "nomContact" : "Programme",
+      "onlineReg" : true,
+      "prenomContact" : "Equipe",
+      "statut" : "MENFPS",
+      "telephone" : ".",
+      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+   },
+   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -2609,7 +2677,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -4321,7 +4389,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -5034,7 +5102,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -11483,7 +11551,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -18312,7 +18380,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 6,
+   "nbInscrits" : 8,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -29605,7 +29673,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 23,
+   "nbInscrits" : 24,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
