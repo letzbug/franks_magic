@@ -220,66 +220,6 @@
    "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-DIG-9",
-   "coursId" : "IN-DIG-9",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "24/04/2026",
-   "dateFin" : "24/04/2026",
-   "description" : "Satellites influence navigation, weather forecasting, internet access, and climate monitoring. Yet many people are unaware of how space systems actually work. This course demystifies modern space technology in a practical and accessible way.\r\n\r\nParticipants will explore how satellites are designed, launched, and operated, using everyday examples and visual tools. No technical background is required.\r\n\r\nThe course promotes scientific curiosity and digital citizenship in a rapidly evolving space economy.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Jaffer",
-      "prenom" : "Ghulam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 24-04-2026 à 14:30 (durée 5h)",
-   "horaires" : [ {
-      "duree" : "5h",
-      "heure" : "14:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66085,
-   "intitule" : "Satellites for Everyone: Powering Connectivity, Navigation, and Data",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DIG",
-   "matiereNom" : "Digital",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwODU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "2132",
       "localite" : "Luxembourg",
       "nom" : "Centre de Formation Lucien Huss a.s.b.l",
@@ -1700,68 +1640,6 @@
    },
    "prerequis" : "Découvrez qui je suis sur mon site internet: https://aurelie-yoga-ayurveda.com/ \r\n",
    "renseignements" : "À apporter : un tapis de yoga, un châle non élastique ou une écharpe de portage, ainsi qu’une serviette. Veuillez noter que le site ne dispose pas de vestiaires ni de douches. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-OEN-26",
-   "coursId" : "AR-OEN-26",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "02/05/2026",
-   "dateFin" : "02/05/2026",
-   "description" : "Plongez dans l'art de la distillation et créez votre propre gin avec Inès, Maître Distillatrice d'Entre Nous Gin, lors d'un atelier immersif. Découvrez les secrets de la fabrication artisanale du gin et repartez avec une création unique. L'atelier commence par un accueil chaleureux d'Inès, passionnée par son métier. Vous apprendrez l'histoire de la distillation et les plantes utilisées pour composer cette boisson raffinée. Différents profils de gin seront également présentés. Par groupes de 2 à 3, vous choisirez vos ingrédients parmi baies, herbes et épices pour créer un mélange personnalisé. Sous les conseils d'Inès, vous participerez à la distillation avec de petits alambics. Vous suivrez chaque étape, du chargement des plantes à la collecte du gin. Pendant la distillation, savourez un cocktail spécialement préparé pour l'occasion. À la fin de l'atelier, embouteillez votre gin, personnalisez son étiquette et repartez avec votre création. L'atelier inclut la création d'un gin unique (500 ml), une dégustation exclusive, un cocktail offert, et une réduction spéciale sur nos produits. Pour votre confort, il est recommandé de porter des chaussures fermées.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Fortemps De Loneux",
-      "prenom" : "Inès",
-      "presentation" : "https://www.entrenousgin.com/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 02-05-2026 à 14:30 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "14:30",
-      "jour" : "Samedi"
-   } ],
-   "id" : 63910,
-   "intitule" : "Workshop - Distille ton gin avec une maître distillatrice",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "OEN",
-   "matiereNom" : "Oenologie et Bar",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge de fournir tout le matériel nécessaire pour l'atelier, avec un remboursement de 50 euros. "
 }, {
    "adresseCours" : {
       "codePostal" : "-",
