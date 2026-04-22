@@ -14,152 +14,6 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1512",
-   "coursId" : "LA-FR-1512",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "23/04/2026",
-   "dateFin" : "23/07/2026",
-   "dateInscription" : "Lundi-Jeudi de 08:00 - 16:00 heures",
-   "description" : "décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter, décliner une invitation, demander un service, raconter un événement au passé, verbes et grammaires de base.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui concerne l'apprenant de très près (par ex. lui-même, sa famille, ses achats, son environnements proche, son travail)", "Saisir l'essentiel d'annonces, de messages, de dialogues ou de textes simples et clairs" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Lire et comprendre des textes courts et simples\r\n", "Trouver une information particulière prévisible dans des documents simples et courants comme les prospectus, les petites annonces, les menus \r\n.", "Comprendre des consignes et des textes courts et simples\r\n" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers\r\n", "Avoir des échanges très brefs sans pour autant poursuivre une conversation\r\n", "Utiliser une série de phrases ou d'expressions simples pour décrire sa famille et d'autres gens, ses conditions de vie, sa formation et son activité professionnelle actuelle, récente ou passée " ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "Ecrire des notes et des messages simples et courts \r\n", "Ecrire une lettre ou un récit personnel en phrases très simples \r\n", "Ecrire une dictée très simple\r\n" ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Bergmans",
-      "prenom" : "Miranda"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:30 (durée 2h30), Jeudi à 09:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65451,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 12,
-   "nbPlaces" : 25,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
-         "nom" : "Landakademie",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
-      },
-      "code" : "LANAKA",
-      "fax" : "+352 89 95 68-40",
-      "mail" : "fabio@landakademie.lu",
-      "nom" : "Landakademie",
-      "nomContact" : "Da Silva Loureiro",
-      "onlineReg" : false,
-      "prenomContact" : "Fabio",
-      "statut" : "ASBL",
-      "telephone" : "89 95 68 28",
-      "websiteUrl" : "https://www.landakademie.lu/"
-   },
-   "renseignements" : "renseignements complémentaires lors de l'inscription"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-OR-7",
-   "coursId" : "AR-OR-7",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "23/04/2026",
-   "dateFin" : "23/04/2026",
-   "description" : "Découvrez l’origami, art du pliage qui stimule créativité, concentration et relaxation. Apprenez à réaliser vos propres modèles tout en développant motricité fine et patience. Repartez avec des techniques pour intégrer l’origami dans votre quotidien et profiter d’un outil simple pour gérer le stress et cultiver équilibre et sérénité.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Zarcone",
-      "prenom" : "Magalie",
-      "presentation" : "https://www.instagram.com/g_concept_sa/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 23-04-2026 à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63966,
-   "intitule" : "L'art du pliage avec l'origami",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "OR",
-   "matiereNom" : "Origami",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NjY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 6 euros."
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9151",
-      "localite" : "Eschdorf",
-      "nom" : "Landakademie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, am Foumichterwee"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
    "coursCode" : "LA-FR-1193",
    "coursId" : "LA-FR-1193",
    "coursType" : "CLASSIQUE",
@@ -28706,6 +28560,90 @@
       "websiteUrl" : "https://www.luxchine.org/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1512",
+   "coursId" : "LA-FR-1512",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "23/04/2026",
+   "dateFin" : "23/07/2026",
+   "dateInscription" : "Lundi-Jeudi de 08:00 - 16:00 heures",
+   "description" : "décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter, décliner une invitation, demander un service, raconter un événement au passé, verbes et grammaires de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui concerne l'apprenant de très près (par ex. lui-même, sa famille, ses achats, son environnements proche, son travail)", "Saisir l'essentiel d'annonces, de messages, de dialogues ou de textes simples et clairs" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Lire et comprendre des textes courts et simples\r\n", "Trouver une information particulière prévisible dans des documents simples et courants comme les prospectus, les petites annonces, les menus \r\n.", "Comprendre des consignes et des textes courts et simples\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers\r\n", "Avoir des échanges très brefs sans pour autant poursuivre une conversation\r\n", "Utiliser une série de phrases ou d'expressions simples pour décrire sa famille et d'autres gens, ses conditions de vie, sa formation et son activité professionnelle actuelle, récente ou passée " ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Ecrire des notes et des messages simples et courts \r\n", "Ecrire une lettre ou un récit personnel en phrases très simples \r\n", "Ecrire une dictée très simple\r\n" ],
+      "domaine" : "Expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Bergmans",
+      "prenom" : "Miranda"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:30 (durée 2h30), Jeudi à 09:30 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65451,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 12,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9151",
+         "localite" : "Eschdorf",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, am Foumichterwee"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "codePostal" : "3524",
