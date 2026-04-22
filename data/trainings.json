@@ -57,7 +57,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -790,7 +790,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 18,
    "nbPlaces" : 20,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -973,7 +973,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 18,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -1812,7 +1812,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 25,
    "niveau" : "A1 du CECRL",
    "onlineRegistration" : true,
@@ -1908,7 +1908,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : true,
@@ -1990,7 +1990,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "COUT",
    "matiereNom" : "Couture",
-   "nbInscrits" : 0,
+   "nbInscrits" : 9,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2073,7 +2073,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "COUT",
    "matiereNom" : "Couture",
-   "nbInscrits" : 0,
+   "nbInscrits" : 8,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2260,7 +2260,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 16,
    "nbPlaces" : 18,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -2285,94 +2285,6 @@
       "websiteUrl" : "http://www.moienasbl.lu"
    },
    "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1508",
-   "coursId" : "LA-LB-1508",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "04/05/2026",
-   "dateFin" : "22/05/2026",
-   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
-   "description" : "Demander/donner des informations concernant les horaires de train et de bus, demander et comprendre la description d'un chemin, réserver une table, passer une commande dans un restaurant, dire les heures d'ouverture et se renseigner à ce sujet, comprendre les petites annonces (logements) et décrire/commenter un logement, parler des tâches ménagères, de ses habitudes quotidiennes et se renseigner à ce sujet",
-   "domainesCompetences" : [ {
-      "competences" : [ "demander des renseignements sur les horaires de train et de bus en utilisant des formules de politesse et formuler des phrases et questions simples ", "demander la description d'un chemin", "mener de courts entretiens téléphoniques en faisant des réservations au restaurant", "commander quelque chose dans un restaurant", "dire les heures d'ouverture des magasins et se renseigner à ce sujet ", "décrire ses habitudes quotidiennes, et se renseigner à ce sujet de manière détaillée et simple; parler de ses  tâches ménagères   ", "décrire/commenter une habitation", "Dire où l'on est et où l'on va\r\n" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "comprendre des informations sur les horaires de train/bus et les ouvertures des magasins ", "comprendre des renseignements concernant la description d'un chemin", "comprendre un interlocuteur qui fixe un rendez-vous ou fait une réservation dans un restaurant", "comprendre des questions détaillées concernant le déroulement d'une journée type, ses habitudes de vie", "comprendre les petites annonces  concernant la location ou vente d'un logement  " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "remplir des formulaires et écrire des petites notes" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "comprendre l'essentiel d'une annonce ou d'un article (logement, magasin)", "comprendre de courts messages (annonces, invitations, affiches, ...) " ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "45h",
-   "enseignants" : [ {
-      "nom" : "Ramdedovic",
-      "prenom" : "Elvis"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h), Vendredi à 17:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66192,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 18,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3493",
-         "localite" : "Dudelange",
-         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Batty Weber"
-      },
-      "code" : "Moien",
-      "mail" : "moienasbl@pt.lu",
-      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
-      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
-      "onlineReg" : true,
-      "prenomContact" : "Moien",
-      "statut" : "ASBL",
-      "telephone" : "www.moienasbl.lu",
-      "websiteUrl" : "http://www.moienasbl.lu"
-   },
-   "renseignements" : "moienasbl@pt.lu\r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -2584,7 +2496,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 15,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -2830,7 +2742,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 11,
    "nbPlaces" : 25,
    "niveau" : "A2 du CECRL",
    "onlineRegistration" : true,
@@ -3551,7 +3463,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -4073,7 +3985,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 25,
+   "nbInscrits" : 24,
    "nbPlaces" : 30,
    "niveau" : "A1 du CECRL",
    "onlineRegistration" : false,
@@ -6044,7 +5956,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 11,
    "nbPlaces" : 18,
    "niveau" : "B1.3 du CECRL",
    "onlineRegistration" : true,
@@ -7434,7 +7346,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -7522,7 +7434,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -7606,7 +7518,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -9450,7 +9362,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 15,
    "nbPlaces" : 18,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -9675,174 +9587,6 @@
       "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
    },
    "prerequis" : "Ouvert à toute personne ayant un niveau A1.1"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1517",
-   "coursId" : "LA-LB-1517",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "03/07/2026",
-   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
-   "description" : "Demander/donner des informations concernant les horaires de train et de bus, demander et comprendre la description d'un chemin, réserver une table, passer une commande dans un restaurant, dire les heures d'ouverture et se renseigner à ce sujet, comprendre les petites annonces (logements) et décrire/commenter un logement, parler des tâches ménagères, de ses habitudes quotidiennes et se renseigner à ce sujet",
-   "domainesCompetences" : [ {
-      "competences" : [ "demander des renseignements sur les horaires de train et de bus en utilisant des formules de politesse et formuler des phrases et questions simples ", "demander la description d'un chemin", "mener de courts entretiens téléphoniques en faisant des réservations au restaurant", "commander quelque chose dans un restaurant", "dire les heures d'ouverture des magasins et se renseigner à ce sujet ", "décrire ses habitudes quotidiennes, et se renseigner à ce sujet de manière détaillée et simple; parler de ses  tâches ménagères   ", "décrire/commenter une habitation", "Dire où l'on est et où l'on va\r\n" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "comprendre des informations sur les horaires de train/bus et les ouvertures des magasins ", "comprendre des renseignements concernant la description d'un chemin", "comprendre un interlocuteur qui fixe un rendez-vous ou fait une réservation dans un restaurant", "comprendre des questions détaillées concernant le déroulement d'une journée type, ses habitudes de vie", "comprendre les petites annonces  concernant la location ou vente d'un logement  " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "remplir des formulaires et écrire des petites notes" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "comprendre l'essentiel d'une annonce ou d'un article (logement, magasin)", "comprendre de courts messages (annonces, invitations, affiches, ...) " ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "45h",
-   "enseignants" : [ {
-      "nom" : "Hein",
-      "prenom" : "Manette"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 08:30 (durée 3h), Mercredi à 08:30 (durée 3h), Vendredi à 08:30 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "08:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66201,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 18,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3493",
-         "localite" : "Dudelange",
-         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Batty Weber"
-      },
-      "code" : "Moien",
-      "mail" : "moienasbl@pt.lu",
-      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
-      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
-      "onlineReg" : true,
-      "prenomContact" : "Moien",
-      "statut" : "ASBL",
-      "telephone" : "www.moienasbl.lu",
-      "websiteUrl" : "http://www.moienasbl.lu"
-   },
-   "renseignements" : "moienasbl@pt.lu\r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1518",
-   "coursId" : "LA-LB-1518",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "19/06/2026",
-   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
-   "description" : "Demander/donner des informations concernant les horaires de train et de bus, demander et comprendre la description d'un chemin, réserver une table, passer une commande dans un restaurant, dire les heures d'ouverture et se renseigner à ce sujet, comprendre les petites annonces (logements) et décrire/commenter un logement, parler des tâches ménagères, de ses habitudes quotidiennes et se renseigner à ce sujet",
-   "domainesCompetences" : [ {
-      "competences" : [ "demander des renseignements sur les horaires de train et de bus en utilisant des formules de politesse et formuler des phrases et questions simples ", "demander la description d'un chemin", "mener de courts entretiens téléphoniques en faisant des réservations  au restaurant", "commander quelque chose dans un restaurant", "dire les heures d'ouverture des magasins et se renseigner à ce sujet ", "décrire ses habitudes quotidiennes, et se renseigner à ce sujet de manière détaillée et simple; parler de ses tâches ménagères   \r\n", "décrire/commenter une habitation", "Dire où l'on est et où l'on va\r\n" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "comprendre des informations sur les horaires de train/bus et les ouvertures des magasins  ", "comprendre des renseignements concernant la description d'un chemin", "comprendre un interlocuteur qui fixe un rendez-vous ou fait une réservation dans un restaurant", "comprendre des questions détaillées concernant le déroulement d'une journée type, ses habitudes de vie", "comprendre les petites annonces concernant la location ou vente d'un logement  " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "remplir des formulaires et écrire des petites notes" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "comprendre l'essentiel d'une annonce ou d'un article (logement, magasin)", "comprendre de courts messages (annonces, invitations, affiches, ...) " ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "45h",
-   "enseignants" : [ {
-      "nom" : "Sanchez",
-      "prenom" : "Stephanie"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h), Vendredi à 17:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66202,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 18,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3493",
-         "localite" : "Dudelange",
-         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Batty Weber"
-      },
-      "code" : "Moien",
-      "mail" : "moienasbl@pt.lu",
-      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
-      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
-      "onlineReg" : true,
-      "prenomContact" : "Moien",
-      "statut" : "ASBL",
-      "telephone" : "www.moienasbl.lu",
-      "websiteUrl" : "http://www.moienasbl.lu"
-   },
-   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -10145,94 +9889,6 @@
    },
    "prerequis" : "Avoir acquis le niveau A1.1",
    "renseignements" : "Hors vacances scolaires. "
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1520",
-   "coursId" : "LA-LB-1520",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "19/06/2026",
-   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
-   "description" : "Décrire son quartier, son habitation et son aménagement intérieur, comprendre et formuler une interdiction, un ordre ou une permission, donner des instructions simples, comprendre et décrire un chemin, prendre part à une conversation chez le médecin, décrire les symptômes d'une maladie, donner et demander des conseils, mener de courtes conversations téléphoniques, comprendre des messages téléphoniques et réagir à ces messages",
-   "domainesCompetences" : [ {
-      "competences" : [ "décrire son quartier, son logement et son aménagement intérieur", "formuler une interdiction, un ordre ou une permission", "donner des instructions simples", "décrire un chemin", "prendre part à une conversation chez le médecin", "décrire les symptômes d'une maladie et poser des questions à ce sujet", "donner et demander des conseils", "mener de courtes conversations téléphoniques" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "comprendre une interdiction, un ordre, une permission ou un conseil", "comprendre la description d'un chemin", "comprendre des messages téléphoniques\r\n" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "écrire des invitations et des messages simples", "écrire des e-mails et formuler des questions concernant des annonces    " ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "comprendre les annonces (travail, logement), les descriptions de chemin", "comprendre des textes simples sur des sujets de la vie quotidienne ", "comprendre des expressions de sentiments et de souhaits personnels " ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "45h",
-   "enseignants" : [ {
-      "nom" : "Lassine",
-      "prenom" : "Nadia Gisèle"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66204,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 18,
-   "niveau" : "A2.3 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3493",
-         "localite" : "Dudelange",
-         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Batty Weber"
-      },
-      "code" : "Moien",
-      "mail" : "moienasbl@pt.lu",
-      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
-      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
-      "onlineReg" : true,
-      "prenomContact" : "Moien",
-      "statut" : "ASBL",
-      "telephone" : "www.moienasbl.lu",
-      "websiteUrl" : "http://www.moienasbl.lu"
-   },
-   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "1921",
@@ -15641,7 +15297,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 14,
    "nbPlaces" : 18,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -18538,94 +18194,6 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1515",
-   "coursId" : "LA-LB-1515",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "22/06/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
-   "description" : "Indiquer ses préférences, exprimer ses souhaits, comprendre des expressions familières ainsi que des énoncés simples qui visent à satisfaire des besoins concrets; communiquer de façon simple (p.ex. au magasin ou chez le médecin)  avec un interlocuteur bienveillant.",
-   "domainesCompetences" : [ {
-      "competences" : [ "décrire, répondre à des questions, poser des questions de manière simple concernant le déroulement d'une journée type, ses activités de loisir et ses hobbys", "exprimer ce qu'on aime et ce qu'on n'aime pas", "proposer un rendez-vous ou répondre de manière simple et polie à un rendez-vous / une invitation (lieu, horaire, activité, programme) ", "parler du temps, de la météo \r\n", "nommer et décrire des aliments et des boissons, indiquer ses souhaits, effectuer une conversation quand on fait ses courses (quantités, prix, horaire d'ouverture) ", "commander quelque chose à boire ou à manger", "parler de sa famille et de ses amis", "décrire une personne", "participer à une conversation chez le médecin" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "comprendre des questions simples concernant ses passe-temps, son quotidien (fréquence des activités, amis, famille) ", "comprendre des questions simples quand il fait ses courses (produits, quantités, prix, magasins) ", "comprendre des questions simples concernant ses goûts, ses préférences, ses souhaits (alimentation, passe-temps) \r\n " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "écrire une carte-postale en indiquant ses activités de vacances avec une formule de politesse ", "écrire un mail pour accepter ou refuser un rendez-vous, pour s¿excuser avec une formule de politesse \r\n" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "comprendre les informations des annonces familiales (naissances, mariages), des annonces de contact, des cartes de menus", "comprendre un programme de manifestations culturelle ou sportives " ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "45h",
-   "enseignants" : [ {
-      "nom" : "Ramdedovic",
-      "prenom" : "Elvis"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 10:00 (durée 3h), Mardi à 10:00 (durée 3h), Mercredi à 10:00 (durée 3h), Jeudi à 10:00 (durée 3h), Vendredi à 10:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "10:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "10:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "10:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "10:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "10:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66199,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 18,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3493",
-         "localite" : "Dudelange",
-         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Batty Weber"
-      },
-      "code" : "Moien",
-      "mail" : "moienasbl@pt.lu",
-      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
-      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
-      "onlineReg" : true,
-      "prenomContact" : "Moien",
-      "statut" : "ASBL",
-      "telephone" : "www.moienasbl.lu",
-      "websiteUrl" : "http://www.moienasbl.lu"
-   },
-   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
    "coursCode" : "LA-LB-1521",
    "coursId" : "LA-LB-1521",
    "coursType" : "CLASSIQUE",
@@ -18681,7 +18249,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 16,
    "nbPlaces" : 18,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : true,
@@ -18706,94 +18274,6 @@
       "websiteUrl" : "http://www.moienasbl.lu"
    },
    "renseignements" : "MOIEN ASBL \r\ninformation, inscription et paiement en ligne sur le site www.moienasbl.lu"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1516",
-   "coursId" : "LA-LB-1516",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "22/06/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
-   "description" : "Indiquer ses préférences, exprimer ses souhaits, comprendre des expressions familières ainsi que des énoncés simples qui visent à satisfaire des besoins concrets; communiquer de façon simple (p.ex. au magasin ou chez le médecin)  avec un interlocuteur bienveillant.",
-   "domainesCompetences" : [ {
-      "competences" : [ "décrire, répondre à des questions, poser des questions de manière simple concernant le déroulement d'une journée type, ses activités de loisir et ses hobbys", "exprimer ce qu'on aime et ce qu'on n'aime pas", "proposer un rendez-vous ou répondre de manière simple et polie à un rendez-vous / une invitation (lieu, horaire, activité, programme) ", "parler du temps, de la météo \r\n", "nommer et décrire des aliments et des boissons, indiquer ses souhaits, effectuer une conversation quand on fait ses courses (quantités, prix, horaire d'ouverture) ", "commander quelque chose à boire ou à manger", "parler de sa famille et de ses amis", "décrire une personne", "participer à une conversation chez le médecin" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "comprendre des questions simples concernant ses passe-temps, son quotidien (fréquence des activités, amis, famille) ", "comprendre des questions simples quand il fait ses courses (produits, quantités, prix, magasins) ", "comprendre des questions simples concernant ses goûts, ses préférences, ses souhaits (alimentation, passe-temps) \r\n " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "écrire une carte-postale en indiquant ses activités de vacances avec une formule de politesse ", "écrire un mail pour accepter ou refuser un rendez-vous, pour s¿excuser avec une formule de politesse \r\n" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "comprendre les informations des annonces familiales (naissances, mariages), des annonces de contact, des cartes de menus", "comprendre un programme de manifestations culturelle ou sportives " ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "45h",
-   "enseignants" : [ {
-      "nom" : "Ramdedovic",
-      "prenom" : "Elvis"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 14:00 (durée 3h), Mardi à 14:00 (durée 3h), Mercredi à 14:00 (durée 3h), Jeudi à 14:00 (durée 3h), Vendredi à 14:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66200,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 18,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYyMDA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3493",
-         "localite" : "Dudelange",
-         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Batty Weber"
-      },
-      "code" : "Moien",
-      "mail" : "moienasbl@pt.lu",
-      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
-      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
-      "onlineReg" : true,
-      "prenomContact" : "Moien",
-      "statut" : "ASBL",
-      "telephone" : "www.moienasbl.lu",
-      "websiteUrl" : "http://www.moienasbl.lu"
-   },
-   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -32171,7 +31651,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 20,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -34547,7 +34027,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 24,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
