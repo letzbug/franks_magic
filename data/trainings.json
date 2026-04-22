@@ -882,7 +882,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 20,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -2564,7 +2564,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 15,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -3775,7 +3775,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TAB",
    "matiereNom" : "Tableurs",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -4462,7 +4462,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TRT",
    "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -13181,7 +13181,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PHY",
    "matiereNom" : "Physique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -18160,7 +18160,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -22290,7 +22290,7 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "Un remboursement de 15€ sera demandé à chaque participant.\r\n\r\nLa formatrice parle français, allemand, luxembourgeois et anglais."
+   "renseignements" : "Les personnes qui n’ont pas de matériel pour faire du scrapbooking peuvent acheter un kit de matériel de base auprès de la formatrice pour 15 €.\r\n\r\nLa formatrice parle français, allemand, luxembourgeois et anglais."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -29437,6 +29437,97 @@
    }
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1434",
+   "coursId" : "LA-LB-1434",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "20/04/2026",
+   "dateFin" : "06/07/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. \r\nPeut se débrouiller dans des situations rencontrées en voyage. \r\nPeut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Wiederprevisoune verstoen\r\n ", "  Informatioune verstoen (d'Haaptpunkten aus den Noriichten oder aner Themen)\r\n", "eng Erzielung am Passé verstoen\r\n", "eng Beschreiwung (Charakteriséierung) vun enger Saach verstoen\r\n", "  eng Weebeschreiwung verstoen\r\n", " eng Erklärung / Uweisung verstoen\r\n\r\n", "  Message verstoen (op engem Repondeur beim Dokter, am Kino, ...)" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "an engem Artikel dee globale Message verstoen\r\n", "geschriwwen Instruktioune verstoen (fir een Apparat ze benotzen)\r\n", "an engem Dokument d'Informatioun verstoen (internet Reglement, Bréif, Reklamm, ...)\r\n" ],
+      "domaine" : "liesverstoen"
+   }, {
+      "competences" : [ " erzielen (an der Vergangenheet: e Virfall, en Oflaf)\r\n", "eng Persoun, eng Plaz, eng Saach, Hobbyen, eng Tatsaach, e Phenomen... beschreiwen\r\n", " Persounen, Plazen, Saachen, Hobbyen, Tatsaachen, Phenomener...  vergläichen\r\n    ", " e kuerzen, preparéierten Text als Monolog virdroen (eng Billergeschicht kommentéieren, eng Usprooch, e   Message um Repondeur ...)", "  e Gespréich ufänken, weiderféieren an ofschléissen\r\n", " e Wonsch ausdrécken (Conditionnel)\r\n", " Konditiounen a Konsequenzen ausdrécken (wann / dann)\r\n", " seng Meenung ausdrécken a begrënnen (firwat?/ well)\r\n", "eng Erlaabnis froen a ginn (Congé froen, am Cours, ...)\r\n", " e Rot froen a ginn (bei Krankheeten, an der Kichen, ...)\r\n", "  eng Informatioun froen a ginn (op der Gare, Ëmfro, op Administratiounen, ...)\r\n" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ " kleng Notize schreiwen (Informatioune froe iwwer Produiten, Blog, ...)\r\n", " eng einfach Invitatioun schreiwen\r\n\r\n", " eng einfach Annonce schreiwen\r\n", "en einfache Bréif schreiwen (Broschüren / Formulairen ufroen, ...)\r\n\r\n" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Klein",
+      "prenom" : "Myriam"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 13:00 (durée 2h), Mardi à 13:00 (durée 2h), Mercredi à 13:00 (durée 2h), Jeudi à 13:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65226,
+   "intitule" : "luxembourgeois, culture et citoyenneté intensif",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 14,
+   "nbPlaces" : 24,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Niveau A2.3 acquis"
+}, {
+   "adresseCours" : {
       "codePostal" : "8211",
       "localite" : "Mamer",
       "nom" : "EFID",
@@ -29950,6 +30041,104 @@
    },
    "prerequis" : "Accessible aux personnes ayant une base en informatique\r\nInitiation PC& Internet acquis. ",
    "renseignements" : "Langues possibles: français, anglais\r\nApplications bureautiques 2/2\r\nAccessible aux personnes à mobilité réduite\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1303",
+   "coursId" : "LA-FR-1303",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "20/04/2026",
+   "dateFin" : "10/06/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Aptitude à accéder à diverses formes d'écrit (personnel, administratif) et à produire dans des structures justes des écrits dans une situation de communication écrite quotidienne, en révisant les règles de grammaire basiques",
+   "domainesCompetences" : [ {
+      "competences" : [ "suivre une conversation quotidienne sur des sujets familiers rencontrés régulièrement au travail, à l'école, pendant les loisirs si l'interlocuteur s'exprime clairement, bien qu'il soit parfois nécessaire de faire répéter certains mots ou expression.", " suivre les points principaux d'une longue discussion se déroulant en sa présence, à condition que la langue soit standard et clairement articulée", "comprendre des informations techniques simples, tels que des modes d'emploi, des recettes de cuisine", "comprendre l'information contenue dans la plupart des documents enregistrés ou radiodiffusés (chansons)." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "parcourir un texte assez long pour y localiser une information cherchée et réunir des informations provenant de différentes parties du texte afin d'accomplir une tâche spécifique.", "reconnaître les points significatifs d'un article de journal direct et non complexe sur un sujet familier\r\n", "identifier des mots inconnus à l'aide du contexte sur des sujets relatifs à son domaine et à ses intérêts. \r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "communiquer avec une certaine assurance sur des sujets familiers habituels ou non en relation avec ses intérêts et son domaine professionnel. ", "exprimer sa pensée sur un sujet abstrait ou culturel comme un film, des livres, de la musique, etc.", "aborder sans préparation une conversation sur un sujet familier\r\n", "relater en détail ses expériences en décrivant ses sentiments et ses réactions.\r\n", "raconter l'intrigue d'un livre ou d'un film et décrire ses propres réactions, ", "décrire un rêve, un espoir ,une ambition, des peurs \r\n", "décrire un événement, réel ou imaginaire. \r\n", "raconter une histoire.\r\n", "développer une argumentation suffisamment bien pour être compris sans difficulté la plupart du temps." ],
+      "domaine" : "Expression orale en continu"
+   }, {
+      "competences" : [ "réagir à des sentiments tels que la surprise, la joie, la tristesse, la curiosité et l'indifférence et les exprimer.", "soutenir une conversation ou une discussion\r\n", " échanger de l'information sur des sujets familiers, d'intérêt personnel ou pertinents pour la vie quotidienne (par exemple, la famille, les loisirs, le travail, les voyages et les faits d'actualité).", "commenter brièvement le point de vue d'autrui.\r\n", "comparer et opposer des alternatives \r\n", "émettre ou solliciter un point de vue personnel ou une opinion sur des points d'intérêt général.\r\n", "exprimer poliment ses convictions, ses opinions, son accord et son désaccord.\r\n", "commenter brièvement le point de vue d'autrui\r\n", "commencer, poursuivre et terminer une simple conversation en tête-à-tête sur des sujets familiers ou d'intérêt personnel" ],
+      "domaine" : "Interaction orale"
+   }, {
+      "competences" : [ "écrire des descriptions détaillées simples et directes sur une gamme étendue de sujets familiers (centre d'intérêt, famille, aspects culturels) ", "rédiger un programme ( de sorties, de lieux à visiter, ..)\r\n", "rédiger un questionnaire \r\n", "comparer des gens, des pays, des situations..\r\n", "faire le compte rendu d'expériences en décrivant ses souvenirs, ses sentiments, ses réactions, \r\n", "écrire la description d'un évènement, d'un voyage \r\n", "raconter une histoire \r\n", "paraphraser ( écrire à la manière de )\r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "conjuguer les principaux verbes au temps de l'indicatif \r\n", "utiliser le comparatif et le superlatif ", "utiliser les pronoms compléments simples et doubles \r\n", "utiliser l'impératif, les pronoms compléments à l'impératif ", "utiliser les temps du passé ", "utiliser le conditionnel présent et passé \r\n", "utiliser le passif", " utiliser le subjonctif ", "utiliser le gérondif et le participe présent\r\n" ],
+      "domaine" : "Grammaire"
+   } ],
+   "duree" : "30h",
+   "enseignants" : [ {
+      "nom" : "Jacquet",
+      "prenom" : "Annie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 63742,
+   "intitule" : "Cours de renforcement grammatical",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 7,
+   "nbPlaces" : 18,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "niveau A2 oral acquis",
+   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -31394,7 +31583,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -33309,97 +33498,6 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1434",
-   "coursId" : "LA-LB-1434",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "10/06/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. \r\nPeut se débrouiller dans des situations rencontrées en voyage. \r\nPeut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Wiederprevisoune verstoen\r\n ", "  Informatioune verstoen (d'Haaptpunkten aus den Noriichten oder aner Themen)\r\n", "eng Erzielung am Passé verstoen\r\n", "eng Beschreiwung (Charakteriséierung) vun enger Saach verstoen\r\n", "  eng Weebeschreiwung verstoen\r\n", " eng Erklärung / Uweisung verstoen\r\n\r\n", "  Message verstoen (op engem Repondeur beim Dokter, am Kino, ...)" ],
-      "domaine" : "Héierverstoen"
-   }, {
-      "competences" : [ "an engem Artikel dee globale Message verstoen\r\n", "geschriwwen Instruktioune verstoen (fir een Apparat ze benotzen)\r\n", "an engem Dokument d'Informatioun verstoen (internet Reglement, Bréif, Reklamm, ...)\r\n" ],
-      "domaine" : "liesverstoen"
-   }, {
-      "competences" : [ " erzielen (an der Vergangenheet: e Virfall, en Oflaf)\r\n", "eng Persoun, eng Plaz, eng Saach, Hobbyen, eng Tatsaach, e Phenomen... beschreiwen\r\n", " Persounen, Plazen, Saachen, Hobbyen, Tatsaachen, Phenomener...  vergläichen\r\n    ", " e kuerzen, preparéierten Text als Monolog virdroen (eng Billergeschicht kommentéieren, eng Usprooch, e   Message um Repondeur ...)", "  e Gespréich ufänken, weiderféieren an ofschléissen\r\n", " e Wonsch ausdrécken (Conditionnel)\r\n", " Konditiounen a Konsequenzen ausdrécken (wann / dann)\r\n", " seng Meenung ausdrécken a begrënnen (firwat?/ well)\r\n", "eng Erlaabnis froen a ginn (Congé froen, am Cours, ...)\r\n", " e Rot froen a ginn (bei Krankheeten, an der Kichen, ...)\r\n", "  eng Informatioun froen a ginn (op der Gare, Ëmfro, op Administratiounen, ...)\r\n" ],
-      "domaine" : "Mëndlechen Ausdrock"
-   }, {
-      "competences" : [ " kleng Notize schreiwen (Informatioune froe iwwer Produiten, Blog, ...)\r\n", " eng einfach Invitatioun schreiwen\r\n\r\n", " eng einfach Annonce schreiwen\r\n", "en einfache Bréif schreiwen (Broschüren / Formulairen ufroen, ...)\r\n\r\n" ],
-      "domaine" : "Schrëftlechen Ausdrock"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Klein",
-      "prenom" : "Myriam"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 13:00 (durée 2h), Mardi à 13:00 (durée 2h), Mercredi à 13:00 (durée 2h), Jeudi à 13:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65226,
-   "intitule" : "luxembourgeois, culture et citoyenneté intensif",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 13,
-   "nbPlaces" : 24,
-   "niveau" : "B1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Niveau A2.3 acquis"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie-Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
    "coursCode" : "LA-LB-1432",
    "coursId" : "LA-LB-1432",
    "coursType" : "CLASSIQUE",
@@ -34785,7 +34883,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 22,
    "niveau" : "Avancé",
    "onlineRegistration" : false,
@@ -35583,7 +35681,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 24,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -38522,104 +38620,6 @@
    },
    "prerequis" : "Alphabétisation de niveau intermédiaire acquise",
    "renseignements" : "non accessible aux personnes à mobilité réduite\r\n\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1303",
-   "coursId" : "LA-FR-1303",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "16/03/2026",
-   "dateFin" : "04/05/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Aptitude à accéder à diverses formes d'écrit (personnel, administratif) et à produire dans des structures justes des écrits dans une situation de communication écrite quotidienne, en révisant les règles de grammaire basiques",
-   "domainesCompetences" : [ {
-      "competences" : [ "suivre une conversation quotidienne sur des sujets familiers rencontrés régulièrement au travail, à l'école, pendant les loisirs si l'interlocuteur s'exprime clairement, bien qu'il soit parfois nécessaire de faire répéter certains mots ou expression.", " suivre les points principaux d'une longue discussion se déroulant en sa présence, à condition que la langue soit standard et clairement articulée", "comprendre des informations techniques simples, tels que des modes d'emploi, des recettes de cuisine", "comprendre l'information contenue dans la plupart des documents enregistrés ou radiodiffusés (chansons)." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "parcourir un texte assez long pour y localiser une information cherchée et réunir des informations provenant de différentes parties du texte afin d'accomplir une tâche spécifique.", "reconnaître les points significatifs d'un article de journal direct et non complexe sur un sujet familier\r\n", "identifier des mots inconnus à l'aide du contexte sur des sujets relatifs à son domaine et à ses intérêts. \r\n" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "communiquer avec une certaine assurance sur des sujets familiers habituels ou non en relation avec ses intérêts et son domaine professionnel. ", "exprimer sa pensée sur un sujet abstrait ou culturel comme un film, des livres, de la musique, etc.", "aborder sans préparation une conversation sur un sujet familier\r\n", "relater en détail ses expériences en décrivant ses sentiments et ses réactions.\r\n", "raconter l'intrigue d'un livre ou d'un film et décrire ses propres réactions, ", "décrire un rêve, un espoir ,une ambition, des peurs \r\n", "décrire un événement, réel ou imaginaire. \r\n", "raconter une histoire.\r\n", "développer une argumentation suffisamment bien pour être compris sans difficulté la plupart du temps." ],
-      "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "réagir à des sentiments tels que la surprise, la joie, la tristesse, la curiosité et l'indifférence et les exprimer.", "soutenir une conversation ou une discussion\r\n", " échanger de l'information sur des sujets familiers, d'intérêt personnel ou pertinents pour la vie quotidienne (par exemple, la famille, les loisirs, le travail, les voyages et les faits d'actualité).", "commenter brièvement le point de vue d'autrui.\r\n", "comparer et opposer des alternatives \r\n", "émettre ou solliciter un point de vue personnel ou une opinion sur des points d'intérêt général.\r\n", "exprimer poliment ses convictions, ses opinions, son accord et son désaccord.\r\n", "commenter brièvement le point de vue d'autrui\r\n", "commencer, poursuivre et terminer une simple conversation en tête-à-tête sur des sujets familiers ou d'intérêt personnel" ],
-      "domaine" : "Interaction orale"
-   }, {
-      "competences" : [ "écrire des descriptions détaillées simples et directes sur une gamme étendue de sujets familiers (centre d'intérêt, famille, aspects culturels) ", "rédiger un programme ( de sorties, de lieux à visiter, ..)\r\n", "rédiger un questionnaire \r\n", "comparer des gens, des pays, des situations..\r\n", "faire le compte rendu d'expériences en décrivant ses souvenirs, ses sentiments, ses réactions, \r\n", "écrire la description d'un évènement, d'un voyage \r\n", "raconter une histoire \r\n", "paraphraser ( écrire à la manière de )\r\n" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "conjuguer les principaux verbes au temps de l'indicatif \r\n", "utiliser le comparatif et le superlatif ", "utiliser les pronoms compléments simples et doubles \r\n", "utiliser l'impératif, les pronoms compléments à l'impératif ", "utiliser les temps du passé ", "utiliser le conditionnel présent et passé \r\n", "utiliser le passif", " utiliser le subjonctif ", "utiliser le gérondif et le participe présent\r\n" ],
-      "domaine" : "Grammaire"
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Jacquet",
-      "prenom" : "Annie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63742,
-   "intitule" : "Cours de renforcement grammatical",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 5,
-   "nbPlaces" : 18,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau A2 oral acquis",
-   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
 }, {
    "adresseCours" : {
       "codePostal" : "2132",
