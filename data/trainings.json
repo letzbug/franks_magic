@@ -1,153 +1,5 @@
 [ {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9151",
-      "localite" : "Eschdorf",
-      "nom" : "Landakademie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, am Foumichterwee"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1193",
-   "coursId" : "LA-FR-1193",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "24/04/2026",
-   "dateFin" : "28/07/2026",
-   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
-   "description" : "comprendre le contenu essentiel au travail, à l'école et aux loisirs. Se débrouiller lors d'un voyage. Tenir un discours simple et cohérent sur des sujets divers. Raconter et décrire un évènement, rêve ou un projet. Expliquer une idée",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des nouvelles", "comprendre des différents dialogues", "comprendre un message téléphonique enregistré", "comprendre un petit documentaire" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "comprendre des annonces publicitaires", "comprendre des informations et instructions", "comprendre l'horoscope", "comprendre des menus", "comprendre des articles de presse et différents genres de textes" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "se présenter, donner et demander des informations de caractère personnel, professionnel et des loisirs", "faire des déscriptions au passé", "donner son avis, poser des questions, conseiller", "faire des comparaisons, faire un résumé", "donner des informations simples sur un problème de santé", "parler des expériences personnelles", "parler des fêtes et traditions de son pays" ],
-      "domaine" : "expression orale"
-   }, {
-      "competences" : [ "répondre à des questions d'interprétation, à une enquête", "remplir des documents" ],
-      "domaine" : "expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h30), Vendredi à 14:00 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 63474,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
-         "nom" : "Landakademie",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
-      },
-      "code" : "LANAKA",
-      "fax" : "+352 89 95 68-40",
-      "mail" : "fabio@landakademie.lu",
-      "nom" : "Landakademie",
-      "nomContact" : "Da Silva Loureiro",
-      "onlineReg" : false,
-      "prenomContact" : "Fabio",
-      "statut" : "ASBL",
-      "telephone" : "89 95 68 28",
-      "websiteUrl" : "https://www.landakademie.lu/"
-   },
-   "prerequis" : "connaissances en français",
-   "renseignements" : "renseignements complémentaires lors de l'inscription"
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-83",
-   "coursId" : "IN-BUR-83",
-   "coursType" : "CLASSIQUE",
-   "cout" : 240.0,
-   "dateDebut" : "24/04/2026",
-   "dateFin" : "18/07/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30 et vendredi de 9h30 à 13h00",
-   "description" : "Apprendre à créer et à formater un document de texte court et être en mesure de copier et de déplacer du texte au sein d'un document ou entre les documents. Acquérir des connaissances dans l'utilisation d'un programme de présentation à l'ordinateur. Comprendre les termes fondamentaux concernant le traitement de calcul à l'ordinateur.",
-   "duree" : "80h",
-   "enseignants" : [ {
-      "nom" : "Ioanid",
-      "prenom" : "Paul George"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 08:00 (durée 4h), Samedi à 08:00 (durée 4h)",
-   "horaires" : [ {
-      "duree" : "4h",
-      "heure" : "08:00",
-      "jour" : "Vendredi"
-   }, {
-      "duree" : "4h",
-      "heure" : "08:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 65236,
-   "intitule" : "Applications bureautiques",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 16,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "renseignements" : "non accessible aux personnes à mobilité réduite"
-}, {
-   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Forum Campus Geesseknäppchen",
@@ -28254,6 +28106,154 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1193",
+   "coursId" : "LA-FR-1193",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "24/04/2026",
+   "dateFin" : "28/07/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "comprendre le contenu essentiel au travail, à l'école et aux loisirs. Se débrouiller lors d'un voyage. Tenir un discours simple et cohérent sur des sujets divers. Raconter et décrire un évènement, rêve ou un projet. Expliquer une idée",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des nouvelles", "comprendre des différents dialogues", "comprendre un message téléphonique enregistré", "comprendre un petit documentaire" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre des annonces publicitaires", "comprendre des informations et instructions", "comprendre l'horoscope", "comprendre des menus", "comprendre des articles de presse et différents genres de textes" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter, donner et demander des informations de caractère personnel, professionnel et des loisirs", "faire des déscriptions au passé", "donner son avis, poser des questions, conseiller", "faire des comparaisons, faire un résumé", "donner des informations simples sur un problème de santé", "parler des expériences personnelles", "parler des fêtes et traditions de son pays" ],
+      "domaine" : "expression orale"
+   }, {
+      "competences" : [ "répondre à des questions d'interprétation, à une enquête", "remplir des documents" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h30), Vendredi à 14:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 63474,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "9151",
+         "localite" : "Eschdorf",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, am Foumichterwee"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissances en français",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-83",
+   "coursId" : "IN-BUR-83",
+   "coursType" : "CLASSIQUE",
+   "cout" : 240.0,
+   "dateDebut" : "24/04/2026",
+   "dateFin" : "18/07/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30 et vendredi de 9h30 à 13h00",
+   "description" : "Apprendre à créer et à formater un document de texte court et être en mesure de copier et de déplacer du texte au sein d'un document ou entre les documents. Acquérir des connaissances dans l'utilisation d'un programme de présentation à l'ordinateur. Comprendre les termes fondamentaux concernant le traitement de calcul à l'ordinateur.",
+   "duree" : "80h",
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 08:00 (durée 4h), Samedi à 08:00 (durée 4h)",
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Samedi"
+   } ],
+   "id" : 65236,
+   "intitule" : "Applications bureautiques",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 16,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
    "coursCode" : "LA-FR-1512",
    "coursId" : "LA-FR-1512",
    "coursType" : "CLASSIQUE",
@@ -46272,81 +46272,6 @@
    },
    "prerequis" : "Accessible aux personnes ayant une base en informatique\r\nInitiation PC& Internet acquis. ",
    "renseignements" : "Langue possible: français, anglais\r\nAccessible aux personnes à mobilité réduite\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1325",
-   "coursId" : "LA-LB-1325",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "30/01/2026",
-   "dateFin" : "24/04/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut communiquer lors de tâches simples et habituelles sur des sujets familiers. Peut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "S'exprimer à l'oral dans un vocabulaire approprié et précis dans des situations diverses (familiales, professionnelles, administrative, dans des situations d'achat, de réservation, de demande d'information). \t  \r\n\t\t", "Faire connaissance/ interagir lors d'une rencontre (se présenter, parler de soi et d'autrui, parler de son parcours, de sa famille et de son environnement immédiat). \t  \r\n\t\t", "Assimiler et comprendre les attitudes métalangagières et langagières propres à la langue enseignée (saluer, prise de congé, acquiescer, désigner, compter et autres gestuels)\t  \r\n\t\t", "Apporter et comprendre des précisions au moyen d'une description étoffée, dans une langue qui respecte les structures grammaticales appropriées, le contexte et le registre de langue. (description d'une personne, un lieu, un objet, un fait, un concept et tous les procédés intervenant dans une description).  \t", "Comprendre et dire le goût, le ressenti, les sentiments\t  \r\n\t\t", "Comprendre et donner des instructions (Expliquer un mode de fonctionnement, jeu, recette, trajet, une fabrication d'un objet)\t  \r\n\t\t", "Comprendre et raconter brièvement une expérience, une histoire, un film\t  \r\n\t\t", "Demander quelque chose, de faire quelque chose, remercier et s'excuser. \t  \r\n\t\t", "Comprendre, demander, et  donner des informations\t  \r\n\t\t", "Comprendre les événements passés et en parler\t  \r\n\t\t", "Comprendre un projet et en parler\t  \r\n", "Formuler et justifier son point de vue\t  \r\n\t\t", "Discuter autour d'un thème de médias (comprendre des informations radiophoniques-télévisées-réagir à l'aide de petits commentaires-donner son avis)\t  \r\n\t\t", "Exprimer son accord/désaccord-son opinion\t  \r\n\r\n" ],
-      "domaine" : "compréhension orale et interaction orale"
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Hoffmann",
-      "prenom" : "Marie Marguerite"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 14:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63698,
-   "intitule" : "Conversation luxembourgeoise",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 12,
-   "nbPlaces" : 20,
-   "niveau" : "B1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau A2 acquis",
-   "renseignements" : "accessible aux personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "codePostal" : "3542",
