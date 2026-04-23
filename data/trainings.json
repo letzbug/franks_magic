@@ -2117,87 +2117,6 @@
    "prerequis" : "alphabétisation acquise et A1 oral"
 }, {
    "adresseCours" : {
-      "codePostal" : "6635",
-      "localite" : "Wasserbillig",
-      "nom" : "Bâtiment Miseler Spatzen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "11, rue St Martin"
-   },
-   "adresseInscription" : {
-      "codePostal" : "6630",
-      "localite" : "Wasserbillig",
-      "nom" : "Administration Communale de Mertert / Wasserbillig",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1-3, Grand-Rue"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1124",
-   "coursId" : "LA-LB-1124",
-   "coursType" : "CLASSIQUE",
-   "cout" : 150.0,
-   "dateDebut" : "04/05/2026",
-   "dateFin" : "12/06/2026",
-   "dateInscription" : "Lundi - Vendredi de 07:00 à 16:00",
-   "description" : "Donner aux apprenants la chance de parler la langue luxembourgeoise",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Halbig",
-      "prenom" : "Karin"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63081,
-   "intitule" : "A1.1 Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
-   "nbPlaces" : 15,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6630",
-         "localite" : "Wasserbillig",
-         "nom" : "Administration Communale de Mertert / Wasserbillig",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1-3, Grand-Rue"
-      },
-      "code" : "A.C. MERWA",
-      "fax" : "/",
-      "mail" : "rachel.gotting@mertert.lu",
-      "nom" : "Commune de Mertert ",
-      "nomContact" : "GOTTING",
-      "onlineReg" : false,
-      "prenomContact" : "Rachel",
-      "statut" : "Administration Communale",
-      "telephone" : "74 00 16 122"
-   }
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -3816,7 +3735,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TRT",
    "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -20734,65 +20653,6 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
-      "codePostal" : "1745",
-      "localite" : "Luxembourg",
-      "nom" : "Université Populaire Kirchberg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "15 rue Léon Hengen"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1509",
-   "coursId" : "LA-FR-1509",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "20/07/2026",
-   "dateFin" : "01/09/2026",
-   "domainesCompetences" : [ {
-      "competences" : [ "langue" ],
-      "domaine" : "formation pour adultes"
-   } ],
-   "duree" : "40 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:10 (durée 1h40), Mardi à 17:10 (durée 1h40), Mercredi à 17:10 (durée 1h40)",
-   "horaires" : [ ],
-   "id" : 65330,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 15,
-   "niveau" : "B1.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzMzA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4965",
-         "localite" : "Clémency",
-         "nom" : "A-PRENDRE",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "10, rue de l'École"
-      },
-      "code" : "APR",
-      "mail" : "venemany@a-prendre.lu",
-      "nom" : "A-PRENDRE SIS",
-      "nomContact" : "PRENDRE",
-      "onlineReg" : true,
-      "prenomContact" : "A-",
-      "statut" : "ASBL",
-      "telephone" : "/",
-      "websiteUrl" : "https://a-prendre.lu/"
-   },
-   "prerequis" : "A2.2",
-   "renseignements" : "livre et cahier d'activités à acheter:\r\n- Edito Pro B1 - Livre + DVD-rom + didierfle.app Broché  Illustré, 5 août 2020\r\n- Edito Pro B1 - Cahier + CD MP3 + didierfle.app Broché  MP3 audio, 11 janvier 2021"
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -20999,80 +20859,6 @@
    },
    "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
    "renseignements" : "Groupes de niveaux homogènes composés de 4 à 8 apprenants."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1745",
-      "localite" : "Luxembourg",
-      "nom" : "Université Populaire Kirchberg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "15 rue Léon Hengen"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-752",
-   "coursId" : "LA-FR-752",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "20/07/2026",
-   "dateFin" : "01/09/2026",
-   "domainesCompetences" : [ {
-      "competences" : [ "langue" ],
-      "domaine" : "formation pour adultes"
-   } ],
-   "duree" : "40 leçons",
-   "enseignants" : [ {
-      "nom" : "Vilay",
-      "prenom" : "Venemany"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 18:50 (durée 1h40),\nMardi à 18:50 (durée 1h40),\nMercredi à 18:50 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 59823,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 15,
-   "niveau" : "B1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk4MjM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4965",
-         "localite" : "Clémency",
-         "nom" : "A-PRENDRE",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "10, rue de l'École"
-      },
-      "code" : "APR",
-      "mail" : "venemany@a-prendre.lu",
-      "nom" : "A-PRENDRE SIS",
-      "nomContact" : "PRENDRE",
-      "onlineReg" : true,
-      "prenomContact" : "A-",
-      "statut" : "ASBL",
-      "telephone" : "/",
-      "websiteUrl" : "https://a-prendre.lu/"
-   },
-   "prerequis" : "A2.2",
-   "renseignements" : "livre et cahier d'activités à acheter:\r\n- Edito Pro B1 - Livre + DVD-rom + didierfle.app Broché  Illustré, 5 août 2020\r\n- Edito Pro B1 - Cahier + CD MP3 + didierfle.app Broché  MP3 audio, 11 janvier 2021"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -26933,10 +26719,25 @@
       "domaine" : "Schrëfltechen Ausdrock"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Klein",
+      "prenom" : "Nadine"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 11:15 (durée 2h),\nMardi à 11:15 (durée 2h),\nMercredi à 11:15 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "11:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:15",
+      "jour" : "Mercredi"
+   } ],
    "id" : 63379,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -32797,7 +32598,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 25,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : true,
@@ -38182,7 +37983,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 13,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
