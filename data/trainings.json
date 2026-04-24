@@ -4308,7 +4308,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -6059,7 +6059,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -7953,7 +7953,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 17,
+   "nbInscrits" : 19,
    "nbPlaces" : 23,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -8917,7 +8917,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -9313,7 +9313,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -25280,6 +25280,83 @@
    "renseignements" : "Accès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
+      "codePostal" : "4276",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "52, rue Louis Pasteur"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4141",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "86, Rue Victor Hugo"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1540",
+   "coursId" : "LA-FR-1540",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "16/09/2026",
+   "dateFin" : "09/12/2026",
+   "dateInscription" : "De 08h00 à 16h00 du mercredi au vendredi à partir du mois d'août",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprend des expressions courantes utilisées dans des contextes quotidiens (ex. achats, transports).\r\nPeut suivre une conversation simple si l’interlocuteur parle clairement.\r\nComprend les points principaux d’une annonce ou d’une information pratique (ex. \"La pharmacie est fermée aujourd’hui\").\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut lire et comprendre des textes courts sur des sujets familiers (ex. emails, lettres simples).\r\nPeut comprendre des instructions simples (ex. recettes de cuisine, indications sur un médicament).\r\nPeut extraire des informations spécifiques d’un programme ou d’une brochure touristique.\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut parler de sa routine quotidienne en utilisant des phrases simples (ex. \"Le matin, je prends mon café et je vais au travail.\").\r\nPeut exprimer ses goûts et préférences en expliquant brièvement pourquoi.\r\nPeut raconter un événement passé en utilisant des phrases basiques (ex. \"Hier, je suis allé au cinéma.\").\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Peut écrire des messages courts et simples sur des sujets familiers.\r\nPeut rédiger un email ou une lettre amicale (ex. \"Salut Paul, comment vas-tu ?\").\r\nPeut écrire un texte court décrivant son lieu de vie ou son travail.\r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "Peut interagir dans des situations de la vie quotidienne (ex. demander des informations, faire des achats).\r\nPeut participer à une conversation simple sur des sujets personnels et professionnels.\r\nPeut reformuler une phrase si l’interlocuteur ne comprend pas immédiatement." ],
+      "domaine" : "Interaction"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 13:00 (durée 2h), Vendredi à 13:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66658,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4141",
+         "localite" : "Esch sur Alzette",
+         "nom" : "CIGL - Esch sur Alzette",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "86, Rue Victor Hugo"
+      },
+      "code" : "CIGL-Esch",
+      "fax" : "+352 45 44 24 500",
+      "mail" : "sarra.koubaa@ciglesch.lu",
+      "nom" : "CIGL - Esch sur Alzette",
+      "nomContact" : "Lippis",
+      "onlineReg" : false,
+      "prenomContact" : "Luciano",
+      "statut" : "ASBL",
+      "telephone" : "+352 54 42 45 208"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "1617",
       "localite" : "Luxembourg",
       "nom" : "CLAE services asbl",
@@ -25452,6 +25529,84 @@
       "websiteUrl" : "https://www.clae.lu/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4276",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "52, rue Louis Pasteur"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4141",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "86, Rue Victor Hugo"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1539",
+   "coursId" : "LA-FR-1539",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "18/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "De 08h00 à 16h00 du mercredi au vendredi à partir du mois d'août",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprend des mots isolés et des expressions très simples liés à son environnement immédiat (ex. \"Bonjour\", \"merci\", \"au revoir\").\r\nPeut identifier des noms familiers, des mots et des expressions courantes si l'interlocuteur parle lentement et distinctement.\r\nCapable de repérer des consignes élémentaires en classe ou dans un contexte très prévisible (ex. \"Ouvrez le livre\")." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Reconnait des mots et des expressions courantes dans des supports visuels (ex. affiches, pictogrammes, étiquettes).\r\nPeut comprendre des phrases courtes et simples avec aide (ex. \"La boulangerie est à droite\").\r\nCapable d’identifier des noms et des mots familiers dans des textes très courts." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut écrire son nom, son âge, sa nationalité sur un formulaire.\r\nCapable de recopier des mots et des phrases simples.\r\nPeut écrire des phrases courtes avec modèle (ex. \"Je suis étudiant. J'aime le sport.\").\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Peut écrire son nom, son âge, sa nationalité sur un formulaire.\r\nCapable de recopier des mots et des phrases simples.\r\nPeut écrire des phrases courtes avec modèle (ex. \"Je suis étudiant. J'aime le sport.\")." ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "Peut répondre à des questions simples avec des mots isolés (ex. \"Tu as quel âge ?\" \"20 ans\").\r\nPeut poser des questions basiques sur l’identité (ex. \"Comment tu t’appelles ?\").\r\nPeut participer à un dialogue ultra simple si l’interlocuteur parle lentement et répète." ],
+      "domaine" : "Interaction"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 13:00 (durée 2h), Vendredi à 08:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66657,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4141",
+         "localite" : "Esch sur Alzette",
+         "nom" : "CIGL - Esch sur Alzette",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "86, Rue Victor Hugo"
+      },
+      "code" : "CIGL-Esch",
+      "fax" : "+352 45 44 24 500",
+      "mail" : "sarra.koubaa@ciglesch.lu",
+      "nom" : "CIGL - Esch sur Alzette",
+      "nomContact" : "Lippis",
+      "onlineReg" : false,
+      "prenomContact" : "Luciano",
+      "statut" : "ASBL",
+      "telephone" : "+352 54 42 45 208"
+   },
+   "prerequis" : "Savoir lire et écrire "
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -31830,7 +31985,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 25,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : true,
@@ -32193,7 +32348,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -34031,7 +34186,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 22,
+   "nbInscrits" : 23,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
