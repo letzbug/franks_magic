@@ -40,7 +40,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1366,102 +1366,6 @@
       "websiteUrl" : "http://www.lejardindespossibles.lu/"
    },
    "prerequis" : "Aucun"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3493",
-      "localite" : "Dudelange",
-      "nom" : "Moien asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue Batty Weber "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1510",
-   "coursId" : "LA-LB-1510",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "04/05/2026",
-   "dateFin" : "22/05/2026",
-   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
-   "description" : "Comprendre les points essentiels quand un langage clair et standard est utilisé et s'il s'agit de choses familières dans le travail, à l'école, dans les loisirs etc. ; \r\nSe débrouiller dans la plupart des situations quotidiennes; \r\nProduire un discours simple et cohérent sur des sujets familiers et dans ses domaines d'intérêt; \r\nRaconter un événement, une expérience ou un rêve, \r\nDécrire un espoir ou un but et exposer brièvement des raisons ou explications pour un projet ou une idée.",
-   "domainesCompetences" : [ {
-      "competences" : [ "raconter des événements au passé de manière plus approfondie (enfance, vacances, souvenirs)", "participer à des conversations sur des sujets d'actualité", "échanger des points de vue personnels, exprimer son accord ou son désaccord", "exprimer ses sentiments et réagir aux sentiments exprimés par d'autres", "s'exprimer en utilisant des formules de politesse plus élaborées" ],
-      "domaine" : "expression orale"
-   }, {
-      "competences" : [ "comprendre des récits courts sur des sujets familiers", "comprendre des questions sur des thèmes précis (médecin, administration...)", "comprendre l'essentiel ou les points principaux des journaux radio ou télévisés" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "rédiger des récits et des lettres en utilisant des phrases complexes", "demander des renseignements par courrier électronique ou par courrier traditionnel (location, offre d'emploi...)" ],
-      "domaine" : "expression écrite"
-   }, {
-      "competences" : [ "comprendre des petits textes littéraires simples ", "comprendre des textes sur des sujets d'actualité ou familiers (critique de films et pièces de théâtre, lettres, brochures...)" ],
-      "domaine" : "compréhension écrite"
-   } ],
-   "duree" : "45h",
-   "enseignants" : [ {
-      "nom" : "Lassine",
-      "prenom" : "Nadia Gisèle"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66194,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 17,
-   "nbPlaces" : 18,
-   "niveau" : "B1.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3493",
-         "localite" : "Dudelange",
-         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Batty Weber"
-      },
-      "code" : "Moien",
-      "mail" : "moienasbl@pt.lu",
-      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
-      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
-      "onlineReg" : true,
-      "prenomContact" : "Moien",
-      "statut" : "ASBL",
-      "telephone" : "www.moienasbl.lu",
-      "websiteUrl" : "http://www.moienasbl.lu"
-   },
-   "renseignements" : "MOIEN ASBL \r\ninformation, inscription et paiement en ligne sur le site www.moienasbl.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "66706",
@@ -3003,7 +2907,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -3155,7 +3059,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TAB",
    "matiereNom" : "Tableurs",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -3587,7 +3491,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TRT",
    "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -28247,6 +28151,154 @@
    "renseignements" : "Accès pour personnes à mobilité réduite. Au coût d'inscription s'ajouteront les frais de participation (16,50 euros)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4276",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "52, rue Louis Pasteur"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4141",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "86, Rue Victor Hugo"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1541",
+   "coursId" : "LA-FR-1541",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "04/01/2027",
+   "dateFin" : "09/04/2027",
+   "dateInscription" : "De 08h00 à 16h00 du mercredi au vendredi à partir du mois d'août",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprend des phrases très courantes dans un contexte familier (ex. en famille, au restaurant).\r\nPeut repérer des informations essentielles dans des annonces ou des dialogues très simples (ex. \"Le train part à 10 heures\").\r\nComprend mieux les consignes et instructions si elles sont répétées et dites lentement.\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut comprendre des phrases simples dans des documents du quotidien (ex. menus, prospectus, horaires).\r\nPeut reconnaître des informations essentielles dans une carte postale ou un email simple.\r\nComprend des descriptions très courtes de personnes, de lieux ou d’objets.\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut se présenter plus en détail (ex. \"Je m’appelle Pierre, j’ai 25 ans et j’habite à Paris.\").\r\nPeut décrire de façon simple sa famille, ses goûts, son environnement immédiat.\r\nPeut dire ce qu’il aime et ce qu’il n’aime pas avec des phrases simples (ex. \"J’aime le football mais je n’aime pas le tennis.\").\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Peut poser et répondre à des questions simples sur des besoins immédiats (ex. commander un plat dans un restaurant).\r\nPeut comprendre et suivre une conversation courte sur des sujets connus (ex. demander son chemin).\r\nPeut répondre avec des phrases plus complètes mais avec quelques erreurs grammaticales.\r\n" ],
+      "domaine" : "Interaction"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 13:00 (durée 2h), Vendredi à 08:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66659,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4141",
+         "localite" : "Esch sur Alzette",
+         "nom" : "CIGL - Esch sur Alzette",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "86, Rue Victor Hugo"
+      },
+      "code" : "CIGL-Esch",
+      "fax" : "+352 45 44 24 500",
+      "mail" : "sarra.koubaa@ciglesch.lu",
+      "nom" : "CIGL - Esch sur Alzette",
+      "nomContact" : "Lippis",
+      "onlineReg" : false,
+      "prenomContact" : "Luciano",
+      "statut" : "ASBL",
+      "telephone" : "+352 54 42 45 208"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4276",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "52, rue Louis Pasteur"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4141",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "86, Rue Victor Hugo"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1542",
+   "coursId" : "LA-FR-1542",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "06/01/2027",
+   "dateFin" : "07/04/2027",
+   "dateInscription" : "De 08h00 à 16h00 du mercredi au vendredi à partir du mois d'août",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprend des conversations simples sur des sujets habituels.\r\nPeut suivre des instructions et comprendre des dialogues du quotidien (ex. réservation d’hôtel, conversation téléphonique).\r\nComprend des annonces dans des lieux publics (ex. gare, aéroport).\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut lire et comprendre des textes un peu plus longs (ex. articles simples, courriels professionnels de base).\r\nPeut comprendre des descriptions détaillées d’endroits, de personnes ou d’événements.\r\nPeut comprendre des messages sur des réseaux sociaux et y répondre de manière simple.\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut parler de son expérience, exprimer son opinion de façon basique (ex. \"Je pense que c’est une bonne idée.\").\r\nPeut raconter un souvenir ou une expérience en enchaînant plusieurs phrases (ex. \"L’été dernier, je suis allé en Espagne. C’était très beau.\").\r\nPeut donner des conseils simples et exprimer ses préférences avec justification.\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Peut échanger de façon plus fluide sur des sujets familiers et exprimer ses besoins avec plus de précision.\r\nPeut tenir une conversation simple avec un natif sur des sujets quotidiens sans trop d’hésitation.\r\nPeut poser des questions plus complexes et exprimer des réactions (ex. \"Pourquoi pensez-vous cela ?\").\r\n" ],
+      "domaine" : "Interaction"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 13:00 (durée 2h), Vendredi à 13:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66660,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4141",
+         "localite" : "Esch sur Alzette",
+         "nom" : "CIGL - Esch sur Alzette",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "86, Rue Victor Hugo"
+      },
+      "code" : "CIGL-Esch",
+      "fax" : "+352 45 44 24 500",
+      "mail" : "sarra.koubaa@ciglesch.lu",
+      "nom" : "CIGL - Esch sur Alzette",
+      "nomContact" : "Lippis",
+      "onlineReg" : false,
+      "prenomContact" : "Luciano",
+      "statut" : "ASBL",
+      "telephone" : "+352 54 42 45 208"
+   }
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -34455,7 +34507,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 18,
    "niveau" : "B1 du CECRL",
    "onlineRegistration" : false,
@@ -46020,7 +46072,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 156.0,
    "dateDebut" : "03/02/2026",
-   "dateFin" : "21/05/2026",
+   "dateFin" : "02/06/2026",
    "dateInscription" : "à partir du 1er juillet 2025",
    "description" : "- dire ce qu'on fait du matin au soir et avec quelle féquence\r\n- savoir commander au restaurant\r\n- savoir faire du shopping\r\n- parler de sa famille\r\n- parler au docteur",
    "duree" : "52h",
@@ -46029,7 +46081,7 @@
       "prenom" : "Margot Jeannine"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:30 (durée 2h),\nJeudi à 18:30 (durée 2h)",
+   "horairePrevu" : "Mardi à 18:30 (durée 2h), Jeudi à 18:30 (durée 2h)",
    "horaires" : [ {
       "duree" : "2h",
       "heure" : "18:30",
