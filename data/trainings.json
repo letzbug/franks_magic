@@ -104,7 +104,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "NUT",
    "matiereNom" : "Nutrition",
-   "nbInscrits" : 10,
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -1635,94 +1635,6 @@
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1507",
-   "coursId" : "LA-LB-1507",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "04/05/2026",
-   "dateFin" : "22/05/2026",
-   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
-   "description" : "Indiquer ses préférences, exprimer ses souhaits, comprendre des expressions familières ainsi que des énoncés simples qui visent à satisfaire des besoins concrets; communiquer de façon simple (p.ex. au magasin ou chez le médecin)  avec un interlocuteur bienveillant.",
-   "domainesCompetences" : [ {
-      "competences" : [ "décrire, répondre à des questions, poser des questions de manière simple concernant le déroulement d'une journée type, ses activités de loisir et ses hobbys", "exprimer ce qu'on aime et ce qu'on n'aime pas", "proposer un rendez-vous ou répondre de manière simple et polie à un rendez-vous / une invitation (lieu, horaire, activité, programme) ", "parler du temps, de la météo", "nommer et décrire des aliments et des boissons, indiquer ses souhaits, effectuer une conversation quand on fait ses courses (quantités, prix, horaire d'ouverture)", "commander quelque chose à boire ou à manger", "parler de sa famille et de ses amis", "décrire une personne", "participer à une conversation chez le médecin" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "comprendre des questions simples concernant ses passe-temps, son quotidien (fréquence des activités, amis, famille)", "comprendre des questions simples quand il fait ses courses (produits, quantités, prix, magasins)\r\n", "comprendre des questions simples concernant ses goûts, ses préférences, ses souhaits (alimentation, passe-temps) " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "écrire une carte-postale en indiquant ses activités de vacances avec une formule de politesse", "écrire un mail pour accepter ou refuser un rendez-vous, pour s'excuser avec une formule de politesse " ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "comprendre les informations des annonces familiales (naissances, mariages), des annonces de contact, des cartes de menus", "comprendre un programme de manifestations culturelle ou sportives " ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "45h",
-   "enseignants" : [ {
-      "nom" : "Sanchez",
-      "prenom" : "Stephanie"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h), Vendredi à 17:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66191,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 16,
-   "nbPlaces" : 18,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3493",
-         "localite" : "Dudelange",
-         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Batty Weber"
-      },
-      "code" : "Moien",
-      "mail" : "moienasbl@pt.lu",
-      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
-      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
-      "onlineReg" : true,
-      "prenomContact" : "Moien",
-      "statut" : "ASBL",
-      "telephone" : "www.moienasbl.lu",
-      "websiteUrl" : "http://www.moienasbl.lu"
-   },
-   "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
    "categorieCode" : "CIN",
    "categorieCodeUnipop" : "CIN",
    "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
@@ -1961,7 +1873,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 3,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11568,17 +11480,24 @@
    "dateFin" : "15/07/2026",
    "description" : "In this class we will embark on a journey to discover the wonders of our Universe: from the origin of distant planets, life cycle of stars big and small. Learn about the latest scientific discoveries, and how you too can incorporate a small dose of astronomy in your daily life.",
    "duree" : "14 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Gárate Silva",
+      "prenom" : "Matias Ignacio"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66610,
    "intitule" : "Discovering the Universe - Astronomy",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "SCN",
    "matiereNom" : "Sciences naturelles",
-   "nbInscrits" : 0,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -12533,7 +12452,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHIL",
    "matiereNom" : "Philosophie",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12737,7 +12656,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -18907,7 +18826,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHOT",
    "matiereNom" : "Photographie",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -25226,10 +25145,21 @@
       "domaine" : "Interaction"
    } ],
    "duree" : "50h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Relativo",
+      "prenom" : "Soraya"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 13:00 (durée 2h), Vendredi à 13:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66658,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -25477,10 +25407,21 @@
       "domaine" : "Interaction"
    } ],
    "duree" : "50h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Relativo",
+      "prenom" : "Soraya"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 13:00 (durée 2h), Vendredi à 08:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66657,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -28190,10 +28131,21 @@
       "domaine" : "Interaction"
    } ],
    "duree" : "50h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Relativo",
+      "prenom" : "Soraya"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 13:00 (durée 2h), Vendredi à 08:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66659,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -28264,10 +28216,21 @@
       "domaine" : "Interaction"
    } ],
    "duree" : "50h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Relativo",
+      "prenom" : "Soraya"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 13:00 (durée 2h), Vendredi à 13:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "13:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66660,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -30802,7 +30765,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -35098,104 +35061,9 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 16,
    "nbPlaces" : 20,
    "niveau" : "A2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1617",
-         "localite" : "Luxembourg",
-         "nom" : "Clae services asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "26, rue de Gasperich"
-      },
-      "code" : "CLAE",
-      "mail" : "patricia.lopes@clae.lu",
-      "nom" : "Clae services asbl",
-      "nomContact" : "Lopes",
-      "onlineReg" : false,
-      "prenomContact" : "Patricia",
-      "statut" : "ASBL",
-      "telephone" : "+352 29 86 86 1",
-      "websiteUrl" : "https://www.clae.lu/"
-   },
-   "renseignements" : "Accès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "CLAE services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "26, Rue Gasperich"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "CLAE services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "26, rue de Gasperich"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1110",
-   "coursId" : "LA-FR-1110",
-   "coursType" : "CLASSIQUE",
-   "cout" : 288.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "14/07/2026",
-   "dateInscription" : "Le mercredi 1er avril 2026 uniquement sur rendez-vous",
-   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés très simples qui visent à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un et poser à une personne des questions la concernant. Peut répondre au même type de questions. Peut communiquer de façon simple si l'interlocuteur parle lentement et distinctement et se montre coopératif.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des mots familiers et des expressions très courantes au sujet de lui-même, de sa famille et de l'environnement concret et immédiat, si les gens parlent lentement et distinctement." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Comprendre des noms familiers, des mots ainsi que des phrases très simples, par exemple dans des annonces, des affiches ou des catalogues." ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Communiquer, de façon simple, à condition que l'interlocuteur soit disposé à répéter ou à reformuler ses phrases plus lentement et apporter une aide à la formulation.", "poser des questions simples sur des sujets familiers ou sur un besoin immédiat, ainsi que répondre à de telles questions." ],
-      "domaine" : "Production orale"
-   }, {
-      "competences" : [ "Porter des détails personnels dans un questionnaire, inscrire par exemple son nom, sa nationalité et son adresse sur une fiche d'hôtel.", "écrire une courte carte postale simple, par exemple de vacances." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "96h",
-   "enseignants" : [ {
-      "nom" : "Kalisz",
-      "prenom" : "Sophie"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 15:00 (durée 2h),\nMardi à 15:00 (durée 2h),\nMercredi à 15:00 (durée 2h),\nJeudi à 15:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "15:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "15:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "15:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "15:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63059,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 18,
-   "nbPlaces" : 19,
-   "niveau" : "A1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
