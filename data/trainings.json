@@ -105,7 +105,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "FINA",
    "matiereNom" : "Finances",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -325,7 +325,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "FINA",
    "matiereNom" : "Finances",
-   "nbInscrits" : 4,
+   "nbInscrits" : 6,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1238,17 +1238,28 @@
       "domaine" : "formation pour adultes"
    } ],
    "duree" : "40h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Vilay",
+      "prenom" : "Venemany"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 18:50 (durée 1h40), Mercredi à 18:50 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Mercredi"
+   } ],
    "id" : 59821,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 12,
    "nbPlaces" : 15,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -1309,7 +1320,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1486,10 +1497,21 @@
       "domaine" : "formation pour adultes"
    } ],
    "duree" : "40h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Vilay",
+      "prenom" : "Venemany"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 17:10 (durée 1h40), Mercredi à 17:10 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
    "id" : 59822,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -2961,7 +2983,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 6,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3416,7 +3438,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -4947,7 +4969,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NUT",
    "matiereNom" : "Nutrition",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -5387,7 +5409,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11696,7 +11718,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHIL",
    "matiereNom" : "Philosophie",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13227,7 +13249,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "OEN",
    "matiereNom" : "Oenologie et Bar",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -13409,7 +13431,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHOT",
    "matiereNom" : "Photographie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13575,10 +13597,33 @@
    "dateFin" : "13/07/2026",
    "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
    "duree" : "26h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66676,
    "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
    "langueCoursCode" : "LB",
@@ -16878,7 +16923,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -19663,10 +19708,25 @@
       "domaine" : "formation pour adultes"
    } ],
    "duree" : "40h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Vilay",
+      "prenom" : "Venemany"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:10 (durée 1h40), Mardi à 17:10 (durée 1h40), Mercredi à 17:10 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
    "id" : 65330,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -30371,7 +30431,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 13,
+   "nbInscrits" : 12,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -31015,7 +31075,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 20,
+   "nbInscrits" : 21,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
