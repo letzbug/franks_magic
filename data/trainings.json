@@ -5385,7 +5385,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -17735,6 +17735,65 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1338",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée de Bonnevoie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "119, rue du Cimetière"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coOrganisateurs" : [ "GERO A.S.B.L.", "https://www.gero.lu/" ],
+   "coursCode" : "SO-BE-17",
+   "coursId" : "SO-BE-17",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "02/07/2026",
+   "dateFin" : "02/07/2026",
+   "description" : "La retraite est une étape importante de la vie, souvent attendue avec beaucoup de joie, mais parfois aussi accompagnée d'un peu d'incertitude. C'est pourquoi il est important de réfléchir suffisamment tôt : Comment est-ce que je veux vivre ? Quels sont mes projets ? Quelle est ma situation financière, résidentielle, sociale et personnelle ? \r\n\r\nDans cette conférence interactive animée par un coach retraite bénévole de GERO, vous recevrez de nombreuses informations et idées utiles sur la façon dont vous pouvez vous préparer de manière très personnelle et consciente à la retraite, et donner à cette nouvelle étape de vie un caractère varié et plein de sens. Des questions pourront ensuite être approfondies et discutées ensemble. \r\n\r\nImportant : Dans le cadre de la conférence, aucune question financière et/ou juridique ne sera traitée.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 02-07-2026 à 17:30 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66682,
+   "intitule" : "Retraite ! – Et maintenant ? Bien vivre le changement",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BE",
+   "matiereNom" : "Bien-être",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY2ODI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "La conférence dure 2 heures et est entièrement gratuite."
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -45939,7 +45998,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 125.0,
    "dateDebut" : "28/01/2026",
-   "dateFin" : "14/05/2026",
+   "dateFin" : "18/05/2026",
    "dateInscription" : "Coursdelangues@dudelamge.lu\r\n51 61 21 538",
    "description" : "Comprendre et utiliser des phrases simples face à des besoins concrets ou des sujets familiers. \r\nSe présenter, échanger des informations personnelles simples. \r\nCommuniquer avec un interlocuteur qui s'exprime clairement et lentement.",
    "domainesCompetences" : [ {
@@ -46737,7 +46796,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 85.0,
    "dateDebut" : "27/01/2026",
-   "dateFin" : "12/05/2026",
+   "dateFin" : "21/05/2026",
    "dateInscription" : "Hôtel de Ville de Dudelange\r\nCoursdelangues@dudelange.lu \r\ntél; 51 61 21 538",
    "description" : "Êtes capable de dire quelques mots et expressions au quotidien : se présenter, parler  succinctement de soi mais aussi de son environnement immédiat (nommer, compter).",
    "domainesCompetences" : [ {
@@ -47080,7 +47139,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 85.0,
    "dateDebut" : "26/01/2026",
-   "dateFin" : "13/05/2026",
+   "dateFin" : "18/05/2026",
    "dateInscription" : "Hôtel de Ville de Dudelange. \r\nCoursdelangues@dudelange.lu \r\ntél; 51 61 21 538",
    "description" : "Comprendre/utiliser de courtes phrases isolées et expressions fréquentes dans les commerces et au travail. achats, travail. \r\nComprendre et décrire son environnement immédiat. \r\nFormuler des besoins immédiats.",
    "domainesCompetences" : [ {
@@ -47256,7 +47315,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 85.0,
    "dateDebut" : "26/01/2026",
-   "dateFin" : "11/05/2026",
+   "dateFin" : "13/05/2026",
    "dateInscription" : "Hôtel de Ville de Dudelange\r\nCoursdelangues@dudelange.lu \r\nTél: 51 61 21 538",
    "description" : "Êtes capable de dire quelques mots et expressions au quotidien : se présenter, parler  succinctement de soi mais aussi de son environnement immédiat (nommer, compter).",
    "domainesCompetences" : [ {
@@ -47596,7 +47655,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 100.0,
    "dateDebut" : "26/01/2026",
-   "dateFin" : "11/05/2026",
+   "dateFin" : "13/05/2026",
    "dateInscription" : "coursdelangues@dudelange.lu\r\n51 61 21 538",
    "description" : "Compréhension du contenu essentiel de sujets concrets ou abstraits dans un texte complexe, y compris une discussion technique dans sa spécialité. Capacité à communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un locuteur natif ne comportant de tension ni pour l'un ni pour l'autre. Capacité à s'exprimer de façon claire et détaillée sur une grande gamme de sujets, d'émettre un avis sur un sujet d'actualité et d'exposer les avantages et les inconvénients de différentes possibilités.",
    "domainesCompetences" : [ {
@@ -47771,7 +47830,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 85.0,
    "dateDebut" : "26/01/2026",
-   "dateFin" : "11/05/2026",
+   "dateFin" : "20/05/2026",
    "dateInscription" : "Hôtel de Ville de Dudelange\r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
    "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines de l'environnement quotidien (informations personnelles et familiales simples, achats, travail)\r\nPouvoir communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels.\r\nSavoir décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats",
    "domainesCompetences" : [ {
@@ -47858,7 +47917,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 100.0,
    "dateDebut" : "26/01/2026",
-   "dateFin" : "11/05/2026",
+   "dateFin" : "18/05/2026",
    "dateInscription" : "Hôtel de Ville de Dudelange. \r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
    "description" : "Comprendre et utiliser des phrases simples au quotidien. Se présenter, décrire, échanger des informations personnelles et concrètes simples avec des termes simples et courants. Communiquer avec un interlocuteur qui s'exprime clairement et lentement.",
    "domainesCompetences" : [ {
