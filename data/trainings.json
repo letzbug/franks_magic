@@ -457,20 +457,20 @@
    "categorieCode" : "BP",
    "categorieCodeUnipop" : "CIT",
    "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-47",
-   "coursId" : "BP-FR-47",
+   "coursCode" : "BP-EN-47",
+   "coursId" : "BP-EN-47",
    "coursType" : "CLASSIQUE",
    "cout" : 0.0,
    "dateDebut" : "04/05/2026",
-   "dateFin" : "07/05/2026",
+   "dateFin" : "06/05/2026",
    "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
    "duree" : "6h",
    "enseignants" : [ {
-      "nom" : "Morais Martins",
-      "prenom" : "Luisa Maria"
+      "nom" : "Mribah",
+      "prenom" : "Mehdi"
    } ],
    "format" : "BLENDED",
-   "horairePrevu" : "Lundi 04-05-2026 à 18:00 (durée 3h),\nJeudi 07-05-2026 à 18:00 (durée 3h)",
+   "horairePrevu" : "Lundi 04-05-2026 à 18:00 (durée 3h),\nMercredi 06-05-2026 à 18:00 (durée 3h)",
    "horaires" : [ {
       "duree" : "3h",
       "heure" : "18:00",
@@ -478,19 +478,19 @@
    }, {
       "duree" : "3h",
       "heure" : "18:00",
-      "jour" : "Jeudi"
+      "jour" : "Mercredi"
    } ],
-   "id" : 58184,
+   "id" : 58183,
    "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 7,
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Découvrir le GDL en anglais",
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxODQ%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxODM%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "1273",
@@ -665,7 +665,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "COUT",
    "matiereNom" : "Couture",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1025,6 +1025,74 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "alphabétisation acquise et A1 oral"
+}, {
+   "adresseCours" : {
+      "codePostal" : "-",
+      "localite" : "-",
+      "nom" : "En ligne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "En ligne"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "BP",
+   "categorieCodeUnipop" : "CIT",
+   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
+   "coursCode" : "BP-FR-47",
+   "coursId" : "BP-FR-47",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "04/05/2026",
+   "dateFin" : "07/05/2026",
+   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Morais Martins",
+      "prenom" : "Luisa Maria"
+   } ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi 04-05-2026 à 18:00 (durée 3h),\nJeudi 07-05-2026 à 18:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 58184,
+   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Découvrir le GDL en français",
+   "nbInscrits" : 7,
+   "nbPlaces" : 18,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgxODQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1273",
+         "localite" : "Luxembourg-Hamm",
+         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "13c, rue de Bitbourg"
+      },
+      "code" : "MFSVA",
+      "fax" : "+352 247-85730",
+      "mail" : "programme.zesummeliewen@fm.etat.lu",
+      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+      "nomContact" : "Programme",
+      "onlineReg" : true,
+      "prenomContact" : "Equipe",
+      "statut" : "MENFPS",
+      "telephone" : ".",
+      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+   },
+   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -3617,10 +3685,49 @@
    "dateFin" : "03/06/2026",
    "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
    "duree" : "27h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lorang",
+      "prenom" : "Claudine"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi 18-05-2026 à 18:00 (durée 3h) et 18:00 (durée 3h), Mardi 19-05-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Mercredi 20-05-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Jeudi 28-05-2026 à 18:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63842,
    "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
    "langueCoursCode" : "LB",
@@ -27635,6 +27742,68 @@
    "renseignements" : "Groupes de niveaux homogènes composés de 4 à 7 apprenants.\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coOrganisateurs" : [ "Ligue Médico-Sociale" ],
+   "coursCode" : "SCI-FINA-1",
+   "coursId" : "SCI-FINA-1",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "28/04/2026",
+   "dateFin" : "28/04/2026",
+   "description" : "In diesem Workshop lernen Sie, wie Sie Schritt für Schritt eine stabile finanzielle Basis für Ihr Leben aufbauen. \r\nSie gewinnen einen klaren Überblick über Einnahmen, Ausgaben und Konten, entdecken Sparpotenziale und erfahren, wie Sie gezielt Rücklagen bilden, Schulden abbauen und langfristige Ziele erreichen können.\r\nAm Anfang stehen dabei Ihre persönlichen Ziele: Sie lernen, bewusste finanzielle Entscheidungen zu treffen, die zu Ihrem Leben und Ihren Prioritäten passen.\r\nPraktische Übungen im Workshop helfen Ihnen, Ihre persönlichen Finanzen in den Griff zu bekommen.",
+   "duree" : "3 leçons",
+   "enseignants" : [ {
+      "nom" : "Conférence",
+      "prenom" : "Up"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 28-04-2026 à 17:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 65271,
+   "intitule" : "Gesond Finanzen - besser liewen:D'Grondlagen vun der perséinlecher Finanzplanung",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "FINA",
+   "matiereNom" : "Finances",
+   "nbInscrits" : 11,
+   "nbPlaces" : 15,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyNzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Die Teilnehmer erhalten begleitende Kursunterlagen auf Deutsch und Französisch. \r\nZur Information: Workshop dauert 3 Stunden."
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -29576,68 +29745,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La visite guidée durera 2 heures. Le responsable de la visite parle également luxembourgeois.\r\nVeuillez utiliser les transports publics (gare de Belval) ou les parkings publics à Esch/Belval."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coOrganisateurs" : [ "GERO A.S.B.L.", "https://www.gero.lu/" ],
-   "coursCode" : "SO-BE-10",
-   "coursId" : "SO-BE-10",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "16/04/2026",
-   "dateFin" : "16/04/2026",
-   "description" : "D’Pensioun – e wichtege Liewensofschnëtt, dacks mat vill Freed erwaart, heiansdo awer och mat e bëssen Onsécherheet verbonnen. Et ass dofir wichteg, sech fréi genuch Gedanken ze maachen: Wéi wëll ech liewen? Wéi eng Pläng hunn ech? Wéi gesäit meng finanziell, wunnlech, sozial a privat Situatioun aus?\r\n\r\nAn dësem interaktive Virtrag mat engem éierenamtlechen GERO-Pensiounscoach kritt Dir vill nëtzlech Informatiounen an Iddien, wéi Dir Iech ganz perséinlech a bewosst op d’Pensioun virbereede kënnt an dëse neie Liewensofschnëtt ofwiesslungsräich a sënnvoll gestalte kënnt.\r\n\r\nDuerno kënne Froen nach verdéift a gemeinsam diskutéiert ginn. Wichteg: Am Kader vum Virtrag gi keng finanziell an/oder juristesch Froe behandelt.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Conférence",
-      "prenom" : "Up"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 16-04-2026 à 17:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65412,
-   "intitule" : "Pensioun – An elo? De Wiessel gutt erliewen!",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "BE",
-   "matiereNom" : "Bien-être",
-   "nbInscrits" : 17,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU0MTI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "De Virtrag dauert 2 Stonnen an ass komplett gratis.\r\n\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "8473",
@@ -36509,7 +36616,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 10,
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -44547,7 +44654,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BRA",
    "matiereNom" : "Braille",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 8,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -44760,7 +44867,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LFR",
    "matiereNom" : "Cours de langue: français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -61371,7 +61478,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "ARP",
    "matiereNom" : "Arts plastiques",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -61443,7 +61550,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "AUT",
    "matiereNom" : "Autonomie",
-   "nbInscrits" : 7,
+   "nbInscrits" : 12,
    "nbPlaces" : 16,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -61515,7 +61622,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "AVJ",
    "matiereNom" : "Activités de la vie journalière",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 30,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -61586,7 +61693,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "MOB",
    "matiereNom" : "Techniques en orientation et mobilité",
-   "nbInscrits" : 5,
+   "nbInscrits" : 9,
    "nbPlaces" : 24,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -63050,7 +63157,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "SPO",
    "matiereNom" : "Activités motrices",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -63130,7 +63237,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "SPO",
    "matiereNom" : "Activités motrices",
-   "nbInscrits" : 4,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -64074,7 +64181,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "SPO",
    "matiereNom" : "Activités motrices",
-   "nbInscrits" : 5,
+   "nbInscrits" : 11,
    "nbPlaces" : 15,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -64146,7 +64253,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SPO",
    "matiereNom" : "Activités motrices",
-   "nbInscrits" : 9,
+   "nbInscrits" : 12,
    "nbPlaces" : 20,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -64360,7 +64467,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SPO",
    "matiereNom" : "Activités motrices",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -64432,7 +64539,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SPO",
    "matiereNom" : "Activités motrices",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -64487,17 +64594,24 @@
    "dateInscription" : "Inscription possible jusqu'au 5 septembre 2025",
    "description" : "Le Brazilian Jiu-Jitsu (BJJ) est un art martial particulièrement adapté aux personnes aveugles et malvoyantes, car il repose principalement sur le contact, les sensations et la perception corporelle, plutôt que sur la vision.\r\n\r\nCe cours propose un apprentissage progressif, sécurisé et inclusif, avec une pédagogie adaptée aux besoins spécifiques des participants.\r\n L’accent est mis sur :\r\n•\tLe travail au contact et la compréhension des positions par le toucher\r\n•\tL’apprentissage de techniques de contrôle et de défense au sol\r\n•\tLe développement de la confiance en soi, de l’équilibre et de la coordination\r\n•\tL’orientation dans l’espace grâce à des repères tactiles et verbaux\r\n•\tLe respect, la communication et l’entraide entre participants\r\n\r\nLes exercices sont expliqués de manière verbale et tactile, avec démonstrations guidées. Des situations pratiques encadrées permettent à chacun de progresser à son rythme, dans un cadre bienveillant et sécurisé.",
    "duree" : "54h05",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Moes",
+      "prenom" : "Sophie Philippe"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 09:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66598,
    "intitule" : "Brazilian Jiu-Jitsu",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "SPO",
    "matiereNom" : "Activités motrices",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
