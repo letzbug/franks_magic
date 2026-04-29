@@ -1,161 +1,5 @@
 [ {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-DE-112",
-   "coursId" : "LA-DE-112",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "29/04/2026",
-   "dateFin" : "04/06/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. Peut communiquer lors de tâches simples et habituelles sur des sujets familiers. Peut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "als Zuhörer die Hauptaussagen eines langen und deutlich gesprochenen Gesprächs (privaten) verstehen, wenn ihm das Thema vertraut ist.\r\n", "im Bezug auf Familie/Einkauf/das nähere Umfeld/Arbeit das Vokabular verstehen\r\nin einfachen Situationen des täglichen Lebens z.B. in Geschäften, auf der Post, Bank \r\n (z. B. Anweisungen) verstehen z.B. Schließungszeit, Aufruf im Flughafen)", "generell klare und langsame Diskussionen verstehen z. B. tägliche Ereignisse\r\n-einfachen Wegweisungen folgen und sie verstehen (von einem Punkt zum anderen gehen)\r\n" ],
-      "domaine" : "Hörverständnis"
-   }, {
-      "competences" : [ " einen kurzen und einfachen Text mit gebräuchlichen Ausdrücken verstehen\r\n", "Informationen einer Werbung verstehen und genaue Informationen in täglichen Dokumenten, Werbeprospekten usw. finden\r\n-in einem einfachen, persönlichen, kurzen Brief die Hauptinformation und Position des Schreibers  verstehen", "einfache Signale, Zeichen und Schilder verstehen\r\n-biografische Daten (Familiensituation, Schulkarriere, Berufsweg) verstehen\r\n" ],
-      "domaine" : "Leseverstehen"
-   }, {
-      "competences" : [ "mit einfachen Mitteln ein Gespräch führen, in Gang halten und beenden\r\n\r\n", "die täglichen Lebenssituationen beschreiben\r\n", "die täglichen Aktivitäten in der Vergangenheitsform in Verwendung von Strukturwörtern beschreiben\r\n", "kurze Tipps zu Ernährung, Freizeit, Reisen, Wohnen, Einkauf geben", "Seine Vorlieben beschreiben", "Orte beschreiben und Wegbeschreibung erfragen (eingeschränkt)", "Dinge beschreiben (groß/rund/klein..)" ],
-      "domaine" : "Mündlicher Ausdruck"
-   }, {
-      "competences" : [ "jemanden begrüßen, mich vorstellen, jemanden vorstellen, mich verabschieden\r\n", "Fragen stellen und beantworten\r\n", " Ideen austauschen und Auskunft geben\r\n", "die einfachen Höflichkeitsfloskeln verwenden\r\n", "einen Vorschlag/Einladung/Entschuldigung annehmen oder aussprechen\r\n", " über seine Vorlieben sprechen, was mag man oder nicht\r\n", " nach Dingen fragen und geben\r\n", "nach einem Dienst fragen und geben\r\n", " nach persönlichen Informationen fragen und sie auch beantworten\r\n", "nach dem Weg fragen und mit Hilfe einer Karte beantworten\r\n\r\n", " Fahrkarten kaufen, ein Essen bestellen" ],
-      "domaine" : "Mündliche Interaktion"
-   }, {
-      "competences" : [ "einen sehr einfachen Brief, eine Mail schreiben mit Anrede u. Grußformel\r\n", " eine einfache Buchung (Hotel, Reise) vornehmen, bestellen, reservieren\r\n", "Dank und Entschuldigung schreiben\r\n", "strukturiert über Ereignisse berichten (Fest, Ausflug, Wochenende.)\r\n", "über alltägliche Dinge Auskunft geben z. B. Freizeitbeschäftigung\r\n", "einfache Sätze über seine Familie/Lebensbedingungen/Ausbildung/Arbeit schreiben\r\n" ],
-      "domaine" : "Schriftlicher Ausdruck"
-   } ],
-   "duree" : "40h",
-   "enseignants" : [ {
-      "nom" : "Wallenstein",
-      "prenom" : "Jeannette"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63671,
-   "intitule" : "Allemand, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "DE",
-   "matiereNom" : "Allemand",
-   "nbInscrits" : 1,
-   "nbPlaces" : 24,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau A1.2 acquis"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coOrganisateurs" : [ "Ligue Médico-Sociale" ],
-   "coursCode" : "SCI-FINA-2",
-   "coursId" : "SCI-FINA-2",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "29/04/2026",
-   "dateFin" : "29/04/2026",
-   "description" : "Schulden können belasten und den Alltag stark einschränken – und doch bleiben viele Menschen damit allein. Das müssen Sie nicht!\r\nIn diesem dritten Workshop der Reihe \"Gesunde Finanzen - besser leben!\" erhalten Sie verständliche, praktische Orientierung, um wieder den Überblick zu gewinnen und Schritt für Schritt handlungsfähig zu werden.\r\nSie lernen, wie Sie Ihre finanzielle Situation ordnen, Prioritäten setzen und realistische Wege aus den Schulden finden können.\r\nDabei werden auch die emotionalen Herausforderungen ernst genommen, die dieser Prozess mit sich bringt.\r\nDer Workshop zeigt Ihnen, dass es Lösungen gibt – und dass es sich lohnt, den ersten Schritt zu gehen, um wieder mehr Sicherheit und Ruhe für Ihre Zukunft zu gewinnen.",
-   "duree" : "3 leçons",
-   "enseignants" : [ {
-      "nom" : "Conférence",
-      "prenom" : "Up"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 29-04-2026 à 17:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65272,
-   "intitule" : "Gesond Finanzen - besser liewen:Senge Scholden Meeschter ginn",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "FINA",
-   "matiereNom" : "Finances",
-   "nbInscrits" : 7,
-   "nbPlaces" : 15,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyNzI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Die Teilnehmer erhalten begleitende Kursunterlagen auf Deutsch und Französisch. \r\nZur Information: Workshop dauert 3 Stunden."
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -27856,6 +27700,162 @@
    }
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-DE-112",
+   "coursId" : "LA-DE-112",
+   "coursType" : "CLASSIQUE",
+   "cout" : 120.0,
+   "dateDebut" : "29/04/2026",
+   "dateFin" : "04/06/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. Peut communiquer lors de tâches simples et habituelles sur des sujets familiers. Peut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ "als Zuhörer die Hauptaussagen eines langen und deutlich gesprochenen Gesprächs (privaten) verstehen, wenn ihm das Thema vertraut ist.\r\n", "im Bezug auf Familie/Einkauf/das nähere Umfeld/Arbeit das Vokabular verstehen\r\nin einfachen Situationen des täglichen Lebens z.B. in Geschäften, auf der Post, Bank \r\n (z. B. Anweisungen) verstehen z.B. Schließungszeit, Aufruf im Flughafen)", "generell klare und langsame Diskussionen verstehen z. B. tägliche Ereignisse\r\n-einfachen Wegweisungen folgen und sie verstehen (von einem Punkt zum anderen gehen)\r\n" ],
+      "domaine" : "Hörverständnis"
+   }, {
+      "competences" : [ " einen kurzen und einfachen Text mit gebräuchlichen Ausdrücken verstehen\r\n", "Informationen einer Werbung verstehen und genaue Informationen in täglichen Dokumenten, Werbeprospekten usw. finden\r\n-in einem einfachen, persönlichen, kurzen Brief die Hauptinformation und Position des Schreibers  verstehen", "einfache Signale, Zeichen und Schilder verstehen\r\n-biografische Daten (Familiensituation, Schulkarriere, Berufsweg) verstehen\r\n" ],
+      "domaine" : "Leseverstehen"
+   }, {
+      "competences" : [ "mit einfachen Mitteln ein Gespräch führen, in Gang halten und beenden\r\n\r\n", "die täglichen Lebenssituationen beschreiben\r\n", "die täglichen Aktivitäten in der Vergangenheitsform in Verwendung von Strukturwörtern beschreiben\r\n", "kurze Tipps zu Ernährung, Freizeit, Reisen, Wohnen, Einkauf geben", "Seine Vorlieben beschreiben", "Orte beschreiben und Wegbeschreibung erfragen (eingeschränkt)", "Dinge beschreiben (groß/rund/klein..)" ],
+      "domaine" : "Mündlicher Ausdruck"
+   }, {
+      "competences" : [ "jemanden begrüßen, mich vorstellen, jemanden vorstellen, mich verabschieden\r\n", "Fragen stellen und beantworten\r\n", " Ideen austauschen und Auskunft geben\r\n", "die einfachen Höflichkeitsfloskeln verwenden\r\n", "einen Vorschlag/Einladung/Entschuldigung annehmen oder aussprechen\r\n", " über seine Vorlieben sprechen, was mag man oder nicht\r\n", " nach Dingen fragen und geben\r\n", "nach einem Dienst fragen und geben\r\n", " nach persönlichen Informationen fragen und sie auch beantworten\r\n", "nach dem Weg fragen und mit Hilfe einer Karte beantworten\r\n\r\n", " Fahrkarten kaufen, ein Essen bestellen" ],
+      "domaine" : "Mündliche Interaktion"
+   }, {
+      "competences" : [ "einen sehr einfachen Brief, eine Mail schreiben mit Anrede u. Grußformel\r\n", " eine einfache Buchung (Hotel, Reise) vornehmen, bestellen, reservieren\r\n", "Dank und Entschuldigung schreiben\r\n", "strukturiert über Ereignisse berichten (Fest, Ausflug, Wochenende.)\r\n", "über alltägliche Dinge Auskunft geben z. B. Freizeitbeschäftigung\r\n", "einfache Sätze über seine Familie/Lebensbedingungen/Ausbildung/Arbeit schreiben\r\n" ],
+      "domaine" : "Schriftlicher Ausdruck"
+   } ],
+   "duree" : "40h",
+   "enseignants" : [ {
+      "nom" : "Wallenstein",
+      "prenom" : "Jeannette"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63671,
+   "intitule" : "Allemand, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "DE",
+   "matiereNom" : "Allemand",
+   "nbInscrits" : 1,
+   "nbPlaces" : 24,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "niveau A1.2 acquis"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coOrganisateurs" : [ "Ligue Médico-Sociale" ],
+   "coursCode" : "SCI-FINA-2",
+   "coursId" : "SCI-FINA-2",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "29/04/2026",
+   "dateFin" : "29/04/2026",
+   "description" : "Schulden können belasten und den Alltag stark einschränken – und doch bleiben viele Menschen damit allein. Das müssen Sie nicht!\r\nIn diesem dritten Workshop der Reihe \"Gesunde Finanzen - besser leben!\" erhalten Sie verständliche, praktische Orientierung, um wieder den Überblick zu gewinnen und Schritt für Schritt handlungsfähig zu werden.\r\nSie lernen, wie Sie Ihre finanzielle Situation ordnen, Prioritäten setzen und realistische Wege aus den Schulden finden können.\r\nDabei werden auch die emotionalen Herausforderungen ernst genommen, die dieser Prozess mit sich bringt.\r\nDer Workshop zeigt Ihnen, dass es Lösungen gibt – und dass es sich lohnt, den ersten Schritt zu gehen, um wieder mehr Sicherheit und Ruhe für Ihre Zukunft zu gewinnen.",
+   "duree" : "3 leçons",
+   "enseignants" : [ {
+      "nom" : "Conférence",
+      "prenom" : "Up"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 29-04-2026 à 17:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 65272,
+   "intitule" : "Gesond Finanzen - besser liewen:Senge Scholden Meeschter ginn",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "FINA",
+   "matiereNom" : "Finances",
+   "nbInscrits" : 7,
+   "nbPlaces" : 15,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyNzI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Die Teilnehmer erhalten begleitende Kursunterlagen auf Deutsch und Französisch. \r\nZur Information: Workshop dauert 3 Stunden."
+}, {
+   "adresseCours" : {
       "codePostal" : "2163",
       "localite" : "Luxembourg",
       "nom" : "Institut français du Luxembourg",
@@ -33138,80 +33138,6 @@
       "websiteUrl" : "https://www.lux-online-educ-center.com"
    },
    "prerequis" : "A2.1 toutes compétences validées"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "CIN",
-   "categorieCodeUnipop" : "CIN",
-   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
-   "coursCode" : "CIN-LB-20",
-   "coursId" : "CIN-LB-20",
-   "coursType" : "CLASSIQUE",
-   "cout" : 730.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "29/04/2026",
-   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
-   "duree" : "26h",
-   "enseignants" : [ {
-      "nom" : "List",
-      "prenom" : "Carole"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65331,
-   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 8,
-   "nbPlaces" : 8,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzMzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5951",
-         "localite" : "Itzig",
-         "nom" : "Itzig",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, rue des arbustes"
-      },
-      "code" : "LLG",
-      "mail" : "carole@lucilingua.lu",
-      "nom" : "Lucilingua S.à r.l.-S.",
-      "nomContact" : "List",
-      "onlineReg" : true,
-      "prenomContact" : "Carole",
-      "statut" : "PREST_EXT",
-      "telephone" : "00352 661 350 521",
-      "websiteUrl" : "https://lucilingua.lu/en/index.html"
-   },
-   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -39707,77 +39633,66 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
+      "rueNumero" : "14, Porte de France"
    },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville de Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "B.P. 73"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-54",
-   "coursId" : "IN-BUR-54",
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-MED-28",
+   "coursId" : "SO-MED-28",
    "coursType" : "CLASSIQUE",
    "cout" : 72.0,
    "dateDebut" : "04/03/2026",
-   "dateFin" : "29/04/2026",
-   "dateInscription" : "Hôtel de Dudelange\r\ncoursinformatiques@dudelange.lu\r\n51 61 21 538",
-   "description" : "Maîtriser les fonctions principales du logiciel de traitement de texte et du tableur: Familiarisation, création, mise en forme et gestion des extensions des documents Word/Excel. Paramétrer et sécuriser le tableau en vue de l'impression ou de partage en ligne.",
-   "duree" : "24h",
+   "dateFin" : "08/07/2026",
+   "description" : "Un parcours progressif pour apprendre à mieux respirer, à méditer simplement et à développer une attitude intérieure plus sereine. Séance après séance, vous découvrirez des techniques de respiration apaisantes, des méditations guidées accessibles à tous et des outils de pensée positive issus du yoga. Un cours idéal pour réduire le stress, clarifier l'esprit et retrouver calme et énergie, confortablement assis sur une chaise.",
+   "duree" : "16 leçons",
    "enseignants" : [ {
-      "nom" : "Casanova E Silva",
-      "prenom" : "Marisa"
+      "nom" : "Iannantuoni",
+      "prenom" : "Céline",
+      "presentation" : "Céline enseigne le Hatha Yoga Sivananda, l'Ayurvéda, ainsi que des cours spécifiques comme le yoga sur chaise, le yoga pour partir zen en weekend et le yoga lunch pour une pause bien-être en journée. Elle propose aussi des découvertes de l'Ayurvéda, la science de la longévité, ainsi que des séances de respiration, méditation et pensée positive pour améliorer l'équilibre et la santé globale. Plus d'infos sur www.celine-yoga-ayurveda.com"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
+   "horairePrevu" : "Mercredi à 17:10 (durée 0h50)",
    "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
+      "duree" : "0h50",
+      "heure" : "17:10",
       "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Jeudi"
    } ],
-   "id" : 63208,
-   "intitule" : "Bureautique: Word-Excel",
+   "id" : 63869,
+   "intitule" : "Respiration, méditation et pensée positive",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 8,
-   "nbPlaces" : 12,
+   "matiereCode" : "MED",
+   "matiereNom" : "Méditation",
+   "nbInscrits" : 6,
+   "nbPlaces" : 10,
    "niveau" : "Débutant",
-   "onlineRegistration" : false,
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4Njk%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
+         "rueNumero" : "14, Porte de France"
       },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "Accessible aux personnes à mobilité réduite. "
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
 }, {
    "adresseCours" : {
       "codePostal" : "4354",
@@ -39903,68 +39818,6 @@
    },
    "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
    "renseignements" : "La formatrice achète le matériel et se fait rembourser par les participants. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-28",
-   "coursId" : "SO-MED-28",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "04/03/2026",
-   "dateFin" : "08/07/2026",
-   "description" : "Un parcours progressif pour apprendre à mieux respirer, à méditer simplement et à développer une attitude intérieure plus sereine. Séance après séance, vous découvrirez des techniques de respiration apaisantes, des méditations guidées accessibles à tous et des outils de pensée positive issus du yoga. Un cours idéal pour réduire le stress, clarifier l'esprit et retrouver calme et énergie, confortablement assis sur une chaise.",
-   "duree" : "16 leçons",
-   "enseignants" : [ {
-      "nom" : "Iannantuoni",
-      "prenom" : "Céline",
-      "presentation" : "Céline enseigne le Hatha Yoga Sivananda, l'Ayurvéda, ainsi que des cours spécifiques comme le yoga sur chaise, le yoga pour partir zen en weekend et le yoga lunch pour une pause bien-être en journée. Elle propose aussi des découvertes de l'Ayurvéda, la science de la longévité, ainsi que des séances de respiration, méditation et pensée positive pour améliorer l'équilibre et la santé globale. Plus d'infos sur www.celine-yoga-ayurveda.com"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 17:10 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63869,
-   "intitule" : "Respiration, méditation et pensée positive",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4Njk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
