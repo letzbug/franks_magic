@@ -1,67 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coOrganisateurs" : [ "Ligue Médico-Sociale" ],
-   "coursCode" : "SCI-FINA-3",
-   "coursId" : "SCI-FINA-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "30/04/2026",
-   "dateFin" : "30/04/2026",
-   "description" : "Dieser Workshop der Reihe \"Gesunde Finanzen - besser leben!\" richtet sich geziehlt an Eltern.\r\nHier erfahren Sie, wie Sie Ihre Kinder Schritt für Schritt beim Umgang mit Taschengeld, Sparen und Konsum begleiten können. Es geht darum, die wichtigsten Regeln zum Thema Taschengeld zu verstehen, altersgerecht über Geld zu sprechen und Kindern zu helfen, eigene Entscheidungen zu treffen. \r\nDer Workshop bietet viele praktische Tipps, konkrete Beispiele und Zeit für Austausch. \r\nSo gewinnen Eltern mehr Sicherheit und unterstützen ihre Kinder dabei, einen gesunden und verantwortungsvollen Umgang mit Geld zu entwickeln – heute und in Zukunft.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Conférence",
-      "prenom" : "Up"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 30-04-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65273,
-   "intitule" : "Gesond Finanzen - besser liewen:Kanner a Suen: Tipps fir d'finanziell Erzéiung doheem",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "FINA",
-   "matiereNom" : "Finances",
-   "nbInscrits" : 6,
-   "nbPlaces" : 15,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyNzM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Die Teilnehmer erhalten begleitende Kursunterlagen auf Deutsch und Französisch. \r\nZur Information: Workshop dauert 2 Stunden."
-}, {
-   "adresseCours" : {
       "codePostal" : "08370",
       "localite" : "Margut, France",
       "nom" : "Ermitage Saint Walfroy",
@@ -27700,6 +27638,68 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coOrganisateurs" : [ "Ligue Médico-Sociale" ],
+   "coursCode" : "SCI-FINA-3",
+   "coursId" : "SCI-FINA-3",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "30/04/2026",
+   "dateFin" : "30/04/2026",
+   "description" : "Dieser Workshop der Reihe \"Gesunde Finanzen - besser leben!\" richtet sich geziehlt an Eltern.\r\nHier erfahren Sie, wie Sie Ihre Kinder Schritt für Schritt beim Umgang mit Taschengeld, Sparen und Konsum begleiten können. Es geht darum, die wichtigsten Regeln zum Thema Taschengeld zu verstehen, altersgerecht über Geld zu sprechen und Kindern zu helfen, eigene Entscheidungen zu treffen. \r\nDer Workshop bietet viele praktische Tipps, konkrete Beispiele und Zeit für Austausch. \r\nSo gewinnen Eltern mehr Sicherheit und unterstützen ihre Kinder dabei, einen gesunden und verantwortungsvollen Umgang mit Geld zu entwickeln – heute und in Zukunft.",
+   "duree" : "2 leçons",
+   "enseignants" : [ {
+      "nom" : "Conférence",
+      "prenom" : "Up"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 30-04-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65273,
+   "intitule" : "Gesond Finanzen - besser liewen:Kanner a Suen: Tipps fir d'finanziell Erzéiung doheem",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "FINA",
+   "matiereNom" : "Finances",
+   "nbInscrits" : 6,
+   "nbPlaces" : 15,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyNzM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Die Teilnehmer erhalten begleitende Kursunterlagen auf Deutsch und Französisch. \r\nZur Information: Workshop dauert 2 Stunden."
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -37004,68 +37004,6 @@
    "renseignements" : "Accès pour personnes à mobilité réduite"
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-BIJU-33",
-   "coursId" : "AR-BIJU-33",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "19/03/2026",
-   "dateFin" : "30/04/2026",
-   "description" : "Apprenez à créer des bijoux uniques et élégants en maîtrisant l'assemblage minutieux de perles de différentes tailles et couleurs. Vous apprendrez à mélanger les différentes couleurs et formes de perles pour réaliser des bijoux créatifs et uniques (bagues, colliers, bracelets...). Rejoignez-nous pour une expérience créative et enrichissante, où vous pourrez exprimer votre style et votre créativité à travers ces créations étincelantes.",
-   "duree" : "20 leçons",
-   "enseignants" : [ {
-      "nom" : "Rybak",
-      "prenom" : "Roksoliana",
-      "site" : "https://shorturl.at/Swbb6"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63980,
-   "intitule" : "L'univers du perlage",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BIJU",
-   "matiereNom" : "Bijoux",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5ODA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu."
-}, {
-   "adresseCours" : {
       "codePostal" : "4083",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "CNFPC-ESCH-SUR-ALZETTE",
@@ -41205,64 +41143,67 @@
    "renseignements" : "Matériel : mètre ruban, ciseaux, coupe-fil/découd-vite, épingles, fil blanc/noir, règle, toile coton, craie ou stylo frixion, papier patron, aiguilles machine (70–100)."
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2163",
-      "localite" : "Luxembourg",
-      "nom" : "via courriel ou site internet",
+      "codePostal" : "4354",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "CNFPC-Esch/Alzette",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "47 avenue Monterey"
+      "rueNumero" : "22, rue Henri Koch"
    },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-843",
-   "coursId" : "LA-FR-843",
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
+   "coursCode" : "AR-BOI-50",
+   "coursId" : "AR-BOI-50",
    "coursType" : "CLASSIQUE",
-   "cout" : 620.0,
+   "cout" : 216.0,
    "dateDebut" : "26/02/2026",
-   "dateFin" : "30/04/2026",
-   "dateInscription" : "Ouverture des inscriptions 3 semaines avant le début de la session",
-   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1- Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
-   "duree" : "30h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 18:30 (durée 2h),\nJeudi à 18:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 60355,
-   "intitule" : "Cours de français : cours du soir à distance",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
+   "dateFin" : "16/07/2026",
+   "description" : "La formation vise l'initiation au domaine de la menuiserie\r\n>  Les différentes techniques de travail du bois. \r\n>  Les outils \r\n>  Initiation artisanale concernant les différentes techniques de façonnage et d'assemblage\r\n>  Évaluation formative en continu \r\n>  Commentaire personnel en fin de formation si souhaité  \r\n>  Bilan commun le dernier jour",
+   "duree" : "48 leçons",
+   "enseignants" : [ {
+      "nom" : "Scheuer",
+      "prenom" : "Steve"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 62566,
+   "intitule" : "Menuiserie - Débutant",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "BOI",
+   "matiereNom" : "Bois",
+   "nbInscrits" : 9,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjI1NjY%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "2163",
-         "localite" : "Luxembourg",
-         "nom" : "Institut Français du Luxembourg",
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "47, Avenue Monterey"
+         "rueNumero" : "14, Porte de France"
       },
-      "code" : "IFL",
-      "mail" : "cours@ifluxembourg.lu",
-      "nom" : "Institut Français du Luxembourg",
-      "nomContact" : "Hausmesser",
-      "onlineReg" : false,
-      "prenomContact" : "Isabelle",
-      "statut" : "ASBL",
-      "telephone" : "462 166 39",
-      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
    },
-   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
-   "renseignements" : "Cours organisés à distance via l'outil ZOOM. Groupes de niveaux homogènes composés de 4 à 8 apprenants.\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
+   "prerequis" : "Chaussures de sécurité",
+   "renseignements" : "Remarque : Le cours se termine à 21h00\r\nUn montant de 70 € est à prévoir par participant pour le matériel utilisé durant le cours."
 }, {
    "adresseCours" : {
       "codePostal" : "4036",
@@ -41577,69 +41518,6 @@
    },
    "prerequis" : "Matériels requis :\r\nObligatoire :\r\n  *  Vêtements de travail\r\n  *  Chaussures de sécurité\r\n  *  Lunettes de sécurité\r\n  *  Tablier de soudeur/forgeron en cuir.\r\nFacultatif :\r\n  *  Gants en cuir \r\n  *  Protection auditive.",
    "renseignements" : "Prérequis:\r\n  >  Avoir compléter le 1er semestre (Cours de base)\r\n  >  Age minimum 18 ans. \r\n  >  Une certaine expérience du travail manuel est un plus. \r\n  >  La chaleur intense et le bruit font partie de la forge."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch/Alzette",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
-   "coursCode" : "AR-BOI-50",
-   "coursId" : "AR-BOI-50",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "16/07/2026",
-   "description" : "La formation vise l'initiation au domaine de la menuiserie\r\n>  Les différentes techniques de travail du bois. \r\n>  Les outils \r\n>  Initiation artisanale concernant les différentes techniques de façonnage et d'assemblage\r\n>  Évaluation formative en continu \r\n>  Commentaire personnel en fin de formation si souhaité  \r\n>  Bilan commun le dernier jour",
-   "duree" : "48 leçons",
-   "enseignants" : [ {
-      "nom" : "Scheuer",
-      "prenom" : "Steve"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 62566,
-   "intitule" : "Menuiserie - Débutant",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "BOI",
-   "matiereNom" : "Bois",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjI1NjY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Chaussures de sécurité",
-   "renseignements" : "Remarque : Le cours se termine à 21h00\r\nUn montant de 70 € est à prévoir par participant pour le matériel utilisé durant le cours."
 }, {
    "adresseCours" : {
       "codePostal" : "2163",
