@@ -1,97 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "08370",
-      "localite" : "Margut, France",
-      "nom" : "Ermitage Saint Walfroy",
-      "paysCode" : "F",
-      "paysNom" : "France",
-      "rueNumero" : "1 route de Saint Walfroy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2563",
-      "localite" : "Luxembourg",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://www.luxchine.org/"
-   },
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-27",
-   "coursId" : "SO-MED-27",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "01/05/2026",
-   "dateFin" : "06/05/2026",
-   "dateInscription" : "jusqu'au 15 février 2026",
-   "description" : "Stage de méditation Chan. Invité du stage: vénérable maître Chan Guoyuan Fa Shi.",
-   "duree" : "48h",
-   "enseignants" : [ {
-      "nom" : "Lin",
-      "prenom" : "Li-Chuan"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Dimanche à 09:00 (durée 8h), Lundi à 09:00 (durée 8h), Mardi à 09:00 (durée 8h), Mercredi à 09:00 (durée 8h), Vendredi à 09:00 (durée 8h), Samedi à 09:00 (durée 8h)",
-   "horaires" : [ {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Dimanche"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Vendredi"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 63611,
-   "intitule" : "Méditation Chan",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 16,
-   "nbPlaces" : 30,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2563",
-         "localite" : "Luxembourg",
-         "nom" : "Association Culturelle Chinoise Lux.",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, rue Jean Schaack"
-      },
-      "code" : "ACCL",
-      "fax" : "/",
-      "mail" : "luxchine@pt.lu",
-      "nom" : "Association Culturelle Chinoise Lux.",
-      "nomContact" : "Wagener",
-      "onlineReg" : false,
-      "prenomContact" : "Marie-Paule",
-      "statut" : "ASBL",
-      "telephone" : "+352 236 208 59",
-      "websiteUrl" : "https://www.luxchine.org/"
-   },
-   "prerequis" : "Stage ouvert à toute personne ayant une base de pratique d'au moins 8 séances avec Madame LIN Li-Chuan et avoir son accord.",
-   "renseignements" : "Le stage se déroule en pension complète. Au coût d'inscription s'ajouteront les frais de participation (294 euros)."
-}, {
-   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Forum Campus Geesseknäppchen",
@@ -27562,6 +27470,98 @@
       "statut" : "ASBL",
       "telephone" : "+352 54 42 45 208"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "08370",
+      "localite" : "Margut, France",
+      "nom" : "Ermitage Saint Walfroy",
+      "paysCode" : "F",
+      "paysNom" : "France",
+      "rueNumero" : "1 route de Saint Walfroy"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2563",
+      "localite" : "Luxembourg",
+      "nom" : "En ligne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "https://www.luxchine.org/"
+   },
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-MED-27",
+   "coursId" : "SO-MED-27",
+   "coursType" : "CLASSIQUE",
+   "cout" : 216.0,
+   "dateDebut" : "01/05/2026",
+   "dateFin" : "06/05/2026",
+   "dateInscription" : "jusqu'au 15 février 2026",
+   "description" : "Stage de méditation Chan. Invité du stage: vénérable maître Chan Guoyuan Fa Shi.",
+   "duree" : "48h",
+   "enseignants" : [ {
+      "nom" : "Lin",
+      "prenom" : "Li-Chuan"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Dimanche à 09:00 (durée 8h), Lundi à 09:00 (durée 8h), Mardi à 09:00 (durée 8h), Mercredi à 09:00 (durée 8h), Vendredi à 09:00 (durée 8h), Samedi à 09:00 (durée 8h)",
+   "horaires" : [ {
+      "duree" : "8h",
+      "heure" : "09:00",
+      "jour" : "Dimanche"
+   }, {
+      "duree" : "8h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "8h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "8h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "8h",
+      "heure" : "09:00",
+      "jour" : "Vendredi"
+   }, {
+      "duree" : "8h",
+      "heure" : "09:00",
+      "jour" : "Samedi"
+   } ],
+   "id" : 63611,
+   "intitule" : "Méditation Chan",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "MED",
+   "matiereNom" : "Méditation",
+   "nbInscrits" : 16,
+   "nbPlaces" : 30,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2563",
+         "localite" : "Luxembourg",
+         "nom" : "Association Culturelle Chinoise Lux.",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, rue Jean Schaack"
+      },
+      "code" : "ACCL",
+      "fax" : "/",
+      "mail" : "luxchine@pt.lu",
+      "nom" : "Association Culturelle Chinoise Lux.",
+      "nomContact" : "Wagener",
+      "onlineReg" : false,
+      "prenomContact" : "Marie-Paule",
+      "statut" : "ASBL",
+      "telephone" : "+352 236 208 59",
+      "websiteUrl" : "https://www.luxchine.org/"
+   },
+   "prerequis" : "Stage ouvert à toute personne ayant une base de pratique d'au moins 8 séances avec Madame LIN Li-Chuan et avoir son accord.",
+   "renseignements" : "Le stage se déroule en pension complète. Au coût d'inscription s'ajouteront les frais de participation (294 euros)."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
