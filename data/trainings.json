@@ -235,7 +235,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 25,
    "niveau" : "A2 du CECRL",
    "onlineRegistration" : true,
@@ -561,7 +561,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -825,7 +825,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1771,8 +1771,8 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
+   "nbInscrits" : 10,
+   "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTQ%3D",
@@ -1909,7 +1909,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "OEN",
    "matiereNom" : "Oenologie et Bar",
-   "nbInscrits" : 1,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -1971,7 +1971,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3529,7 +3529,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -3552,6 +3552,88 @@
       "telephone" : "+352 516 121-538"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite,\r\nHors vacances scolaires\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1278",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-74",
+   "coursId" : "IN-BUR-74",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "19/05/2026",
+   "dateFin" : "22/05/2026",
+   "dateInscription" : "Inscription sur place avant le début de la formation.",
+   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
+      "domaine" : "Compétences informatiques"
+   } ],
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Gomes Da Costa",
+      "prenom" : "Orlando"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64078,
+   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "prerequis" : "Connaissance de base de l'utilisation du numérique"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -4256,8 +4338,8 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
+   "nbInscrits" : 10,
+   "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ5MTQ%3D",
@@ -4317,7 +4399,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "COMMU",
    "matiereNom" : "Communication",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -7084,7 +7166,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -9391,7 +9473,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NUT",
    "matiereNom" : "Nutrition",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -9611,7 +9693,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FISC",
    "matiereNom" : "Fiscalité",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -9886,7 +9968,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PSY",
    "matiereNom" : "Psychologie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -10470,7 +10552,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHIL",
    "matiereNom" : "Philosophie",
-   "nbInscrits" : 6,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11942,7 +12024,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "COS",
    "matiereNom" : "Cosmétiques",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -12066,7 +12148,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SAN",
    "matiereNom" : "Santé",
-   "nbInscrits" : 1,
+   "nbInscrits" : 3,
    "nbPlaces" : 200,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12189,7 +12271,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHOT",
    "matiereNom" : "Photographie",
-   "nbInscrits" : 3,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12441,10 +12523,21 @@
    "dateFin" : "14/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lulling",
+      "prenom" : "Jérôme"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 17:30 (durée 1h40), Jeudi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66141,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -12503,10 +12596,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Freimann",
+      "prenom" : "Annick"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 10:20 (durée 1h40), Mercredi à 10:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66140,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -12565,10 +12669,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2028 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ragnacci",
+      "prenom" : "Marie Louise"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 08:30 (durée 1h40), Mercredi à 08:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66139,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -12715,10 +12830,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Freimann",
+      "prenom" : "Annick"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:30 (durée 1h40), Mercredi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66137,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -12777,10 +12903,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lemal",
+      "prenom" : "Carine"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 08:30 (durée 1h40), Mercredi à 08:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66135,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -12839,10 +12976,21 @@
    "dateFin" : "14/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lulling",
+      "prenom" : "Jérôme"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi à 19:20 (durée 1h40), Jeudi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66134,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -12901,10 +13049,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schlechter",
+      "prenom" : "Anna"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:30 (durée 1h40), Mercredi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66133,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -12963,10 +13122,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ragnacci",
+      "prenom" : "Marie Louise"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 10:20 (durée 1h40), Mercredi à 10:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66132,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -13025,10 +13195,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lemal",
+      "prenom" : "Carine"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 10:20 (durée 1h40), Mercredi à 10:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66128,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -13087,10 +13268,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2028 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Freimann",
+      "prenom" : "Annick"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 08:30 (durée 1h40), Mercredi à 08:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66126,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -13149,10 +13341,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Descoups",
+      "prenom" : "Anne"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:30 (durée 1h40), Mercredi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66123,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -13211,10 +13414,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Heinz",
+      "prenom" : "Natacha"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 10:20 (durée 1h40), Mercredi à 10:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66121,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -13273,10 +13487,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schlechter",
+      "prenom" : "Anna"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:20 (durée 1h40), Mercredi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66119,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -13334,10 +13559,21 @@
    "dateFin" : "09/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) au 28 avril inclus. \r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Heinz",
+      "prenom" : "Natacha"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 08:30 (durée 1h40), Mercredi à 08:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66114,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -13827,6 +14063,88 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
+      "codePostal" : "1278",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-75",
+   "coursId" : "IN-BUR-75",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "16/06/2026",
+   "dateFin" : "19/06/2026",
+   "dateInscription" : "Inscription sur place avant le début de la formation.",
+   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
+      "domaine" : "Compétences informatiques"
+   } ],
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Hazizaj",
+      "prenom" : "Bashkim"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64079,
+   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
       "codePostal" : "1839",
       "localite" : "Luxembourg",
       "nom" : "Centre Culturel Gare",
@@ -13866,10 +14184,21 @@
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Heinz",
+      "prenom" : "Natacha"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 19:20 (durée 1h40), Jeudi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66142,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -13928,10 +14257,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Freimann",
+      "prenom" : "Annick"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 10:20 (durée 1h40), Jeudi à 10:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66136,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -13990,10 +14330,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lemal",
+      "prenom" : "Carine"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 08:30 (durée 1h40), Jeudi à 08:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66131,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14052,10 +14403,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ragnacci",
+      "prenom" : "Marie Louise"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:30 (durée 1h40), Jeudi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66130,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14114,10 +14476,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schlechter",
+      "prenom" : "Anna"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 12:15 (durée 1h40), Jeudi à 12:15 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66129,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14172,10 +14545,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Heinz",
+      "prenom" : "Natacha"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 08:30 (durée 1h40), Jeudi à 08:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66127,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14234,10 +14618,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ragnacci",
+      "prenom" : "Marie Louise"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 19:20 (durée 1h40), Jeudi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66125,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14296,10 +14691,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schlechter",
+      "prenom" : "Anna"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 19:20 (durée 1h40), Jeudi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66124,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14354,10 +14760,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ragnacci",
+      "prenom" : "Marie Louise"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 12:15 (durée 1h40), Jeudi à 12:15 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66122,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14416,10 +14833,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Descoups",
+      "prenom" : "Anne"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 08:30 (durée 1h40), Jeudi à 08:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66120,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14478,10 +14906,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Heinz",
+      "prenom" : "Natacha"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:30 (durée 1h40), Jeudi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66118,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14539,10 +14978,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Schlechter",
+      "prenom" : "Anna"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:30 (durée 1h40), Jeudi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66117,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14600,10 +15050,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lemal",
+      "prenom" : "Carine"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 10:20 (durée 1h40), Jeudi à 10:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66116,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -14661,10 +15122,21 @@
    "dateFin" : "15/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "55h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Freimann",
+      "prenom" : "Annick"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 08:30 (durée 1h40), Jeudi à 08:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66115,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -15322,10 +15794,17 @@
    "dateFin" : "12/12/2026",
    "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
    "duree" : "53h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lemal",
+      "prenom" : "Carine"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Samedi à 09:20 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "09:20",
+      "jour" : "Samedi"
+   } ],
    "id" : 66138,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -16986,7 +17465,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHOT",
    "matiereNom" : "Photographie",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -17239,10 +17718,25 @@
    "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21-538\r\nCoursinformatiques@dudelange.lu",
    "description" : "Compétences en traitement de texte, tableur et présentation et gestion Outlook.",
    "duree" : "20h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 65353,
    "intitule" : "Word, Excel, Powerpoint",
    "langueCoursCode" : "FR",
@@ -17627,6 +18121,88 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
+      "codePostal" : "1278",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-76",
+   "coursId" : "IN-BUR-76",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "07/07/2026",
+   "dateFin" : "10/07/2026",
+   "dateInscription" : "Inscription sur place avant le début de la formation.",
+   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
+      "domaine" : "Compétences informatiques"
+   } ],
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Gomes Da Costa",
+      "prenom" : "Orlando"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64080,
+   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -17969,6 +18545,80 @@
       "telephone" : "33 01 44 207",
       "websiteUrl" : "http://www.walfer.lu"
    }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-37",
+   "coursId" : "CIN-LB-37",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "13/07/2026",
+   "dateFin" : "29/07/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66734,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MzQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -23791,6 +24441,88 @@
    "prerequis" : "Savoir lire et écrire "
 }, {
    "adresseCours" : {
+      "codePostal" : "1278",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-77",
+   "coursId" : "IN-BUR-77",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "22/09/2026",
+   "dateFin" : "25/09/2026",
+   "dateInscription" : "Inscription sur place avant le début de la formation.",
+   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
+      "domaine" : "Compétences informatiques"
+   } ],
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Gomes Da Costa",
+      "prenom" : "Orlando"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64081,
+   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -25710,6 +26442,88 @@
    "prerequis" : "B1.2"
 }, {
    "adresseCours" : {
+      "codePostal" : "1278",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-78",
+   "coursId" : "IN-BUR-78",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "13/10/2026",
+   "dateFin" : "16/10/2026",
+   "dateInscription" : "Inscription sur place avant le début de la formation.",
+   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
+      "domaine" : "Compétences informatiques"
+   } ],
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Gomes Da Costa",
+      "prenom" : "Orlando"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64082,
+   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -26358,6 +27172,170 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "1278",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-79",
+   "coursId" : "IN-BUR-79",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "17/11/2026",
+   "dateFin" : "20/11/2026",
+   "dateInscription" : "Inscription sur place avant le début de la formation.",
+   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
+      "domaine" : "Compétences informatiques"
+   } ],
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Gomes Da Costa",
+      "prenom" : "Orlando"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64083,
+   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1278",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-80",
+   "coursId" : "IN-BUR-80",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "01/12/2026",
+   "dateFin" : "04/12/2026",
+   "dateInscription" : "Inscription sur place avant le début de la formation.",
+   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
+      "domaine" : "Compétences informatiques"
+   } ],
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Gomes Da Costa",
+      "prenom" : "Orlando"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64084,
+   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
       "codePostal" : "2309",
       "localite" : "Luxembourg",
       "nom" : "Lycée Technique du Centre",
@@ -26680,6 +27658,81 @@
    },
    "prerequis" : "Need to bring your sewing machine to the course location and use it for your project implementation work.",
    "renseignements" : "Notwendigkeit, die eigene Nähmaschine zum Kursort mitzubringen und diese bei der Umsetzung der Projekte verwenden. | Nécessité d'apporter sa propre machine à coudre au site du cours et de l'utiliser pour le travail de projet."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4575",
+      "localite" : "Differdange",
+      "nom" : "Salle de cours",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14-16 grande rue"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4575",
+      "localite" : "Differdange",
+      "nom" : "Le Jardin des Possibles",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "10 Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1532",
+   "coursId" : "LA-FR-1532",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "04/05/2026",
+   "dateFin" : "13/07/2026",
+   "dateInscription" : "23/03/2026\r\nTel inscription 691860994 contact Sophie Dol",
+   "description" : "Oral :\r\nComprendre et s'exprimer avec des mots simples, se présenter simplement, des expressions familières, répondre à des questions simples avec un interlocuteur bienveillant.\r\nEcrit : \r\nReconnaitre et écrire  des mots et des expressions simples usuels, grammaire de base",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Tessaro",
+      "prenom" : "Michèle"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 65669,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 27,
+   "nbPlaces" : 30,
+   "niveau" : "A1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU2Njk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4151",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "Le Jardin des Possibles",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, rue des Jardins"
+      },
+      "code" : "JDP",
+      "mail" : "sophiedol@gmail.com",
+      "nom" : "Le Jardin des Possibles",
+      "nomContact" : "Dol",
+      "onlineReg" : true,
+      "prenomContact" : "Sophie",
+      "statut" : "ASBL",
+      "telephone" : "+352 691 743 206",
+      "websiteUrl" : "http://www.lejardindespossibles.lu/"
+   },
+   "prerequis" : "Aucun"
 }, {
    "adresseCours" : {
       "codePostal" : "66706",
@@ -28445,7 +29498,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ALFR",
    "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 12,
+   "nbInscrits" : 11,
    "nbPlaces" : 19,
    "niveau" : "Avancé 1",
    "onlineRegistration" : true,
@@ -28717,7 +29770,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 18,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -30907,7 +31960,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 24,
    "niveau" : "C1 du CECRL",
    "onlineRegistration" : false,
@@ -33282,7 +34335,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 1,
+   "nbInscrits" : 10,
    "nbPlaces" : 22,
    "niveau" : "Avancé",
    "onlineRegistration" : false,
