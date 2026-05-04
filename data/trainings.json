@@ -2587,7 +2587,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 4,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -4268,7 +4268,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12395,7 +12395,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -22088,10 +22088,22 @@
    "dateInscription" : "Registration open until September 1 by email olganikolauk29@gmail.com",
    "description" : "This Ukrainian language course at A2.1 level is designed for adult learners who already have basic knowledge of Ukrainian and wish to develop their communicative competence in everyday situations.\r\nThe course follows the descriptors of the Common European Framework of Reference for Languages (CEFR) and aims to strengthen learners’ ability to understand and use frequently used expressions related to areas of immediate relevance (e.g. personal information, family, shopping, work, local environment).\r\nLearners will develop their speaking, listening, reading and writing skills through structured practice and communicative activities.",
    "duree" : "65 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Nikolaiuk",
+      "prenom" : "Olha",
+      "presentation" : "Olha Nikolaiuk est formatrice agréée de la langue ukrainienne. Elle propose des cours incluant la grammaire, des exercices et de la pratique orale pour une communication efficace."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 18:00 (durée 1h40), Samedi à 12:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "12:00",
+      "jour" : "Samedi"
+   } ],
    "id" : 66673,
    "intitule" : "Intermediate Ukrainian",
    "langueCoursCode" : "EN",
@@ -23409,10 +23421,22 @@
    "dateInscription" : "Registration open until September 1 by email bellebandura@gmail.com",
    "description" : "The course “Discover Ukraine: Language and Culture” is designed for adult beginners with no prior knowledge of the Ukrainian language.\r\n\r\nOver two months, participants will learn basic conversational vocabulary and use simple phrases in everyday situations such as introductions, cafés, traveling, and shopping.\r\n\r\nSpecial attention is given to cultural context: Ukrainian cuisine, traditions, holidays, music, modern life, and travel destinations.",
    "duree" : "24 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Kichihina",
+      "prenom" : "Anastasiia",
+      "presentation" : "Anastasiia Kichihina est formatrice agréée de la langue ukrainienne. Elle propose des cours ludiques incluant la grammaire, des exercices et de la pratique orale pour une communication efficace. "
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66674,
    "intitule" : "Discover Ukraine: Language and Culture",
    "langueCoursCode" : "EN",
@@ -27087,10 +27111,18 @@
    "dateInscription" : "Inscription ouverte jusqu’au 1er novembre par e-mail bellebandura@gmail.com",
    "description" : "Ce cours de langue ukrainienne pour débutants est destiné aux adultes n’ayant aucune connaissance préalable de la langue ou possédant des bases très limitées.\r\n\r\nAu cours de la formation, les participants apprendront à comprendre et à utiliser des expressions simples du quotidien, à se présenter, à poser et répondre à des questions de base, ainsi qu’à communiquer dans des situations courantes de la vie quotidienne.\r\n\r\nLe cours couvre la grammaire fondamentale, le vocabulaire de base et le développement des compétences orales.",
    "duree" : "72 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Reshetnikova",
+      "prenom" : "Tetyana",
+      "presentation" : "Enseignante de langue et littérature ukrainiennes. Diplôme reconnu en tant qu’enseignante au Luxembourg et équivalence de niveau master en Belgique. Expérience dans l’enseignement et l’accompagnement scolaire.\r\nApproche communicative basée sur la langue et la culture."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi à 11:00 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "11:00",
+      "jour" : "Samedi"
+   } ],
    "id" : 66675,
    "intitule" : "Ukrainien pour débutants",
    "langueCoursCode" : "FR",
@@ -27143,10 +27175,22 @@
    "dateInscription" : "Registration open until November 1 by email bellebandura@gmail.com",
    "description" : "The course “Discover Ukraine: Language and Culture” is designed for adult beginners with no prior knowledge of the Ukrainian language. Over two months, participants will learn basic conversational vocabulary and use simple phrases in everyday situations such as introductions, cafés, traveling, and shopping. Special attention is given to cultural context: Ukrainian cuisine, traditions, holidays, music, modern life, and travel destinations.\r\n",
    "duree" : "24 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Kichihina",
+      "prenom" : "Anastasiia",
+      "presentation" : "Anastasiia Kichihina est formatrice agréée de la langue ukrainienne. Elle propose des cours ludiques incluant la grammaire, des exercices et de la pratique orale pour une communication efficace. "
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66720,
    "intitule" : "Discover Ukraine: Language and Culture",
    "langueCoursCode" : "EN",
