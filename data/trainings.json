@@ -2265,7 +2265,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3355,7 +3355,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "MUME",
    "matiereNom" : "Multimédia",
-   "nbInscrits" : 5,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -4144,7 +4144,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "COMMU",
    "matiereNom" : "Communication",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11408,7 +11408,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PHIL",
    "matiereNom" : "Philosophie",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -16291,7 +16291,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DIG",
    "matiereNom" : "Digital",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -17857,6 +17857,66 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La conférence dure 2 heures et est entièrement gratuite."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-COA-15",
+   "coursId" : "SO-COA-15",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "02/07/2026",
+   "dateFin" : "02/07/2026",
+   "description" : "Prendre du recul sur son quotidien de parent, mieux comprendre les tensions et découvrir des solutions concrètes pour améliorer la relation avec ses enfants.\r\nÀ travers des situations du quotidien et des échanges entre parents, vous repartirez avec des outils simples, pratiques et directement applicables pour favoriser une relation plus apaisée et coopérative.",
+   "duree" : "2 leçons",
+   "enseignants" : [ {
+      "nom" : "Van Vaerenberg",
+      "prenom" : "Jennifer"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 02-07-2026 à 12:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66740,
+   "intitule" : "Parentalité au quotidien : apaiser les tensions et encourager la coopération",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COA",
+   "matiereNom" : "Coaching",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3NDA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -26149,10 +26209,26 @@
    "dateInscription" : "Please complete your enrollment by December 25 by contacting Oksana Chaika at oxana.chaika@yahoo.es",
    "description" : "Learn Ukrainian at A2 level and improve your ability to communicate in everyday life. Practise speaking, listening, reading and writing while building confidence, vocabulary and essential grammar skills.  This course will help you use Ukrainian in real-life situations. You will practise conversations, understand common texts, and improve grammar and vocabulary through interactive exercises, games and guided activities. In exceptional cases an explanation is possible in FR/EN/LB.",
    "duree" : "64 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Chaika",
+      "prenom" : "Oksana",
+      "presentation" : "Prof. Dr. Oksana Chaika, PhD in Linguistics and Doctor of Science in Pedagogy, is a Professor with experience in teaching English / Ukrainian and intercultural communication. She has held senior international roles at AC Crowe Ukraine and in Group Compliance L&D at Quintet Private Bank headquartered in Luxembourg."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30), Vendredi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66705,
    "intitule" : "Do you speak Ukrainian? - A2 Intensive",
    "langueCoursCode" : "EN",
@@ -29972,10 +30048,22 @@
    "dateInscription" : "Please complete your enrollment by December 25 by contacting Oksana Chaika at oxana.chaika@yahoo.es",
    "description" : "Develop your Ukrainian for professional use and improve your ability to communicate in business and work-related situations. Practice speaking, writing and understanding professional communication while building confidence and accuracy. Introduction to some Legal and Financial Ukrainian.\r\n\r\nThis course helps you use Ukrainian in workplace contexts. You will practice meetings, emails, presentations and professional interactions, and improve vocabulary and structures through practical exercises, case studies and guided activities.",
    "duree" : "128 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Chaika",
+      "prenom" : "Oksana",
+      "presentation" : "Prof. Dr. Oksana Chaika, PhD in Linguistics and Doctor of Science in Pedagogy, is a Professor with experience in teaching English / Ukrainian and intercultural communication. She has held senior international roles at AC Crowe Ukraine and in Group Compliance L&D at Quintet Private Bank headquartered in Luxembourg."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66706,
    "intitule" : "Business Ukrainian",
    "langueCoursCode" : "UK",
@@ -30678,7 +30766,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
