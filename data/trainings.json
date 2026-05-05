@@ -716,83 +716,6 @@
    "prerequis" : "B1.2"
 }, {
    "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-100",
-   "coursId" : "IN-TAB-100",
-   "coursType" : "CLASSIQUE",
-   "cout" : 30.0,
-   "dateDebut" : "11/05/2026",
-   "dateFin" : "15/06/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "Excel Modul 1 Einführung:\r\n- Das Programm Microsoft Excel entdecken, Arbeitsoberfläche, Menüleiste, Symbolleiste kennen lernen.\r\n- Basis Umgang mit Excel (Zahlen und Texte in Zellen eingeben, markieren, versetzen usw.).\r\n- Tabellen erstellen, Zellen formatieren, Seiten einrichten und ausdrucken.\r\n- Einfache Rechnungen, Rechnen mit Formeln.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Savoir créer des tableaux. Présentation de l'interface, barres d'outils, barres des menus Étudier les fonctions principales: Saisie de données, enregistrer, enregistrer sous, copier, coller, effacer, imprimer. ", "Être capable d'effectuer la mise en forme et mise en page d'un tableau. Formatage des cases. Mise en page.", " Bien sauvegarder un tableau. Ouvrir un tableau créé auparavant et effectuer des modifications.", " Savoir faire des calculs simples. Calculs avec des formules." ],
-      "domaine" : "Tableurs"
-   } ],
-   "duree" : "10h",
-   "enseignants" : [ {
-      "nom" : "Toth",
-      "prenom" : "Laszlo",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 14:00 (durée 1h45)",
-   "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "14:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 61784,
-   "intitule" : "Excel Modul 1-7",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Informatik (Computer) Grundkenntnisse sind erforderlich  -  Connaissances de base en informatique (ordinateur) nécessaires\r\n",
-   "renseignements" : "Inscrivez-vous avant le 08-05-2026"
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -1636,7 +1559,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1837,7 +1760,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12067,7 +11990,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12693,79 +12616,6 @@
    "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
-      "codePostal" : "1839",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Gare",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "29, rue de Strasbourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1495",
-   "coursId" : "LA-LB-1495",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "15/06/2026",
-   "dateFin" : "09/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Ragnacci",
-      "prenom" : "Marie Louise"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 10:20 (durée 1h40), Mercredi à 10:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66132,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "A2.1",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
       "codePostal" : "1133",
       "localite" : "Luxembourg",
       "nom" : "Centre Culturel Bonnevoie",
@@ -12813,7 +12663,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 20,
    "nbPlaces" : 22,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -12886,7 +12736,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 21,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -13948,7 +13798,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 13,
    "nbPlaces" : 22,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -14021,7 +13871,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 24,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -14094,77 +13944,8 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 20,
    "nbPlaces" : 22,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "A1.2",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1490",
-   "coursId" : "LA-LB-1490",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Heinz",
-      "prenom" : "Natacha"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 08:30 (durée 1h40), Jeudi à 08:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66127,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 17,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
@@ -14236,7 +14017,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 22,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -14309,7 +14090,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 21,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -16338,7 +16119,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -27432,6 +27213,62 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-UK-5",
+   "coursId" : "LA-UK-5",
+   "coursType" : "CLASSIQUE",
+   "cout" : 576.0,
+   "dateDebut" : "12/01/2027",
+   "dateFin" : "15/07/2027",
+   "dateInscription" : "Please complete your enrollment by December 25 by contacting Oksana Chaika at oxana.chaika@yahoo.es",
+   "description" : "Develop your Ukrainian for professional use and improve your ability to communicate in business and work-related situations. Practice speaking, writing and understanding professional communication while building confidence and accuracy. Introduction to some Legal and Financial Ukrainian.\r\n\r\nThis course helps you use Ukrainian in workplace contexts. You will practice meetings, emails, presentations and professional interactions, and improve vocabulary and structures through practical exercises, case studies and guided activities.",
+   "duree" : "128 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 66706,
+   "intitule" : "Business Ukrainian",
+   "langueCoursCode" : "UK",
+   "langueCoursNom" : "Ukrainien",
+   "matiereCode" : "UK",
+   "matiereNom" : "Ukrainien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "B1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MDY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6720",
+         "localite" : "Hachy",
+         "nom" : "Belle Bandura ASBL",
+         "paysCode" : "B",
+         "paysNom" : "Belgique",
+         "rueNumero" : "26, rue des Aubépines"
+      },
+      "code" : "BB",
+      "mail" : "bellebandura@gmail.com",
+      "nom" : "Belle Bandura ASBL",
+      "nomContact" : "Balych",
+      "onlineReg" : true,
+      "prenomContact" : "Nadiya",
+      "statut" : "ASBL",
+      "telephone" : "0032 489 813 108"
+   },
+   "prerequis" : "minimum A2 level and completion of “Discover Ukraine” recommended",
+   "renseignements" : "A short placement interview (phone or Zoom/Teams) is required before enrolment (minimum A2 level and completion of “Discovering Ukraine” recommended). Regular attendance is expected. Course materials are provided. "
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -34820,7 +34657,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 21,
+   "nbInscrits" : 20,
    "nbPlaces" : 22,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
