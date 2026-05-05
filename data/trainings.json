@@ -10017,7 +10017,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -24187,6 +24187,62 @@
       "websiteUrl" : "https://www.clae.lu/"
    },
    "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-UK-4",
+   "coursId" : "LA-UK-4",
+   "coursType" : "CLASSIQUE",
+   "cout" : 288.0,
+   "dateDebut" : "22/09/2026",
+   "dateFin" : "29/11/2026",
+   "dateInscription" : "Please complete your enrollment by December 25 by contacting Oksana Chaika at oxana.chaika@yahoo.es",
+   "description" : "Learn Ukrainian at A2 level and improve your ability to communicate in everyday life. Practise speaking, listening, reading and writing while building confidence, vocabulary and essential grammar skills.  This course will help you use Ukrainian in real-life situations. You will practise conversations, understand common texts, and improve grammar and vocabulary through interactive exercises, games and guided activities. In exceptional cases an explanation is possible in FR/EN/LB.",
+   "duree" : "64 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:00 (durée 2h30), Jeudi à 18:00 (durée 2h30), Vendredi à 18:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 66705,
+   "intitule" : "Do you speak Ukrainian? - A2 Intensive",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "UK",
+   "matiereNom" : "Ukrainien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "A2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MDU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6720",
+         "localite" : "Hachy",
+         "nom" : "Belle Bandura ASBL",
+         "paysCode" : "B",
+         "paysNom" : "Belgique",
+         "rueNumero" : "26, rue des Aubépines"
+      },
+      "code" : "BB",
+      "mail" : "bellebandura@gmail.com",
+      "nom" : "Belle Bandura ASBL",
+      "nomContact" : "Balych",
+      "onlineReg" : true,
+      "prenomContact" : "Nadiya",
+      "statut" : "ASBL",
+      "telephone" : "0032 489 813 108"
+   },
+   "prerequis" : "Completed A1 at the least or acquaintance with UA language & culture",
+   "renseignements" : "A short placement interview (phone or Zoom/Teams) is required before enrolment (completed A1 at the least or acquaintance with UA language & culture). Regular attendance is important due to the intensive format. Course materials are provided."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
