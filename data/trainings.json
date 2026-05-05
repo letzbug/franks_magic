@@ -1,333 +1,5 @@
 [ {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-750",
-   "coursId" : "LA-FR-750",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "05/05/2026",
-   "dateFin" : "15/07/2026",
-   "domainesCompetences" : [ {
-      "competences" : [ "langues" ],
-      "domaine" : "formation pour adultes"
-   } ],
-   "duree" : "40h",
-   "enseignants" : [ {
-      "nom" : "Vilay",
-      "prenom" : "Venemany"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 18:50 (durée 1h40), Mercredi à 18:50 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 59821,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 13,
-   "nbPlaces" : 15,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk4MjE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4965",
-         "localite" : "Clémency",
-         "nom" : "A-PRENDRE",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "10, rue de l'École"
-      },
-      "code" : "APR",
-      "mail" : "venemany@a-prendre.lu",
-      "nom" : "A-PRENDRE SIS",
-      "nomContact" : "PRENDRE",
-      "onlineReg" : true,
-      "prenomContact" : "A-",
-      "statut" : "ASBL",
-      "telephone" : "/",
-      "websiteUrl" : "https://a-prendre.lu/"
-   },
-   "prerequis" : "A1.2",
-   "renseignements" : "à se procurer pour le cours livre et cahier d'activités :\r\n- Edito A2 - édition 2022-2024 - Livre + didierfle.app Broché - Illustré, 24 mai 2022\r\n- Edito A2 - édition 2022-2024 - Cahier + didierfle.app Broché - Illustré, 6 septembre 2022\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-NAT-9",
-   "coursId" : "SO-NAT-9",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "05/05/2026",
-   "dateFin" : "05/05/2026",
-   "description" : "Découvrez comment une alimentation saine, simple et adaptée à vos besoins peut booster votre énergie, soutenir votre santé au quotidien et vous aider à faire les meilleurs choix alimentaires grâce à des conseils pratiques et faciles à appliquer.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Rosenfelder",
-      "prenom" : "Patricia Fernande Marie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 05-05-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 66143,
-   "intitule" : "Alimentation saine pour sa santé et son énergie",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "NAT",
-   "matiereNom" : "Naturopathie",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNDM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "2160",
-      "localite" : "Grund Luxembourg",
-      "nom" : "Centre culturel de Rencontre Abbaye de Neumünster",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "28 Rue Münster "
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coOrganisateurs" : [ "Zentrum fir politesch Bildung", "Institut Pierre Werner", "Centre National de l’Audiovisuel" ],
-   "coursCode" : "SCI-SCP-1",
-   "coursId" : "SCI-SCP-1",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "05/05/2026",
-   "dateFin" : "05/05/2026",
-   "description" : "Europa im Film – Wie Kino unsere Sicht auf einen ganzen Kontinent prägt\r\nFilme und Serien erzählen Geschichten – und vermitteln dabei oft politische Botschaften und Werte. Doch welches Bild entsteht dabei von Europa und der EU?\r\nDiese Filmreihe lädt dazu ein, Europas Identität durch die Linse des Kinos neu zu entdecken.\r\nWas erwartet die Teilnehmenden?\r\n•\tEinblicke, wie europäische Filme kulturelle Vielfalt, Sprachen und historische Erfahrungen darstellen\r\n•\tSpannende Beispiele, wie Mythen, Antike und das gemeinsame Erbe Europas filmisch weiterleben\r\n•\tPerspektiven auf Kolonialgeschichte, Migration sowie Demokratie und Rechtsstaatlichkeit im Film\r\n•\tDer Blick von außen: Wie zeigen internationale Produktionen Europa?\r\n•\tDiskussionen darüber, wie Frieden und Versöhnung nach den Weltkriegen im Kino sichtbar werden\r\nDabei betrachten wir Klassiker und moderne Produktionen, die zeigen, wie sich Europa selbst erzählt – und wie es von der Welt gesehen wird.\r\n¿ Jetzt anmelden und Europa im Kino neu entdecken!",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Conférence",
-      "prenom" : "Up"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 05-05-2026 à 19:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "19:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 66159,
-   "intitule" : "Democracy Dies in Darkness - Demokratische Institutionen in Europa in Film und Serien",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "SCP",
-   "matiereNom" : "Sciences politiques",
-   "nbInscrits" : 1,
-   "nbPlaces" : 15,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4575",
-      "localite" : "Differdange",
-      "nom" : "Salle de cours",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14-16 Grand-Rue"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4575",
-      "localite" : "Differdange",
-      "nom" : "Le Jardin des Possibles",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "10 Grand-Rue"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1533",
-   "coursId" : "LA-FR-1533",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "05/05/2026",
-   "dateFin" : "14/07/2026",
-   "dateInscription" : "23/03/2026\r\nTel inscription 691860994 contact Sophie Dol",
-   "description" : "Oral : Conprendre et donner des informations pratiques au passé, futur et présent\r\n             Parler de ses émotions\r\nÉcrit Vocabulaire plus étendu qu'au niveau A1, maitrise du passé et du futur,\r\n           Lire et comprendre un texte informatif",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Tessaro",
-      "prenom" : "Michèle"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65670,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 17,
-   "nbPlaces" : 25,
-   "niveau" : "A2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU2NzA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4151",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "Le Jardin des Possibles",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, rue des Jardins"
-      },
-      "code" : "JDP",
-      "mail" : "sophiedol@gmail.com",
-      "nom" : "Le Jardin des Possibles",
-      "nomContact" : "Dol",
-      "onlineReg" : true,
-      "prenomContact" : "Sophie",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 743 206",
-      "websiteUrl" : "http://www.lejardindespossibles.lu/"
-   },
-   "prerequis" : "Niveau A 1.2 "
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-751",
-   "coursId" : "LA-FR-751",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "05/05/2026",
-   "dateFin" : "15/07/2026",
-   "domainesCompetences" : [ {
-      "competences" : [ "langue" ],
-      "domaine" : "formation pour adultes"
-   } ],
-   "duree" : "40h",
-   "enseignants" : [ {
-      "nom" : "Vilay",
-      "prenom" : "Venemany"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 17:10 (durée 1h40), Mercredi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 59822,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 5,
-   "nbPlaces" : 15,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk4MjI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4965",
-         "localite" : "Clémency",
-         "nom" : "A-PRENDRE",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "10, rue de l'École"
-      },
-      "code" : "APR",
-      "mail" : "venemany@a-prendre.lu",
-      "nom" : "A-PRENDRE SIS",
-      "nomContact" : "PRENDRE",
-      "onlineReg" : true,
-      "prenomContact" : "A-",
-      "statut" : "ASBL",
-      "telephone" : "/",
-      "websiteUrl" : "https://a-prendre.lu/"
-   },
-   "prerequis" : "A2.1",
-   "renseignements" : "à se procurer pour le cours livre et cahier d'activités à acheter :\r\n- Edito A2 - édition 2022-2024 - Livre + didierfle.app Broché - Illustré, 24 mai 2022\r\n- Edito A2 - édition 2022-2024 - Cahier + didierfle.app Broché - Illustré, 6 septembre 2022"
-}, {
-   "adresseCours" : {
       "codePostal" : "3524",
       "localite" : "Dudelange",
       "nom" : "Ecole Brill",
@@ -27704,6 +27376,213 @@
    }
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-750",
+   "coursId" : "LA-FR-750",
+   "coursType" : "CLASSIQUE",
+   "cout" : 120.0,
+   "dateDebut" : "05/05/2026",
+   "dateFin" : "15/07/2026",
+   "domainesCompetences" : [ {
+      "competences" : [ "langues" ],
+      "domaine" : "formation pour adultes"
+   } ],
+   "duree" : "40h",
+   "enseignants" : [ {
+      "nom" : "Vilay",
+      "prenom" : "Venemany"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 18:50 (durée 1h40), Mercredi à 18:50 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 59821,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 13,
+   "nbPlaces" : 15,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk4MjE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4965",
+         "localite" : "Clémency",
+         "nom" : "A-PRENDRE",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "10, rue de l'École"
+      },
+      "code" : "APR",
+      "mail" : "venemany@a-prendre.lu",
+      "nom" : "A-PRENDRE SIS",
+      "nomContact" : "PRENDRE",
+      "onlineReg" : true,
+      "prenomContact" : "A-",
+      "statut" : "ASBL",
+      "telephone" : "/",
+      "websiteUrl" : "https://a-prendre.lu/"
+   },
+   "prerequis" : "A1.2",
+   "renseignements" : "à se procurer pour le cours livre et cahier d'activités :\r\n- Edito A2 - édition 2022-2024 - Livre + didierfle.app Broché - Illustré, 24 mai 2022\r\n- Edito A2 - édition 2022-2024 - Cahier + didierfle.app Broché - Illustré, 6 septembre 2022\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4575",
+      "localite" : "Differdange",
+      "nom" : "Salle de cours",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14-16 Grand-Rue"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4575",
+      "localite" : "Differdange",
+      "nom" : "Le Jardin des Possibles",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "10 Grand-Rue"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1533",
+   "coursId" : "LA-FR-1533",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "05/05/2026",
+   "dateFin" : "14/07/2026",
+   "dateInscription" : "23/03/2026\r\nTel inscription 691860994 contact Sophie Dol",
+   "description" : "Oral : Conprendre et donner des informations pratiques au passé, futur et présent\r\n             Parler de ses émotions\r\nÉcrit Vocabulaire plus étendu qu'au niveau A1, maitrise du passé et du futur,\r\n           Lire et comprendre un texte informatif",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Tessaro",
+      "prenom" : "Michèle"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65670,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 17,
+   "nbPlaces" : 25,
+   "niveau" : "A2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU2NzA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4151",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "Le Jardin des Possibles",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, rue des Jardins"
+      },
+      "code" : "JDP",
+      "mail" : "sophiedol@gmail.com",
+      "nom" : "Le Jardin des Possibles",
+      "nomContact" : "Dol",
+      "onlineReg" : true,
+      "prenomContact" : "Sophie",
+      "statut" : "ASBL",
+      "telephone" : "+352 691 743 206",
+      "websiteUrl" : "http://www.lejardindespossibles.lu/"
+   },
+   "prerequis" : "Niveau A 1.2 "
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-751",
+   "coursId" : "LA-FR-751",
+   "coursType" : "CLASSIQUE",
+   "cout" : 120.0,
+   "dateDebut" : "05/05/2026",
+   "dateFin" : "15/07/2026",
+   "domainesCompetences" : [ {
+      "competences" : [ "langue" ],
+      "domaine" : "formation pour adultes"
+   } ],
+   "duree" : "40h",
+   "enseignants" : [ {
+      "nom" : "Vilay",
+      "prenom" : "Venemany"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 17:10 (durée 1h40), Mercredi à 17:10 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 59822,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 5,
+   "nbPlaces" : 15,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk4MjI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4965",
+         "localite" : "Clémency",
+         "nom" : "A-PRENDRE",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "10, rue de l'École"
+      },
+      "code" : "APR",
+      "mail" : "venemany@a-prendre.lu",
+      "nom" : "A-PRENDRE SIS",
+      "nomContact" : "PRENDRE",
+      "onlineReg" : true,
+      "prenomContact" : "A-",
+      "statut" : "ASBL",
+      "telephone" : "/",
+      "websiteUrl" : "https://a-prendre.lu/"
+   },
+   "prerequis" : "A2.1",
+   "renseignements" : "à se procurer pour le cours livre et cahier d'activités à acheter :\r\n- Edito A2 - édition 2022-2024 - Livre + didierfle.app Broché - Illustré, 24 mai 2022\r\n- Edito A2 - édition 2022-2024 - Cahier + didierfle.app Broché - Illustré, 6 septembre 2022"
+}, {
+   "adresseCours" : {
       "codePostal" : "66706",
       "localite" : "Perl",
       "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
@@ -36665,81 +36544,66 @@
    "renseignements" : "Inscription jusqu'au 23-03-2026 !"
 }, {
    "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
+      "rueNumero" : "14, Porte de France"
    },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-99",
-   "coursId" : "IN-TAB-99",
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-42",
+   "coursId" : "AR-DESS-42",
    "coursType" : "CLASSIQUE",
-   "cout" : 45.0,
+   "cout" : 117.0,
    "dateDebut" : "24/03/2026",
-   "dateFin" : "05/05/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "Excel Modul 2 Fortgeschritten:\r\n- Rechnen mit Formeln, Funktionen kennen lernen, Funktionen kombinieren für Aufgabenlösung in die Praxis.\r\n- Spalten und Zellen Koordinaten, warum sie so wichtig sind.  \r\n- Filter verwenden. \r\n- Grafik-Diagramm erstellen mit Hilfe von Tabellenfeldern.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Calculer avec des formules avancées et combinées. Calculs avec des formules: Si, recherche verticale.", "Création des graphiques.", "Gérer plusieurs feuilles Excel. Calculs avec des cases bloquées.", "Formatage conditionnel. Figer les volets." ],
-      "domaine" : "Tableurs"
-   } ],
-   "duree" : "10h",
+   "dateFin" : "14/07/2026",
+   "description" : "This continuation course deepens the foundations built in Getting Started with Drawing, with a stronger focus on drawing and watercolor. Through guided practice, you’ll refine your observation skills, strengthen your sense of composition, and explore more confident ways of combining line and color.\r\nWe’ll work on quick sketches, value studies, watercolor layering, water control, and texture techniques, while learning to build expressive images from both direct observation and personal interpretation. Themes will vary — urban scenes, botanicals, objects, and landscapes — and sessions will alternate between indoor studio time and outdoor sketching when possible.",
+   "duree" : "26 leçons",
    "enseignants" : [ {
-      "nom" : "Toth",
-      "prenom" : "Laszlo",
-      "site" : "http://www.cigpetange.lu"
+      "nom" : "Morel",
+      "prenom" : "Juliane"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 16:00 (durée 1h45)",
+   "horairePrevu" : "Mardi à 12:00 (durée 1h40)",
    "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "16:00",
+      "duree" : "1h40",
+      "heure" : "12:00",
       "jour" : "Mardi"
    } ],
-   "id" : 61783,
-   "intitule" : "Excel Modul 2-6",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
+   "id" : 63950,
+   "intitule" : "Beyond the Basics : Drawing & Watercolor Exploration",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
    "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTA%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
+         "rueNumero" : "14, Porte de France"
       },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
    },
-   "prerequis" : "Minimal Anforderung: Absolvierten  Excel Formation Modul 1  -  Exigence minimale : avoir suivi le module Excel Formation 1\r\n",
-   "renseignements" : "Inscrivez-vous avant le 20-03-2026"
+   "prerequis" : "This course is designed for students who have completed the introductory module \" Getting Started with Drawing\" or who already draw occasionally and want to grow their technique, confidence, and creative voice.",
+   "renseignements" : "Kindly note that classes do not take place during Luxembourg school holidays."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -36802,68 +36666,6 @@
    },
    "prerequis" : "Kindly note that classes will not take place during school holidays in Luxembourg.",
    "renseignements" : "To bring: at least 2 graphite pencils (HB, 2B), black fine-liner pens (water-resistant if possible), small watercolor set, brushes of various sizes, papers (watercolor, drawing, draft), water container, cloth or paper towel."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DESS-42",
-   "coursId" : "AR-DESS-42",
-   "coursType" : "CLASSIQUE",
-   "cout" : 117.0,
-   "dateDebut" : "24/03/2026",
-   "dateFin" : "14/07/2026",
-   "description" : "This continuation course deepens the foundations built in Getting Started with Drawing, with a stronger focus on drawing and watercolor. Through guided practice, you’ll refine your observation skills, strengthen your sense of composition, and explore more confident ways of combining line and color.\r\nWe’ll work on quick sketches, value studies, watercolor layering, water control, and texture techniques, while learning to build expressive images from both direct observation and personal interpretation. Themes will vary — urban scenes, botanicals, objects, and landscapes — and sessions will alternate between indoor studio time and outdoor sketching when possible.",
-   "duree" : "26 leçons",
-   "enseignants" : [ {
-      "nom" : "Morel",
-      "prenom" : "Juliane"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 12:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 63950,
-   "intitule" : "Beyond the Basics : Drawing & Watercolor Exploration",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DESS",
-   "matiereNom" : "Dessin",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "This course is designed for students who have completed the introductory module \" Getting Started with Drawing\" or who already draw occasionally and want to grow their technique, confidence, and creative voice.",
-   "renseignements" : "Kindly note that classes do not take place during Luxembourg school holidays."
 }, {
    "adresseCours" : {
       "codePostal" : "2309",
