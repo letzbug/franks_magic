@@ -172,7 +172,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -226,10 +226,21 @@
       "domaine" : "EXPRESSION ORALE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pouwer",
+      "prenom" : "Paul"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mercredi à 13:30 (durée 4h), Vendredi à 13:30 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "13:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "13:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65838,
    "intitule" : "Anglais - Conversation",
    "langueCoursCode" : "EN",
@@ -679,10 +690,21 @@
       "domaine" : "Schrëfltechen Ausdrock"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pauly",
+      "prenom" : "Séverine"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 14:00 (durée 2h),\nMercredi à 14:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 61591,
    "intitule" : "Luxembourgeois - conversation",
    "langueCoursCode" : "LB",
@@ -1267,6 +1289,67 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "0000",
+      "localite" : "Differnt Venues",
+      "nom" : "Different venues",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Different venues"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-SCH-8",
+   "coursId" : "SCI-SCH-8",
+   "coursType" : "CLASSIQUE",
+   "cout" : 81.0,
+   "dateDebut" : "13/05/2026",
+   "dateFin" : "15/07/2026",
+   "description" : "What if anthropology wasn’t just something you read about but something you could live? Over ten sessions, you’ll travel through stories of pirates and ghosts, yaks and thinking forests, robot-gods and wandering mushrooms. Together, we’ll explore how humans and all living beings make sense of the world in their own way. This isn’t a lecture series, it’s an adventure for the curious: an invitation to see, listen, and imagine differently. Each class will take place in an unusual or unexpected location across Luxembourg places that echo the theme of the day. You might find yourself learning about forest spirits among the trees, ghosts in a haunted castle or discussing globalization inside an old factory. You don’t need any background in anthropology, just curiosity and a taste for discovery. Through stories, conversations, and shared experiences, we’ll connect Luxembourgish culture with worlds from afar, comparing local traditions, memories, and ways of living to those found across the globe. Here, learning happens in dialogue: everyone brings their own stories, questions, and thoughts. Whether you come out of curiosity or passion, you’ll leave with new ways of thinking.",
+   "duree" : "18 leçons",
+   "enseignants" : [ {
+      "nom" : "Johnson",
+      "prenom" : "Théophile"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66294,
+   "intitule" : "Thinking Differently: An Introduction to Anthropology",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "SCH",
+   "matiereNom" : "Sciences humaines",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Please note that there will be no classes during school holidays in Luxembourg.\r\nThe sessions will take place at different venues."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -3117,7 +3200,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -3926,7 +4009,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 10,
+   "nbInscrits" : 9,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -4134,6 +4217,389 @@
    },
    "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
    "renseignements" : "Groupes de niveaux homogènes composés de 2 à 8 apprenants."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1558",
+   "coursId" : "LA-LB-1558",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05/2026 8h00 - 18h00",
+   "description" : "Objectifs généraux de la formation : pour approfondir vos connaissances de la langue et de la culture luxembourgeoise pour développer vos compétences linguistiques et grammaticales pour améliorer vos compétences communicatives pour développer votre compréhension écrite et orale, pour pouvoir écrire des textes simples : emails, courriers, demandes de renseignements, blogs, avis sur un site.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Relater une expérience au passé. Exposer des projets dans un avenir plus ou moins proche dans un mail ou une note." ],
+      "domaine" : "compréhesion écrite et production écrite"
+   }, {
+      "competences" : [ "Parler de sa vie quotidienne et professionnelle de façon relativement détaillée. Poser des questions pour s'informer et répondre à de telles questions sur soi et son cadre habituel. Peut décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats." ],
+      "domaine" : "Production orale et d'interaction"
+   }, {
+      "competences" : [ "Pouvoir comprendre presque tous les détails d'un message clair dont le débit n'est pas trop rapide et portant sur la vie courante." ],
+      "domaine" : "Compréhension orale"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66714,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.3 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "A2.2 (A2 PART 2/3) toutes compétences acquises"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1551",
+   "coursId" : "LA-FR-1551",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05/2026 8h00-18h00",
+   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité.\r\nPeut communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels.\r\nPeut décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Écouter - Je peux comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui me concerne de très près (par exemple moi-même, ma famille, les achats, l'environnement proche, le travail). Je peux saisir l'essentiel d'annonces et de messages simples et clairs.", "Lire - Je peux lire des textes courts très simples. Je peux trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus, les menus et les horaires et je peux comprendre des lettres personnelles courtes et simples." ],
+      "domaine" : "Comprendre"
+   }, {
+      "competences" : [ "Prendre part à une conversation - Je peux communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers. Je peux avoir des échanges très brefs même si, en règle générale, je ne comprends pas assez pour poursuivre une conversation.", "S'exprimer oralement en continu - Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille et d'autres gens, mes conditions de vie, ma formation et mon activité professionnelle actuelle ou récente." ],
+      "domaine" : "Parler"
+   }, {
+      "competences" : [ "Écrire - Je peux écrire des notes et messages simples et courts. Je peux écrire une lettre personnelle très simple, par exemple, de remerciements." ],
+      "domaine" : "Écrire "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66701,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MDE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "A2.1 toutes compétences validées - Pouvoir lire et écrire en alphabet latin"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1546",
+   "coursId" : "LA-FR-1546",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05 - 8h00 - 18h00",
+   "description" : "Peut comprendre des expressions familières et quotidiennes utilisées dans des situations de communication ainsi que des énoncés très simples visant à satisfaire certains besoins concrets de la vie sociale et peut en produire.\r\nPeut s'identifier et répondre à des questions concernant, sa nationalité, son âge, son lieu de résidence, son école.\r\nPeut participer à une interaction ordinaire.",
+   "domainesCompetences" : [ {
+      "competences" : [ "- comprendre les annonces publiques, les consignes prévisibles, les messages standards enregistrés, les informations répétitives (consignes pédagogiques), notamment si les conditions d'écoute sont bonnes (soit bruit, soit musique...), si les messages sont prononcés lentement et/ou clairement, sont illustrés (plan, dessins...) ou doublés par le papier et répétés." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "- reconnaître les noms, les mots ou expressions les plus courants; repérer et comprendre des noms propres et d'autres informations très simples dans un texte court; identifier globalement la fonction de certains textes usuels de l'environnement quotidien; comprendre des textes courts, contenant des mots et expressions familiers." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "- Communiquer bien, parler lentement ; utiliser des expressions élémentaires ; répondre à des questions simples sur des informations comme l'âge, l'origine, la langue, le lieu de résidence... comprendre et exécuter des instructions très simples ; demander à quelqu'un de ses nouvelles et réagir ; demander des objets, des services, en gérant, les numéros et l'heure" ],
+      "domaine" : "Production orale et compétence d'interaction"
+   }, {
+      "competences" : [ "- copier des mots ou des messages brefs, écrire des chiffres et des dates ; reconnaître diverses formes écrites : caractères imprimés, scripts, majuscules et formes manuscrites lisibles ; donner des informations sur lui-même : son nom, sa nationalité, son adresse, son âge, sa date de naissance, dans des questionnaires ou des fiches d'information ; écrire un message très simple concernant les activités de la vie quotidienne contenant quelques détails personnels." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66696,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY2OTY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Pouvoir lire et écrire en alphabet latin - Ability to read and write in latin alphabet"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1557",
+   "coursId" : "LA-LB-1557",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05 8h00 - 18h00",
+   "description" : "Peut comprendre des phrases et des expressions fréquemment utilisées liées aux domaines les plus pertinents.\r\nPeut communiquer dans le cadre de tâches simples nécessitant un échange direct d'informations sur des sujets familiers.\r\nPeut décrire en termes simples des aspects de ses antécédents, de son environnement immédiat et des questions liées à des besoins.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Écouter - Je peux comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui me concerne de très près (par ex. moi-même, ma famille,  les achats, l'environnement proche, le travail). Je peux saisir l'essentiel d'annonces et de messages simples et clairs.", "Lire - Je peux lire des textes courts très simples. Je peux trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus, les menus et les horaires et je peux comprendre des lettres personnelles courtes et simples. " ],
+      "domaine" : "Comprendre"
+   }, {
+      "competences" : [ "Prendre part à une conversation  - Je peux communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers. Je peux avoir des échanges très brefs même si, en règle générale, je ne comprends pas assez pour poursuivre une conversation. ", "S'exprimer oralement en continu - Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille et d'autres gens, mes conditions de vie, ma formation et mon activité professionnelle actuelle ou récente. " ],
+      "domaine" : "Parler"
+   }, {
+      "competences" : [ "Écrire - Je peux écrire des notes et messages simples et courts. Je peux écrire une lettre personnelle très simple, par exemple de remerciements." ],
+      "domaine" : "Écrire "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66713,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MTM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Niveau A2.1 toutes compétences validées",
+   "renseignements" : "Livre \"Schwätzt Dir Lëtzebuergesch?\" niveau A2 de l'INL.\r\n"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1555",
+   "coursId" : "LA-LB-1555",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05 8h00 - 18h00",
+   "description" : "Peut décrire ses activités quotidiennes, ses passe-temps, exprimer ce qu'il aime faire et ce qu'il ne fait pas. Il peut parler de ses projets de fin de semaine. Il peut exprimer la fréquence d'une activité. Il peut parler de la météo et écrire une carte postale.",
+   "domainesCompetences" : [ {
+      "competences" : [ "d'Wiederprevisiounen am grousse Ganze verstoen\r\n", "Informatiounen a Froen iwwer elementar Aktivitéiten am Kontext vun de Beruffer verstoen \r\n", "Verstoe wann een iwwer Fräizäitaktivitéite schwätzt oder dono freet\r\n", "Bei engem Akafsgespréich an an alldeegleche Situatiounen einfach Froen an Informatioune verstoen\r\n\r\n", "Familljeverhältnisser verstoen (Brudder, Schwëster ...)\r\n", "Ganz einfach Explikatiounen zu enger Krankheet verstoen (Kierperdeeler)" ],
+      "domaine" : "Compréhension Orale"
+   }, {
+      "competences" : [ "Geschriwwen Informatiounen iwwert eng Aarbecht verstoen (Annoncen ...)\r\n\r\n", "Geschriwwen Informatiounen zu Fräizäitaktivitéiten, Hobbien a Manifestatioune verstoen (Flyeren, Annoncen ...)" ],
+      "domaine" : "Compréhension Ecrite"
+   }, {
+      "competences" : [ "D'Wieder ganz einfach beschreiwen (Et (ass) ...)\r\n", "Iwwer säi Beruff schwätzen an eng aner Persoun dono froen\r\n", "Säin Dagesoflaf beschreiwen (fir d'éischt, dann, duerno, zum Schluss)\r\n", "Iwwer meng Hobbie schwätzen (gär, net gär, all Dag, heiansdo, oft, ...)\r\n\r\n", "E Rendezvous ausmaachen (wéini - wou - um wéi vill Auer?)\r\n", "Een Akafsgespréich féieren:\r\n         - > positiv oder negativ op Froe reagéieren (net ; keen, keng)\r\n         - > ech hätt gär, kréien ech w.e.g.\r\n         - > wéi vill kascht(en)? + Quantitéiten (Kilo, Pond, Liter ...) (Pluriel vun de Wierder)\r\n", "Iwwert seng Famill schwätzen (seng Elteren, säi Brudder, seng Schwëster, seng Kanner ...)\r\n", "Beschreiwe wou een eppes wéi huet, respektiv sech ausdrécke wann et engem net gutt geet " ],
+      "domaine" : "Expression Orale "
+   }, {
+      "competences" : [ "Eng ganz einfach Kaart aus der Vakanz schreiwen\r\n", "Eng kleng Email oder eng SMS iwwer säi Beruff oder den Alldag schreiwen", "Eng kleng Notiz schreiwe fir e Kolleg fir e Rendezvous auszemaachen" ],
+      "domaine" : "Expression Ecrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66711,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Luxembourgeois A1.1 toutes compétences validées."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1554",
+   "coursId" : "LA-LB-1554",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05/2026 8h00 - 18h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés très simples qui visent à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un et poser à une personne des questions la concernant - par exemple, sur son lieu d'habitation, ses relations, ce qui lui appartient, etc., et peut répondre au même type de questions. Peut communiquer de façon simple si l'interlocuteur parle lentement et distinctement et se montre coopératif.",
+   "domainesCompetences" : [ {
+      "competences" : [ "1.  Ech kann verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "2.      Ech kann einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \t \t", " 3.      Ech kann d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\t \t \r\n\t\t\t \t \r\n", "4.      Ech kann d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ...) : Wéi ass een oder eppes ?\t \t \r\n\t\t", "5.      Ech kann d'Auerzäite verstoen (5 Minuttenofstänn)" ],
+      "domaine" : "Compréhension Orale  Héierverstoen (HV)"
+   }, {
+      "competences" : [ "1.      Ech kann verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\t \t \r\n\t\t", "2.      Ech kann ganz einfach Froen zu senger oder enger anerer Persoun verstoen\t \t \r\n\t\t", "3.      Ech kann einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen \t \t \r\n" ],
+      "domaine" : "Compréhension Ecrite Liesverstoen (LV)"
+   }, {
+      "competences" : [ "1.      Ech kann « Moien » an « Äddi » soen a froe wéi et engem geet an äntwere wann ee gefrot gëtt\r\n", "2.      Ech kann mech oder eng aner Persoun kuerz presentéieren : de Vir- a Familljennumm, den Alter, d'Nationalitéit, d'Sproochen, wou een/si hierkommen/kënnt, d'Address, de Beruff, d'Familljesituatioun\r\n\r\n", "3.      Ech kann eng aner Persoun no deene Saache froen\r\n", "4.      Ech kann meng perséinlech Donnéeë ginn an eng aner Persoun dono froen : d'Adress, d'Telefonsnummer, d'Emailaddress, de Gebuertsdatum\r\n", "5.      Ech kann d'Negatioun benotzen : « net » a « keen / keng »\r\n", "6.      Ech kann d'Auerzäit an den Datum (Dag a Mount) soe wann een dono gefrot gett\r\n", "7.      Ech kann d'Wochendeeg, d'Méint an d'Joreszäite benennen\r\n", "8.      Ech kann en Objet oder eng Persoun kuerz beschreiwen \r\n", "9.      Ech kann e kuerzen Text haart virliesen" ],
+      "domaine" : "Expression Orale en continu et interaction orale  Mëndlechen Ausdrock (MA)"
+   }, {
+      "competences" : [ "1.      Ech kann eng kuerz Email / SMS schreiwe fir ze froe wéi et geet\r\n\r\n", "2.      Ech kann einfach Sätz am Present schreiwen\r\n", "3.      Ech kann een einfache Formulaire ausfëllen" ],
+      "domaine" : "Expression Ecrite Schrëftlechen Ausdrock (SA)"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66710,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Connaître l'alphabet latin est obligatoire\r\n\r\n",
+   "renseignements" : "Livre A1 de l'INL: Schwätzt Dir Lëtzebuergesch?\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -4535,6 +5001,332 @@
    },
    "prerequis" : "Niveau A1.1 acquis",
    "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1554",
+   "coursId" : "LA-FR-1554",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05/2026 8h00-18h00",
+   "description" : "Peut comprendre un langage clair et standard est utilisé et s'il s'agit de situations familières dans le travail, dans les loisirs, les commerces dans un pays où la langue est parlée. Peut produire un discours simple sur des sujets familiers et dans ses domaines d'intérêt. Peut raconter un événement, une expérience, décrire un espoir ou un but et exposer brièvement des raisons ou explications  pour un projet ou une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre un fait divers, un fait de société, l'actualité, un récit, un reportage  - Comprendre un point de vue, un but, un objectif, des intentions - Comprendre une présentation - Comprendre les questions lors d'un entretien" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Raconter un fait divers, une histoire, une expérience - Exprimer son point de vue, ses intentions. Trouver un consensus - Argumenter - Faire une présentation orale simple. Parler de son parcours scolaire et de son experience professionnelle" ],
+      "domaine" : "Production orale et d'interaction"
+   }, {
+      "competences" : [ "Reconnaître un type de document - Comprendre un texte littéraire simple - Comprendre un fait divers, un article de journal, de magazine, sur internet - Comprendre un synopsis - Comprendre un but, un objectif " ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Décrire une expérience, un fait divers, une histoire - Exprimer ses sentiments et se plaindre - Faire une requête, une proposition avec des arguments - Ecrire un article - Suggérer et convaincre - Exprimer ses intentions - Ecrire une lettre formelle - Ecrire une lettre de motivation" ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 14:30 (durée 3h), Mardi à 14:30 (durée 3h), Mercredi à 14:30 (durée 3h), Jeudi à 14:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66704,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "B1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MDQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "B1 PART 1/3 toutes compétences acquises"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1553",
+   "coursId" : "LA-FR-1553",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05/2026 8h00-18h00",
+   "description" : "Peut comprendre les points essentiels quand un langage clair et standard est utilisé et s'il s'agit de choses familières dans le travail, à l'école, dans les loisirs, etc. Peut se débrouiller dans la plupart des situations rencontrées en voyage dans une région où la langue cible est parlée. Peut produire un discours simple et cohérent sur des sujets familiers et dans ses domaines d'intérêt.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre les points essentiels de discussions et d'émissions sur des sujets familiers ou d'actualité.\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Lire et comprendre des textes courants sur des sujets variés, incluant la description d'événements, l'expression de sentiments ou de souhaits dans des articles, forums ou lettres.\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Participer à des conversations sur des sujets familiers, d'actualité ou personnels.\r\nS'exprimer de manière simple et continue pour raconter, expliquer opinions et réactions.\r\n\r\n" ],
+      "domaine" : "Production orale en continu et interaction orale"
+   }, {
+      "competences" : [ "Rédiger un texte simple et cohérent pour exprimer une opinion, impressions ou décrire des expériences sur des sujets familiers.\r\n" ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66703,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MDM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Niveau A2 toutes compétences validées - Pouvoir lire et écrire en alphabet latin"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1550",
+   "coursId" : "LA-FR-1550",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05 8h00-18h00",
+   "description" : "Peut comprendre des expressions et un vocabulaire fréquent relatifs à ce qui me concerne de très près. \r\nPeut parler de sujets simples de la vie de tous les jours\r\nPeut saisir l'essentiel d'annonces et de messages simples.\r\nPeut lire des textes courts très simples.\r\nPeut trouver une information particulière dans des documents courants comme les publicités, les prospectus, les menus et les horaires et peut comprendre des lettres courtes et simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Je peux comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui me concerne de très près (par exemple moi-même, ma famille, les achats, l'environnement proche, le travail). Je peux saisir l'essentiel d'annonces et de messages simples et clairs." ],
+      "domaine" : "La compétence en réception orale : l'écoute"
+   }, {
+      "competences" : [ "Je peux lire des textes courts très simples. Je peux trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus, les menus et les horaires et je peux comprendre des lettres personnelles courtes et simples." ],
+      "domaine" : "La compétence en réception écrite : la lecture"
+   }, {
+      "competences" : [ "Je peux écrire des notes et messages simples et courts. Je peux écrire une lettre personnelle très simple, par exemple, de remerciements." ],
+      "domaine" : "La compétence en production écrite : écrire"
+   }, {
+      "competences" : [ "Je peux communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers. " ],
+      "domaine" : "La compétence en production d'interaction"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66700,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MDA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Français A1.1 et A1.2 validés - toutes compétences acquises\r\nPouvoir lire et écrire en alphabet latin"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1548",
+   "coursId" : "LA-FR-1548",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05 - 8h00 - 18h00",
+   "description" : "Routine quotidienne. Loisirs et temps libre. Prendre un rendez-vous. Parler de la météo. Nommer et décrire les aliments et boissons. Avoir une conversation dans un magasin. Dire quels aliments et boissons vous aimez, n'aimez pas. Commander des repas et des boissons. Parler de la famille et des amis. Décrire une personne. Avoir une conversation chez un médecin.",
+   "domainesCompetences" : [ {
+      "competences" : [ "1. Comprendre les prévisions météorologiques en général\r\n", "2. Comprendre des informations et des questions sur les activités élémentaires dans le contexte des professions\r\n", "3. Comprendre quand quelqu'un parle ou pose des questions sur les activités de loisirs\r\n", "4. Comprendre des questions et des informations simples lors d'une conversation d'achat et dans des situations de tous les jours\r\n", "5. Comprendre les relations familiales (frère, soeur, ...)\r\n", "6. Comprendre des explications très simples pour une maladie (parties du corps)" ],
+      "domaine" : "Compréhension Orale "
+   }, {
+      "competences" : [ "1. Comprendre les informations écrites sur un emploi (annonces, ...)\r\n", "2. Comprendre des informations écrites sur les loisirs, les hobbies et les événements (dépliants, publicités, ...)" ],
+      "domaine" : "Compréhension Ecrite"
+   }, {
+      "competences" : [ "1. décrire le temps très simplement (Il (fait)...)\r\n", "2. parler de mon métier et en parler à une autre personne\r\n", "3. décrire ma routine quotidienne (d'abord, puis, puis, enfin)\r\n", "4. parler de mes hobbies (j'aime, je n'aime pas, tous les jours, parfois, souvent, ...)\r\n", "5. prendre rendez-vous (quand ? où ? à quelle heure ?)\r\n", "6. mener une conversation d'achat :\r\n          -> répondre positivement ou négativement aux questions (non ; aucune - aucune)\r\n          -> Je voudrais, puis-je obtenir, s'il vous plaît, ...\r\n          - > combien de coût(s)... ? + Quantités (kilo, livre, litre, ...) (pluriel des mots)\r\n", "7. parler de ma famille (mes parents, mon frère, ma soeur, mes enfants, ...)\r\n ", "8. décrire où je me sens ou m'exprimer quand je ne me sens pas bien " ],
+      "domaine" : "Expression Orale en continu et interaction orale"
+   }, {
+      "competences" : [ "1. écrivez une carte de voeux très simple\r\n", "2. écrire un petit mail ou SMS sur mon métier ou ma vie de tous les jours\r\n", "3. écrire un petit mot à un collègue pour prendre rendez-vous" ],
+      "domaine" : "Expression Ecrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:30 (durée 3h), Mardi à 08:30 (durée 3h), Mercredi à 08:30 (durée 3h), Jeudi à 08:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66698,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY2OTg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "A1.1 toutes compétences acquises - Pouvoir lire et écrire en alphabet latin"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1556",
+   "coursId" : "LA-LB-1556",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05 8h00 - 18h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes et des phrases très simples visant à répondre à des besoins concrets. Peut se présenter à d'autres personnes et poser des questions à une personne à leur sujet - par ex. où elle habite, quelles personnes elle connaît et quelles choses lui appartiennent - et répondre au même genre de questions. Peut interagir facilement si l'autre personne parle lentement et clairement et est coopérative.",
+   "domainesCompetences" : [ {
+      "competences" : [ "1. eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. eng ganz einfach Weebeschreiwung an enger Stad verstoen (riichtaus, no lénks, no riets, ...) \t \t", " 3. Informatiounen iwwer Wunnenge verstoen (Gréisst, Präis, Zëmmeren, ...) (kafen, verkafen, lounen, verlounen)\t \t \r\n\t\t\t \t \r\n", "4. e Gespréich iwwer alldeeglech Aktivitéite verstoen (am Stot, dobaussen, am Restaurant, ...)\t \t \r\n\t\t", "5. eng Persounebeschreiwung verstoen (um Radio, op enger Party) (Ausgesinn, Kleeder, Adjektiver)" ],
+      "domaine" : "Compréhension Orale  Héierverstoen (HV)"
+   }, {
+      "competences" : [ "1. op engem Panneau eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. an engem Gebai eng wichteg Orientéierungshëllef verstoen (éischte Stack, am Keller, ...)\t \t \r\n\t\t", "3. eng Wunnengsannonce verstoen (Lag, Gréisst, Zëmmeren, ...)", "4. eng Persounebeschreiwung verstoen, d'Ausgesinn an de Charakter  (Annonce, ...) (Kierper, Kleeder, Adjektiver)" ],
+      "domaine" : "Compréhension Ecrite Liesverstoen (LV)"
+   }, {
+      "competences" : [ "1.      Informatiounen zu Horairë froen oder ginn\r\n", "2.      eng ganz einfach Weebeschreiwung gi wann ech gefrot ginn\r\n\r\n", "3.      no Informatiounen iwwert e Restaurant froen an eppes bestellen (Ëffnungszäiten, Menü, ...)\r\n", "4.      eng Wunneng beschreiwen a kommentéieren \r\n", "5.      iwwer mäin Alldag schwätzen (Stot, Gewunnechten, ...) (ëmmer, ni, dacks, heiansdo, all Dag, ....)\r\n", "6.      eng Persoun beschreiwen (Ausgesinn a Charakter)\r\n", "7.      soe wat mir gefält a wat net\r\n", "8.      Saache matenee vergläichen (méi / manner ... wéi ; gär, léiwer am léifsten ; ...)\r\n" ],
+      "domaine" : "Expression Orale en continu et interaction orale  Mëndlechen Ausdrock (MA)"
+   }, {
+      "competences" : [ "1.      eng ganz einfach Weebeschreiwung maachen (SMS oder E-Mail, ...)\r\n\r\n", "2.      eng einfach Wunnengsannonce schreiwen\r\n", "3.      an enger SMS oder enger E-Mail e Rendezvous ausmaachen", "4.      eng ganz einfach Persounebeschreiwung opsetzen" ],
+      "domaine" : "Expression Ecrite Schrëftlechen Ausdrock (SA)"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66712,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Niveau A1.2 toutes compétences validées",
+   "renseignements" : "Livre A2 \"Schwätzt Dir Lëtzebuergesch?\" de l'INL\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -5431,6 +6223,297 @@
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1553",
+   "coursId" : "LA-LB-1553",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05/2026 8h00 - 18h00x",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés très simples qui visent à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un et poser à une personne des questions la concernant - par exemple, sur son lieu d'habitation, ses relations, ce qui lui appartient, etc., et peut répondre au même type de questions. Peut communiquer de façon simple si l'interlocuteur parle lentement et distinctement et se montre coopératif.",
+   "domainesCompetences" : [ {
+      "competences" : [ "1.  Ech kann verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "2.      Ech kann einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \t \t", " 3.      Ech kann d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\t \t \r\n\t\t\t \t \r\n", "4.      Ech kann d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ...) : Wéi ass een oder eppes ?\t \t \r\n\t\t", "5.      Ech kann d'Auerzäite verstoen (5 Minuttenofstänn)" ],
+      "domaine" : "Compréhension Orale  Héierverstoen (HV)"
+   }, {
+      "competences" : [ "1.      Ech kann verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\t \t \r\n\t\t", "2.      Ech kann ganz einfach Froen zu senger oder enger anerer Persoun verstoen\t \t \r\n\t\t", "3.      Ech kann einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen \t \t \r\n" ],
+      "domaine" : "Compréhension Ecrite Liesverstoen (LV)"
+   }, {
+      "competences" : [ "1.      Ech kann « Moien » an « Äddi » soen a froe wéi et engem geet an äntwere wann ee gefrot gëtt\r\n", "2.      Ech kann mech oder eng aner Persoun kuerz presentéieren : de Vir- a Familljennumm, den Alter, d'Nationalitéit, d'Sproochen, wou een/si hierkommen/kënnt, d'Address, de Beruff, d'Familljesituatioun\r\n\r\n", "3.      Ech kann eng aner Persoun no deene Saache froen\r\n", "4.      Ech kann meng perséinlech Donnéeë ginn an eng aner Persoun dono froen : d'Adress, d'Telefonsnummer, d'Emailaddress, de Gebuertsdatum\r\n", "5.      Ech kann d'Negatioun benotzen : « net » a « keen / keng »\r\n", "6.      Ech kann d'Auerzäit an den Datum (Dag a Mount) soe wann een dono gefrot gett\r\n", "7.      Ech kann d'Wochendeeg, d'Méint an d'Joreszäite benennen\r\n", "8.      Ech kann en Objet oder eng Persoun kuerz beschreiwen \r\n", "9.      Ech kann e kuerzen Text haart virliesen" ],
+      "domaine" : "Expression Orale en continu et interaction orale  Mëndlechen Ausdrock (MA)"
+   }, {
+      "competences" : [ "1.      Ech kann eng kuerz Email / SMS schreiwe fir ze froe wéi et geet\r\n\r\n", "2.      Ech kann einfach Sätz am Present schreiwen\r\n", "3.      Ech kann een einfache Formulaire ausfëllen" ],
+      "domaine" : "Expression Ecrite Schrëftlechen Ausdrock (SA)"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66709,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MDk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Connaître l'alphabet latin est obligatoire.\r\n\r\n",
+   "renseignements" : "Livre A1 de l'INL: Schwätzt Dir Lëtzebuergesch?\r\n\r\n\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3425",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3590",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de ville de  Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1452",
+   "coursId" : "LA-LB-1452",
+   "coursType" : "CLASSIQUE",
+   "cout" : 85.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "16/07/2026",
+   "dateInscription" : "Mars 2026\r\nCoursEnsemble@i-a.lu\r\n51 61 21 538",
+   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines de l'environnement quotidien (informations personnelles et familiales simples, achats, travail) Pouvoir communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. Savoir décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Échanger sur le thème de l'identité. ", "Décrire une personne, d'un objet dans des simples et courants. ", "Indique le chemin. ", "Décrire un logement. ", "Échanger autour des habitudes quotidiennes. ", "Échanger simplement et succinctement en utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisir. ", "Dire l'heure et les moments de la journée.\r\n" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "Comprendre de courts textes descriptifs écrits avec des mots simples et usuels (annonces, pub). ", "Comprendre de courts texte de type «petites annonces pour un logement». \r\n", "Comprendre un planning de tâches au quotidien. " ],
+      "domaine" : "COMPREHENSION ECRIRE"
+   }, {
+      "competences" : [ "Ecrire des mots simples et courants sur des thèmes familiers (identité, famille, nourriture, état physique-moral...). \r\n", "Ecrire de courts messages (date, rdv, noter des numéros de téléphone). " ],
+      "domaine" : "EXPRESSION ECRITE"
+   }, {
+      "competences" : [ "Comprendre des échanges autour de l'identité, présentation. \r\n", "Comprendre une description simple d'une personne, d'un objet. ", "Comprendre la description d'un chemin, d'un logement. ", "Comprendre des échanges sur les tâches quotidiennes. ", "Comprendre des échanges simples utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisirs. ", "Comprendre l'expression de temps, heures et moments. " ],
+      "domaine" : "COMPREHENSION ORALE"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Da Re",
+      "prenom" : "Patrizia"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mardi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h), Jeudi à 09:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65317,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 21,
+   "nbPlaces" : 23,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3526",
+         "localite" : "Dudelange",
+         "nom" : "Inter-Actions",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "149, rue des Minières"
+      },
+      "code" : "IAPE",
+      "mail" : "coursensemble@inter-actions.lu",
+      "nom" : "Ensemble Quartiers Dudelange - Inter-Actions",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "ASBL",
+      "telephone" : "51 61 21 538 / 26 56",
+      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
+   },
+   "prerequis" : "Avoir validé le niveau A1.2"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1555",
+   "coursId" : "LA-FR-1555",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05 8h00-18h00",
+   "description" : "Utilisateur indépendant\r\nPeut comprendre les points essentiels quand un langage clair et standard est utilisé et s'il s'agit de choses familières dans le travail, à l'école, dans les loisirs, etc. Peut se débrouiller dans la plupart des situations rencontrées en voyage dans une région où la langue cible est parlée. Peut produire un discours simple et cohérent sur des sujets familiers et dans ses domaines d'intérêt. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des raisons ou explications pour un projet ou une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Peut lire des textes factuels clairs sur des sujets relatifs à son domaine et à ses intérêts avec un niveau satisfaisant de compréhension", "Peut comprendre suffisamment bien une correspondance formelle sur un sujet peu\r\nfamilier, pour être capable de la transférer à quelqu'un d'autre" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ ".Peut comprendre une information factuelle directe sur des sujets de la vie quotidienne ou relatifs au travail, en distinguant les messages généraux et les points de détail, à condition que l'articulation soit claire et l'accent courant.", "Peut comprendre les points principaux d'une intervention dans une langue claire et standard sur des sujets familiers rencontrés régulièrement au travail, à l'école, pendant les loisirs, y compris des récits courts" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut assez aisément mener à bien une description directe et non compliquée de sujets variés dans son domaine en la présentant comme une succession linéaire de points.", "Peut exprimer clairement ses sentiments par rapport à quelque chose qu'il/elle a vécu et expliquer pourquoi il/elle ressent ces sentiments." ],
+      "domaine" : "production orale et d'interaction"
+   }, {
+      "competences" : [ "Peut écrire des textes suivis non complexes sur une gamme de sujets variés dans son domaine, en liant une série d'éléments en une séquence linéaire.", "Peut indiquer distinctement l'ordre chronologique d'un texte narratif.\r\n", "Peut rédiger une critique simple sur un film, un livre ou un programme télévisé, en\r\nutilisant une gamme limitée de langage." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66707,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "B1.3 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MDc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Avoir réussi le niveau B1 part 2"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1552",
+   "coursId" : "LA-FR-1552",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 AU 30/05/26",
+   "description" : "Objectifs généraux de la formation :\r\npour approfondir vos connaissances de la langue et de la culture française\r\npour développer vos compétences linguistiques et grammaticales\r\npour améliorer vos compétences communicatives\r\npour développer votre compréhension écrite et orale\r\npour garantir une transition facile vers le niveau B1.1",
+   "domainesCompetences" : [ {
+      "competences" : [ "Pouvoir comprendre presque tous les détails d'un message clair dont le débit n'est pas trop rapide et portant sur la vie courante - audios et vidéos" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Pouvoir comprendre globalement tous types de documents de la vie courante, non spécialisés." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Emails, lettres simples, prise de notes, avis sur un site, textes courts, répondre à une annonce, écrire un CV et une lettre de motivation en s'aidant d'un dictionnaire. Ecrire un message formel. Remercier." ],
+      "domaine" : "Production écrite"
+   }, {
+      "competences" : [ "Parler de sa vie quotidienne et professionnelle de façon relativement détaillée. exprimer un souhait, un désir. Donner un conseil, Demander et proposer un service. Structurer son propos. Demander des renseignements. Exprimer et répondre à l'agacement. Parler de ses projets professionnels. Exprimer sa capacité à faire quelque chose. Exprimer une évidence. Exprimer la peur, l'inquiétude. Exprimer son approbation. Protester." ],
+      "domaine" : "Production orale et d'interaction"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66702,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.3 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MDI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "A2.2 compétences validées - Pouvoir lire et écrire en alphabet latin"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
    "adresseInscription" : {
       "codePostal" : "2132",
       "localite" : "Luxembourg",
@@ -6198,6 +7281,136 @@
    "renseignements" : " non accessible aux personnes à mobilité réduite "
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1549",
+   "coursId" : "LA-FR-1549",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05 - 8h00-18h00",
+   "description" : "Routine quotidienne. Loisirs et temps libre. Prendre un rendez-vous. Parler de la météo. Nommer et décrire les aliments et boissons. Avoir une conversation dans un magasin. Dire quels aliments et boissons vous aimez, n'aimez pas. Commander des repas et des boissons. Parler de la famille et des amis. Décrire une personne. Avoir une conversation chez un médecin.",
+   "domainesCompetences" : [ {
+      "competences" : [ "1. Comprendre les prévisions météorologiques en général\r\n", "2. Comprendre des informations et des questions sur les activités élémentaires dans le contexte des professions\r\n", "3. Comprendre quand quelqu'un parle ou pose des questions sur les activités de loisirs\r\n", "4. Comprendre des questions et des informations simples lors d'une conversation d'achat et dans des situations de tous les jours\r\n", "5. Comprendre les relations familiales (frère, soeur, ...)\r\n", "6. Comprendre des explications très simples pour une maladie (parties du corps)" ],
+      "domaine" : "Compréhension Orale "
+   }, {
+      "competences" : [ "1. Comprendre les informations écrites sur un emploi (annonces, ...)\r\n", "2. Comprendre des informations écrites sur les loisirs, les hobbies et les événements (dépliants, publicités, ...)" ],
+      "domaine" : "Compréhension Ecrite"
+   }, {
+      "competences" : [ "1. décrire le temps très simplement (Il (fait)...)\r\n", "2. parler de mon métier et en parler à une autre personne\r\n", "3. décrire ma routine quotidienne (d'abord, puis, puis, enfin)\r\n", "4. parler de mes hobbies (j'aime, je n'aime pas, tous les jours, parfois, souvent, ...)\r\n", "5. prendre rendez-vous (quand ? où ? à quelle heure ?)\r\n", "6. mener une conversation d'achat :\r\n          -> répondre positivement ou négativement aux questions (non ; aucune - aucune)\r\n          -> Je voudrais, puis-je obtenir, s'il vous plaît, ...\r\n          - > combien de coût(s)... ? + Quantités (kilo, livre, litre, ...) (pluriel des mots)\r\n", "7. parler de ma famille (mes parents, mon frère, ma soeur, mes enfants, ...)\r\n ", "8. décrire où je me sens ou m'exprimer quand je ne me sens pas bien " ],
+      "domaine" : "Expression Orale en continu et interaction orale"
+   }, {
+      "competences" : [ "1. écrivez une carte de voeux très simple\r\n", "2. écrire un petit mail ou SMS sur mon métier ou ma vie de tous les jours\r\n", "3. écrire un petit mot à un collègue pour prendre rendez-vous" ],
+      "domaine" : "Expression Ecrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66699,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY2OTk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "A1.1 toutes compétences acquises - Pouvoir lire et écrire en alphabet latin"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1547",
+   "coursId" : "LA-FR-1547",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "09/07/2026",
+   "dateInscription" : "13/05 au 30/05 - 8h00-18h00",
+   "description" : "Peut comprendre des expressions familières et quotidiennes utilisées dans des situations de communication ainsi que des énoncés très simples visant à satisfaire certains besoins concrets de la vie sociale et peut en produire.\r\nPeut s'identifier et répondre à des questions concernant, sa nationalité, son âge, son lieu de résidence, son école.\r\nPeut participer à une interaction ordinaire.",
+   "domainesCompetences" : [ {
+      "competences" : [ "- reconnaître les noms, les mots ou expressions les plus courants; repérer et comprendre des noms propres et d'autres informations très simples dans un texte court; identifier globalement la fonction de certains textes usuels de l'environnement quotidien; comprendre des textes courts, contenant des mots et expressions familiers." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "- Communiquer bien, parler lentement ; utiliser des expressions élémentaires ; répondre à des questions simples sur des informations comme l'âge, l'origine, la langue, le lieu de résidence... comprendre et exécuter des instructions très simples ; demander à quelqu'un de ses nouvelles et réagir ; demander des objets, des services, en gérant, les numéros et l'heure" ],
+      "domaine" : "Production orale et compétence d'interaction"
+   }, {
+      "competences" : [ "- comprendre les annonces publiques, les consignes prévisibles, les messages standards enregistrés, les informations répétitives (consignes pédagogiques), notamment si les conditions d'écoute sont bonnes (soit bruit, soit musique...), si les messages sont prononcés lentement et/ou clairement, sont illustrés (plan, dessins...) ou doublés par le papier et répétés." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "- copier des mots ou des messages brefs, écrire des chiffres et des dates ; reconnaître diverses formes écrites : caractères imprimés, scripts, majuscules et formes manuscrites lisibles ; donner des informations sur lui-même : son nom, sa nationalité, son adresse, son âge, sa date de naissance, dans des questionnaires ou des fiches d'information ; écrire un message très simple concernant les activités de la vie quotidienne contenant quelques détails personnels." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66697,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY2OTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Connaître l'alphabet latin est une obligation - Ability to read and write in latin alphabet."
+}, {
+   "adresseCours" : {
       "codePostal" : "3532",
       "localite" : "Dudelange",
       "nom" : "Ecole DEICH",
@@ -6754,7 +7967,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -8004,10 +9217,29 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Verri",
+      "prenom" : "Valentino"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:00 (durée 4h),\nMardi à 17:00 (durée 4h),\nMercredi à 17:00 (durée 4h),\nJeudi à 17:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 60998,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -8076,10 +9308,29 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Verri",
+      "prenom" : "Valentino"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 4h),\nMardi à 09:00 (durée 4h),\nMercredi à 09:00 (durée 4h),\nJeudi à 09:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 60997,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -8148,10 +9399,21 @@
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sartini",
+      "prenom" : "Massimo Sauro"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 20:00 (durée 2h),\nMercredi à 20:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "20:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "20:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 61466,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -8372,7 +9634,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -10525,10 +11787,25 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 18:15 (durée 3h),\nMercredi à 18:15 (durée 3h),\nJeudi à 18:15 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "18:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:15",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "18:15",
+      "jour" : "Jeudi"
+   } ],
    "id" : 61427,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -11668,7 +12945,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SAN",
    "matiereNom" : "Santé",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 200,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13338,10 +14615,29 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 12:00 (durée 2h),\nMardi à 12:00 (durée 2h),\nMercredi à 12:00 (durée 2h),\nJeudi à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 61426,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -15317,7 +16613,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -15774,10 +17070,29 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Verri",
+      "prenom" : "Valentino"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:45 (durée 2h30),\nMardi à 08:45 (durée 2h30),\nMercredi à 08:45 (durée 2h30),\nJeudi à 08:45 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "08:45",
+      "jour" : "Jeudi"
+   } ],
    "id" : 60999,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -15903,10 +17218,29 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Verri",
+      "prenom" : "Valentino"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 18:30 (durée 2h30),\nMardi à 18:30 (durée 2h30),\nMercredi à 18:30 (durée 2h30),\nJeudi à 18:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 61001,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -15975,10 +17309,29 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Verri",
+      "prenom" : "Valentino"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 12:45 (durée 2h30),\nMardi à 12:45 (durée 2h30),\nMercredi à 12:45 (durée 2h30),\nJeudi à 12:45 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "12:45",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "12:45",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "12:45",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "12:45",
+      "jour" : "Jeudi"
+   } ],
    "id" : 61000,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -17114,10 +18467,33 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Contreras",
+      "prenom" : "Teddy"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:30 (durée 3h),\nMardi à 08:30 (durée 3h),\nMercredi à 08:30 (durée 3h),\nJeudi à 08:30 (durée 3h),\nVendredi à 08:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 60833,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -17250,10 +18626,33 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 14:00 (durée 3h),\nMardi à 14:00 (durée 3h),\nMercredi à 14:00 (durée 3h),\nJeudi à 14:00 (durée 3h),\nVendredi à 14:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 61429,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -17322,10 +18721,33 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:00 (durée 3h),\nMardi à 08:00 (durée 3h),\nMercredi à 08:00 (durée 3h),\nJeudi à 08:00 (durée 3h),\nVendredi à 08:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 61428,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -17859,6 +19281,268 @@
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1560",
+   "coursId" : "LA-LB-1560",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "13/07/2026",
+   "dateFin" : "13/08/2026",
+   "dateInscription" : "25/06 au 09/07/2026 8h00 - 18h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés très simples qui visent à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un et poser à une personne des questions la concernant - par exemple, sur son lieu d'habitation, ses relations, ce qui lui appartient, etc., et peut répondre au même type de questions. Peut communiquer de façon simple si l'interlocuteur parle lentement et distinctement et se montre coopératif.",
+   "domainesCompetences" : [ {
+      "competences" : [ "1.  Ech kann verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "2.      Ech kann einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \t \t", " 3.      Ech kann d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\t \t \r\n\t\t\t \t \r\n", "4.      Ech kann d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ...) : Wéi ass een oder eppes ?\t \t \r\n\t\t", "5.      Ech kann d'Auerzäite verstoen (5 Minuttenofstänn)" ],
+      "domaine" : "Compréhension Orale  Héierverstoen (HV)"
+   }, {
+      "competences" : [ "1.      Ech kann verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\t \t \r\n\t\t", "2.      Ech kann ganz einfach Froen zu senger oder enger anerer Persoun verstoen\t \t \r\n\t\t", "3.      Ech kann einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen \t \t \r\n" ],
+      "domaine" : "Compréhension Ecrite Liesverstoen (LV)"
+   }, {
+      "competences" : [ "1.      Ech kann « Moien » an « Äddi » soen a froe wéi et engem geet an äntwere wann ee gefrot gëtt\r\n", "2.      Ech kann mech oder eng aner Persoun kuerz presentéieren : de Vir- a Familljennumm, den Alter, d'Nationalitéit, d'Sproochen, wou een/si hierkommen/kënnt, d'Address, de Beruff, d'Familljesituatioun\r\n\r\n", "3.      Ech kann eng aner Persoun no deene Saache froen\r\n", "4.      Ech kann meng perséinlech Donnéeë ginn an eng aner Persoun dono froen : d'Adress, d'Telefonsnummer, d'Emailaddress, de Gebuertsdatum\r\n", "5.      Ech kann d'Negatioun benotzen : « net » a « keen / keng »\r\n", "6.      Ech kann d'Auerzäit an den Datum (Dag a Mount) soe wann een dono gefrot gett\r\n", "7.      Ech kann d'Wochendeeg, d'Méint an d'Joreszäite benennen\r\n", "8.      Ech kann en Objet oder eng Persoun kuerz beschreiwen \r\n", "9.      Ech kann e kuerzen Text haart virliesen" ],
+      "domaine" : "Expression Orale en continu et interaction orale  Mëndlechen Ausdrock (MA)"
+   }, {
+      "competences" : [ "1.      Ech kann eng kuerz Email / SMS schreiwe fir ze froe wéi et geet\r\n\r\n", "2.      Ech kann einfach Sätz am Present schreiwen\r\n", "3.      Ech kann een einfache Formulaire ausfëllen" ],
+      "domaine" : "Expression Ecrite Schrëftlechen Ausdrock (SA)"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66719,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MTk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Connaître l'alphabet latin est obligatoire. Pouvoir lire et écrire en alphabet latin\r\n\r\n",
+   "renseignements" : "Livre A1 de l'INL: Schwätzt Dir Lëtzebuergesch?\r\n\r\n"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1557",
+   "coursId" : "LA-FR-1557",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "13/07/2026",
+   "dateFin" : "13/08/2026",
+   "dateInscription" : "25/06 au 09/07 8h00 - 18h00",
+   "description" : "Peut comprendre des expressions familières et quotidiennes utilisées dans des situations de communication ainsi que des énoncés très simples visant à satisfaire certains besoins concrets de la vie sociale et peut en produire.\r\nPeut s'identifier et répondre à des questions concernant, sa nationalité, son âge, son lieu de résidence, son école.\r\nPeut participer à une interaction ordinaire.",
+   "domainesCompetences" : [ {
+      "competences" : [ "- comprendre les annonces publiques, les consignes prévisibles, les messages standards enregistrés, les informations répétitives (consignes pédagogiques), notamment si les conditions d'écoute sont bonnes (soit bruit, soit musique...), si les messages sont prononcés lentement et/ou clairement, sont illustrés (plan, dessins...) ou doublés par le papier et répétés." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "- reconnaître les noms, les mots ou expressions les plus courants; repérer et comprendre des noms propres et d'autres informations très simples dans un texte court; identifier globalement la fonction de certains textes usuels de l'environnement quotidien; comprendre des textes courts, contenant des mots et expressions familiers." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "- Communiquer bien, parler lentement ; utiliser des expressions élémentaires ; répondre à des questions simples sur des informations comme l'âge, l'origine, la langue, le lieu de résidence... comprendre et exécuter des instructions très simples ; demander à quelqu'un de ses nouvelles et réagir ; demander des objets, des services, en gérant, les numéros et l'heure" ],
+      "domaine" : "Production orale et compétence d'interaction"
+   }, {
+      "competences" : [ "- copier des mots ou des messages brefs, écrire des chiffres et des dates ; reconnaître diverses formes écrites : caractères imprimés, scripts, majuscules et formes manuscrites lisibles ; donner des informations sur lui-même : son nom, sa nationalité, son adresse, son âge, sa date de naissance, dans des questionnaires ou des fiches d'information ; écrire un message très simple concernant les activités de la vie quotidienne contenant quelques détails personnels." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66716,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MTY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Connaître l'alphabet latin est une obligation. Pouvoir lire et écrire en alphabet latin"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1556",
+   "coursId" : "LA-FR-1556",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "13/07/2026",
+   "dateFin" : "13/08/2026",
+   "dateInscription" : "25/06 au 09/07 8h00 - 18h00",
+   "description" : "Peut comprendre des expressions familières et quotidiennes utilisées dans des situations de communication ainsi que des énoncés très simples visant à satisfaire certains besoins concrets de la vie sociale et peut en produire.\r\nPeut s'identifier et répondre à des questions concernant, sa nationalité, son âge, son lieu de résidence, son école.\r\nPeut participer à une interaction ordinaire.",
+   "domainesCompetences" : [ {
+      "competences" : [ "- comprendre les annonces publiques, les consignes prévisibles, les messages standards enregistrés, les informations répétitives (consignes pédagogiques), notamment si les conditions d'écoute sont bonnes (soit bruit, soit musique...), si les messages sont prononcés lentement et/ou clairement, sont illustrés (plan, dessins...) ou doublés par le papier et répétés." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "- reconnaître les noms, les mots ou expressions les plus courants; repérer et comprendre des noms propres et d'autres informations très simples dans un texte court; identifier globalement la fonction de certains textes usuels de l'environnement quotidien; comprendre des textes courts, contenant des mots et expressions familiers." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "- Communiquer bien, parler lentement ; utiliser des expressions élémentaires ; répondre à des questions simples sur des informations comme l'âge, l'origine, la langue, le lieu de résidence... comprendre et exécuter des instructions très simples ; demander à quelqu'un de ses nouvelles et réagir ; demander des objets, des services, en gérant, les numéros et l'heure" ],
+      "domaine" : "Production orale et compétence d'interaction"
+   }, {
+      "competences" : [ "- copier des mots ou des messages brefs, écrire des chiffres et des dates ; reconnaître diverses formes écrites : caractères imprimés, scripts, majuscules et formes manuscrites lisibles ; donner des informations sur lui-même : son nom, sa nationalité, son adresse, son âge, sa date de naissance, dans des questionnaires ou des fiches d'information ; écrire un message très simple concernant les activités de la vie quotidienne contenant quelques détails personnels." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:30 (durée 3h), Mardi à 08:30 (durée 3h), Mercredi à 08:30 (durée 3h), Jeudi à 08:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66715,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Connaître l'alphabet latin est une obligation - pouvoir lire et écrire en alphabet latin"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1559",
+   "coursId" : "LA-LB-1559",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "13/07/2026",
+   "dateFin" : "13/08/2026",
+   "dateInscription" : "13/05 au 30/05/26 8h00 - 18h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés très simples qui visent à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un et poser à une personne des questions la concernant - par exemple, sur son lieu d'habitation, ses relations, ce qui lui appartient, etc., et peut répondre au même type de questions. Peut communiquer de façon simple si l'interlocuteur parle lentement et distinctement et se montre coopératif.",
+   "domainesCompetences" : [ {
+      "competences" : [ "1.  Ech kann verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "2.      Ech kann einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \t \t", " 3.      Ech kann d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\t \t \r\n\t\t\t \t \r\n", "4.      Ech kann d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ...) : Wéi ass een oder eppes ?\t \t \r\n\t\t", "5.      Ech kann d'Auerzäite verstoen (5 Minuttenofstänn)" ],
+      "domaine" : "Compréhension Orale  Héierverstoen (HV)"
+   }, {
+      "competences" : [ "1.      Ech kann verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\t \t \r\n\t\t", "2.      Ech kann ganz einfach Froen zu senger oder enger anerer Persoun verstoen\t \t \r\n\t\t", "3.      Ech kann einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen \t \t \r\n" ],
+      "domaine" : "Compréhension Ecrite Liesverstoen (LV)"
+   }, {
+      "competences" : [ "1.      Ech kann « Moien » an « Äddi » soen a froe wéi et engem geet an äntwere wann ee gefrot gëtt\r\n", "2.      Ech kann mech oder eng aner Persoun kuerz presentéieren : de Vir- a Familljennumm, den Alter, d'Nationalitéit, d'Sproochen, wou een/si hierkommen/kënnt, d'Address, de Beruff, d'Familljesituatioun\r\n\r\n", "3.      Ech kann eng aner Persoun no deene Saache froen\r\n", "4.      Ech kann meng perséinlech Donnéeë ginn an eng aner Persoun dono froen : d'Adress, d'Telefonsnummer, d'Emailaddress, de Gebuertsdatum\r\n", "5.      Ech kann d'Negatioun benotzen : « net » a « keen / keng »\r\n", "6.      Ech kann d'Auerzäit an den Datum (Dag a Mount) soe wann een dono gefrot gett\r\n", "7.      Ech kann d'Wochendeeg, d'Méint an d'Joreszäite benennen\r\n", "8.      Ech kann en Objet oder eng Persoun kuerz beschreiwen \r\n", "9.      Ech kann e kuerzen Text haart virliesen" ],
+      "domaine" : "Expression Orale en continu et interaction orale  Mëndlechen Ausdrock (MA)"
+   }, {
+      "competences" : [ "1.      Ech kann eng kuerz Email / SMS schreiwe fir ze froe wéi et geet\r\n\r\n", "2.      Ech kann einfach Sätz am Present schreiwen\r\n", "3.      Ech kann een einfache Formulaire ausfëllen" ],
+      "domaine" : "Expression Ecrite Schrëftlechen Ausdrock (SA)"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66718,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MTg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOEC",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "ASBL",
+      "telephone" : "+352 661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "prerequis" : "Connaître l'alphabet latin est obligatoire. Pouvoir lire et écrire en alphabet latin\r\n\r\n",
+   "renseignements" : "Livre A1 de l'INL: Schwätzt Dir Lëtzebuergesch?\r\n"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
    "categorieCode" : "CIN",
    "categorieCodeUnipop" : "CIN",
    "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
@@ -17960,10 +19644,33 @@
       "domaine" : "EXPRESSION ORALE"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guilhamelou Hobby",
+      "prenom" : "Laurence"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 11:00 (durée 2h),\nMardi à 11:00 (durée 2h),\nMercredi à 11:00 (durée 2h),\nJeudi à 11:00 (durée 2h),\nVendredi à 11:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63359,
    "intitule" : "Français - conversation",
    "langueCoursCode" : "FR",
@@ -18033,10 +19740,33 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guilhamelou Hobby",
+      "prenom" : "Laurence"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 2h),\nMardi à 09:00 (durée 2h),\nMercredi à 09:00 (durée 2h),\nJeudi à 09:00 (durée 2h),\nVendredi à 09:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63358,
    "intitule" : "Français - conversation",
    "langueCoursCode" : "FR",
@@ -18576,10 +20306,33 @@
       "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pouwer",
+      "prenom" : "Paul"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:00 (durée 4h), Mardi à 17:00 (durée 4h), Mercredi à 17:00 (durée 4h), Jeudi à 17:00 (durée 4h), Vendredi à 17:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65848,
    "intitule" : "Anglais",
    "langueCoursCode" : "EN",
@@ -18648,10 +20401,33 @@
       "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pouwer",
+      "prenom" : "Paul"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:30 (durée 4h), Mardi à 09:30 (durée 4h), Mercredi à 09:30 (durée 4h), Jeudi à 09:30 (durée 4h), Vendredi à 09:30 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65847,
    "intitule" : "Anglais",
    "langueCoursCode" : "EN",
@@ -19114,10 +20890,33 @@
       "domaine" : "EXPRESSION ORALE"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guilhamelou Hobby",
+      "prenom" : "Laurence"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 11:00 (durée 2h),\nMardi à 11:00 (durée 2h),\nMercredi à 11:00 (durée 2h),\nJeudi à 11:00 (durée 2h),\nVendredi à 11:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "11:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63361,
    "intitule" : "Français - conversation",
    "langueCoursCode" : "FR",
@@ -19187,10 +20986,33 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guilhamelou Hobby",
+      "prenom" : "Laurence"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 2h),\nMardi à 09:00 (durée 2h),\nMercredi à 09:00 (durée 2h),\nJeudi à 09:00 (durée 2h),\nVendredi à 09:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 63360,
    "intitule" : "Français - conversation",
    "langueCoursCode" : "FR",
@@ -19260,10 +21082,29 @@
       "domaine" : "Mëndlech Interactioun"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Achen",
+      "prenom" : "Juliette"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:00 (durée 4h),\nMardi à 08:00 (durée 4h),\nMercredi à 08:00 (durée 4h),\nJeudi à 08:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63386,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -19332,10 +21173,33 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Contreras",
+      "prenom" : "Teddy"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 13:00 (durée 3h),\nMardi à 13:00 (durée 3h),\nMercredi à 13:00 (durée 3h),\nJeudi à 13:00 (durée 3h),\nVendredi à 13:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "13:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 60835,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -19404,10 +21268,33 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Contreras",
+      "prenom" : "Teddy"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:30 (durée 3h),\nMardi à 08:30 (durée 3h),\nMercredi à 08:30 (durée 3h),\nJeudi à 08:30 (durée 3h),\nVendredi à 08:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 60834,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -19476,10 +21363,33 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 14:00 (durée 3h),\nMardi à 14:00 (durée 3h),\nMercredi à 14:00 (durée 3h),\nJeudi à 14:00 (durée 3h),\nVendredi à 14:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 61431,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -19548,10 +21458,33 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:00 (durée 3h),\nMardi à 08:00 (durée 3h),\nMercredi à 08:00 (durée 3h),\nJeudi à 08:00 (durée 3h),\nVendredi à 08:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 61430,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -19875,10 +21808,29 @@
       "domaine" : "Expression orale"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Verri",
+      "prenom" : "Valentino"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:00 (durée 4h),\nMardi à 17:00 (durée 4h),\nMercredi à 17:00 (durée 4h),\nJeudi à 17:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 61003,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -19947,10 +21899,29 @@
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Verri",
+      "prenom" : "Valentino"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 4h),\nMardi à 09:00 (durée 4h),\nMercredi à 09:00 (durée 4h),\nJeudi à 09:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 61002,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
@@ -20091,10 +22062,33 @@
       "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pouwer",
+      "prenom" : "Paul"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 17:00 (durée 4h), Mardi à 17:00 (durée 4h), Mercredi à 17:00 (durée 4h), Jeudi à 17:00 (durée 4h), Vendredi à 17:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "4h",
+      "heure" : "17:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65843,
    "intitule" : "Anglais",
    "langueCoursCode" : "EN",
@@ -20163,10 +22157,33 @@
       "domaine" : "EXPRESSION ECRITE"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Pouwer",
+      "prenom" : "Paul"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:30 (durée 4h), Mardi à 09:30 (durée 4h), Mercredi à 09:30 (durée 4h), Jeudi à 09:30 (durée 4h), Vendredi à 09:30 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65842,
    "intitule" : "Anglais",
    "langueCoursCode" : "EN",
@@ -20238,10 +22255,33 @@
       "domaine" : "Schrëfltechen Ausdrock"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sartini",
+      "prenom" : "Massimo Sauro"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 20:00 (durée 2h),\nMardi à 20:00 (durée 2h),\nMercredi à 20:00 (durée 2h),\nJeudi à 20:00 (durée 2h),\nVendredi à 20:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "20:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "20:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "20:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "20:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "20:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 61472,
    "intitule" : "Luxembourgeois - conversation",
    "langueCoursCode" : "LB",
@@ -20375,10 +22415,33 @@
       "domaine" : "Compréhension écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sartini",
+      "prenom" : "Massimo Sauro"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 16:00 (durée 4h),\nMardi à 16:00 (durée 4h),\nMercredi à 16:00 (durée 4h),\nJeudi à 16:00 (durée 4h),\nVendredi à 16:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "16:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "16:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "16:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "4h",
+      "heure" : "16:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 61471,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -20447,10 +22510,33 @@
       "domaine" : "Mëndlech Interactioun"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sartini",
+      "prenom" : "Massimo Sauro"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 12:00 (durée 4h),\nMardi à 12:00 (durée 4h),\nMercredi à 12:00 (durée 4h),\nJeudi à 12:00 (durée 4h),\nVendredi à 12:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "4h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 61469,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -24062,10 +26148,25 @@
       "domaine" : "Mëndlech Interactioun"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Klein",
+      "prenom" : "Nadine"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 2h),\nMardi à 09:00 (durée 2h),\nMercredi à 09:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 63378,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -25032,168 +27133,6 @@
    "renseignements" : "Formateur M. Glod"
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1258",
-   "coursId" : "LA-LB-1258",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "28/09/2026",
-   "dateFin" : "09/12/2026",
-   "dateInscription" : "toute l'année par mail",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
-   "domainesCompetences" : [ {
-      "competences" : [ "-Peut identifier l'élément principal de nouvelles télévisées : un événement, un accident (ayant trait à un sujet courant, prévisible, si le débit est lent et la langue clairement articulée)" ],
-      "domaine" : "COMPREHENSION DE L'ORAL"
-   }, {
-      "competences" : [ "-Peut comprendre une lettre personnelle\r\n-Peut comprendre les faits décrits dans des articles informatifs simples\r\n-Peut reconnaître différents types de lettres : demande d'informations, commandes, confirmations\r\n-Peut comprendre des consignes, concernant par exemple la sécurité, la santé, si elles sont rédigées simplement" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "-Peut (se) décrire, se présenter, présenter quelqu'un\r\n-Peut raconter une histoire avec une simple liste de points successifs / énoncés reliés par les articulations les plus fréquentes\r\n-Peut faire la description brève d'un événement (personnel)\r\n-Peut exprimer ses opinions, dire en quoi une chose plaît et déplaît\r\n-Peut donner brièvement des justifications\r\n-Peut expliquer ses projets" ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "-Peut écrire une lettre personnelle\r\n-Peut faire une description brève d'un événement, d'activités passées, d'expériences personnelles\r\n-Peut prendre quelques notes en écoutant une Conversation\r\n-Peut remplir un tableau" ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 11:15 (durée 2h),\nMardi à 11:15 (durée 2h),\nMercredi à 11:15 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 63382,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1255",
-   "coursId" : "LA-LB-1255",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "28/09/2026",
-   "dateFin" : "09/12/2026",
-   "dateInscription" : "toute l'année de 08:00-11:30 et 13:30-16:00",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
-   "domainesCompetences" : [ {
-      "competences" : [ "Kann einfach technesch Informatioune verstoen, wéi z.B. Instruktioune fir en Apparat, deen een all Dag benotzt, ze bedéngen.", "Kann detailléiert Weebeschreiwunge suivéieren.", "Ka konkret Erklärungen, Uweisungen an Opdräg verstoen, z.B. op der Aarbecht am Cours, bei Fräizäitaktivitéiten.", "Kann an enger kuerzer, einfacher, linearer Erzielung d'Handlung suivéieren a wichteg Detailer verstoen.", "Ka bei Gespréicher tëscht Mammesproochler iwwer Themen aus Beräicher wéi Aarbecht, Schoul/Formatioun, Fräizäit, déi e/se/et gutt kennt an déi en/se/et intresséieren, d'Haaptpunkte matkréien, wa kloer Standardsprooch geschwat gëtt.", "Kann och méi laang an/oder méi komplex Messagë verstoen, wa se a kloer artikuléierter Standardsprooch geschwat sinn.", "Kann d'Haaptpunkten aus Toundokumenter iwwer einfach Theme vu perséinlechem oder allgemengem Interessi verstoen, wa kloer Standardsprooch an zimlech lues geschwat gëtt.", "Kann, soulaang se onkomplizéiert bleiwen a kloer an an einfacher Standardsprooch presentéiert ginn, Beschreiwunge vu Saache verstoen, déi e/se/et gutt kennt oder déi e/se/et perséinlech intresséieren." ],
-      "domaine" : "Héierverstoen"
-   }, {
-      "competences" : [ "Ka kloer formuléiert, onkomplizéiert Instruktioune fir d'Benotzung vun engem Apparat verstoen.", "Kann a Beschreiwunge vu Saachen, déi en/se/et intresséieren, Haaptinformatioune verstoen.", "Kann an onkomplizéierten, alldeeglechen Noriichten an Zeitungsartikelen wichteg Eenzelinformatioune verstoen, z.B. wie wat wou gemaach huet oder wat wéini wou geschitt ass (ë.a. Fait-diversë wéi :Noriichten iwwer d'Liewen an d'Carrière vu prominente Leit; Accidenter, Delikter a Verbriechen zu Lëtzebuerg; Katastrophen uechter d'Welt,...).", "Kann an einfachen, privaten oder héichoffizielle Standardbréiwer dat Wiesentlecht verstoen (z.B.Convocatioun op d'Versammlung vun engem Veräin mat der Dagesuerdnung).", "Kann an alldeeglechen Texten, déi - dacks a Form vu Lëschten - eng Offer presentéieren, wichteg Informatioune lokaliséieren a verstoen, resp.erausfannen, ob eppes derbäi ass, wat en/se/et intresséiert.", "Kann a kuerzen normativen Texter, déi fir de breede Public bestëmmt sinn, relevant Informatioune lokaliséieren a verstoen." ],
-      "domaine" : "Liesverstoen"
-   }, {
-      "competences" : [ "Ka Plazen, Saachen a Persounen, déi e/se/et gutt kennt oder déi en/se/et intresséieren, einfach beschreiwen (z.B. d'Uertschaft aus där e/se/et kënnt, déi eege Wunneng, e Familljemember, d'Aarbechtsplaz).", "Kann einfach Informatioune ginn, déi en/se/et direkt betreffen (z.B. iwwer Hobbyen oder wou e/se/et mat enger Aarbecht drun ass), a kloer maachen, wat em/er dobäi am wichtegsten ass oder wat déi wichtegst Vir - an Nodeeler sinn.", "Kann e kuerzen, ageübten Text iwwer en einfacht Thema, dat e/se/et gutt kennt, esou virdroen, dass en/se/et trotz friemer Intonatioun a Betounung kloer ze verstoen ass.", "Kann Usiichten, Pläng, Ziler oder Handlunge kuerz an einfach justifiéieren oder erklären.", "Kann Dreem an Hoffnungen einfach beschreiwen, z.B. säin/hiert Dramhaus, seng/hir Hoffnunge vis-à-vis vun enger neier Aarbechtsplaz, seng/hir Ziler an engem Cours.", "Ka vun Erfahrungen an Evenementer einfach a linear erzielen an dobäi eege Reaktiounen a Meenungen abezéien.", "Ka linear vun der eegener berufflecher Carrière, vu perséinleche Projeten schwätzen." ],
-      "domaine" : "Monologescht Schwätzen"
-   }, {
-      "competences" : [ "Ka mat Hëllef vun engem Questionnaire, dee virbereet gouf, e staark gesteierten Interview mat e puer spontanen Zousazfroe féieren.", "Kann an einfache Froe Rotschléi ginn an der froen.", "Ka bei informellen Diskussiounen iwwer Themen, déi en/se/et intresséieren, am Allgemengen déi wiesentlech Punkte verstoen, virausgesat, et gëtt däitlech Standardsprooch geschwat, a ka selwer op eng einfach Manéier Meenungen ausdrécken oder Leit no hirer Meenung froen.", "Kann an einfache Situatioune mat Verwaltungen eens ginn z.B. um Policebüro mellen, dass een eppes geklaut krut; eng Aarbechtserlaabnes froen an an deem Kontext op Froen äntweren; iwwer Telefon Renseignementer froen an eng Brochure froen.", "Kann an de meeschte Situatiounen zuwee kommen, mat deenen een als Benotzer vum ëffentlechen Transport, als «Tourist fir een Dag» zu Lëtzebuergoder beim Organiséiere vun Auslandsreese konfrontéiert gëtt (z.B. beim Schalter op der Gare, am Touristebüro, an enger Reesagence Renseignementerfroen, Billjeeë kafen, Reservatioune maachen).", "Kann ouni Virbereedung u Gespréicher iwwer Themen deelhuelen, déi e/se/et gutt kennt (z.B. iwwer en neie Restaurant, e friemt Land, Erfahrungen op der Aarbecht, am Cours), wann d'Gespréichspartner hir Ausdrocksweis a Schwätzvitesse upassen a Gedold weisen.", "Kann einfach faktuell Informatiounen austauschen iwwer Themen, déi e/se/et gutt kennt an iwwer Themen aus sengem/hirem Fach oder Interessegebitt.", "Kann Deeler vun deem, wat en anere gesot huet, widderhuelen, fir dat géigesäitegt Versteesdemech ze sécheren. Kann anerer opfuerderen, um Gespréich deelzehuelen." ],
-      "domaine" : "Mëndlech Interactioun"
-   }, {
-      "competences" : [ "Kann an einfache Situatioune mat Verwaltunge korrespondéieren z.B. fir Informatiounsbroschüren ze froen oder ze mellen dass een eppes geklaut krut.", "Kann einfach a verständlech Saachen, Plazen, Persoune beschreiwen, déi e/se/et perséinlech intresséieren oder déi e/se/et gutt kennt an dobäi z.D. och perséinlech Meenungen ausdrécken.", "Kann eng einfach Annonce opsetzen. Ka schrëftlech op Annoncë reagéieren a méi oder méi genee Informatioune verlaangen.", "Kann an engem einfache Virtrag (Konferenz, Visite guidée, Cours,...) Notizen a Form vun enger Lëscht vun Haaptpunkte maachen, souwäit en/se/et d'Thema kennt an einfach an däitlech Standardsproochgeschwat gëtt.", "Kann e perséinleche Bréif schreiwe fir Neiegkeete matzedeelen, an doranner am Detail, awer einfach iwwer Erfahrungen, Gefiller, Evenementer erzielen.", "Ka fir Frënn, Employéën, Léierpersounen oder anerer, mat deenen en/se/et am alldeegleche Liewen ze dinn huet, Notize schreiwe mat einfachen Informatiounen, déi hie/si/hatt selwer oder den Empfänger direkt betreffen, a ka verständlech maache wat em/er dobäi am Wichtegsten ass. Kann och Notize schreiwe fir Informatiounen ze froen.", "Kann eng einfach strukturéiert Geschicht, eng Anekdot linear erzielen." ],
-      "domaine" : "Schrëfltechen Ausdrock"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Klein",
-      "prenom" : "Nadine"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 11:15 (durée 2h),\nMardi à 11:15 (durée 2h),\nMercredi à 11:15 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "11:15",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "11:15",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "11:15",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63379,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "4272",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "Ecole primaire Nonnewisen",
@@ -25762,10 +27701,29 @@
       "domaine" : "Schrëfltechen Ausdrock"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Achen",
+      "prenom" : "Juliette"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:00 (durée 4h),\nMardi à 08:00 (durée 4h),\nMercredi à 08:00 (durée 4h),\nJeudi à 08:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63384,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -25796,6 +27754,259 @@
       "telephone" : "33 01 44 207",
       "websiteUrl" : "http://www.walfer.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "3341",
+      "localite" : "Huncherange Commune Bettembourg",
+      "nom" : "Ecole de Huncherange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "20, rue de l'Ecole     "
+   },
+   "adresseInscription" : {
+      "codePostal" : "3341-3401",
+      "localite" : "Huncherange / Dudelange",
+      "nom" : "Kulturhaus Huncherange et commune de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue de l'Ecole // Place de l'Hôtel de Ville Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-IT-177",
+   "coursId" : "LA-IT-177",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "05/10/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "Mercredi, le 16 septembre 2026 de 18H30 à 20H30//Jeudi, le 17 septembre 2026 de 18H30 à 20H30 (paiement sur place)",
+   "description" : "Exprimer son opinion. \r\nDécrire des lieux. \r\nParler de l'actualité, des actions quotidiennes. \r\nFaire des comparaisons.",
+   "domainesCompetences" : [ {
+      "competences" : [ "s'exprimer sur des sujets de la vie quotidienne : la nourriture, les transports, le sport, les divertissements, la famille, l'éducation. \r\n- parler de l'actualité, des coutumes, des habitudes. \r\n- exprimer son opinion, ses préférences. \r\n- décrire des lieux, des sites touristiques. \r\n- faire des comparaisons.\r\n" ],
+      "domaine" : "Production orale :"
+   }, {
+      "competences" : [ "comprendre une conversation sur les thèmes de la vie quotidienne, des sujets d'actualité. \r\n- comprendre une opinion, un conseil. \r\n- comprendre la description d'un lieu. \r\n" ],
+      "domaine" : "Compréhension orale :"
+   }, {
+      "domaine" : "Production écrite :"
+   }, {
+      "domaine" : "Compréhension écrite :"
+   } ],
+   "duree" : "42h",
+   "enseignants" : [ {
+      "nom" : "Sabatini",
+      "prenom" : "Daniela"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 66733,
+   "intitule" : "Italien - Conversation",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "IT",
+   "matiereNom" : "Italien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "Conversation",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3235",
+         "localite" : "Bettembourg",
+         "nom" : "AIL Bettembourg/Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "44, rue de la Ferme"
+      },
+      "code" : "AILBD",
+      "fax" : "+352 51 68 52",
+      "mail" : "piccomen@pt.lu",
+      "nom" : "AIL Bettembourg/Dudelange",
+      "nomContact" : "Picco",
+      "onlineReg" : false,
+      "prenomContact" : "Domenico",
+      "statut" : "ASBL",
+      "telephone" : "+352 51 68 52 ",
+      "websiteUrl" : "http://www.facebook.com/corsitaliani/info"
+   },
+   "prerequis" : "Non",
+   "renseignements" : "Tél.: 51 68 52 ou 621 27 58 73  E-mail : piccomen@pt.lu \r\n Le certificat est établi pour 70% de présence des leçons données. (Soit 18 leçons)  \r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3542",
+      "localite" : "Dudelange",
+      "nom" : "Lycée Technique Nic Biever Bâtiment Wolkeschdall",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "28, rue du Parc"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3341-3401",
+      "localite" : "Huncherange / Dudelange",
+      "nom" : "Kulturhaus Huncherange et commune de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue de l'Ecole // Place de l'Hôtel de Ville Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-IT-174",
+   "coursId" : "LA-IT-174",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "05/10/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "Mercredi, le 16 septembre 2026 de 18H30 à 20H30//Jeudi, le 17 septembre 2026 de 18H30 à 20H30 paiement sur place)",
+   "description" : "Conditionnel, Passé composé, Futur. Formuler des hypothèses. Vacances. Actions quotidiennes. Savoir expliquer et donner son opinion.",
+   "domainesCompetences" : [ {
+      "competences" : [ "- Communiquer avec spontanéité et aisance avec un locuteur natif. \r\n- S’exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes possibilités.\r\n" ],
+      "domaine" : "Production orale :"
+   }, {
+      "competences" : [ "- Comprendre et utiliser la langue de façon efficace et souple dans la vie sociale et professionnelle." ],
+      "domaine" : "Compréhension orale :"
+   }, {
+      "competences" : [ "- S'exprimer par écrit sur tous les sujets de la vie courante de façon claire et bien structurée.\r\n-Maîtriser les outils linguistiques d’organisation et d’articulation du discours.\r\n" ],
+      "domaine" : "Production écrite :"
+   }, {
+      "competences" : [ "- Comprendre le contenu essentiel de sujets concrets ou abstraits, y compris une discussion technique" ],
+      "domaine" : "Compréhension écrite :"
+   } ],
+   "duree" : "42h",
+   "enseignants" : [ {
+      "nom" : "Lorenzelli",
+      "prenom" : "Virginie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   } ],
+   "id" : 66730,
+   "intitule" : "Italien - Avancé 5",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "IT",
+   "matiereNom" : "Italien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 28,
+   "niveau" : "C1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3235",
+         "localite" : "Bettembourg",
+         "nom" : "AIL Bettembourg/Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "44, rue de la Ferme"
+      },
+      "code" : "AILBD",
+      "fax" : "+352 51 68 52",
+      "mail" : "piccomen@pt.lu",
+      "nom" : "AIL Bettembourg/Dudelange",
+      "nomContact" : "Picco",
+      "onlineReg" : false,
+      "prenomContact" : "Domenico",
+      "statut" : "ASBL",
+      "telephone" : "+352 51 68 52 ",
+      "websiteUrl" : "http://www.facebook.com/corsitaliani/info"
+   },
+   "prerequis" : "Avancè 4",
+   "renseignements" : "Tél.: 51 68 52 ou 621 27 58 73  E-mail : piccomen@pt.lu \r\n25,00 euros = coût du livre (valable pour les cinq années) Le certificat est établi pour 70% de présence des leçons données. (Soit 18 leçons)  \r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3542",
+      "localite" : "Dudelange",
+      "nom" : "Lycée Technique Nic Biever Bâtiment Wolkeschdall",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "28, rue du Parc"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3341-3401",
+      "localite" : "Huncherange / Dudelange",
+      "nom" : "Kulturhaus Huncherange et commune de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue de l'Ecole // Place de l'Hôtel de Ville Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-IT-172",
+   "coursId" : "LA-IT-172",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "05/10/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "Huncherange, Mercredi, le 16 septembre 2026 de 18h30 à 20H30 // Dudelange, Jeudi, le 17 septembre 2026 de 18H30 à 20H30",
+   "description" : "Faire des comparaisons, exprimer des désirs, des intentions, exprimer la possession. \r\nExprimer des sensations physiques. \r\nDécrire des personnes. \r\nParler de la maison et du mobilier.",
+   "domainesCompetences" : [ {
+      "competences" : [ "s'exprimer sur les activités personnelles: habituelles et futures. \r\n- parler de boissons et de nourriture. \r\n- exprimer des quantités. \r\n- parler d'action en cours \r\n", "localiser et parler des transports, des lieux, des commerces. \r\n- demander des indications de parcours. \r\n- exprimer la possibilité ou la nécessité. \r\n" ],
+      "domaine" : "Production orale :"
+   }, {
+      "competences" : [ "comprendre une conversation sur les activités d'une personne. \r\n- comprendre des informations liées à la nourriture. \r\n", "comprendre des informations sur les transports, les lieux, les commerces, sur un parcours. \r\n- comprendre des indications de temps et de lieu. \r\n" ],
+      "domaine" : "Compréhension orale :"
+   }, {
+      "competences" : [ "écrire un courrier ou un email pour demander des informations sur des activités, pour localiser des lieux. \r\n- s'exprimer sur le thème des boissons et de la nourriture. \r\n- donner des indications de temps et de lieu. \r\n" ],
+      "domaine" : "Production écrite :"
+   }, {
+      "competences" : [ "comprendre un texte sur les habitudes, les activités personnelles. \r\n- comprendre un texte sur la description de lieux. \r\n- comprendre des informations de parcours.\r\n" ],
+      "domaine" : "Compréhension écrite :"
+   } ],
+   "duree" : "42h",
+   "enseignants" : [ {
+      "nom" : "Granata",
+      "prenom" : "Shinder"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi 05-10-2026 à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   } ],
+   "id" : 66728,
+   "intitule" : "Italien - Avancé 3",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "IT",
+   "matiereNom" : "Italien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 28,
+   "niveau" : "B1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3235",
+         "localite" : "Bettembourg",
+         "nom" : "AIL Bettembourg/Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "44, rue de la Ferme"
+      },
+      "code" : "AILBD",
+      "fax" : "+352 51 68 52",
+      "mail" : "piccomen@pt.lu",
+      "nom" : "AIL Bettembourg/Dudelange",
+      "nomContact" : "Picco",
+      "onlineReg" : false,
+      "prenomContact" : "Domenico",
+      "statut" : "ASBL",
+      "telephone" : "+352 51 68 52 ",
+      "websiteUrl" : "http://www.facebook.com/corsitaliani/info"
+   },
+   "prerequis" : "A2",
+   "renseignements" : "Tél.:51 68 52 ou 621 27 58 73 // E-mail : piccomen@pt.lu // 25 euros = coût du livre (valable pour les cinq années)\r\nLe certificat est établi pour 70% de présence des leçons données. (soit 15 leçons)"
 }, {
    "adresseCours" : {
       "codePostal" : "2309",
@@ -25908,10 +28119,21 @@
       "domaine" : "Schrëfltechen Ausdrock"
    } ],
    "duree" : "30h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Achen",
+      "prenom" : "Juliette"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 18:30 (durée 2h),\nMercredi à 18:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 63393,
    "intitule" : "Luxembourgeois - conversation",
    "langueCoursCode" : "LB",
@@ -25943,6 +28165,431 @@
       "websiteUrl" : "http://www.walfer.lu"
    },
    "prerequis" : "B1.2"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3341 ",
+      "localite" : "Huncherange Commune Bettembourg",
+      "nom" : "Ecole de Huncherange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "20, rue de l'Ecole     "
+   },
+   "adresseInscription" : {
+      "codePostal" : "3341-3401",
+      "localite" : "Huncherange / Dudelange",
+      "nom" : "Kulturhaus Huncherange et commune de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue de l'Ecole // Place de l'Hôtel de Ville Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-IT-176",
+   "coursId" : "LA-IT-176",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "06/10/2026",
+   "dateFin" : "13/10/2026",
+   "dateInscription" : "Mercredi, le 16 septembre 2026 de 18H30 à 20H30//Jeudi, le 17 septembre 2026 de 18H30 à 20H30 (paiement sur place)",
+   "description" : "Parler d'actions passées. Donner des explications, formuler des hypothèses. Parler de ses goûts. Décrire une personne.\r\nLieu de formation",
+   "domainesCompetences" : [ {
+      "competences" : [ "- exprimer des habitudes personnelles. - parler d'actions dans le passé, donner des explications. \r\n- faire des hypothèses, donner des conseils. \r\n- s'exprimer sur ses goûts : activités, nourriture.\r\n- parler de boissons, de nourriture. - demander pour savoir. \r\n- décrire une personne : aspect physique, caractère.\r\n", ". \r\n" ],
+      "domaine" : "Production orale :"
+   }, {
+      "competences" : [ "- comprendre des textes, des conversations courtes et simples. \r\n- comprendre des dialogues concernant des habitudes personnelles.\r\n- comprendre une conversation liée aux sensations physiques. \r\n- comprendre un dialogue, des informations liés à la description d'une personne (physique, personnalité).\r\n" ],
+      "domaine" : "Compréhension orale :"
+   }, {
+      "competences" : [ "- exprimer par écrit des actions passées. \r\n- s'exprimer par écrit sur les habitudes personnelles. \r\n- exprimer un état physique ou des sensations. \r\n- décrire une personne (physique, personnalité).\r\n- s'exprimer sur le thème de la nourriture, les boissons. \r\n- exprimer ses goûts, son opinion (nourriture, personnes). \r\n- formuler des v¿ux pour des occasions précises.\r\n" ],
+      "domaine" : "Production écrite :"
+   }, {
+      "competences" : [ "- comprendre un article de journal ou de revue sur les habitudes, \r\n  la description d'un lieu, des portraits de personnalités. \r\n- comprendre un discours au passé.\r\n- comprendre des informations concernant les habitudes personnelles. \r\n- comprendre des explications, des conseils. \r\n- comprendre un article décrivant l'état physique. \r\n- comprendre des textes liés aux célébrations, les traditions.\r\n" ],
+      "domaine" : "Compréhension écrite :"
+   } ],
+   "duree" : "42h",
+   "enseignants" : [ {
+      "nom" : "Sabatini",
+      "prenom" : "Daniela"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   } ],
+   "id" : 66732,
+   "intitule" : "Italien - Avancé 5 cycle 5",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "IT",
+   "matiereNom" : "Italien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "C1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3235",
+         "localite" : "Bettembourg",
+         "nom" : "AIL Bettembourg/Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "44, rue de la Ferme"
+      },
+      "code" : "AILBD",
+      "fax" : "+352 51 68 52",
+      "mail" : "piccomen@pt.lu",
+      "nom" : "AIL Bettembourg/Dudelange",
+      "nomContact" : "Picco",
+      "onlineReg" : false,
+      "prenomContact" : "Domenico",
+      "statut" : "ASBL",
+      "telephone" : "+352 51 68 52 ",
+      "websiteUrl" : "http://www.facebook.com/corsitaliani/info"
+   },
+   "prerequis" : "Avancé 5",
+   "renseignements" : "Tél.: 51 68 52 ou 621 27 58 73  E-mail : piccomen@pt.lu \r\n25,00 euros = coût du livre (valable pour les cinq années) Le certificat est établi pour 70% de présence des leçons données. (Soit 15 leçons)  \r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3542",
+      "localite" : "Dudelange",
+      "nom" : "Lycée Technique Nic Biever Bâtiment Wolkeschdall",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "28, rue du Parc"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3341-3401",
+      "localite" : "Huncherange / Dudelange",
+      "nom" : "Kulturhaus Huncherange et commune de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue de l'Ecole // Place de l'Hôtel de Ville Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-IT-173",
+   "coursId" : "LA-IT-173",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "07/10/2026",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "Mercredi, le 16 septembre 2026 de 18H30 à 20H30//Jeudi, le 17 septembre 2026 de 18H30 à 20H30 paiement sur place)",
+   "description" : "Conditionnel, Passé composé, Futur. Formuler des hypothèses. Vacances. Actions quotidiennes. Savoir expliquer et donner son opinion.",
+   "domainesCompetences" : [ {
+      "competences" : [ "- Aborder tous les sujets de la vie courante. S’exprimer avec spontanéité, couramment de façon précise. Peut s’exprimer et nuancer une opinion" ],
+      "domaine" : "Production orale :"
+   }, {
+      "competences" : [ "- Comprendre des textes, des conversations simples. Pouvoir s’exprimer oralement de façon fluide et correcte, informer aisément une clientèle, comprendre une documentation technique." ],
+      "domaine" : "Compréhension orale :"
+   }, {
+      "competences" : [ "- Ecrire pour demander des informations aux différents organismes de la vie courante.\r\n-" ],
+      "domaine" : "Production écrite :"
+   }, {
+      "competences" : [ "- Comprendre des textes au présent/passé/futur/conditionnel/subjonctif dont les sujets sont divers et variés." ],
+      "domaine" : "Compréhension écrite :"
+   } ],
+   "duree" : "42h",
+   "enseignants" : [ {
+      "nom" : "Lorenzelli",
+      "prenom" : "Virginie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66729,
+   "intitule" : "Italien - Avancé 4",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "IT",
+   "matiereNom" : "Italien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 28,
+   "niveau" : "B2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3235",
+         "localite" : "Bettembourg",
+         "nom" : "AIL Bettembourg/Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "44, rue de la Ferme"
+      },
+      "code" : "AILBD",
+      "fax" : "+352 51 68 52",
+      "mail" : "piccomen@pt.lu",
+      "nom" : "AIL Bettembourg/Dudelange",
+      "nomContact" : "Picco",
+      "onlineReg" : false,
+      "prenomContact" : "Domenico",
+      "statut" : "ASBL",
+      "telephone" : "+352 51 68 52 ",
+      "websiteUrl" : "http://www.facebook.com/corsitaliani/info"
+   },
+   "prerequis" : "Avancè 3",
+   "renseignements" : "Tél.: 51 68 52 ou 621 27 58 73  E-mail : piccomen@pt.lu \r\n25,00 euros = coût du livre (valable pour les cinq années) Le certificat est établi pour 70% de présence des leçons données. (Soit 18 leçons)  \r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3542",
+      "localite" : "Dudelange",
+      "nom" : "Lycée Technique Nic Biever Bâtiment Wolkeschdall",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "28, rue du Parc"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3341-3401",
+      "localite" : "Huncherange / Dudelange",
+      "nom" : "Huncherange et commune de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue de l'Ecole // Place de l'Hôtel de Ville Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-IT-171",
+   "coursId" : "LA-IT-171",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "07/10/2026",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "Huncherange, Mercredi, le 16 septembre 2026 de 18H30 à 20H30 -\r\nDudelange, Jeudi, le 17 septembre 2026 de 18H30 à 20H30",
+   "description" : "Enumérer et localiser des objets, demander ou donner des indications de lieux, parler de prix. Faire des comparaisons. Parler d'actions passées, faire des hypothèses..",
+   "domainesCompetences" : [ {
+      "competences" : [ "localiser et parler des transports et des commerces. \r\ndemander des indications concernant un parcours ou un itinéraire. \r\n- exprimer la possibilité ou la nécessité.\r\n- citer les principales pièces de la maison et de leur ameublement. \r\n- énumérer et localiser des objets dans la maison. \r\ndonner des indications de temps et de lieu.\r\n", "s'informer sur des horaires, demander pour obtenir. \r\nparler de voyages, des loisirs, des habitudes personnelles. \r\n- faire des comparaisons, exprimer des souhaits et se référer aux affirmations d'autrui.\r\n- parler d'actions dans le passé, donner des explications et formuler des hypothèses. \r\n- donner des conseils. \r\nexprimer des sensations physiques ou des émotions.\r\n" ],
+      "domaine" : "Production orale"
+   }, {
+      "competences" : [ "comprendre des textes, des conversations simples. \r\ncomprendre des informations concernant des horaires, des transports ou des commerces.\r\ncomprendre des informations liées à un déplacement ou à la localisation en centre ville de commerces, musées, administrations, activités de loisir. \r\ncomprendre une conversation concernant la maison et son ameublement. \r\n", "comprendre des indications de temps et de lieu.\r\ncomprendre une conversation concernant des voyages, des habitudes personnelles ou des loisirs. \r\ncomprendre des comparaisons ou des hypothèses. \r\ncomprendre une conversation liée aux sensations physiques, ou à des émotions.\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "écrire un courrier ou un email pour demander des informations à propos d'horaires, de lieux, de localisation de commerces, administration en centre ville, de musées ou d'activités de loisir.\r\nexprimer par écrit des actions passées, des hypothèses ou des comparaisons. \r\n", "énumérer par écrit une liste d'objets situés dans la maison et les localiser.\r\ndonner par écrit des informations concernant un état physique ou des sensations. \r\ndonner par écrit des indications de temps et de lieu. \r\ns'exprimer à l'écrit concernant un voyage, des habitudes personnelles, ou des loisirs.\r\n" ],
+      "domaine" : "Production écrite"
+   }, {
+      "competences" : [ "comprendre des informations concernant des horaires et localisations de lieu ou commerces etc.. en centre ville. \r\ncomprendre un article de journal ou de revue concernant la maison et son ameublement.\r\ncomprendre des indications de temps et de lieu. \r\ncomprendre un discours au passé.\r\n", "comprendre une conversation exprimant un état physique ou des sensations.\r\ncomprendre des informations concernant un voyage, des habitudes personnelles, ou des loisirs. \r\ncomprendre des phrases comparatives, exprimant des hypothèses ou des souhaits. \r\ncomprendre des conseils.\r\n" ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "42h",
+   "enseignants" : [ {
+      "nom" : "Granata",
+      "prenom" : "Shinder"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66726,
+   "intitule" : "Italien - Intermédiaire",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "IT",
+   "matiereNom" : "Italien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 28,
+   "niveau" : "A2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3235",
+         "localite" : "Bettembourg",
+         "nom" : "AIL Bettembourg/Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "44, rue de la Ferme"
+      },
+      "code" : "AILBD",
+      "fax" : "+352 51 68 52",
+      "mail" : "piccomen@pt.lu",
+      "nom" : "AIL Bettembourg/Dudelange",
+      "nomContact" : "Picco",
+      "onlineReg" : false,
+      "prenomContact" : "Domenico",
+      "statut" : "ASBL",
+      "telephone" : "+352 51 68 52 ",
+      "websiteUrl" : "http://www.facebook.com/corsitaliani/info"
+   },
+   "prerequis" : "A1",
+   "renseignements" : "Tél.: 51 68 52 ou 621 27 58 73  E-mail : piccomen@pt.lu \r\n30,00 euros = coût du livre (valable pour les cinq années) Le certificat est établi pour 70% de présence des leçons données. (Soit 15 leçons)  \r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3341",
+      "localite" : "Huncherange Commune Bettembourg",
+      "nom" : "Huncherange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue de l'Ecole"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3341-3401",
+      "localite" : "Huncherange / Dudelange",
+      "nom" : "Kulturhaus Huncherange et commune de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue de l'Ecole Huncherang// Place de l'Hôtel de Ville Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-IT-170",
+   "coursId" : "LA-IT-170",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "07/10/2026",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "Huncherange, Mercredi, le 16 septembre 2026 de 18H30 à 20H30 - Dudelange, Jeudi, le 17 septembre 2026 de 18H30 à 20H30",
+   "description" : "Se présenter nom, origine, profession. Alphabet, nombres, jours, mois. Verbes, noms, adjectifs.",
+   "domainesCompetences" : [ {
+      "competences" : [ "- dire quelques phrases, se présenter, demander l'identité d'une personne, demander et donner sa nationalité (noms des pays et capitales) \r\n- présenter quelqu'un \r\n- donner sa provenance. La demander à autrui \r\n- donner des indications de temps, de lieu \r\n- parler de la famille et des liens de parenté \r\n- exprimer la possession\r\n- identifier des objets grâce aux démonstratifs \r\n", "- demander et donner son avis (adjectif \"bello\") \r\n- s'exprimer sur le thème de l'habillement \r\n- demander et donner sa profession \r\n- parler d'actions au présent (verbes en ARE/ERE) et d'actions en train de se dérouler (forma perifrastica) \r\n- parler de boisson et de nourriture \r\n- parler des activités pratiquées pendant son temps libre\r\n" ],
+      "domaine" : "Production orale"
+   }, {
+      "competences" : [ "- comprendre l'origine et la provenance d'autrui ainsi que son identité \r\n- comprendre des informations simples concernant des horaires et des lieux\r\n- comprendre des informations liées au lien de parenté et à la famille, les professions, les boissons, la nourriture, les loisirs et l'habillement\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "- se présenter à l'écrit, demander l'identité d'une personne, demander et donner sa nationalité (noms des pays et capitales) \r\n- donner par écrit son origine et la demander à autrui \r\n- donner une indication de temps, de lieu \r\n- s'exprimer par écrit sur la famille et les liens de parenté\r\n", "- citer les objets lui appartenant \r\n- énumérer des objets grâce aux démonstratifs \r\n- donner son avis (adjectif \"bello\") \r\n- s'exprimer sur le thème de l'habillement, les professions, les boissons, la nourriture, les loisirs et l'habillement\r\n" ],
+      "domaine" : "Production écrite"
+   }, {
+      "competences" : [ "- comprendre l'identité d'une personne, sa nationalité (noms des pays et capitales) \r\n- comprendre l'origine et la provenance d'autrui \r\n- comprendre une indication de temps, de lieu\r\n- comprendre un email simple \r\n- comprendre des informations écrites concernant la famille et les liens de parenté, les professions, les boissons, la nourriture, les loisirs et l'habillement\r\n" ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "42h",
+   "enseignants" : [ {
+      "nom" : "Fava",
+      "prenom" : "Caterina"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66724,
+   "intitule" : "Italien - Débutant",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "IT",
+   "matiereNom" : "Italien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3235",
+         "localite" : "Bettembourg",
+         "nom" : "AIL Bettembourg/Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "44, rue de la Ferme"
+      },
+      "code" : "AILBD",
+      "fax" : "+352 51 68 52",
+      "mail" : "piccomen@pt.lu",
+      "nom" : "AIL Bettembourg/Dudelange",
+      "nomContact" : "Picco",
+      "onlineReg" : false,
+      "prenomContact" : "Domenico",
+      "statut" : "ASBL",
+      "telephone" : "+352 51 68 52 ",
+      "websiteUrl" : "http://www.facebook.com/corsitaliani/info"
+   },
+   "prerequis" : "Non",
+   "renseignements" : "Tél.: 51 68 52 ou 621 27 58 73  E-mail : piccomen@pt.lu \r\n30,00 euros = coût du livre (valable pour les cinq années) Le certificat est établi pour 70% de présence des leçons données. (Soit 15 leçons)  \r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3342",
+      "localite" : "Huncherange Commune Bettembourg",
+      "nom" : "Ecole de Huncherange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "20, rue de l'Ecole"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3341-3401",
+      "localite" : "Huncherange / Dudelange",
+      "nom" : "Kulturhaus Huncherange et commune de Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue de l'Ecole // Place de l'Hôtel de Ville Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-IT-175",
+   "coursId" : "LA-IT-175",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "08/10/2026",
+   "dateFin" : "17/12/2026",
+   "dateInscription" : "Huncherange, Mercredi, le 16 septembre 2026 de 18h30 à 20H30 // Dudelange, Jeudi, le 17 septembre 2026 de 18H30 à 20H30",
+   "description" : "Faire des comparaisons, exprimer des désirs, des intentions, exprimer la possession. \r\nExprimer des sensations physiques. \r\nDécrire des personnes. \r\nParler de la maison et du mobilier.",
+   "domainesCompetences" : [ {
+      "competences" : [ "s'exprimer sur les activités personnelles: habituelles et futures. \r\n- parler de boissons et de nourriture. \r\n- exprimer des quantités. \r\n- parler d'action en cours \r\n", "localiser et parler des transports, des lieux, des commerces. \r\n- demander des indications de parcours. \r\n- exprimer la possibilité ou la nécessité. \r\n" ],
+      "domaine" : "Production orale :"
+   }, {
+      "competences" : [ "comprendre une conversation sur les activités d'une personne. \r\n- comprendre des informations liées à la nourriture. \r\n", "comprendre des informations sur les transports, les lieux, les commerces, sur un parcours. \r\n- comprendre des indications de temps et de lieu. \r\n" ],
+      "domaine" : "Compréhension orale :"
+   }, {
+      "competences" : [ "écrire un courrier ou un email pour demander des informations sur des activités, pour localiser des lieux. \r\n- s'exprimer sur le thème des boissons et de la nourriture. \r\n- donner des indications de temps et de lieu. \r\n" ],
+      "domaine" : "Production écrite :"
+   }, {
+      "competences" : [ "comprendre un texte sur les habitudes, les activités personnelles. \r\n- comprendre un texte sur la description de lieux. \r\n- comprendre des informations de parcours.\r\n" ],
+      "domaine" : "Compréhension écrite :"
+   } ],
+   "duree" : "42h",
+   "enseignants" : [ {
+      "nom" : "Fava",
+      "prenom" : "Caterina"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66731,
+   "intitule" : "Italien - Avancé 3 - 2ième degré",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "IT",
+   "matiereNom" : "Italien",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "B1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3235",
+         "localite" : "Bettembourg",
+         "nom" : "AIL Bettembourg/Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "44, rue de la Ferme"
+      },
+      "code" : "AILBD",
+      "fax" : "+352 51 68 52",
+      "mail" : "piccomen@pt.lu",
+      "nom" : "AIL Bettembourg/Dudelange",
+      "nomContact" : "Picco",
+      "onlineReg" : false,
+      "prenomContact" : "Domenico",
+      "statut" : "ASBL",
+      "telephone" : "+352 51 68 52 ",
+      "websiteUrl" : "http://www.facebook.com/corsitaliani/info"
+   },
+   "prerequis" : "A2",
+   "renseignements" : "Tél.:51 68 52 ou 621 27 58 73 // E-mail : piccomen@pt.lu // 25 euros = coût du livre (valable pour les cinq années)\r\nLe certificat est établi pour 70% de présence des leçons données. (soit 15 leçons)"
 }, {
    "adresseCours" : {
       "codePostal" : "1278",
@@ -26772,10 +29419,29 @@
       "domaine" : "Schrëfltechen Ausdrock"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Achen",
+      "prenom" : "Juliette"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:00 (durée 4h),\nMardi à 08:00 (durée 4h),\nMercredi à 08:00 (durée 4h),\nJeudi à 08:00 (durée 4h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "4h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 63387,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
@@ -27333,6 +29999,67 @@
    },
    "prerequis" : "A1.2",
    "renseignements" : "à se procurer pour le cours livre et cahier d'activités :\r\n- Edito A2 - édition 2022-2024 - Livre + didierfle.app Broché - Illustré, 24 mai 2022\r\n- Edito A2 - édition 2022-2024 - Cahier + didierfle.app Broché - Illustré, 6 septembre 2022\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2160",
+      "localite" : "Grund Luxembourg",
+      "nom" : "Centre culturel de Rencontre Abbaye de Neumünster",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "28 Rue Münster "
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coOrganisateurs" : [ "Zentrum fir politesch Bildung", "Institut Pierre Werner", "Centre National de l’Audiovisuel" ],
+   "coursCode" : "SCI-SCP-1",
+   "coursId" : "SCI-SCP-1",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "05/05/2026",
+   "dateFin" : "05/05/2026",
+   "description" : "Europa im Film – Wie Kino unsere Sicht auf einen ganzen Kontinent prägt\r\nFilme und Serien erzählen Geschichten – und vermitteln dabei oft politische Botschaften und Werte. Doch welches Bild entsteht dabei von Europa und der EU?\r\nDiese Filmreihe lädt dazu ein, Europas Identität durch die Linse des Kinos neu zu entdecken.\r\nWas erwartet die Teilnehmenden?\r\n•\tEinblicke, wie europäische Filme kulturelle Vielfalt, Sprachen und historische Erfahrungen darstellen\r\n•\tSpannende Beispiele, wie Mythen, Antike und das gemeinsame Erbe Europas filmisch weiterleben\r\n•\tPerspektiven auf Kolonialgeschichte, Migration sowie Demokratie und Rechtsstaatlichkeit im Film\r\n•\tDer Blick von außen: Wie zeigen internationale Produktionen Europa?\r\n•\tDiskussionen darüber, wie Frieden und Versöhnung nach den Weltkriegen im Kino sichtbar werden\r\nDabei betrachten wir Klassiker und moderne Produktionen, die zeigen, wie sich Europa selbst erzählt – und wie es von der Welt gesehen wird.\r\n¿ Jetzt anmelden und Europa im Kino neu entdecken!",
+   "duree" : "2 leçons",
+   "enseignants" : [ {
+      "nom" : "Conférence",
+      "prenom" : "Up"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 05-05-2026 à 19:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 66159,
+   "intitule" : "Democracy Dies in Darkness - Demokratische Institutionen in Europa in Film und Serien",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "SCP",
+   "matiereNom" : "Sciences politiques",
+   "nbInscrits" : 3,
+   "nbPlaces" : 15,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4575",
@@ -53247,7 +55974,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 162.0,
    "dateDebut" : "06/10/2025",
-   "dateFin" : "27/04/2026",
+   "dateFin" : "04/05/2026",
    "dateInscription" : "https://www.schengenlyzeum.eu/p/42",
    "duree" : "36h",
    "enseignants" : [ {
