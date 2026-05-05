@@ -1,347 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-INFU-103",
-   "coursId" : "IN-INFU-103",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "06/05/2026",
-   "dateFin" : "24/06/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange/ \r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
-   "description" : "Initiation à l'ordinateur.\r\nSe familiariser avec l'ordinateur et son système d'exploitation. \r\nAcquérir les notions de base du traitement de texte. \r\nGérer les fichiers.",
-   "duree" : "24h",
-   "enseignants" : [ {
-      "nom" : "Casanova E Silva",
-      "prenom" : "Marisa"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63206,
-   "intitule" : "Initiation PC / Initiation Internet",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "INFU",
-   "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 8,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "renseignements" : "Accès pour personnes à mobilité réduite,\r\nHors vacances scolaires\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-CRO-20",
-   "coursId" : "AR-CRO-20",
-   "coursType" : "CLASSIQUE",
-   "cout" : 40.5,
-   "dateDebut" : "06/05/2026",
-   "dateFin" : "20/05/2026",
-   "description" : "Vous savez crocheter et vous avez envie de découvrir les bases de l’amigurumi ? Venez explorer une nouvelle façon de créer.\r\nDécouvrez l’univers du amigurumi à travers un atelier créatif et accessible.\r\nLors de ce workshop, vous apprendrez à crocheter un joli cactus pour apporter une touche originale et décorative à votre intérieur… sans jamais avoir à l'arroser !\r\nNous aborderons ensemble les techniques essentielles : le rond magique, les augmentations et diminutions invisibles, ainsi que l’assemblage et la couture des éléments. \r\nTout au long du cours, des conseils et astuces vous seront partagés pour vous guider pas à pas.\r\nÀ la fin de l’atelier, vous repartirez avec vos créations et les patrons, prêts à continuer l’aventure chez vous.",
-   "duree" : "9 leçons",
-   "enseignants" : [ {
-      "nom" : "Placchino",
-      "prenom" : "Laetitia"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66174,
-   "intitule" : "Amigurumi-Apprendre à crocheter un cactus",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CRO",
-   "matiereNom" : "Crochet",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNzQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "À noter : les cours n'auront pas lieu pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Merci de prévoir pour le 1er cours : 1 pelote coton n°3 (50 g), crochet 2,5, 100 g de ouate, aiguille à laine, marqueur de rang, ciseaux. Matériel disponible en boutique de loisirs créatifs."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-BE-14",
-   "coursId" : "SO-BE-14",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "06/05/2026",
-   "dateFin" : "06/05/2026",
-   "description" : "Trier, ranger et classer ses papiers… Pourquoi cela est-il toujours remis au lendemain ? Comment s’organiser pour s’y mettre réellement ? Cet atelier propose des méthodes simples et efficaces pour instaurer une organisation durable, ainsi que des trucs et astuces faciles à appliquer afin de simplifier le quotidien et alléger la gestion administrative.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Krier",
-      "prenom" : "Marie Paule",
-      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 06-05-2026 à 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65815,
-   "intitule" : "HOME ORGANSING 4 : Procrastination – Pourquoi remettre les choses au lendemain ?",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BE",
-   "matiereNom" : "Bien-être",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MTU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-EN-210",
-   "coursId" : "LA-EN-210",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "06/05/2026",
-   "dateFin" : "01/07/2026",
-   "dateInscription" : "toute l'année sous www.walfer.lu/enseignement",
-   "description" : "Peut comprendre le contenu essentiel de sujets concrets ou abstrait dans un texte complexe, y compris une discussion technique dans sa spécialité. Peut communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un locuteur natif ne comportant de tension ni pour l'un ni pour l'autre. Peut s'exprimer de façon claire et détaillée sur une grande gamme de sujets, émettre un avis sur un sujet d'actualité et exposer les avantages et les inconvénients de différentes possibilités.",
-   "domainesCompetences" : [ {
-      "competences" : [ " peut comprendre les idées principales d'interventions assez longues sur des sujets familiers ou des sujets abstraits et dont le plan général est clair et indiqué par des marqueurs explicites\r\n- peut comprendre l'essentiel du contenu informatif d'un enregistrement en langue standard et le point de vue du ou des locuteurs. Peut repérer, quand elle est explicite, l'humeur du locuteur\r\n- peut saisir avec un certain effort une discussion entre locuteurs natifs" ],
-      "domaine" : "COMPREHENSION DE L'ORAL"
-   }, {
-      "competences" : [ " peut faire une intervention courte et spontanée dans la plupart des situations\r\n- peut faire une description de manière claire. (expérience vécue, sujets en relation avec son domaine d'intérêt)\r\n- peut développer, lors d'un débat, une argumentation claire et enchaînée avec logique, en confirmant ses points de vue par des exemples pertinents\r\n" ],
-      "domaine" : "EXPRESSION ORALE"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Pouwer",
-      "prenom" : "Paul"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mercredi à 13:30 (durée 4h), Vendredi à 13:30 (durée 4h)",
-   "horaires" : [ {
-      "duree" : "4h",
-      "heure" : "13:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "4h",
-      "heure" : "13:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65838,
-   "intitule" : "Anglais - Conversation",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Anglais",
-   "nbInscrits" : 8,
-   "nbPlaces" : 20,
-   "niveau" : "B2.3 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "6630",
-      "localite" : "Wasserbillig",
-      "nom" : "Administration Communale de Mertert / Wasserbillig",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1-3, Grand-Rue"
-   },
-   "adresseInscription" : {
-      "codePostal" : "6630",
-      "localite" : "Wasserbillig",
-      "nom" : "Administration Communale de Mertert / Wasserbillig",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1-3, Grand-Rue"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1446",
-   "coursId" : "LA-LB-1446",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "06/05/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "Lundi - Vendredi de 07:00 à 16:00",
-   "description" : "Donner aux apprenants la chance de parler la langue luxembourgeoise",
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Halbig",
-      "prenom" : "Karin"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 09:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65278,
-   "intitule" : "B1.3 Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 3,
-   "nbPlaces" : 12,
-   "niveau" : "B1.3 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6630",
-         "localite" : "Wasserbillig",
-         "nom" : "Administration Communale de Mertert / Wasserbillig",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1-3, Grand-Rue"
-      },
-      "code" : "A.C. MERWA",
-      "fax" : "/",
-      "mail" : "rachel.gotting@mertert.lu",
-      "nom" : "Commune de Mertert ",
-      "nomContact" : "GOTTING",
-      "onlineReg" : false,
-      "prenomContact" : "Rachel",
-      "statut" : "Administration Communale",
-      "telephone" : "74 00 16 122"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "2613",
       "localite" : "Ville-Haute Luxembourg",
       "nom" : "Théatre des Capucins",
@@ -30097,6 +29755,141 @@
    "renseignements" : "A short placement interview (phone or Zoom/Teams) is required before enrolment (minimum A2 level and completion of “Discovering Ukraine” recommended). Regular attendance is expected. Course materials are provided. "
 }, {
    "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-INFU-103",
+   "coursId" : "IN-INFU-103",
+   "coursType" : "CLASSIQUE",
+   "cout" : 72.0,
+   "dateDebut" : "06/05/2026",
+   "dateFin" : "24/06/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange/ \r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
+   "description" : "Initiation à l'ordinateur.\r\nSe familiariser avec l'ordinateur et son système d'exploitation. \r\nAcquérir les notions de base du traitement de texte. \r\nGérer les fichiers.",
+   "duree" : "24h",
+   "enseignants" : [ {
+      "nom" : "Casanova E Silva",
+      "prenom" : "Marisa"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63206,
+   "intitule" : "Initiation PC / Initiation Internet",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "INFU",
+   "matiereNom" : "Internetfürerschäin",
+   "nbInscrits" : 8,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "renseignements" : "Accès pour personnes à mobilité réduite,\r\nHors vacances scolaires\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-CRO-20",
+   "coursId" : "AR-CRO-20",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.5,
+   "dateDebut" : "06/05/2026",
+   "dateFin" : "20/05/2026",
+   "description" : "Vous savez crocheter et vous avez envie de découvrir les bases de l’amigurumi ? Venez explorer une nouvelle façon de créer.\r\nDécouvrez l’univers du amigurumi à travers un atelier créatif et accessible.\r\nLors de ce workshop, vous apprendrez à crocheter un joli cactus pour apporter une touche originale et décorative à votre intérieur… sans jamais avoir à l'arroser !\r\nNous aborderons ensemble les techniques essentielles : le rond magique, les augmentations et diminutions invisibles, ainsi que l’assemblage et la couture des éléments. \r\nTout au long du cours, des conseils et astuces vous seront partagés pour vous guider pas à pas.\r\nÀ la fin de l’atelier, vous repartirez avec vos créations et les patrons, prêts à continuer l’aventure chez vous.",
+   "duree" : "9 leçons",
+   "enseignants" : [ {
+      "nom" : "Placchino",
+      "prenom" : "Laetitia"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 17:10 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66174,
+   "intitule" : "Amigurumi-Apprendre à crocheter un cactus",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "CRO",
+   "matiereNom" : "Crochet",
+   "nbInscrits" : 3,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNzQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "À noter : les cours n'auront pas lieu pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Merci de prévoir pour le 1er cours : 1 pelote coton n°3 (50 g), crochet 2,5, 100 g de ouate, aiguille à laine, marqueur de rang, ciseaux. Matériel disponible en boutique de loisirs créatifs."
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -30604,98 +30397,6 @@
    },
    "prerequis" : "Need to bring your sewing machine to the course location and use it for your project implementation work.",
    "renseignements" : "Notwendigkeit, die eigene Nähmaschine zum Kursort mitzubringen und diese bei der Umsetzung der Projekte verwenden. | Nécessité d'apporter sa propre machine à coudre au site du cours et de l'utiliser pour le travail de projet."
-}, {
-   "adresseCours" : {
-      "codePostal" : "08370",
-      "localite" : "Margut, France",
-      "nom" : "Ermitage Saint Walfroy",
-      "paysCode" : "F",
-      "paysNom" : "France",
-      "rueNumero" : "1 route de Saint Walfroy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2563",
-      "localite" : "Luxembourg",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://www.luxchine.org/"
-   },
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-27",
-   "coursId" : "SO-MED-27",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "01/05/2026",
-   "dateFin" : "06/05/2026",
-   "dateInscription" : "jusqu'au 15 février 2026",
-   "description" : "Stage de méditation Chan. Invité du stage: vénérable maître Chan Guoyuan Fa Shi.",
-   "duree" : "48h",
-   "enseignants" : [ {
-      "nom" : "Lin",
-      "prenom" : "Li-Chuan"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Dimanche à 09:00 (durée 8h), Lundi à 09:00 (durée 8h), Mardi à 09:00 (durée 8h), Mercredi à 09:00 (durée 8h), Vendredi à 09:00 (durée 8h), Samedi à 09:00 (durée 8h)",
-   "horaires" : [ {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Dimanche"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Vendredi"
-   }, {
-      "duree" : "8h",
-      "heure" : "09:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 63611,
-   "intitule" : "Méditation Chan",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 16,
-   "nbPlaces" : 30,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2563",
-         "localite" : "Luxembourg",
-         "nom" : "Association Culturelle Chinoise Lux.",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, rue Jean Schaack"
-      },
-      "code" : "ACCL",
-      "fax" : "/",
-      "mail" : "luxchine@pt.lu",
-      "nom" : "Association Culturelle Chinoise Lux.",
-      "nomContact" : "Wagener",
-      "onlineReg" : false,
-      "prenomContact" : "Marie-Paule",
-      "statut" : "ASBL",
-      "telephone" : "+352 236 208 59",
-      "websiteUrl" : "https://www.luxchine.org/"
-   },
-   "prerequis" : "Stage ouvert à toute personne ayant une base de pratique d'au moins 8 séances avec Madame LIN Li-Chuan et avoir son accord.",
-   "renseignements" : "Le stage se déroule en pension complète. Au coût d'inscription s'ajouteront les frais de participation (294 euros)."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -39249,83 +38950,6 @@
    "renseignements" : "Découvrez nos séminaires dans des lieux historiques uniques de Luxembourg ! À chaque session, explorez un nouvel endroit emblématique. Alliez culture et découverte au coeur de notre pays ! "
 }, {
    "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TRT-121",
-   "coursId" : "IN-TRT-121",
-   "coursType" : "CLASSIQUE",
-   "cout" : 30.0,
-   "dateDebut" : "25/03/2026",
-   "dateFin" : "06/05/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "MS Word Modul 2 Fortgeschritten:\r\n-Eine Tabelle in Word einfügen und bearbeiten.\r\n-Der Index: erstellen und benutzen.\r\n-Der Briefkopf: Kopf- und Fußzeile anfertigen und anwenden.\r\n-Die Funktion Etiketten und Briefumschläge anwenden, Serienbriefe erzeugen.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Publipostage, étiquettes et enveloppes, manipuler les tabulations.", "Connaissances approfondies." ],
-      "domaine" : "Traitement de texte"
-   } ],
-   "duree" : "10h",
-   "enseignants" : [ {
-      "nom" : "Djomou Tchumo",
-      "prenom" : "Isaac",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 14:00 (durée 1h30)",
-   "horaires" : [ {
-      "duree" : "1h30",
-      "heure" : "14:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 61841,
-   "intitule" : "Word Modul 2-6",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TRT",
-   "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Minimal Anforderung: absolwierten Word Modul 1  --  Exigence minimale : avoir suivi le module 1 de Word",
-   "renseignements" : "Inscription jusqu'au 23-03-2026 !"
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -40877,71 +40501,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Aquarelle : 12 couleurs, gobelet, 3 pinceaux, papier de cuisine, crayon, gomme, bloc DIN 2/3. Acrylique : 12 couleurs, bloc DIN 2/3, toiles 30x40, fusain/crayon, gomme, papier de cuisine, 4-5 pinceaux"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-CUIS-56",
-   "coursId" : "AR-CUIS-56",
-   "coursType" : "CLASSIQUE",
-   "cout" : 108.0,
-   "dateDebut" : "11/03/2026",
-   "dateFin" : "06/05/2026",
-   "description" : "Apprenez pas à pas les bases indispensables pour cuisiner en toute autonomie ! Découpe, organisation, cuissons essentielles et assaisonnements : vous pratiquerez directement en réalisant des recettes simples et savoureuses inspirées des cuisines méditerranéenne, italienne et péruvienne. Chaque participant apporte ses ingrédients et repart avec ses préparations. Un cours idéal pour débutants souhaitant cuisiner avec plaisir et confiance.",
-   "duree" : "24 leçons",
-   "enseignants" : [ {
-      "nom" : "Briceno Campos",
-      "prenom" : "Angie Roxana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 16:20 (durée 1h40), Vendredi à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64017,
-   "intitule" : "Cuisine de Base : Techniques Essentielles et Recettes du Quotidien",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CUIS",
-   "matiereNom" : "Cuisine",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwMTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Une liste de matériel sera envoyée au participant lors de l’envoi de la confirmation d’inscription."
 }, {
    "adresseCours" : {
       "codePostal" : "1338",
