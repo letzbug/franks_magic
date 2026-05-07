@@ -2858,7 +2858,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 7,
+   "nbInscrits" : 9,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -3013,7 +3013,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "MUME",
    "matiereNom" : "Multimédia",
-   "nbInscrits" : 4,
+   "nbInscrits" : 3,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -7232,7 +7232,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 18,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -9953,6 +9953,68 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-36",
+   "coursId" : "CIN-LB-36",
+   "coursType" : "CLASSIQUE",
+   "cout" : 182.0,
+   "dateDebut" : "02/06/2026",
+   "dateFin" : "14/07/2026",
+   "dateInscription" : "14 mai au 29 mai",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "domainesCompetences" : [ {
+      "competences" : [ "- Utiliser des formules de salutations et de politesse\r\n- Se présenter ou présenter une autre personne\r\n- Utiliser des nombres, des dates et des horaires\r\n- Exprimer et comparer des instructions simples, des souhaits et des préférences\r\n- Décrire en phrases simples le déroulement de la journée, des activité professionnelles, et des loisirs \r\n- Décrire la météo\r\n- Utiliser les différents verbes courants au présent" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "- Comprendre les différentes formules de salutation\r\n- Comprendre des informations simples sur soi-même, sur d'autres personnes et issues du quotidien " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Comprendre des textes courts et simples contenant des informations et des instructions" ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "39h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi 02-06-2026 à 18:00 (durée 3h), 18:00 (durée 3h), 18:00 (durée 3h), 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Jeudi 25-06-2026 à 18:00 (durée 3h), Vendredi 05-06-2026 à 13:30 (durée 3h), 13:30 (durée 3h), 13:30 (durée 3h), 13:30 (durée 3h), 13:30 (durée 3h) et 13:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66694,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY2OTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4665",
+         "localite" : "Oberkorn",
+         "nom" : "Luxembourg Online Education Center",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "68 rue Charles Schambourg"
+      },
+      "code" : "LOECL",
+      "mail" : "lux.online.education.center@gmail.com",
+      "nom" : "Luxembourg Online Education Center Lux",
+      "nomContact" : "Chies",
+      "onlineReg" : true,
+      "prenomContact" : "Martine",
+      "statut" : "PREST_EXT",
+      "telephone" : "661 195 032",
+      "websiteUrl" : "https://www.lux-online-educ-center.com"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "1254",
@@ -13219,7 +13281,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : false,
@@ -13294,7 +13356,7 @@
    "matiereNom" : "Luxembourgeois",
    "nbInscrits" : 0,
    "nbPlaces" : 25,
-   "niveau" : "B1.2 du CECRL",
+   "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -13314,7 +13376,6 @@
       "statut" : "Administration Communale",
       "telephone" : "+352 4796-4150"
    },
-   "prerequis" : "B1.1",
    "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
@@ -18371,10 +18432,25 @@
    "dateFin" : "01/08/2026",
    "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
    "duree" : "26h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Mardi à 18:15 (durée 2h), Jeudi à 18:15 (durée 2h), Samedi à 10:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Samedi"
+   } ],
    "id" : 66741,
    "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
    "langueCoursCode" : "LB",
@@ -29567,7 +29643,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 8,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -30231,7 +30307,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 13,
+   "nbInscrits" : 15,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
