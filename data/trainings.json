@@ -1759,7 +1759,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 6,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -2915,6 +2915,9 @@
    } ],
    "duree" : "6h",
    "enseignants" : [ {
+      "nom" : "Hazizaj",
+      "prenom" : "Bashkim"
+   }, {
       "nom" : "Gomes Da Costa",
       "prenom" : "Orlando"
    } ],
@@ -2927,7 +2930,19 @@
    }, {
       "duree" : "2h",
       "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
       "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
    }, {
       "duree" : "2h",
       "heure" : "14:00",
@@ -14491,6 +14506,9 @@
    "enseignants" : [ {
       "nom" : "Hazizaj",
       "prenom" : "Bashkim"
+   }, {
+      "nom" : "Gomes Da Costa",
+      "prenom" : "Orlando"
    } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
@@ -14501,7 +14519,19 @@
    }, {
       "duree" : "2h",
       "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
       "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
    }, {
       "duree" : "2h",
       "heure" : "14:00",
@@ -36662,7 +36692,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 24,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
