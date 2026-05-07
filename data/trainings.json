@@ -1923,7 +1923,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2582,25 +2582,25 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-150",
-   "coursId" : "LA-FR-150",
+   "coursCode" : "LA-FR-151",
+   "coursId" : "LA-FR-151",
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "19/05/2026",
    "dateFin" : "30/06/2026",
-   "dateInscription" : "toute l'année entre 08:00 et 11:30 et 13.30-16.00 hrs",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
+   "dateInscription" : "toute l'année entre 08:00 et 11:30 et de 13.30 à 16.00 hrs",
+   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
-      "competences" : [ "Comprendre de petits textes simples sur des sujets courants" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Comprendre une histoire simple au présent au passé composé et des instructions si le débit de parole est lent et le vocabulaire simple." ],
+      "competences" : [ "comprendre des instructions et des consignes orales\r\n", "comprendre des expressions familières de la vie quotidienne\r\n", "comprendre quelqu'un qui se présente\r\n", "comprendre des indications chiffrées\r\n", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30 " ],
       "domaine" : "Compréhension orale"
    }, {
-      "competences" : [ "Participer à un dialogue simple et pas trop rapide en répondant ou en posant des questions à l'interlocuteur.  ", "Exprimer des notions futures ou des actions au passé." ],
-      "domaine" : "Expression orale"
+      "competences" : [ "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier", "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes\r\ncomprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes" ],
+      "domaine" : "Compréhension écrite"
    }, {
-      "competences" : [ "Ecrire un petit texte suivi en utilisant un vocabulaire usuel relatant des actions élémentaires au présent, futur ou passé composé." ],
+      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)\r\n", "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information " ],
+      "domaine" : "Expressiion orale"
+   }, {
+      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)\r\n", "décrire succinctement son environnement\r\n", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue " ],
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
@@ -2609,33 +2609,33 @@
       "prenom" : "Pierre"
    } ],
    "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 08:00 (durée 3h),\nMardi à 08:00 (durée 3h),\nMercredi à 08:00 (durée 3h),\nJeudi à 08:00 (durée 3h)",
+   "horairePrevu" : "Lundi à 14:30 (durée 3h),\nMardi à 14:30 (durée 3h),\nMercredi à 14:30 (durée 3h),\nJeudi à 14:30 (durée 3h)",
    "horaires" : [ {
       "duree" : "3h",
-      "heure" : "08:00",
+      "heure" : "14:30",
       "jour" : "Lundi"
    }, {
       "duree" : "3h",
-      "heure" : "08:00",
+      "heure" : "14:30",
       "jour" : "Mardi"
    }, {
       "duree" : "3h",
-      "heure" : "08:00",
+      "heure" : "14:30",
       "jour" : "Mercredi"
    }, {
       "duree" : "3h",
-      "heure" : "08:00",
+      "heure" : "14:30",
       "jour" : "Jeudi"
    } ],
-   "id" : 61424,
+   "id" : 61425,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 19,
    "nbPlaces" : 20,
-   "niveau" : "A2.1 du CECRL",
+   "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -3054,97 +3054,6 @@
    "renseignements" : "Volet 1/3. \r\nHTML"
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-151",
-   "coursId" : "LA-FR-151",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "19/05/2026",
-   "dateFin" : "30/06/2026",
-   "dateInscription" : "toute l'année entre 08:00 et 11:30 et de 13.30 à 16.00 hrs",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des instructions et des consignes orales\r\n", "comprendre des expressions familières de la vie quotidienne\r\n", "comprendre quelqu'un qui se présente\r\n", "comprendre des indications chiffrées\r\n", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30 " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier", "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes\r\ncomprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)\r\n", "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information " ],
-      "domaine" : "Expressiion orale"
-   }, {
-      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)\r\n", "décrire succinctement son environnement\r\n", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue " ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Deventer",
-      "prenom" : "Pierre"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 14:30 (durée 3h),\nMardi à 14:30 (durée 3h),\nMercredi à 14:30 (durée 3h),\nJeudi à 14:30 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "14:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61425,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 19,
-   "nbPlaces" : 20,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -3344,7 +3253,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 36.0,
    "dateDebut" : "21/05/2026",
-   "dateFin" : "11/06/2026",
+   "dateFin" : "18/06/2026",
    "description" : "Le Feng Shui est un art aux techniques ancestrales, le Feng Shui favorise l'harmonie entre l'environnement (maison, bureau etc) et les individus, permettant ainsi de créer des espaces propices à la sérénité, à la créativité et son bien-être.\r\nLes participants découvriront comment l'agencement de leur espace de vie ou de travail peut influencer leur énergie, leur humeur et leurs relations. À l'issue de ce programme, chacun repartira avec des conseils pratiques pour réajuster son environnement, optimiser son bien-être physique et mental, et instaurer un équilibre durable. Ce parcours s'inscrit dans une démarche holistique, visant à reconnecter le corps, l'esprit et l'espace de vie.",
    "duree" : "8 leçons",
    "enseignants" : [ {
@@ -6042,101 +5951,6 @@
    "renseignements" : "Livre A1 de l'INL: Schwätzt Dir Lëtzebuergesch?\r\n\r\n\r\n"
 }, {
    "adresseCours" : {
-      "codePostal" : "3425",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3590",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de ville de  Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1452",
-   "coursId" : "LA-LB-1452",
-   "coursType" : "CLASSIQUE",
-   "cout" : 85.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "16/07/2026",
-   "dateInscription" : "Mars 2026\r\nCoursEnsemble@i-a.lu\r\n51 61 21 538",
-   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines de l'environnement quotidien (informations personnelles et familiales simples, achats, travail) Pouvoir communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. Savoir décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Échanger sur le thème de l'identité. ", "Décrire une personne, d'un objet dans des simples et courants. ", "Indique le chemin. ", "Décrire un logement. ", "Échanger autour des habitudes quotidiennes. ", "Échanger simplement et succinctement en utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisir. ", "Dire l'heure et les moments de la journée.\r\n" ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Comprendre de courts textes descriptifs écrits avec des mots simples et usuels (annonces, pub). ", "Comprendre de courts texte de type «petites annonces pour un logement». \r\n", "Comprendre un planning de tâches au quotidien. " ],
-      "domaine" : "COMPREHENSION ECRIRE"
-   }, {
-      "competences" : [ "Ecrire des mots simples et courants sur des thèmes familiers (identité, famille, nourriture, état physique-moral...). \r\n", "Ecrire de courts messages (date, rdv, noter des numéros de téléphone). " ],
-      "domaine" : "EXPRESSION ECRITE"
-   }, {
-      "competences" : [ "Comprendre des échanges autour de l'identité, présentation. \r\n", "Comprendre une description simple d'une personne, d'un objet. ", "Comprendre la description d'un chemin, d'un logement. ", "Comprendre des échanges sur les tâches quotidiennes. ", "Comprendre des échanges simples utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisirs. ", "Comprendre l'expression de temps, heures et moments. " ],
-      "domaine" : "COMPREHENSION ORALE"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Da Re",
-      "prenom" : "Patrizia"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mardi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h), Jeudi à 09:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65317,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 21,
-   "nbPlaces" : 23,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3526",
-         "localite" : "Dudelange",
-         "nom" : "Inter-Actions",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "149, rue des Minières"
-      },
-      "code" : "IAPE",
-      "mail" : "coursensemble@inter-actions.lu",
-      "nom" : "Ensemble Quartiers Dudelange - Inter-Actions",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "ASBL",
-      "telephone" : "51 61 21 538 / 26 56",
-      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
-   },
-   "prerequis" : "Avoir validé le niveau A1.2"
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -7247,7 +7061,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -17597,7 +17411,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -29673,7 +29487,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 7,
+   "nbInscrits" : 6,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
