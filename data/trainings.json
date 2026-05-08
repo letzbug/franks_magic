@@ -75,6 +75,77 @@
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1535",
+   "coursId" : "LA-FR-1535",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "11/05/2026",
+   "dateFin" : "10/06/2026",
+   "dateInscription" : "24/7 sur le site www.calux.lu",
+   "description" : "Comprendre quelques expressions familières et quotidiennes utilisées dans des situations de communication très récurrentes de la vie sociale; peut s'identifier et répondre à des questions concernant, par exemple, sa nationalité, son âge, son lieu d'habitation, son école et éventuellement, poser lui-même des questions de ce type à quelqu'un ; comprendre des textes constitués d'une ou deux phrases, donner par écrit des informations sur soi. Lieu de formation",
+   "domainesCompetences" : [ {
+      "competences" : [ "- comprendre des instructions courtes et simples, prononcées lentement. comprendre des annonces publiques (horaires, départ, arrivée...), comprendre des informations répétitives (consignes pédagogiques)," ],
+      "domaine" : "Compréhension orale :"
+   }, {
+      "competences" : [ "- L'apprenant peut : - reconnaitre des noms, des mots ou expressions les plus courants dans des situations simples de la vie quotidienne : panneaux, indications manuscrites doublées d'icônes, prix, horaires ; - repérer et comprendre des données chiffrées, des noms propres et d'autres informations très simples dans un texte court ;" ],
+      "domaine" : "Compréhension écrite  :"
+   }, {
+      "competences" : [ "- Se présenter, parler de soi-même, de son entourage et de sa vie: saluer quelqu'un et prendre congé avec des mots simples,... Se présenter (nom, âge, pays, nationalité, numéro de téléphone...), Poser à d'autres personnes des questions, sur leur nom, leur adresse, leur âge Demander en phrases simples quelque chose à quelqu'un (p.ex. matériel scolaire, horaire) et réagir à une telle demande (Est-ce que je peux...) Avoir des échanges très brefs." ],
+      "domaine" : "production orale  :"
+   }, {
+      "competences" : [ "- Ecrire un message très court (mots clés, liste de mots ou de verbes) pour transmettre une consigne, répondre à un questionnaire ou compléter une fiche d'information. Décrire à l'aide de mots simples quelques objets quotidiens Ecrire des mots et des phrases très simples en s'aidant de documents d'appoint (manuel de français, cahier de règles, ...) Rédiger des notes simples, destinées à un usage personnel, concernant des évènements ou des dates à respecter" ],
+      "domaine" : "Production écrite :"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h), Vendredi à 13:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66571,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
@@ -154,6 +225,77 @@
       "websiteUrl" : "http://www.moienasbl.lu"
    },
    "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1408",
+   "coursId" : "LA-LB-1408",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "11/05/2026",
+   "dateFin" : "10/06/2026",
+   "description" : "A l'issue du cours, l'apprenant sera capable de : répondre à des questions simples au sujet de lui-même, son lieu d'habitation, de personnes ou objets familiers et de poser de telles questions ; d'intervenir avec des mots simples ; de réagir dans des domaines familiers ou qui l'intéressent.",
+   "domainesCompetences" : [ {
+      "competences" : [ " understand public announcements (schedules, departure, arrival...), predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good (either noise, or music...), if messages are pronounced slowly." ],
+      "domaine" : "listening  "
+   }, {
+      "competences" : [ " Recognise names, the most common words or expressions in simple situations of everyday life: signs, handwritten indications doubled by icons, prices, schedules; spot and understand quantified data, proper nouns and other very simple information." ],
+      "domaine" : "Reading"
+   }, {
+      "competences" : [ "Copy words or brief messages, write figures and dates; recognize various written forms: printed characters, scripts, capital letters and readable handwritten forms; give information about himself: his name, his nationality, his address, his age, his date of birth, in questionnaires or index cards of information; write a very simple message." ],
+      "domaine" : "Writing"
+   }, {
+      "competences" : [ "Communicate, in a very simple way, provided that his interlocutor shows himself comprehensive, speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave; answer simple questions on information as the age, the origin, the language, the place of residence, understand, agree/refuse and execute very simple instructions; ask somebody of its news and react." ],
+      "domaine" : "Speaking"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 14:00 (durée 3h), Mardi à 14:00 (durée 3h), Mercredi à 14:00 (durée 3h), Jeudi à 14:00 (durée 3h), Vendredi à 14:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 65070,
+   "intitule" : "Luxembourgeois A1.1- Accelerated-Feb-2026",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   },
+   "renseignements" : "langues véhiculaires:  Français et arabe \r\nManuel « Schwätzt Dir Lëtzebuergesch? A1 » Chap 1,2,3\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -246,6 +388,292 @@
       "websiteUrl" : "http://www.moienasbl.lu"
    },
    "renseignements" : "moienasbl@pt.lu \r\ninfos et programme, inscription et paiement sur www.moienasbl.lu"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-AR-17",
+   "coursId" : "LA-AR-17",
+   "coursType" : "CLASSIQUE",
+   "cout" : 200.0,
+   "dateDebut" : "11/05/2026",
+   "dateFin" : "24/06/2026",
+   "description" : "A ce niveau vous êtes capable de communiquer avec des mots et des phrases simples dans vos activités quotidiennes.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Il comprend des énoncés simples visant à satisfaire des besoins concrets ainsi que des expressions familières. " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "l’élève commence à communiquer dans des situations simples de la vie quotidienne. Il acquiert progressivement les bases de la grammaire et du vocabulaire  " ],
+      "domaine" : "expression orale "
+   }, {
+      "competences" : [ " acquisition progressive des règles fondamentales de la lecture orale." ],
+      "domaine" : "compréhension écrite "
+   }, {
+      "competences" : [ "utiliser un vocabulaire simple et des phrases courtes ,donner des informations simples sur soi (nom, adresse, nationalité)...." ],
+      "domaine" : "Ecrire (expression écrite)"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h), Vendredi à 17:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 63470,
+   "intitule" : "Arabe",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "AR",
+   "matiereNom" : "Arabe",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1180",
+   "coursId" : "LA-FR-1180",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "11/05/2026",
+   "dateFin" : "10/06/2026",
+   "description" : "Comprendre des textes variés balayant les domaines de la vie quotidienne, comprendre une conversation simple et en rapporter le contenu, comprendre un échange simple entre natifs, répondre à un courriel ; décrire le caractère d'une personne; engager une conversation simple, expliquer des notions ou des démarches élémentaires. L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement.",
+   "domainesCompetences" : [ {
+      "competences" : [ "* peut utiliser quelques formules de politesse (s'excuser, demander de répéter, de parler plus lentement, ...)\r\n* peut commander ou demander quelque chose dans un magasin ou dans un restaurant\r\n* peut exprimer ses souhaits quand il fait ses courses (magasins, produits, quantités)\r\n*peut donner des indications temporelles (jour de la semaine, mois, date)\r\npeut suivre une conversation simple sur la météo\r\n*peut exprimer ce qu'il aime ou n'aime pas (choses ou activités)\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "*peut reconnaître des expressions simples de la vie courante (présentation, salutations excuses)\r\n*peut comprendre des questions simples concernant les coordonnées personnelles\r\n*peut comprendre des questions simples concernant les achats, loisirs et le travail\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "*peut rédiger une carte postale, un courriel, un texto\r\n*peut passer un message simple\r\n*peut laisser un bref message d'information\r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "* peut comprendre un formulaire (indications sur la personne, la situation familiale)\r\n*peut comprendre l'essentiel des indications sur des affiches, des panneaux (prix, lieu, horaire)\r\n" ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 63449,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   },
+   "prerequis" : "A1.1 CECRL",
+   "renseignements" : "Langue véhiculaire l'arabe "
+}, {
+   "adresseCours" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1185",
+   "coursId" : "LA-FR-1185",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "11/05/2026",
+   "dateFin" : "10/06/2026",
+   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines de l'environnement quotidien . Pouvoir communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels Savoir décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Peut comprendre suffisamment pour communiquer sur des sujets familiers et simples sans effort excessif. Peut se débrouiller avec les demandes directes de la vie quotidienne : trouver une information factuelle et la transmettre. Peut répondre à des questions et en poser sur les habitudes et les activités journalières." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut utiliser des formules de politesse simples et courantes pour s'adresser à quelqu'un ou le saluer. Peut faire et accepter une offre, une invitation et des excuses. Peut dire ce qu'il / elle aime ou non. simple sans effort excessif, en demandant en termes très simples de répéter en cas d'incompréhension." ],
+      "domaine" : "expression orale "
+   }, {
+      "competences" : [ "Trouver, identifier des informations précises dans des documents écrits simples tels que lettres, dépliants, publicités, articles de presse comprendre un texte court et simple contenant des termes courants comprendre un règlement écrit simplement comprendre un mode d'emploi." ],
+      "domaine" : "compréhension écrite "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 13:00 (durée 3h), Mardi à 13:00 (durée 3h), Mercredi à 13:00 (durée 3h), Jeudi à 13:00 (durée 3h), Vendredi à 13:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 63454,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   },
+   "prerequis" : "Niveau A2.1 du CECRL"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1181",
+   "coursId" : "LA-FR-1181",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "11/05/2026",
+   "dateFin" : "10/06/2026",
+   "description" : "Compétences visées par le cours\r\nEchanger des informations sur des sujets de la vie quotidienne : vous présenter et présenter votre entourage, parler de vos activités, de votre santé ; de votre environnement : logement, loisirs, commerces, voyages, vacances. Décrire et comparer des lieux (ville, quartier, habitation), des personnes, des objets Demander et donner des conseils, des indications",
+   "domainesCompetences" : [ {
+      "competences" : [ "peut donner et demander des renseignements (direction, chemin)\r\npeut indiquer où il a mal (médecin, infirmier/ère)\r\npeut faire des comparaisons et indiquer des préférences\r\npeut décrire une personne (caractère, sentiments)\r\npeut laisser un bref message au téléphone, prendre et annuler un rendez-vous au téléphone\r\npeut raconter des évènements au passé (enfance, vacances, souvenirs, ...)\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Comprendre et utiliser des phrases simples face à des besoins concrets ou des sujets familiers. Se présenter, échanger des informations personnelles simples. Se débrouiller au quotidien dans des situations de communication simple." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut écrire avec une relative exactitude phonétique  des mots courts qui appartiennent à son vocabulaire oral. Peut s'exprimer et répondre aux fonctions langagières de base telles que l'échange d'information et la demande et exprimer simplement une idée et une opinion." ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "*peut lire des textes courts très courts. peut trouver une information prévisible dans des documents courants (petites publicités, prospectus, menus, horaires) et  peut comprendre l'essentiel des indications sur des affiches, des panneaux (prix, lieu, horaire)" ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 63450,
+   "intitule" : "Français",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   },
+   "prerequis" : "Niveau A1.2 du CECRL",
+   "renseignements" : "langues véhiculaires: arabe-  luxembourgeois "
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -15570,7 +15998,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -17104,6 +17532,81 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-AR-18",
+   "coursId" : "LA-AR-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 200.0,
+   "dateDebut" : "01/07/2026",
+   "dateFin" : "11/08/2026",
+   "description" : "Être capable de s'entretenir en arabe sur des sujets d'intérêt personnel et dans des contextes professionnels.\r\nDéveloppement de l'expression orale et de la compétence générale en arabe .\r\nPoints de grammaire fondamentaux reliés au type de discours pratiqué.",
+   "domainesCompetences" : [ {
+      "competences" : [ " Recognize names, the most common words or expressions in simple situations of the everyday life: signs, handwritten indications doubled by icons, prices, schedules; spot and understand quantified data, proper nouns and other very simple information.\r\n" ],
+      "domaine" : "Reading "
+   }, {
+      "competences" : [ "Copy words or brief messages, write figures and dates; recognize various written forms: printed characters, scripts, readable handwritten forms; give information about himself: his name, his nationality, his address, his age, his date of birth, in questionnaires or index cards of information; write a very simple sentences  .\r\n" ],
+      "domaine" : "Writing "
+   }, {
+      "competences" : [ "Communicate, in a very simple way, provided that his interlocutor shows himself comprehensive, speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave; answer simple questions on information as the age, the origin, the language, the place of residence, understand, agree / refuse and execute very simple instructions; ask somebody of its news and react;\r\n" ],
+      "domaine" : "Speaking "
+   }, {
+      "competences" : [ "understand eazy public announcements , predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good , if messages are pronounced slowly ." ],
+      "domaine" : "listening  "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mardi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h), Jeudi à 09:00 (durée 2h), Vendredi à 09:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 63471,
+   "intitule" : "Arabe",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "AR",
+   "matiereNom" : "Arabe",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   },
+   "prerequis" : "A1.1 du CECRL"
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -19593,6 +20096,78 @@
       "websiteUrl" : "http://www.walfer.lu"
    },
    "prerequis" : "niveau A2.2 requis"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1279",
+   "coursId" : "LA-LB-1279",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "13/07/2026",
+   "dateFin" : "07/08/2026",
+   "description" : "Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.  Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need.",
+   "domainesCompetences" : [ {
+      "competences" : [ "understand public announcements (schedules, departure, arrival...), predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good (either noise, or music...), if messages are pronounced slowly and / or clearly, are illustrated (plan, drawings...) or doubled by the paper and repeated." ],
+      "domaine" : "listening"
+   }, {
+      "competences" : [ "recognize the most common words or expressions in simple situations of the everyday life: signs, handwritten indications , prices, schedules; spot and understand quantified data, other very simple information in a short text; identify globally the function of certain common texts of the daily environment or the school environment; understand texts constituted by one or two sentences, containing familiar words " ],
+      "domaine" : "Reading"
+   }, {
+      "competences" : [ "copy words or brief messages, write figures and dates; recognize various written forms: printed characters, scripts, capital letters and readable handwritten forms; give information about himself: his name, his nationality, his address, his age, his date of birth, in questionnaires or index cards of information; write a very simple message concerning the activities of the daily life containing some personal details.\r\n" ],
+      "domaine" : "Writing"
+   }, {
+      "competences" : [ "communicate, in a very simple way, , speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave; answer simple questions, the origin, the language, the residence, understand, agree / refuse and execute very simple instructions; ask somebody of its news and react; ask objects, services to somebody, give or return objects, services to  somebody, by managing, in particular, the numbers and the hour" ],
+      "domaine" : "Speaking"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 63462,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   },
+   "prerequis" : "A1.2 CECRL",
+   "renseignements" : "Langue véhiculaire aussi le Français "
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -23505,12 +24080,12 @@
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY2NzM%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "6720",
-         "localite" : "Hachy",
+         "codePostal" : "1629",
+         "localite" : "Luxembourg",
          "nom" : "Belle Bandura ASBL",
-         "paysCode" : "B",
-         "paysNom" : "Belgique",
-         "rueNumero" : "26, rue des Aubépines"
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1 rue des Trois-Glands"
       },
       "code" : "BB",
       "mail" : "bellebandura@gmail.com",
@@ -24838,12 +25413,12 @@
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY2NzQ%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "6720",
-         "localite" : "Hachy",
+         "codePostal" : "1629",
+         "localite" : "Luxembourg",
          "nom" : "Belle Bandura ASBL",
-         "paysCode" : "B",
-         "paysNom" : "Belgique",
-         "rueNumero" : "26, rue des Aubépines"
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1 rue des Trois-Glands"
       },
       "code" : "BB",
       "mail" : "bellebandura@gmail.com",
@@ -25957,12 +26532,12 @@
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MDU%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "6720",
-         "localite" : "Hachy",
+         "codePostal" : "1629",
+         "localite" : "Luxembourg",
          "nom" : "Belle Bandura ASBL",
-         "paysCode" : "B",
-         "paysNom" : "Belgique",
-         "rueNumero" : "26, rue des Aubépines"
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1 rue des Trois-Glands"
       },
       "code" : "BB",
       "mail" : "bellebandura@gmail.com",
@@ -26200,163 +26775,6 @@
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8211",
-         "localite" : "Mamer",
-         "nom" : "EFID",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, Route d'Arlon"
-      },
-      "code" : "EFID",
-      "mail" : "info@efid.lu",
-      "nom" : "Excellence for Integration and Development",
-      "nomContact" : "Tesch",
-      "onlineReg" : true,
-      "prenomContact" : "Nicolas",
-      "statut" : "ASBL",
-      "telephone" : "621 464 422",
-      "websiteUrl" : "https://efid.lu/"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID ",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
-   },
-   "adresseInscription" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1422",
-   "coursId" : "LA-FR-1422",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "28/09/2026",
-   "dateFin" : "17/12/2026",
-   "dateInscription" : "Inscription sur rdv: info@efid.lu",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre une histoire simple au présent au passé composé et des instructions si le débit de parole est lent et le vocabulaire simple." ],
-      "domaine" : "Compréhension orale "
-   }, {
-      "competences" : [ "Ecrire un petit texte suivi en utilisant un vocabulaire usuel relatant des actions élémentaires au présent, futur ou passé composé." ],
-      "domaine" : "Expression écrite"
-   }, {
-      "domaine" : "Interaction orale "
-   }, {
-      "competences" : [ "Participer à un dialogue simple et pas trop rapide en répondant ou en posant des questions à l'interlocuteur.", "Exprimer des notions futures ou des actions au passé." ],
-      "domaine" : "Expression orale "
-   }, {
-      "competences" : [ "Comprendre de petits textes simples sur des sujets courants" ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Mercredi à 13:30 (durée 3h), Vendredi à 13:00 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 65130,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMzA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8211",
-         "localite" : "Mamer",
-         "nom" : "EFID",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, Route d'Arlon"
-      },
-      "code" : "EFID",
-      "mail" : "info@efid.lu",
-      "nom" : "Excellence for Integration and Development",
-      "nomContact" : "Tesch",
-      "onlineReg" : true,
-      "prenomContact" : "Nicolas",
-      "statut" : "ASBL",
-      "telephone" : "621 464 422",
-      "websiteUrl" : "https://efid.lu/"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "1750",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Garçons",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "41A Av.Victor Hugo"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1418",
-   "coursId" : "LA-FR-1418",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "28/09/2026",
-   "dateFin" : "17/12/2026",
-   "dateInscription" : "inscription sur rdv: info@efid.lu",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des instructions et des consignes orales", "comprendre des expressions familières de la vie quotidienne", "comprendre quelqu'un qui se présente", "comprendre des indications chiffrées", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes comprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes", "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)" ],
-      "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information" ],
-      "domaine" : "Interaction orale"
-   }, {
-      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)", "décrire succinctement son environnement", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue" ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 14:00 (durée 1h30), Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 65126,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjY%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "8211",
@@ -29128,7 +29546,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 270.0,
    "dateDebut" : "09/11/2026",
-   "dateFin" : "27/03/2027",
+   "dateFin" : "31/12/2026",
    "dateInscription" : "Inscription ouverte jusqu’au 1er novembre par e-mail bellebandura@gmail.com",
    "description" : "Ce cours de langue ukrainienne pour débutants est destiné aux adultes n’ayant aucune connaissance préalable de la langue ou possédant des bases très limitées.\r\n\r\nAu cours de la formation, les participants apprendront à comprendre et à utiliser des expressions simples du quotidien, à se présenter, à poser et répondre à des questions de base, ainsi qu’à communiquer dans des situations courantes de la vie quotidienne.\r\n\r\nLe cours couvre la grammaire fondamentale, le vocabulaire de base et le développement des compétences orales.",
    "duree" : "72 leçons",
@@ -29157,12 +29575,12 @@
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY2NzU%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "6720",
-         "localite" : "Hachy",
+         "codePostal" : "1629",
+         "localite" : "Luxembourg",
          "nom" : "Belle Bandura ASBL",
-         "paysCode" : "B",
-         "paysNom" : "Belgique",
-         "rueNumero" : "26, rue des Aubépines"
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1 rue des Trois-Glands"
       },
       "code" : "BB",
       "mail" : "bellebandura@gmail.com",
@@ -29194,7 +29612,7 @@
    "dateDebut" : "09/11/2026",
    "dateFin" : "20/12/2026",
    "dateInscription" : "Registration open until November 1 by email bellebandura@gmail.com",
-   "description" : "The course “Discover Ukraine: Language and Culture” is designed for adult beginners with no prior knowledge of the Ukrainian language. Over two months, participants will learn basic conversational vocabulary and use simple phrases in everyday situations such as introductions, cafés, traveling, and shopping. Special attention is given to cultural context: Ukrainian cuisine, traditions, holidays, music, modern life, and travel destinations.\r\n",
+   "description" : "The course “Discover Ukraine: Language and Culture” is designed for adult beginners with no prior knowledge of the Ukrainian language. Over two months, participants will learn basic conversational vocabulary and use simple phrases in everyday situations such as introductions, cafés, traveling, and shopping. Special attention is given to cultural context: Ukrainian cuisine, traditions, holidays, music, modern life, and travel destinations.",
    "duree" : "24 leçons",
    "enseignants" : [ {
       "nom" : "Kichihina",
@@ -29225,12 +29643,12 @@
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MjA%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "6720",
-         "localite" : "Hachy",
+         "codePostal" : "1629",
+         "localite" : "Luxembourg",
          "nom" : "Belle Bandura ASBL",
-         "paysCode" : "B",
-         "paysNom" : "Belgique",
-         "rueNumero" : "26, rue des Aubépines"
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1 rue des Trois-Glands"
       },
       "code" : "BB",
       "mail" : "bellebandura@gmail.com",
@@ -29792,12 +30210,12 @@
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MDY%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "6720",
-         "localite" : "Hachy",
+         "codePostal" : "1629",
+         "localite" : "Luxembourg",
          "nom" : "Belle Bandura ASBL",
-         "paysCode" : "B",
-         "paysNom" : "Belgique",
-         "rueNumero" : "26, rue des Aubépines"
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1 rue des Trois-Glands"
       },
       "code" : "BB",
       "mail" : "bellebandura@gmail.com",
@@ -30612,6 +31030,83 @@
    },
    "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
    "renseignements" : "Groupes de niveaux homogènes composés de 4 à 7 apprenants.\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1444",
+   "coursId" : "LA-FR-1444",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "27/04/2026",
+   "dateFin" : "06/07/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Se procurer toute information nécessaire pour la vie courante, exposer ses opinions et les défendre, mettre en valeur la signification\r\npersonnelle de faits et d'epérience",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des documents radiodiffusés en langue standard traitant de la vie quotidienne : interviews, discussions, vidéo", "Comprendre des situations peu prévisibles dans leurs contenus : sujets concrets ou abstraits, discussions, interviews", "Comprendre des informations télévisées" ],
+      "domaine" : "COMPRENDRE"
+   }, {
+      "competences" : [ "Apporter et préciser son discours dans une langue qui respecte les structures grammaticales appropriées, le contexte et le registre de langue. (description d'une personne, un lieu, un objet, un fait, un concept )" ],
+      "domaine" : "PARLER"
+   }, {
+      "competences" : [ "Faire connaissance/ interagir lors d'une rencontre (se présenter, parler de soi et d'autrui, parler de son parcours, de sa famille et de son environnement immédiat", "Participer aux conversations informelles et échanger des points de vue", "Souligner ce qui est important dans un événement ou une expérience", "Transmettre différents degrés d'émotions", "Emettre des avis et des explications et des arguments et réagir à des opinions", "Discuter autour d'un thème de médias" ],
+      "domaine" : "INTERAGIR"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ {
+      "nom" : "Swartenbroekx",
+      "prenom" : "Anne"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 10:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 65194,
+   "intitule" : "Atelier de conversation",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 11,
+   "nbPlaces" : 22,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Tout le niveau B1 acquis",
+   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -33263,6 +33758,76 @@
       "websiteUrl" : "https://www.clae.lu/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2543",
+      "localite" : "Luxembourg",
+      "nom" : "Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "32, Dernier Sol"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-175",
+   "coursId" : "LA-EN-175",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "14/04/2026",
+   "dateFin" : "18/06/2026",
+   "description" : "A ce niveau vous êtes capable de communiquer avec des mots et des phrases simples dans vos activités quotidiennes.",
+   "domainesCompetences" : [ {
+      "competences" : [ " Recognize names, the most common words or expressions in simple situations of the everyday life: signs, handwritten indications doubled by icons, prices, schedules; spot and understand quantified data, proper nouns and other very simple information.\r\n" ],
+      "domaine" : "Reading "
+   }, {
+      "competences" : [ "Copy words or brief messages, write figures and dates; recognize various written forms: printed characters, scripts, capital letters and readable handwritten forms; give information about himself: his name, his nationality, his address, his age, his date of birth, in questionnaires or index cards of information; write a very simple message .\r\n" ],
+      "domaine" : "Writing "
+   }, {
+      "competences" : [ " Communicate, in a very simple way, provided that his interlocutor shows himself comprehensive, speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave; answer simple questions on information as the age, the origin, the language, the place of residence, understand, agree / refuse and execute very simple instructions; ask somebody of its news and react;\r\n" ],
+      "domaine" : "Speaking "
+   }, {
+      "competences" : [ " understand public announcements (schedules, departure, arrival...), predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good (either noise, or music...), if messages are pronounced slowly ." ],
+      "domaine" : "Listening "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 18:30 (durée 3h), Jeudi à 18:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 63468,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2543",
+         "localite" : "Luxembourg",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "32, Dernier Sol"
+      },
+      "code" : "CAL",
+      "mail" : "secretariat@calux.lu",
+      "nom" : "Centre Avicenne Luxembourg",
+      "nomContact" : "Almohammad",
+      "onlineReg" : false,
+      "prenomContact" : "Ahmad",
+      "statut" : "ASBL",
+      "telephone" : "621 719 410",
+      "websiteUrl" : "https://avicenne.lu/"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -36642,83 +37207,6 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "Tout le niveau A2 acquis",
-   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1444",
-   "coursId" : "LA-FR-1444",
-   "coursType" : "CLASSIQUE",
-   "cout" : 60.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "22/06/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Se procurer toute information nécessaire pour la vie courante, exposer ses opinions et les défendre, mettre en valeur la signification\r\npersonnelle de faits et d'epérience",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des documents radiodiffusés en langue standard traitant de la vie quotidienne : interviews, discussions, vidéo", "Comprendre des situations peu prévisibles dans leurs contenus : sujets concrets ou abstraits, discussions, interviews", "Comprendre des informations télévisées" ],
-      "domaine" : "COMPRENDRE"
-   }, {
-      "competences" : [ "Apporter et préciser son discours dans une langue qui respecte les structures grammaticales appropriées, le contexte et le registre de langue. (description d'une personne, un lieu, un objet, un fait, un concept )" ],
-      "domaine" : "PARLER"
-   }, {
-      "competences" : [ "Faire connaissance/ interagir lors d'une rencontre (se présenter, parler de soi et d'autrui, parler de son parcours, de sa famille et de son environnement immédiat", "Participer aux conversations informelles et échanger des points de vue", "Souligner ce qui est important dans un événement ou une expérience", "Transmettre différents degrés d'émotions", "Emettre des avis et des explications et des arguments et réagir à des opinions", "Discuter autour d'un thème de médias" ],
-      "domaine" : "INTERAGIR"
-   } ],
-   "duree" : "20h",
-   "enseignants" : [ {
-      "nom" : "Swartenbroekx",
-      "prenom" : "Anne"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 65194,
-   "intitule" : "Atelier de conversation",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 11,
-   "nbPlaces" : 22,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Tout le niveau B1 acquis",
    "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
 }, {
    "adresseCours" : {
