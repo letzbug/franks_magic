@@ -874,7 +874,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1167,7 +1167,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TRT",
    "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -1486,7 +1486,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TRT",
    "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -19885,7 +19885,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -26639,82 +26639,85 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID ",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
+      "codePostal" : "66706",
+      "localite" : "Perl",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "paysCode" : "D",
+      "paysNom" : "Allemagne",
+      "rueNumero" : "2, Auf dem Sabel"
    },
    "adresseInscription" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
+      "codePostal" : "66706",
+      "localite" : "Perl",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "paysCode" : "D",
+      "paysNom" : "Allemagne",
+      "rueNumero" : "2, Auf dem Sabel"
    },
+   "anneeScolaire" : "2026/2027",
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1416",
-   "coursId" : "LA-FR-1416",
+   "coursCode" : "LA-EN-219",
+   "coursId" : "LA-EN-219",
    "coursType" : "CLASSIQUE",
-   "cout" : 240.0,
+   "cout" : 108.0,
    "dateDebut" : "28/09/2026",
-   "dateFin" : "17/12/2026",
-   "dateInscription" : "inscription sur rdv: info@efid.lu",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
+   "dateFin" : "19/04/2027",
+   "description" : "The course is aimed for beginners. Basic content in communication and writing. Der Kurs richtet sich an Anfänger. Grundlegende Inhalte in Kommunikation und Schreiben. Le cours s'adresse aux débutants. Contenu de base en communication et en rédaction.",
    "domainesCompetences" : [ {
-      "competences" : [ "comprendre des instructions et des consignes orales", "comprendre des expressions familières de la vie quotidienne", "comprendre quelqu'un qui se présente", "comprendre des indications chiffrées", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30" ],
-      "domaine" : "Compréhension orale"
+      "competences" : [ "Die Teilnehmer*innen können bekannte Wörter und einfache Sätze über sich und ihre Familie und die konkrete Umgebung verstehen. Sie können einfache Gespräche über Familie, Restaurant, Flughafen und Reisen führen." ],
+      "domaine" : "Kommunikative Kompetenzen"
    }, {
-      "competences" : [ "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier", "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes comprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes" ],
-      "domaine" : "Compréhension écrite"
+      "competences" : [ "Les participant(e)s peuvent comprendre des mots familiers et des phrases simples sur eux-mêmes, leur famille et l'environnement. Ils seront capables d'avoir des conversations simples sur la famille, les restaurants, les aéroports et les voyages." ],
+      "domaine" : "Compétences communicatives"
    }, {
-      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)" ],
-      "domaine" : "Expression orale en continu"
+      "competences" : [ "The participants can understand familiar words and simple sentences about themselves and their family and the environment. They will be able to have simple conversations about family, restaurants, airports and travel." ],
+      "domaine" : "Communication Skills"
    }, {
-      "competences" : [ "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information" ],
-      "domaine" : "Interaction orale"
+      "competences" : [ "Die Teilnehmer*innen können kurze, einfache Texte schreiben und können Formulare mit eigenen Informationen auf Englisch ausfüllen." ],
+      "domaine" : "Grammatikalische Kompetenzen"
    }, {
-      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)", "décrire succinctement son environnement", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue" ],
-      "domaine" : "Expression écrite"
+      "competences" : [ "Participants can write short, simple texts and can fill in forms with their personal information." ],
+      "domaine" : "Compétences grammaticales"
+   }, {
+      "competences" : [ "Participants can write short, simple texts and can fill in forms with their personal information." ],
+      "domaine" : "Grammar skills"
    } ],
-   "duree" : "80h",
+   "duree" : "36h",
    "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mardi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h), Jeudi à 09:00 (durée 2h)",
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 17:30 (durée 1h30)",
    "horaires" : [ ],
-   "id" : 65124,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
+   "id" : 66689,
+   "intitule" : "Anglais",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
    "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A1.1 du CECRL",
+   "nbPlaces" : 20,
+   "niveau" : "A1 du CECRL",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjQ%3D",
+   "onlineRegistrationUrl" : "https://www.schengenlyzeum.eu/p/42?aWQ9NjY2ODk%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "8211",
-         "localite" : "Mamer",
-         "nom" : "EFID",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, Route d'Arlon"
+         "codePostal" : "66706",
+         "localite" : "Perl",
+         "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+         "paysCode" : "D",
+         "paysNom" : "Allemagne",
+         "rueNumero" : "2, Auf dem Sabel"
       },
-      "code" : "EFID",
-      "mail" : "info@efid.lu",
-      "nom" : "Excellence for Integration and Development",
-      "nomContact" : "Tesch",
+      "code" : "SLP",
+      "mail" : "abendkurse@schengenlyzeum.eu",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "nomContact" : "Zeimet",
       "onlineReg" : true,
-      "prenomContact" : "Nicolas",
-      "statut" : "ASBL",
-      "telephone" : "621 464 422",
-      "websiteUrl" : "https://efid.lu/"
+      "prenomContact" : "Marc",
+      "statut" : "MENFPS",
+      "telephone" : "+49 6867 9111 246",
+      "websiteUrl" : "https://www.schengenlyzeum.eu/"
    }
 }, {
    "adresseCours" : {
@@ -26800,6 +26803,81 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "66706",
+      "localite" : "Perl",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "paysCode" : "D",
+      "paysNom" : "Allemagne",
+      "rueNumero" : "2, Auf dem Sabel"
+   },
+   "adresseInscription" : {
+      "codePostal" : "66706",
+      "localite" : "Perl",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "paysCode" : "D",
+      "paysNom" : "Allemagne",
+      "rueNumero" : "2, Auf dem Sabel"
+   },
+   "anneeScolaire" : "2026/2027",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-COUT-97",
+   "coursId" : "AR-COUT-97",
+   "coursType" : "CLASSIQUE",
+   "cout" : 216.0,
+   "dateDebut" : "28/09/2026",
+   "dateFin" : "19/04/2027",
+   "description" : "Nähkurs für Anfänger: Nähtechniken anwenden / Schnittmuster lesen / Projekt aussuchen und umsetzen. Cours de couture pour débutants: Appliquer les techniques de couture / Lire un modèle - schéma et modèle / Choisir et réaliser un projet. Sewing course for beginners: Apply stitching techniques / Read patterns / Choose and make a project.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Nähmaschine kennen / Nähtechniken anwenden / Schnittmuster lesen / Stoffkunde / Materialkunde - Projekt aussuchen und Umsetzung planen / Lernbereitschaft / Organisationsfähigkeit / Kreativität /Kommunikationsfähigkeit / Teamkompetenz / Hilfestellung leisten." ],
+      "domaine" : "Fackompetenz"
+   }, {
+      "competences" : [ "Knowing the sewing machine / using sewing techniques / reading patterns / fabric knowledge / material knowledge - choosing a project and planning its implementation / willingness to learn / organisational skills / creativity / communication skills / team skills / providing assistance." ],
+      "domaine" : "Expertise"
+   }, {
+      "competences" : [ "Connaissance de la machine à coudre / utilisation des techniques de couture / lecture des schémas et modèles / connaissance des tissus / connaissance des matériaux - choix d'un projet et planification de sa réalisation / volonté d'apprendre / sens de l'organisation / créativité / capacité de communication / esprit d'équipe / assistance." ],
+      "domaine" : "Compétence professionnelle"
+   } ],
+   "duree" : "48h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 15:15 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66683,
+   "intitule" : "Couture",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY2ODM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "66706",
+         "localite" : "Perl",
+         "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+         "paysCode" : "D",
+         "paysNom" : "Allemagne",
+         "rueNumero" : "2, Auf dem Sabel"
+      },
+      "code" : "SLP",
+      "mail" : "abendkurse@schengenlyzeum.eu",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "nomContact" : "Zeimet",
+      "onlineReg" : true,
+      "prenomContact" : "Marc",
+      "statut" : "MENFPS",
+      "telephone" : "+49 6867 9111 246",
+      "websiteUrl" : "https://www.schengenlyzeum.eu/"
+   },
+   "prerequis" : "Need to bring your sewing machine to the course location and use it for your project implementation work.",
+   "renseignements" : "Notwendigkeit, die eigene Nähmaschine zum Kursort mitzubringen und diese bei der Umsetzung der Projekte verwenden. | Nécessité d'apporter sa propre machine à coudre au site du cours et de l'utiliser pour le travail de projet."
+}, {
+   "adresseCours" : {
       "codePostal" : "1750",
       "localite" : "Luxembourg",
       "nom" : "Lycée de Garçons",
@@ -26876,6 +26954,81 @@
       "telephone" : "621 464 422",
       "websiteUrl" : "https://efid.lu/"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "66706",
+      "localite" : "Perl",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "paysCode" : "D",
+      "paysNom" : "Allemagne",
+      "rueNumero" : "2, Auf dem Sabel"
+   },
+   "adresseInscription" : {
+      "codePostal" : "66706",
+      "localite" : "Perl",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "paysCode" : "D",
+      "paysNom" : "Allemagne",
+      "rueNumero" : "2, Auf dem Sabel"
+   },
+   "anneeScolaire" : "2026/2027",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-COUT-98",
+   "coursId" : "AR-COUT-98",
+   "coursType" : "CLASSIQUE",
+   "cout" : 216.0,
+   "dateDebut" : "28/09/2026",
+   "dateFin" : "19/04/2027",
+   "description" : "Nähkurs für Anfänger: Nähtechniken anwenden / Schnittmuster lesen / Projekt aussuchen und umsetzen. Cours de couture pour débutants: Appliquer les techniques de couture / Lire un modèle - schéma et modèle / Choisir et réaliser un projet. Sewing course for beginners: Apply stitching techniques / Read patterns / Choose and make a project.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Nähmaschine kennen / Nähtechniken anwenden / Schnittmuster lesen / Stoffkunde / Materialkunde - Projekt aussuchen und Umsetzung planen / Lernbereitschaft / Organisationsfähigkeit / Kreativität /Kommunikationsfähigkeit / Teamkompetenz / Hilfestellung leisten." ],
+      "domaine" : "Fachkompetenz"
+   }, {
+      "competences" : [ "Knowing the sewing machine / using sewing techniques / reading patterns / fabric knowledge / material knowledge - choosing a project and planning its implementation / willingness to learn / organisational skills / creativity / communication skills / team skills / providing assistance." ],
+      "domaine" : "Expertise"
+   }, {
+      "competences" : [ "Connaissance de la machine à coudre / utilisation des techniques de couture / lecture des schémas et modèles / connaissance des tissus / connaissance des matériaux - choix d'un projet et planification de sa réalisation / volonté d'apprendre / sens de l'organisation / créativité / capacité de communication / esprit d'équipe / assistance." ],
+      "domaine" : "Compétence professionnelle"
+   } ],
+   "duree" : "48h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 17:15 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66684,
+   "intitule" : "Couture",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.schengenlyzeum.eu/p/42?aWQ9NjY2ODQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "66706",
+         "localite" : "Perl",
+         "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+         "paysCode" : "D",
+         "paysNom" : "Allemagne",
+         "rueNumero" : "2, Auf dem Sabel"
+      },
+      "code" : "SLP",
+      "mail" : "abendkurse@schengenlyzeum.eu",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "nomContact" : "Zeimet",
+      "onlineReg" : true,
+      "prenomContact" : "Marc",
+      "statut" : "MENFPS",
+      "telephone" : "+49 6867 9111 246",
+      "websiteUrl" : "https://www.schengenlyzeum.eu/"
+   },
+   "prerequis" : "Need to bring your sewing machine to the course location and use it for your project implementation work.",
+   "renseignements" : "Notwendigkeit, die eigene Nähmaschine zum Kursort mitzubringen und diese bei der Umsetzung der Projekte verwenden. | Nécessité d'apporter sa propre machine à coudre au site du cours et de l'utiliser pour le travail de projet."
 }, {
    "adresseCours" : {
       "codePostal" : "8211",
@@ -27012,85 +27165,6 @@
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8211",
-         "localite" : "Mamer",
-         "nom" : "EFID",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, Route d'Arlon"
-      },
-      "code" : "EFID",
-      "mail" : "info@efid.lu",
-      "nom" : "Excellence for Integration and Development",
-      "nomContact" : "Tesch",
-      "onlineReg" : true,
-      "prenomContact" : "Nicolas",
-      "statut" : "ASBL",
-      "telephone" : "621 464 422",
-      "websiteUrl" : "https://efid.lu/"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID ",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
-   },
-   "adresseInscription" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1415",
-   "coursId" : "LA-FR-1415",
-   "coursType" : "CLASSIQUE",
-   "cout" : 240.0,
-   "dateDebut" : "28/09/2026",
-   "dateFin" : "17/12/2026",
-   "dateInscription" : "inscription sur rdv: info@efid.lu",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des instructions et des consignes orales", "comprendre des expressions familières de la vie quotidienne", "comprendre quelqu'un qui se présente", "comprendre des indications chiffrées", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier", "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes comprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)" ],
-      "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information" ],
-      "domaine" : "Interaction orale"
-   }, {
-      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)", "décrire succinctement son environnement", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue" ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "80h",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 11:00 (durée 2h), Mardi à 11:00 (durée 2h), Mercredi à 11:00 (durée 2h), Jeudi à 11:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 65123,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjM%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "8211",
