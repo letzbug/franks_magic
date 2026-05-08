@@ -12312,7 +12312,7 @@
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
    "nbInscrits" : 5,
-   "nbPlaces" : 8,
+   "nbPlaces" : 9,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTg%3D",
@@ -26715,6 +26715,88 @@
       "statut" : "ASBL",
       "telephone" : "621 464 422",
       "websiteUrl" : "https://efid.lu/"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "66706",
+      "localite" : "Perl",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "paysCode" : "D",
+      "paysNom" : "Allemagne",
+      "rueNumero" : "2, Auf dem Sabel"
+   },
+   "adresseInscription" : {
+      "codePostal" : "66706",
+      "localite" : "Perl",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "paysCode" : "D",
+      "paysNom" : "Allemagne",
+      "rueNumero" : "2, Auf dem Sabel"
+   },
+   "anneeScolaire" : "2026/2027",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-DE-133",
+   "coursId" : "LA-DE-133",
+   "coursType" : "CLASSIQUE",
+   "cout" : 108.0,
+   "dateDebut" : "28/09/2026",
+   "dateFin" : "19/04/2027",
+   "description" : "Erwerb von Grundkompetenzen der Deutschen Sprache, Entwicklung von Kommunikationskompetenz in Deutsch in Wort und Schrift \r\nApprentissage oral puis écrit de la langue allemande; vocabulaire de base pour un niveau débutant.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Der Teilnehmer/in kann sich und andere vorstellen sowie Anmeldeformulare ausfüllen und Fragen zur eigenen Person beantworten. Er/Sie kann nach Befinden fragen und Befinden sowie Gefallen und Missfallen ausdrücken. Er/Sie kann Lebensmittel benennen, einen Einkaufszettel schreiben sowie ein Einkaufsgespräch führen. Zahlen bis zur Million. Er/Sie kann" ],
+      "domaine" : "Kommunikative Kompetenzen"
+   }, {
+      "competences" : [ "L'étudiant(e) peut se présenter et présenter les autres, remplir des formulaires d'inscription et répondre à des questions sur sa propre personne. Il/elle peut demander comment il/elle se sent et exprimer son état ainsi que son plaisir ou son déplaisir. Il/elle peut nommer des aliments, écrire une liste de courses et mener une conversation sur les achats. Chiffres jusqu'au million. Il/elle peut parler de ses activités et de ses loisirs, demander l'heure et la donner. Il/elle peut raconter le dér" ],
+      "domaine" : "Compétences communicatives"
+   }, {
+      "competences" : [ "The participant can introduce him/herself and others, fill in application forms and answer questions about him/herself. He/she can ask how he/she feels and express liking and disliking. He/she can name groceries, write a shopping list and conduct a shopping conversation. Numbers up to a million. He/she can talk about activities and hobbies, ask what time it is and tell the time. He/she can report on the daily routine." ],
+      "domaine" : "Communication Skills"
+   }, {
+      "competences" : [ "Die Teilnehmer/in kann auf W-Fragen sowie auf Ja/Nein Fragen antworten und Aussagesätze verwenden. Er/Sie kann die Personalpronomen und die Nomen im Singular und Plural verwenden." ],
+      "domaine" : "Grammatikalische Kompetenzen"
+   }, {
+      "competences" : [ "L'étudiant(e) peut répondre à des questions de \"qui, quoi, comment, où\" ainsi qu'à des questions oui/non et utiliser des phrases déclaratives. Il/elle peut utiliser les pronoms personnels et les noms au singulier et au pluriel." ],
+      "domaine" : "Compétences grammaticales"
+   }, {
+      "competences" : [ "The participant can answer \"What Who Where When\" - questions and yes/no interrogations and use statement sentences. He/she can use the personal pronouns and the nouns in the singular and plural." ],
+      "domaine" : "Grammar skills"
+   } ],
+   "duree" : "36h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 17:30 (durée 1h30)",
+   "horaires" : [ ],
+   "id" : 66687,
+   "intitule" : "Allemand",
+   "langueCoursCode" : "DE",
+   "langueCoursNom" : "Allemand",
+   "matiereCode" : "DE",
+   "matiereNom" : "Allemand",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://www.schengenlyzeum.eu/p/42?aWQ9NjY2ODc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "66706",
+         "localite" : "Perl",
+         "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+         "paysCode" : "D",
+         "paysNom" : "Allemagne",
+         "rueNumero" : "2, Auf dem Sabel"
+      },
+      "code" : "SLP",
+      "mail" : "abendkurse@schengenlyzeum.eu",
+      "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
+      "nomContact" : "Zeimet",
+      "onlineReg" : true,
+      "prenomContact" : "Marc",
+      "statut" : "MENFPS",
+      "telephone" : "+49 6867 9111 246",
+      "websiteUrl" : "https://www.schengenlyzeum.eu/"
    }
 }, {
    "adresseCours" : {
