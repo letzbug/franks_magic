@@ -2078,7 +2078,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2462,7 +2462,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 9,
+   "nbInscrits" : 8,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -3460,7 +3460,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FISC",
    "matiereNom" : "Fiscalité",
-   "nbInscrits" : 12,
+   "nbInscrits" : 11,
    "nbPlaces" : 20,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -5555,6 +5555,101 @@
    "renseignements" : "Livre A1 de l'INL: Schwätzt Dir Lëtzebuergesch?\r\n\r\n\r\n"
 }, {
    "adresseCours" : {
+      "codePostal" : "3425",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3590",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de ville de  Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1452",
+   "coursId" : "LA-LB-1452",
+   "coursType" : "CLASSIQUE",
+   "cout" : 85.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "16/07/2026",
+   "dateInscription" : "Mars 2026\r\nCoursEnsemble@i-a.lu\r\n51 61 21 538",
+   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines de l'environnement quotidien (informations personnelles et familiales simples, achats, travail) Pouvoir communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels. Savoir décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Échanger sur le thème de l'identité. ", "Décrire une personne, d'un objet dans des simples et courants. ", "Indique le chemin. ", "Décrire un logement. ", "Échanger autour des habitudes quotidiennes. ", "Échanger simplement et succinctement en utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisir. ", "Dire l'heure et les moments de la journée.\r\n" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "Comprendre de courts textes descriptifs écrits avec des mots simples et usuels (annonces, pub). ", "Comprendre de courts texte de type «petites annonces pour un logement». \r\n", "Comprendre un planning de tâches au quotidien. " ],
+      "domaine" : "COMPREHENSION ECRIRE"
+   }, {
+      "competences" : [ "Ecrire des mots simples et courants sur des thèmes familiers (identité, famille, nourriture, état physique-moral...). \r\n", "Ecrire de courts messages (date, rdv, noter des numéros de téléphone). " ],
+      "domaine" : "EXPRESSION ECRITE"
+   }, {
+      "competences" : [ "Comprendre des échanges autour de l'identité, présentation. \r\n", "Comprendre une description simple d'une personne, d'un objet. ", "Comprendre la description d'un chemin, d'un logement. ", "Comprendre des échanges sur les tâches quotidiennes. ", "Comprendre des échanges simples utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisirs. ", "Comprendre l'expression de temps, heures et moments. " ],
+      "domaine" : "COMPREHENSION ORALE"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Da Re",
+      "prenom" : "Patrizia"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mardi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h), Jeudi à 09:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65317,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 22,
+   "nbPlaces" : 23,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3526",
+         "localite" : "Dudelange",
+         "nom" : "Inter-Actions",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "149, rue des Minières"
+      },
+      "code" : "IAPE",
+      "mail" : "coursensemble@inter-actions.lu",
+      "nom" : "Ensemble Quartiers Dudelange - Inter-Actions",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "ASBL",
+      "telephone" : "51 61 21 538 / 26 56",
+      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
+   },
+   "prerequis" : "Avoir validé le niveau A1.2"
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -6759,7 +6854,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -7141,7 +7236,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 19,
+   "nbInscrits" : 20,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -8808,7 +8903,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 6,
+   "nbInscrits" : 10,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11013,17 +11108,32 @@
    "dateFin" : "12/06/2026",
    "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
    "duree" : "6h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ramdedovic",
+      "prenom" : "Munir"
+   } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi 08-06-2026 à 12:00 (durée 2h),\nMercredi 10-06-2026 à 12:00 (durée 2h),\nVendredi 12-06-2026 à 12:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 58205,
    "intitule" : "Découvrir le Grand-Duché de Luxembourg",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13794,7 +13904,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 9,
+   "nbInscrits" : 11,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -15567,7 +15677,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
