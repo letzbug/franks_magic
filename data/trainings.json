@@ -174,7 +174,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "LIT",
    "matiereNom" : "Littérature",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1363,7 +1363,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -1439,7 +1439,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 24,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -2777,7 +2777,8 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "Le formateur met à disposition tout le matériel nécessaire. Une participation de 12,50 € par personne est à régler directement auprès du formateur."
+   "prerequis" : "Pour des raisons d’organisation, les inscriptions seront clôturées la veille du cours, soit le 19/05/2026 à 17h00. Toute inscription effectuée après cette heure ne pourra malheureusement pas être prise en compte. Merci pour votre compréhension.",
+   "renseignements" : "Le formateur met à disposition tout le matériel nécessaire. Une participation de 12,50 € par personne est à régler directement auprès du formateur.\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -6760,7 +6761,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 20,
    "nbPlaces" : 22,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -8903,7 +8904,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 10,
+   "nbInscrits" : 9,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -30515,7 +30516,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -36940,7 +36941,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 20,
+   "nbInscrits" : 21,
    "nbPlaces" : 24,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -39850,6 +39851,112 @@
       "statut" : "ASBL",
       "telephone" : "+352 691 500 047"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "L2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "AL",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "COMPÉTENCES DE BASE",
+   "coursCode" : "AL-ALFR-258",
+   "coursId" : "AL-ALFR-258",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "16/03/2026",
+   "dateFin" : "19/05/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
+   "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul",
+   "domainesCompetences" : [ {
+      "competences" : [ "réagir  durant une conversation concernant des sujets personnels et familiers\r\n\r\n\r\n", " réagir à des messages et instructions simples\r\n", "comprendre le contenu d'une description  ou d'une histoire simple", "identifier des émotions, des opinions et des besoins exprimés dans un langage facile\r\n" ],
+      "domaine" : "COMPRENDRE"
+   }, {
+      "competences" : [ "parler de soi-même, de son travail, de sa vie quotidienne et de ses intérêts \r\n\r\n", "faire une conversation simple ", "formuler des messages, explications et instructions simples ", "exprimer ses besoins dans des situations quotidiennes\r\n" ],
+      "domaine" : "PARLER"
+   }, {
+      "competences" : [ "lire et comprendre des textes courts avec des mots familiers et courants\r\n", "utiliser un dictionnaire \r\n", "déchiffrer des mots inconnus\r\n\r\n", "repérer une information dans un texte facile  \r\n\r\n", "lire et comprendre  un mode d'emploi simple\r\n\r\n" ],
+      "domaine" : "LIRE"
+   }, {
+      "competences" : [ "remplir un formulaire simple  (une fiche de renseignements personnels, d'identité, d'inscription)\r\n\r\n", "écrire une ou plusieurs phrases simples (dans un ordre élémentaire)\r\n\r\n", "écrire un texte très simple au présent\r\n", " recomposer des phrases à partir de mots dans le désordre\r\n", "écrire une note ou un message simple" ],
+      "domaine" : "ECRIRE"
+   }, {
+      "competences" : [ "compter \r\n\r\n", "utiliser la calculatrice ", "maîtriser des additions et soustractions (simples)  de nombres entiers et décimaux avec et sans retenue\r\n", " lire l'heure \r\n", "connaître des figures  comme  le triangle, rectangle, carré et cercle\r\n", "lire des plans  ou cartes\r\n", "utiliser les unités de distance, surface, volume, poids, température et temps au quotidien" ],
+      "domaine" : "CALCULER"
+   }, {
+      "competences" : [ "pour s¿informer, consulter des petites annonces, des sites de vente\r\n", "pour s¿informer, consulter des offres d'emploi", "pour s'informer, connaitre et utiliser  guichet.lu ", "pour communiquer, recevoir, sauvegarder, transférer un message électronique et y répondre", "pour communiquer,envoyer des emails en incluant des pièces jointes" ],
+      "domaine" : "INFORMATIQUE"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Jacquet",
+      "prenom" : "Annie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 14:00 (durée 2h), Mardi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 65103,
+   "intitule" : "Alphabétisation et informatique",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "ALFR",
+   "matiereNom" : "Alphabétisation en langue française",
+   "nbInscrits" : 22,
+   "nbPlaces" : 22,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Alphabétisation de niveau intermédiaire acquise",
+   "renseignements" : "non accessible aux personnes à mobilité réduite\r\n\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
