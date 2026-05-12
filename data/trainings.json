@@ -1,360 +1,5 @@
 [ {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2163",
-      "localite" : "Luxembourg",
-      "nom" : "via courriel ou site internet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "47 avenue Monterey"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-844",
-   "coursId" : "LA-FR-844",
-   "coursType" : "CLASSIQUE",
-   "cout" : 620.0,
-   "dateDebut" : "12/05/2026",
-   "dateFin" : "14/07/2026",
-   "dateInscription" : "Ouverture des inscriptions 3 semaines avant le début de la session",
-   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1- Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
-   "duree" : "30h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 18:30 (durée 2h),\nJeudi à 18:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 60356,
-   "intitule" : "Cours de français : cours du soir à distance",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2163",
-         "localite" : "Luxembourg",
-         "nom" : "Institut Français du Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "47, Avenue Monterey"
-      },
-      "code" : "IFL",
-      "mail" : "cours@ifluxembourg.lu",
-      "nom" : "Institut Français du Luxembourg",
-      "nomContact" : "Hausmesser",
-      "onlineReg" : false,
-      "prenomContact" : "Isabelle",
-      "statut" : "ASBL",
-      "telephone" : "462 166 39",
-      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
-   },
-   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
-   "renseignements" : "Cours organisés à distance via l'outil ZOOM. Groupes de niveaux homogènes composés de 4 à 8 apprenants.\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "CIN",
-   "categorieCodeUnipop" : "CIN",
-   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
-   "coursCode" : "CIN-LB-22",
-   "coursId" : "CIN-LB-22",
-   "coursType" : "CLASSIQUE",
-   "cout" : 730.0,
-   "dateDebut" : "12/05/2026",
-   "dateFin" : "09/06/2026",
-   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
-   "duree" : "26h",
-   "enseignants" : [ {
-      "nom" : "List",
-      "prenom" : "Carole"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 18:15 (durée 2h), Mercredi 13-05-2026 à 18:15 (durée 2h), Jeudi 21-05-2026 à 18:15 (durée 2h), 18:15 (durée 2h) et 18:15 (durée 2h), Samedi à 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 65390,
-   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 8,
-   "nbPlaces" : 8,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzOTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5951",
-         "localite" : "Itzig",
-         "nom" : "Itzig",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, rue des arbustes"
-      },
-      "code" : "LLG",
-      "mail" : "carole@lucilingua.lu",
-      "nom" : "Lucilingua S.à r.l.-S.",
-      "nomContact" : "List",
-      "onlineReg" : true,
-      "prenomContact" : "Carole",
-      "statut" : "PREST_EXT",
-      "telephone" : "00352 661 350 521",
-      "websiteUrl" : "https://lucilingua.lu/en/index.html"
-   },
-   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-LIT-11",
-   "coursId" : "SCI-LIT-11",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "12/05/2026",
-   "dateFin" : "14/07/2026",
-   "description" : "Participants will explore a variety of poetic forms, nurture their creativity, and learn to express their thoughts and emotions through verse. With personalized guidance and practical exercises, they will refine their style and gain confidence in their writing.",
-   "duree" : "16 leçons",
-   "enseignants" : [ {
-      "nom" : "Renneboog",
-      "prenom" : "Ellen"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 66295,
-   "intitule" : "Poetry Writing",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "LIT",
-   "matiereNom" : "Littérature",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Please bring a notebook, loose sheets, pens, and crayons, pastels, or markers."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4940",
-      "localite" : "Bascharage",
-      "nom" : "Käerjenger Treff   ",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "54C, Avenue de Luxembourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4901",
-      "localite" : "Bascharage",
-      "nom" : "Administration communale",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "B.P. 50"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1454",
-   "coursId" : "LA-LB-1454",
-   "coursType" : "CLASSIQUE",
-   "cout" : 65.0,
-   "dateDebut" : "12/05/2026",
-   "dateFin" : "30/07/2026",
-   "description" : "Peut comprendre des expressions quotidiennes visant des besoins concrets. Peut communiquer de façon simple avec un interlocuteur coopératif.",
-   "duree" : "58h",
-   "enseignants" : [ {
-      "nom" : "Ferber",
-      "prenom" : "Olivier"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 19:00 (durée 2h), Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65375,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 25,
-   "nbPlaces" : 30,
-   "niveau" : "A1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4901",
-         "localite" : "Bascharage",
-         "nom" : "Administration Communale de Käerjeng",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 50"
-      },
-      "code" : "A.C. BASCH",
-      "fax" : "500 552 9310",
-      "mail" : "cours@kaerjeng.lu",
-      "nom" : "Commune de Käerjeng",
-      "nomContact" : "Samida",
-      "onlineReg" : false,
-      "prenomContact" : "Sheila",
-      "statut" : "Administration Communale",
-      "telephone" : "500 552 310",
-      "websiteUrl" : "https://www.kaerjeng.lu/"
-   },
-   "prerequis" : "Les inscriptions se font du 30 mars au 3 mai 2026 à la commune sur preuve du paiement du droit d'inscription.",
-   "renseignements" : "cours@kaerjeng.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-101",
-   "coursId" : "IN-TAB-101",
-   "coursType" : "CLASSIQUE",
-   "cout" : 30.0,
-   "dateDebut" : "12/05/2026",
-   "dateFin" : "16/06/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "Excel Modul 2 Fortgeschritten:\r\n- Rechnen mit Formeln, Funktionen kennen lernen, Funktionen kombinieren für Aufgabenlösung in die Praxis.\r\n- Spalten und Zellen Koordinaten, warum sie so wichtig sind.  \r\n- Filter verwenden. \r\n- Grafik-Diagramm erstellen mit Hilfe von Tabellenfeldern.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Calculer avec des formules avancées et combinées. Calculs avec des formules: Si, recherche verticale.", "Création des graphiques.", "Gérer plusieurs feuilles Excel. Calculs avec des cases bloquées.", "Formatage conditionnel. Figer les volets." ],
-      "domaine" : "Tableurs"
-   } ],
-   "duree" : "10h",
-   "enseignants" : [ {
-      "nom" : "Djomou Tchumo",
-      "prenom" : "Isaac",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 16:00 (durée 1h45)",
-   "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "16:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 61785,
-   "intitule" : "Excel Modul 2-7",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Minimal Anforderung: Absolvierten  Excel Formation Modul 1  -  Exigence minimale : avoir suivi le module Excel Formation 1",
-   "renseignements" : "Inscrivez-vous avant le 08-05-2026"
-}, {
-   "adresseCours" : {
       "codePostal" : "4702",
       "localite" : "Pétange",
       "nom" : "CIGL - Pétange",
@@ -29745,6 +29390,204 @@
       "nom" : "DISTANCE"
    },
    "adresseInscription" : {
+      "codePostal" : "2163",
+      "localite" : "Luxembourg",
+      "nom" : "via courriel ou site internet",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "47 avenue Monterey"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-844",
+   "coursId" : "LA-FR-844",
+   "coursType" : "CLASSIQUE",
+   "cout" : 620.0,
+   "dateDebut" : "12/05/2026",
+   "dateFin" : "14/07/2026",
+   "dateInscription" : "Ouverture des inscriptions 3 semaines avant le début de la session",
+   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1- Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
+   "duree" : "30h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 18:30 (durée 2h),\nJeudi à 18:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 60356,
+   "intitule" : "Cours de français : cours du soir à distance",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2163",
+         "localite" : "Luxembourg",
+         "nom" : "Institut Français du Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "47, Avenue Monterey"
+      },
+      "code" : "IFL",
+      "mail" : "cours@ifluxembourg.lu",
+      "nom" : "Institut Français du Luxembourg",
+      "nomContact" : "Hausmesser",
+      "onlineReg" : false,
+      "prenomContact" : "Isabelle",
+      "statut" : "ASBL",
+      "telephone" : "462 166 39",
+      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
+   },
+   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
+   "renseignements" : "Cours organisés à distance via l'outil ZOOM. Groupes de niveaux homogènes composés de 4 à 8 apprenants.\r\nles bons ne peuvent pas être acceptés- Bons or vouchers can't be accepted"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-LIT-11",
+   "coursId" : "SCI-LIT-11",
+   "coursType" : "CLASSIQUE",
+   "cout" : 72.0,
+   "dateDebut" : "12/05/2026",
+   "dateFin" : "14/07/2026",
+   "description" : "Participants will explore a variety of poetic forms, nurture their creativity, and learn to express their thoughts and emotions through verse. With personalized guidance and practical exercises, they will refine their style and gain confidence in their writing.",
+   "duree" : "16 leçons",
+   "enseignants" : [ {
+      "nom" : "Renneboog",
+      "prenom" : "Ellen"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 66295,
+   "intitule" : "Poetry Writing",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "LIT",
+   "matiereNom" : "Littérature",
+   "nbInscrits" : 2,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Please bring a notebook, loose sheets, pens, and crayons, pastels, or markers."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TAB-101",
+   "coursId" : "IN-TAB-101",
+   "coursType" : "CLASSIQUE",
+   "cout" : 30.0,
+   "dateDebut" : "12/05/2026",
+   "dateFin" : "16/06/2026",
+   "dateInscription" : "Lundi à vendredi 9h à 18h",
+   "description" : "Excel Modul 2 Fortgeschritten:\r\n- Rechnen mit Formeln, Funktionen kennen lernen, Funktionen kombinieren für Aufgabenlösung in die Praxis.\r\n- Spalten und Zellen Koordinaten, warum sie so wichtig sind.  \r\n- Filter verwenden. \r\n- Grafik-Diagramm erstellen mit Hilfe von Tabellenfeldern.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Calculer avec des formules avancées et combinées. Calculs avec des formules: Si, recherche verticale.", "Création des graphiques.", "Gérer plusieurs feuilles Excel. Calculs avec des cases bloquées.", "Formatage conditionnel. Figer les volets." ],
+      "domaine" : "Tableurs"
+   } ],
+   "duree" : "10h",
+   "enseignants" : [ {
+      "nom" : "Djomou Tchumo",
+      "prenom" : "Isaac",
+      "site" : "http://www.cigpetange.lu"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 16:00 (durée 1h45)",
+   "horaires" : [ {
+      "duree" : "1h45",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   } ],
+   "id" : 61785,
+   "intitule" : "Excel Modul 2-7",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "TAB",
+   "matiereNom" : "Tableurs",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4702",
+         "localite" : "Pétange",
+         "nom" : "CIGL - Pétange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "4, rue Pierre Grégoire"
+      },
+      "code" : "CIGL - P",
+      "fax" : "+352 23 65 20 03",
+      "mail" : "info@cyberhall.lu",
+      "nom" : "CIGL - Pétange",
+      "nomContact" : "Toth",
+      "onlineReg" : false,
+      "prenomContact" : "Laszlo",
+      "statut" : "ASBL",
+      "telephone" : "+352 23 65 17 33 33",
+      "websiteUrl" : "http://www.cigpetange.lu"
+   },
+   "prerequis" : "Minimal Anforderung: Absolvierten  Excel Formation Modul 1  -  Exigence minimale : avoir suivi le module Excel Formation 1",
+   "renseignements" : "Inscrivez-vous avant le 08-05-2026"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
       "codePostal" : "2543",
       "localite" : "Luxembourg",
       "nom" : "Luxembourg",
@@ -40650,158 +40493,6 @@
    "renseignements" : "Veuillez noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "en ligne",
-      "localite" : "En Ligne",
-      "nom" : "en ligne : https://www.lux-amitie.lu/",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne : https://www.lux-amitie.lu/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1041",
-   "coursId" : "LA-FR-1041",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "12/05/2026",
-   "dateInscription" : "En ligne : https://www.lux-amitie.lu/",
-   "description" : "L'apprenant peut :\r\ncomprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet d'elles-mêmes, de leur famille et de l'environnement concret et immédiat, si les gens parlent lentement et distinctement ;\r\ncomprendre des questions simples au sujet d'elles-mêmes, de leur famille et de l'environnement concret et immédiat ;\r\nidentifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne.",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Benni",
-      "prenom" : "Mohamad"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:30 (durée 1h40), Mardi à 09:30 (durée 1h40), Mercredi à 09:30 (durée 1h40), Jeudi à 09:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61995,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 22,
-   "nbPlaces" : 24,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "0000",
-         "localite" : "Luxembourg",
-         "nom" : "Lux-Amitié",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Lux-Amitié"
-      },
-      "code" : "LUXA",
-      "mail" : "infoluxamitie@gmail.com",
-      "nom" : "Lux-Amitié",
-      "nomContact" : "-Amitié",
-      "onlineReg" : false,
-      "prenomContact" : "Lux",
-      "statut" : "ASBL",
-      "telephone" : "621 534 221"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "en ligne",
-      "localite" : "En Ligne",
-      "nom" : "En ligne : https://www.lux-amitie.lu/",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "en ligne : https://www.lux-amitie.lu/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1352",
-   "coursId" : "LA-FR-1352",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "09/03/2026",
-   "dateFin" : "12/05/2026",
-   "dateInscription" : "En ligne: https://www.facebook.com/luxamitie/",
-   "description" : "L'apprenant peut parler de façon simple dans la vie quotidienne, il peut décrire son environnement personnel et professionnel, échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes simples,...",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Marrec",
-      "prenom" : "Ghyslaine Christine Sonia"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:30 (durée 1h40), Mardi à 09:30 (durée 1h40), Mercredi à 09:30 (durée 1h40), Jeudi à 09:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "09:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63902,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 18,
-   "nbPlaces" : 24,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "0000",
-         "localite" : "Luxembourg",
-         "nom" : "Lux-Amitié",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Lux-Amitié"
-      },
-      "code" : "LUXA",
-      "mail" : "infoluxamitie@gmail.com",
-      "nom" : "Lux-Amitié",
-      "nomContact" : "-Amitié",
-      "onlineReg" : false,
-      "prenomContact" : "Lux",
-      "statut" : "ASBL",
-      "telephone" : "621 534 221"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "1254",
       "localite" : "Hollerich",
       "nom" : "Blumm Geesseknäppchen",
@@ -47926,84 +47617,82 @@
       "rueNumero" : "43, rue Joseph Muller"
    },
    "adresseInscription" : {
-      "codePostal" : "3590",
+      "codePostal" : "3401",
       "localite" : "Dudelange",
-      "nom" : "Inter-Actions, bureau 104/ Hôtel de ville de  Dudelange",
+      "nom" : "Hôtel de Ville de Dudelange",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
+      "rueNumero" : "Place de Hôtel de Ville, BP 73"
    },
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1118",
-   "coursId" : "LA-FR-1118",
+   "coursCode" : "LA-LB-1126",
+   "coursId" : "LA-LB-1126",
    "coursType" : "CLASSIQUE",
-   "cout" : 125.0,
+   "cout" : 85.0,
    "dateDebut" : "27/01/2026",
    "dateFin" : "12/05/2026",
-   "dateInscription" : "CoursEnsemble@i-a.lu \r\n51 61 21 538",
-   "description" : "Permettre aux apprenant(e)s peu ou pas scolarisé(e)s de comprendre et de se faire comprendre à travers l'apprentissage dynamique de la langue. Transmission des compétences de base, travail sur l'épanouissement des apprenant(e)s (confiance en soi, autonomie...). Favoriser l'intégration et permettre l'interaction sociale grâce à l'apprentissage du français.",
+   "dateInscription" : "Coursdelangues@dudelange.lu \r\ntél: 51 61 21 538",
+   "description" : "Êtes capable de dire quelques mots et expressions au quotidien : se présenter, parler succinctement de soi mais aussi de son environnement immédiat (nommer, compter).",
    "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des informations sur l'identité, les formules de politesse (salutation, accueil, félicitation, excuses...)", "Comprendre des instructions simples (demande ou explication de trajet, utilisant l'indicatif, l'impératif, l'infinitif) /ordre, contrordre, interdiction.", "Comprendre des échanges simples en situation d'achat (une réservation, une commande...)", "Comprendre des informations sur l'environnement immédiat, exprimées dans des termes courants et dans un débit plus ou moins lent (présentation, détails sur un objet du quotidien, planning, activités et loisirs...)", "Comprendre un court échange sur un projet d'avenir, dans un rythme lent" ],
+      "competences" : [ "Comprendre les salutations et formules de politesse.  \r\n", "Comprendre une présentation simple (nom, âge, origine, langues parlées). ", "Comprendre des énoncés comportant des nombres (date de naissance, téléphone, adresse, horaire de transport public, horaires de travail). ", "Comprendre les expressions sur la composition d'une famille (les membres d'une famille). ", "Comprendre la description succincte d'un métier, d'un travail (activités-lieu-moyen de transport-horaires)." ],
       "domaine" : "COMPREHENSION ORALE"
    }, {
-      "competences" : [ "Demander et donner des nouvelles/ accueillir quelqu'un, s'excuser, féliciter", "Demander, suivre et donner des instructions simples (demander ou expliquer un trajet, en utilisant l'indicatif, l'impératif, l'infinitif) /ordonner, interdire. ", "Demander à quelqu'un de faire quelque chose ou de ne pas le faire : commander (un repas, des aliments, etc.), réserver (un billet), décommander", "Effectuer des transactions simples (vendre, acheter, réaliser une opération bancaire)", "Demander, donner et comprendre des informations sur son environnement immédiat (famille, profession...)", "Décrire des occupations quotidiennes et des habitudes", "Parler du futur : exprimer une prévision, expliquer ses projets" ],
+      "competences" : [ "Saluer-prendre des nouvelles. Se présenter et demander le nom d'une autre personne.  ", "Dire d'où l'on vient et poser cette question à une autre personne. ", "Indiquer la nationalité et les langues connues et demander ces renseignements à une autre personne. ", "Dire son numéro de téléphone et poser cette question à une tierce personne.  ", "Indiquer son âge et sa date d'anniversaire et savoir poser ces questions.  ", "Donner son adresse, son adresse mail et demander celles de son interlocuteur.  ", "Indiquer sa situation familiale et obtenir ce renseignement de son interlocuteur. ", "Indiquer sa profession et poser cette question à une autre personne. ", "Nommer des activités dans le contexte des professions. Indiquer où l'on travaille et poser cette question à une autre personne.  ", "Nommer des moyens de transport. \r\n", "Dire l'heure. " ],
       "domaine" : "EXPRESSION ORALE"
    }, {
-      "competences" : [ "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité (par exemple : informations personnelles et familiales simples, environnement proche) ;", "Repérer une information particulière prévisible dans un document courant, une publicité simple. ", "Comprendre globalement le contenu de lettres personnelles courtes et simples." ],
+      "competences" : [ "Comprendre une présentation écrite simplement. ", "Comprendre une courte fiche d'identité. ", "Comprendre une fiche horaire. ", "Comprendre une petite annonce (travail). " ],
       "domaine" : "COMPREHENSION ECRITE"
    }, {
-      "competences" : [ " Ecrire un message personnel structuré en réponse à une demande, et qui porte sur une situation proche de leur quotidien ;" ],
+      "competences" : [ "Remplir un formulaire d'inscription. ", "Ecrire les nombres de 1 à 100." ],
       "domaine" : "EXPRESSION ECRITE"
-   }, {
-      "domaine" : "INTER-AGIR"
    } ],
    "duree" : "50h",
    "enseignants" : [ {
-      "nom" : "Made Mbe",
-      "prenom" : "Annie Flore"
+      "nom" : "Ferber",
+      "prenom" : "Olivier"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 09:00 (durée 2h),\nJeudi à 09:00 (durée 2h)",
+   "horairePrevu" : "Mardi à 19:25 (durée 2h), Jeudi à 19:25 (durée 2h)",
    "horaires" : [ {
       "duree" : "2h",
-      "heure" : "09:00",
+      "heure" : "19:25",
       "jour" : "Mardi"
    }, {
       "duree" : "2h",
-      "heure" : "09:00",
+      "heure" : "19:25",
       "jour" : "Jeudi"
    } ],
-   "id" : 63069,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 16,
-   "nbPlaces" : 18,
-   "niveau" : "A1.1 du CECRL",
+   "id" : 63083,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 18,
+   "nbPlaces" : 20,
+   "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "3526",
+         "codePostal" : "3401",
          "localite" : "Dudelange",
-         "nom" : "Inter-Actions",
+         "nom" : "Administration Communale de Dudelange",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "149, rue des Minières"
+         "rueNumero" : "B.P. 73"
       },
-      "code" : "IAPE",
-      "mail" : "coursensemble@inter-actions.lu",
-      "nom" : "Ensemble Quartiers Dudelange - Inter-Actions",
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
       "nomContact" : "Colin",
       "onlineReg" : false,
       "prenomContact" : "Nancy",
-      "statut" : "ASBL",
-      "telephone" : "51 61 21 538 / 26 56",
-      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
-   }
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "prerequis" : "Avoir le niveau A1.1"
 }, {
    "adresseCours" : {
       "codePostal" : "9755",
@@ -48280,181 +47969,6 @@
       "nom" : "Ecole BRILL",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3590",
-      "localite" : "Dudelange",
-      "nom" : "Inter-Actions, bureau 104/ Hôtel de ville de  Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1085",
-   "coursId" : "LA-FR-1085",
-   "coursType" : "CLASSIQUE",
-   "cout" : 125.0,
-   "dateDebut" : "27/01/2026",
-   "dateFin" : "12/05/2026",
-   "dateInscription" : "CoursEnsemble@i-a.lu \r\ntél: 51 61 21 538",
-   "description" : "Permettre aux apprenant(e)s peu ou pas scolarisé(e)s de comprendre et de se faire comprendre à travers l'apprentissage dynamique de la langue et la maîtrise des éléments du quotidien (méthode fonctionnelle). Transmission des compétences de base, travail sur l'épanouissement des apprenant(e)s ((confiance en soi, autonomie, sentiment de sécurité...). Favoriser l'intégration et permettre l'interaction sociale grâce à l'apprentissage linguistique.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des mots familiers, des expressions et questions simples, courantes au sujet de soi-même et de sa famille. ", "Comprendre des mots familiers, des expressions courantes sur les métiers et professions. ", "Comprendre des mots familiers, des expressions courantes sur le thème du logement. \r\n", "Comprendre des lexiques familiers sur le thème des lieux de vie : commerces, restaurant ", "Comprendre des mots familiers, des expressions courantes sur le thème des loisirs et activités, ", "Comprendre des mots familiers, des expressions très courantes autour des moyens de transport. ", "Comprendre des questions simples et énoncés formulés dans un débit plus ou moins lent sur le thème de la nourriture, du goût et des préférences. ", "Comprendre une description simple d'une personne, d'un objet, d'un fait, exprimée de façon simple et avec des termes courants. ", "Comprendre les heures, les repères temporels. \r\n\r\n", "Comprendre des indications courtes utilisant des mots courants : chemin, emplacement..." ],
-      "domaine" : "COMPREHENSION ORALE"
-   }, {
-      "competences" : [ "(Se) présenter-dire son adresse, ses origines, sa nationalité et les langues parlées \r\n\r\n", "Demander et communiquer des informations sur l'identité d'une personne (des questions sur l'origine, la nationalité, l'adresse et les langues parlées par l'interlocuteur) \r\n\r\n", "(Se) décrire une personne, un objet en des termes simples et courants. \r\n\r\n", "Répondre et poser des questions sur la situation familiale. \r\n\r\n", "Répondre et poser des questions sur la situation professionnelle. \r\n\r\n", "Parler de ses goûts et de ses ressentis. \r\n\r\n\r\n", "Dire et demander l'heure, les moments de la journée, la date, le numéro de téléphone \r\n", "Indiquer, demander son chemin, l'emplacement d'un objet..." ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Reconnaître des lexiques, des expressions courants (métiers, professions, logement, loisirs et activités...). \r\n\r\n\r\n\r\n\r\n", "Comprendre des messages simples comportant des horaires, un formulaire d'inscription simple, publicité... \r\n", "Comprendre des indications brèves et simples (ex : Indication de chemin, l'emplacement d'un objet, d'un chemin...)\r\n", " \r\n\r\n" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Remplir un formulaire d´inscription. ", "Ecrire des phrases simples au présent sur des thèmes familiers (identité, famille, état physique-moral, profession, activités, loisirs, commerces...) ", "Ecrire de courts messages (date, heures rdv, noter des numéros de téléphone). " ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Vallet",
-      "prenom" : "Danielle"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h),\nJeudi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63029,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 16,
-   "nbPlaces" : 23,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3526",
-         "localite" : "Dudelange",
-         "nom" : "Inter-Actions",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "149, rue des Minières"
-      },
-      "code" : "IAPE",
-      "mail" : "coursensemble@inter-actions.lu",
-      "nom" : "Ensemble Quartiers Dudelange - Inter-Actions",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "ASBL",
-      "telephone" : "51 61 21 538 / 26 56",
-      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
-   },
-   "prerequis" : "Avoir validé son A1.1",
-   "renseignements" : "En présentiel 15 participants (mesures barrières). \r\nPassage en ligne et/ou demi-groupe si la situation sanitaire nationale s'aggrave. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "3532",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Deich",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "31, rue du stade Jos Nos Baum"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3590",
-      "localite" : "Dudelange",
-      "nom" : "Inter-Actions, bureau 104/ Hôtel de ville de  Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1084",
-   "coursId" : "LA-FR-1084",
-   "coursType" : "CLASSIQUE",
-   "cout" : 125.0,
-   "dateDebut" : "27/01/2026",
-   "dateFin" : "12/05/2026",
-   "dateInscription" : "CoursEnsemble@i-a.lu",
-   "description" : "Apprentissage de la langue française dans un environnement et un rythme sécurisant et adapté en profitant de la mixité des niveaux du groupe. \r\nUtiliser et renforcer ses connaissances passives  pour permettre l'appropriation et la possibilité d'interactions sociales en français.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des mots familiers, des expressions et questions simples, courantes au sujet de soi-même et de sa famille. \r\n\r\n", "Comprendre des mots familiers, des expressions et questions courantes sur les métiers et professions.  \r\n", "Comprendre des mots familiers, des expressions courantes sur le thème du logement. \r\n\r\n", "Comprendre des lexiques familiers sur le thème des lieux de vie : commerces, restaurant \r\n", "Comprendre des mots familiers, des expressions courantes sur le thème des loisirs et activités, \r\n\r\n", "Comprendre des mots familiers, des expressions très courantes sur le thème du moyen de transport.  \r\n\r\n", "Comprendre des questions simples et énoncés formulés dans un débit plus ou moins lent, au sujet de la nourriture, du goût et des préférences. \r\n", "Comprendre une description simple d'une personne, d'un objet, d'un fait, exprimée de façon simple et avec des termes courants. ", "Comprendre les heures, les repères temporels. ", "Comprendre des indications courtes utilisant des mots courants : chemin, emplacement... " ],
-      "domaine" : "COMPREHENSION ORALE"
-   }, {
-      "competences" : [ "(se) présenter-dire son adresse, ses origines, sa nationalité et les langues parlées par un interlocuteur.  \r\n", "demander et communiquer des informations sur l'identité d'une personne (des questions sur l'origine, la nationalité, l'adresse et les langues parlées par l'interlocuteur) \r\n", "(se) décrire une personne, un objet en des termes simples et courants. \r\n", "Répondre et poser des questions sur la situation familiale. \r\n", "Répondre et poser des questions sur la situation professionnelle. \r\n", "Parler de ses goûts et de ses ressentis en utilisant des mots et expressions courantes. \r\n\r\n\r\n", "Dire et demander l'heure, les moments de la journée, la date, le numéro de téléphone ", "Indiquer, demander son chemin, l'emplacement d'un objet..." ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "reconnaître des noms, des expressions et des mots courants \r\n", "comprendre des messages simples (horaires, formulaire d'inscription simple, publicité...) \r\n", "\r\n" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Remplir un formulaire d'inscription. \r\n", "Ecrire des phrases simples au présent sur des thèmes familiers (identité, famille, état physique-moral, commerces, activités et loisirs...) \r\n\r\n", "Ecrire de courts messages (date, heures rdv, noter des numéros de téléphone)." ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Vallet",
-      "prenom" : "Danielle"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 09:00 (durée 2h),\nJeudi à 09:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63028,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 18,
-   "nbPlaces" : 23,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3526",
-         "localite" : "Dudelange",
-         "nom" : "Inter-Actions",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "149, rue des Minières"
-      },
-      "code" : "IAPE",
-      "mail" : "coursensemble@inter-actions.lu",
-      "nom" : "Ensemble Quartiers Dudelange - Inter-Actions",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "ASBL",
-      "telephone" : "51 61 21 538 / 26 56",
-      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
-   },
-   "prerequis" : "Avoir validé le niveau A1.1"
-}, {
-   "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole BRILL",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
       "rueNumero" : "100, rue Norbert METZ"
    },
    "adresseInscription" : {
@@ -48534,263 +48048,6 @@
       "telephone" : "+352 516 121-538"
    },
    "renseignements" : "Hors vacances scolaires. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "3651",
-      "localite" : "Kayl",
-      "nom" : "Gare de Kayl - 1er Étage",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Joseph Muller"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1128",
-   "coursId" : "LA-LB-1128",
-   "coursType" : "CLASSIQUE",
-   "cout" : 85.0,
-   "dateDebut" : "27/01/2026",
-   "dateFin" : "12/05/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange\r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
-   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines de l'environnement quotidien (informations personnelles et familiales simples, achats, travail)\r\nPouvoir communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels.\r\nSavoir décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Échanger sur le thème de l'identité. \r\n", "Décrire une personne, d'un objet dans des simples et courants.  \r\n", "Indique le chemin, \r\n", "Décrire un logement. \r\n", "Échanger autour des habitudes quotidiennes. ", "Échanger simplement et succinctement en utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisir. \r\n", "Dire l'heure et les moments de la journée. " ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Comprendre de courts textes descriptifs écrits avec des mots simples et usuels (annonces, pub). ", "Comprendre de courts texte de type «petites annonces pour un logement». \r\n", "Comprendre un planning de tâches au quotidien." ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Ecrire des mots simples et courants sur des thèmes familiers (identité, famille, nourriture, état physique-moral...)", "Ecrire de courts messages (date, rdv, noter des numéros de téléphone)." ],
-      "domaine" : "EXPRESSION ECRITE"
-   }, {
-      "competences" : [ "Comprendre une description simple d'une personne, d'un objet. \r\n", "Comprendre la description d'un chemin, d'un logement. \r\n", "Comprendre des échanges sur les tâches quotidiennes. \r\n", "Comprendre des échanges simples utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisir. \r\n", "Comprendre des échanges autour de l'identité, présentation. \r\n\r\n", "Comprendre l'expression de temps, heures et moments de la journée (horaires).  " ],
-      "domaine" : "COMPREHENSION ORALE"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Ferber",
-      "prenom" : "Olivier"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 17:20 (durée 2h), Jeudi à 17:20 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "17:20",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63085,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
-   "nbPlaces" : 22,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Avoir acquis le niveau A1.2"
-}, {
-   "adresseCours" : {
-      "codePostal" : "3651",
-      "localite" : "Kayl",
-      "nom" : "Kayl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Joseph Muller"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville de Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1126",
-   "coursId" : "LA-LB-1126",
-   "coursType" : "CLASSIQUE",
-   "cout" : 85.0,
-   "dateDebut" : "27/01/2026",
-   "dateFin" : "12/05/2026",
-   "dateInscription" : "Coursdelangues@dudelange.lu \r\ntél: 51 61 21 538",
-   "description" : "Êtes capable de dire quelques mots et expressions au quotidien : se présenter, parler succinctement de soi mais aussi de son environnement immédiat (nommer, compter).",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre les salutations et formules de politesse.  \r\n", "Comprendre une présentation simple (nom, âge, origine, langues parlées). ", "Comprendre des énoncés comportant des nombres (date de naissance, téléphone, adresse, horaire de transport public, horaires de travail). ", "Comprendre les expressions sur la composition d'une famille (les membres d'une famille). ", "Comprendre la description succincte d'un métier, d'un travail (activités-lieu-moyen de transport-horaires)." ],
-      "domaine" : "COMPREHENSION ORALE"
-   }, {
-      "competences" : [ "Saluer-prendre des nouvelles. Se présenter et demander le nom d'une autre personne.  ", "Dire d'où l'on vient et poser cette question à une autre personne. ", "Indiquer la nationalité et les langues connues et demander ces renseignements à une autre personne. ", "Dire son numéro de téléphone et poser cette question à une tierce personne.  ", "Indiquer son âge et sa date d'anniversaire et savoir poser ces questions.  ", "Donner son adresse, son adresse mail et demander celles de son interlocuteur.  ", "Indiquer sa situation familiale et obtenir ce renseignement de son interlocuteur. ", "Indiquer sa profession et poser cette question à une autre personne. ", "Nommer des activités dans le contexte des professions. Indiquer où l'on travaille et poser cette question à une autre personne.  ", "Nommer des moyens de transport. \r\n", "Dire l'heure. " ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Comprendre une présentation écrite simplement. ", "Comprendre une courte fiche d'identité. ", "Comprendre une fiche horaire. ", "Comprendre une petite annonce (travail). " ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Remplir un formulaire d'inscription. ", "Ecrire les nombres de 1 à 100." ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Ferber",
-      "prenom" : "Olivier"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 19:25 (durée 2h), Jeudi à 19:25 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:25",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:25",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63083,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Avoir le niveau A1.1"
-}, {
-   "adresseCours" : {
-      "codePostal" : "3651",
-      "localite" : "Kayl",
-      "nom" : "Kayl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Joseph Muller"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel De Ville De  Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1119",
-   "coursId" : "LA-FR-1119",
-   "coursType" : "CLASSIQUE",
-   "cout" : 100.0,
-   "dateDebut" : "27/01/2026",
-   "dateFin" : "12/05/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange. \r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
-   "description" : "Comprendre et utiliser des phrases simples au quotidien. Se présenter, décrire, échanger des informations personnelles et concrètes simples avec des termes simples et courants. Communiquer avec un interlocuteur qui s'exprime clairement et lentement.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des mots familiers, des expressions courantes et simples au sujet de sa famille. \r\n", "Comprendre des mots familiers, des expressions très courantes au sujet de son environnement concret et immédiat, exprimés dans un débit lent et distinct. \r\n", "Comprendre des questions simples, formulées dans un débit plus ou moins lent, au sujet de soi, de sa famille et de son environnement concret et immédiat (profession, logement, lieux de vie...) \r\n", "Identifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne. \r\n", "Comprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet de soi-même. \r\n", "Comprendre une description simple d'une personne, d'un objet, d'un fait, exprimée de façon simple et avec des termes courants. \r\n", "Comprendre les expressions d'appartenance \r\n", "Comprendre les énoncés chiffrés (heures, dates, numéros de téléphone, prix...) \r\n", "Comprendre de courts échanges sur les loisirs et activités \r\n\r\n", "Comprendre de courts échanges sur de simples et brèves indications autour des activités du quotidien. " ],
-      "domaine" : "COMPREHENSION ORALE"
-   }, {
-      "competences" : [ " Poser et répondre à des questions simples sur des sujets familiers (famille, lieu de vie, métiers, loisirs et activités) \r\n", "Exprimer son goût et ses préférences \r\n", "Décrire et poser des questions sur le caractère d'une personne, d'un objet \r\n", "Poser et répondre à des questions sur l'heure, la date, le tarif et les activités du quotidien. \r\n", "Parler de ses loisirs et activités. Poser et répondre à des questions simples autour des loisirs et activités. \r\n\r\n", "Suivre et exprimer de brèves et simples indications au quotidien (indiquer, retrouver un emplacement/ suivre une notice simple)" ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Reconnaître des noms, des expressions et des mots courants ; \r\n", "Comprendre des messages simples (horaires, formulaire d'inscription simple, publicité...) \r\n", "Comprendre des indications brèves et simples (ex : Indication de chemin, l'emplacement d'un objet, d'un chemin...)\r\n" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Compléter un formulaire simple \r\n\r\n", "Ecrire un texte court et simple sur soi-même et/ou son environnement immédiat, en s'appuyant sur un matériel donné.", "Ecrire de brèves consignes (sous forme de post it,  court message...)" ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Made Mbe",
-      "prenom" : "Annie Flore"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63070,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 12,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "3425",
@@ -55495,37 +54752,53 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-ES-2",
-   "coursId" : "LA-ES-2",
+   "coursCode" : "LA-IT-2",
+   "coursId" : "LA-IT-2",
    "coursType" : "CLASSIQUE",
-   "cout" : 225.0,
+   "cout" : 189.0,
    "dateDebut" : "30/09/2025",
-   "dateFin" : "12/05/2026",
+   "dateFin" : "09/06/2026",
    "dateInscription" : "Jeudi, le 18 septembre 2025 à 19.00 heures au Lycée Technique d'Ettelbruck",
-   "description" : "Cours de langue et culture espagnoles axé sur la compréhension et expression orale via débats, présentations, thèmes d'actualité, activités ludiques, répétitions de la grammaire. Langue véhiculaire sera le luxembourgeois et/ou le français.",
-   "duree" : "50h",
+   "description" : "Ce cours s’adresse à des apprenants ayant déjà suivi un cours de niveau A1 et souhaitant renforcer leurs compétences en italien dans un contexte de voyage et de séjour touristique. L’objectif principal est de consolider les structures grammaticales de base et d’élargir le vocabulaire à travers des situations pratiques et authentiques. L’approche est communicative, avec un fort accent mis sur l’interaction orale.\r\nPoints abordés :\r\n•\tse débrouiller dans des situations courantes en vacances (hébergement, restauration, transports, achats, etc.)\r\n•\tdemander et comprendre des informations simples\r\n•\texprimer des préférences, opinions et besoins de base\r\n•\tparler de leurs projets, de leurs activités et de leurs expériences personnelles\r\n•\tmieux comprendre la culture italienne (gastronomie, coutumes, lieux emblématiques)\r\nLe cours combine révision grammaticale, jeux de rôle, dialogues en binôme, compréhension de documents audio/vidéo, et activités interactives, afin de favoriser la participation active, la fluidité à l’oral et l’autonomie en contexte réel.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent relatifs à des domaines de priorité immédiate (informations personnelles, achats, environnement proche, emploi) et saisir l’essentiel de messages simples (annonces, dialogues, consignes).\r\n" ],
+      "domaine" : "1. Compréhension orale "
+   }, {
+      "competences" : [ "Lire et comprendre des textes courts et simples (brochures, menus, horaires, e-mails, descriptions) et identifier des informations spécifiques dans des documents familiers.\r\n" ],
+      "domaine" : "2. Compréhension écrite "
+   }, {
+      "competences" : [ "Communiquer dans des tâches simples et habituelles ne demandant qu’un échange d’informations direct sur des sujets familiers et utiliser des expressions de base pour saluer, demander, proposer, inviter, donner son avis ou ses préférences.\r\n" ],
+      "domaine" : "3. Expression orale en interaction "
+   }, {
+      "competences" : [ "Faire une brève description de soi, d’activités quotidiennes, de projets ou d’expériences passées et raconter une courte histoire ou un événement personnel.\r\n" ],
+      "domaine" : "4. Expression orale en continu"
+   }, {
+      "competences" : [ "Rédiger des notes, messages ou e-mails simples et remplir des formulaires ou écrire un court texte descriptif.\r\n" ],
+      "domaine" : "5. Expression écrite"
+   } ],
+   "duree" : "42h",
    "enseignants" : [ {
-      "nom" : "Garcia",
-      "prenom" : "Amaro"
+      "nom" : "Netti",
+      "prenom" : "Antonella"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 19:00 (durée 2h)",
+   "horairePrevu" : "Lundi à 18:30 (durée 1h30)",
    "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mardi"
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
    } ],
-   "id" : 59945,
-   "intitule" : "Espagnol Conversation",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "ES",
-   "matiereNom" : "Espagnol",
-   "nbInscrits" : 16,
-   "nbPlaces" : 17,
-   "niveau" : "Conversation",
+   "id" : 59866,
+   "intitule" : "Italien pour les vacances",
+   "langueCoursCode" : "IT",
+   "langueCoursNom" : "Italien",
+   "matiereCode" : "IT",
+   "matiereNom" : "Italien",
+   "nbInscrits" : 1,
+   "nbPlaces" : 15,
+   "niveau" : "A2 du CECRL",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk5NDU%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk4NjY%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "9080",
@@ -55545,8 +54818,8 @@
       "statut" : "MENFPS",
       "telephone" : "81 92 01 307"
    },
-   "prerequis" : "Le niveau du cours est le C1-C2 ce qui implique comme prérequis un niveau B1.",
-   "renseignements" : "Tél. 819 201 307 (Valina Liégeois) ou 819 201 300 (Max Petit) ou par courriel à l'adresse education_adultes@ltett.lu"
+   "prerequis" : "Niveau A1.",
+   "renseignements" : "Tél. 819 201 307 (Valina Liégeois) ou 819 201 300 (Max Petit), resp. courriel à l'adresse education_adultes@ltett.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "6122",
@@ -55749,95 +55022,6 @@
       "statut" : "MENFPS",
       "telephone" : "+352 27 69 63-211"
    }
-}, {
-   "adresseCours" : {
-      "codePostal" : "9080",
-      "localite" : "Ettelbruck",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "71, avenue Salentiny"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9080",
-      "localite" : "Ettelbruck",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "71, avenue Salentiny"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-IT-2",
-   "coursId" : "LA-IT-2",
-   "coursType" : "CLASSIQUE",
-   "cout" : 189.0,
-   "dateDebut" : "30/09/2025",
-   "dateFin" : "09/06/2026",
-   "dateInscription" : "Jeudi, le 18 septembre 2025 à 19.00 heures au Lycée Technique d'Ettelbruck",
-   "description" : "Ce cours s’adresse à des apprenants ayant déjà suivi un cours de niveau A1 et souhaitant renforcer leurs compétences en italien dans un contexte de voyage et de séjour touristique. L’objectif principal est de consolider les structures grammaticales de base et d’élargir le vocabulaire à travers des situations pratiques et authentiques. L’approche est communicative, avec un fort accent mis sur l’interaction orale.\r\nPoints abordés :\r\n•\tse débrouiller dans des situations courantes en vacances (hébergement, restauration, transports, achats, etc.)\r\n•\tdemander et comprendre des informations simples\r\n•\texprimer des préférences, opinions et besoins de base\r\n•\tparler de leurs projets, de leurs activités et de leurs expériences personnelles\r\n•\tmieux comprendre la culture italienne (gastronomie, coutumes, lieux emblématiques)\r\nLe cours combine révision grammaticale, jeux de rôle, dialogues en binôme, compréhension de documents audio/vidéo, et activités interactives, afin de favoriser la participation active, la fluidité à l’oral et l’autonomie en contexte réel.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent relatifs à des domaines de priorité immédiate (informations personnelles, achats, environnement proche, emploi) et saisir l’essentiel de messages simples (annonces, dialogues, consignes).\r\n" ],
-      "domaine" : "1. Compréhension orale "
-   }, {
-      "competences" : [ "Lire et comprendre des textes courts et simples (brochures, menus, horaires, e-mails, descriptions) et identifier des informations spécifiques dans des documents familiers.\r\n" ],
-      "domaine" : "2. Compréhension écrite "
-   }, {
-      "competences" : [ "Communiquer dans des tâches simples et habituelles ne demandant qu’un échange d’informations direct sur des sujets familiers et utiliser des expressions de base pour saluer, demander, proposer, inviter, donner son avis ou ses préférences.\r\n" ],
-      "domaine" : "3. Expression orale en interaction "
-   }, {
-      "competences" : [ "Faire une brève description de soi, d’activités quotidiennes, de projets ou d’expériences passées et raconter une courte histoire ou un événement personnel.\r\n" ],
-      "domaine" : "4. Expression orale en continu"
-   }, {
-      "competences" : [ "Rédiger des notes, messages ou e-mails simples et remplir des formulaires ou écrire un court texte descriptif.\r\n" ],
-      "domaine" : "5. Expression écrite"
-   } ],
-   "duree" : "42h",
-   "enseignants" : [ {
-      "nom" : "Netti",
-      "prenom" : "Antonella"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 18:30 (durée 1h30)",
-   "horaires" : [ {
-      "duree" : "1h30",
-      "heure" : "18:30",
-      "jour" : "Lundi"
-   } ],
-   "id" : 59866,
-   "intitule" : "Italien pour les vacances",
-   "langueCoursCode" : "IT",
-   "langueCoursNom" : "Italien",
-   "matiereCode" : "IT",
-   "matiereNom" : "Italien",
-   "nbInscrits" : 1,
-   "nbPlaces" : 15,
-   "niveau" : "A2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk4NjY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9080",
-         "localite" : "Ettelbruck",
-         "nom" : "Lycée Technique d'Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "71, avenue Salentiny"
-      },
-      "code" : "LTEtt",
-      "fax" : "+352 81 89 01",
-      "mail" : "education_adultes@ltett.lu",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "nomContact" : "Liégeois",
-      "onlineReg" : true,
-      "prenomContact" : "Valina",
-      "statut" : "MENFPS",
-      "telephone" : "81 92 01 307"
-   },
-   "prerequis" : "Niveau A1.",
-   "renseignements" : "Tél. 819 201 307 (Valina Liégeois) ou 819 201 300 (Max Petit), resp. courriel à l'adresse education_adultes@ltett.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "9551",
