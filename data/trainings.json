@@ -233,17 +233,24 @@
    "dateFin" : "24/07/2026",
    "description" : "Welcome to this mindfulness course, where you are invited to embark on a journey of self-discovery and inner peace. This course is designed to provide you with practical tools and techniques to cultivate mindfulness in your daily life. Through guided meditations, and reflective practices, you will learn how to reduce stress, enhance focus, and foster a deeper connection with yourself and the world around you.",
    "duree" : "8 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Renneboog",
+      "prenom" : "Ellen"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi à 12:00 (durée 0h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66298,
    "intitule" : "Mindfulness",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 0,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -505,7 +512,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -652,7 +659,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 4,
+   "nbInscrits" : 3,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -2095,7 +2102,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "MUME",
    "matiereNom" : "Multimédia",
-   "nbInscrits" : 3,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -6205,111 +6212,6 @@
    "prerequis" : "Connaître l'alphabet latin est une obligation - Ability to read and write in latin alphabet."
 }, {
    "adresseCours" : {
-      "codePostal" : "3532",
-      "localite" : "Dudelange",
-      "nom" : "Ecole DEICH",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "31, rue du stade Jos Nos Baum"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel De Ville De  Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1534",
-   "coursId" : "LA-FR-1534",
-   "coursType" : "CLASSIQUE",
-   "cout" : 100.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "23/07/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange. \r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
-   "description" : "Comprendre et utiliser des phrases simples au quotidien. Se présenter, décrire, échanger des informations personnelles et concrètes simples avec des termes simples et courants. Communiquer avec un interlocuteur qui s'exprime clairement et lentement.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des mots familiers, des expressions courantes et simples au sujet de sa famille. \r\n", "Comprendre des mots familiers, des expressions très courantes au sujet de son environnement concret et immédiat, exprimés dans un débit lent et distinct. \r\n", "Comprendre des questions simples, formulées dans un débit plus ou moins lent, au sujet de soi, de sa famille et de son environnement concret et immédiat (profession, logement, lieux de vie...) \r\n", "Identifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne. \r\n", "Comprendre une description simple d'une personne, d'un objet, d'un fait, exprimée de façon simple et avec des termes courants. \r\n", "Comprendre les expressions d'appartenance \r\n", "Comprendre les énoncés chiffrés (heures, dates, numéros de téléphone, prix...) \r\n", "Comprendre de courts échanges sur les loisirs et activités \r\n\r\n", "Comprendre de courts échanges sur de simples et brèves indications autour des activités du quotidien. ", "Comprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet de soi-même. \r\n" ],
-      "domaine" : "COMPREHENSION ORALE"
-   }, {
-      "competences" : [ " Poser et répondre à des questions simples sur des sujets familiers (famille, lieu de vie, métiers, loisirs et activités) \r\n", "Exprimer son goût et ses préférences \r\n", "Décrire et poser des questions sur le caractère d'une personne, d'un objet \r\n", "Poser et répondre à des questions sur l'heure, la date, le tarif et les activités du quotidien. \r\n", "Parler de ses loisirs et activités. Poser et répondre à des questions simples autour des loisirs et activités. \r\n\r\n", "Suivre et exprimer de brèves et simples indications au quotidien (indiquer, retrouver un emplacement/ suivre une notice simple)" ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Reconnaître des noms, des expressions et des mots courants ; \r\n", "Comprendre des messages simples (horaires, formulaire d'inscription simple, publicité...) \r\n", "Comprendre des indications brèves et simples (ex : Indication de chemin, l'emplacement d'un objet, d'un chemin...)\r\n" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Compléter un formulaire simple \r\n\r\n", "Ecrire un texte court et simple sur soi-même et/ou son environnement immédiat, en s'appuyant sur un matériel donné.", "Ecrire de brèves consignes (sous forme de post it,  court message...)" ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Michelitsch",
-      "prenom" : "Pernelle"
-   }, {
-      "nom" : "Vallet",
-      "prenom" : "Danielle"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:25 (durée 2h10), Mardi à 17:25 (durée 2h10), Jeudi à 17:25 (durée 2h10)",
-   "horaires" : [ {
-      "duree" : "2h10",
-      "heure" : "17:25",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h10",
-      "heure" : "17:25",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h10",
-      "heure" : "17:25",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h10",
-      "heure" : "17:25",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h10",
-      "heure" : "17:25",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h10",
-      "heure" : "17:25",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66270,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 20,
-   "nbPlaces" : 22,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Avoir le niveau A1.1"
-}, {
-   "adresseCours" : {
       "codePostal" : "3524",
       "localite" : "Dudelange",
       "nom" : "Ecole Brill",
@@ -9865,7 +9767,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TRI",
    "matiereNom" : "Traitement d'images",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Avancé",
    "onlineRegistration" : false,
@@ -11942,7 +11844,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -17028,6 +16930,63 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg (Clausen)",
+      "nom" : "Ancienne école fondamentale Clausen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "18, montée de Clausen"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NUT-4",
+   "coursId" : "SO-NUT-4",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "04/07/2026",
+   "dateFin" : "04/07/2026",
+   "description" : "Cet atelier vise à donner des repères clairs et pratiques pour mieux comprendre l’équilibre alimentaire au quotidien. Il aborde les bases de la nutrithérapie, les macronutriments et la lecture des étiquettes alimentaires afin de favoriser des choix éclairés et adaptés aux besoins individuels. Les participants apprendront à organiser des repas simples, équilibrés, à mieux comprendre le rôle des nutriments et à développer leur autonomie dans leurs choix alimentaires.\r\nDësen Atelier huet d’Zil, kloer a praktesch Orientéierung ze ginn, fir dat deeglecht Gläichgewiicht bei der Ernärung besser ze verstoen. En erkläert d’Grondlage vun der Nutritherapie, d’Makronährstoffer an d’Liese vun den Etiketten op den Iesswueren, fir méi bewosst an un déi individuell Besoinen ugepasste Choixen ze treffen.\r\nD’Participante léieren, einfach an equilibréiert Menuen z’organiséieren, d’Roll vun den eenzelnen Närstoffer besser ze verstoen a méi Autonomie an hirem Iessverhalen z’entwéckelen.",
+   "duree" : "4 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 04-07-2026 à 10:20 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   } ],
+   "id" : 67055,
+   "intitule" : "Alimentation et recettes nutritherapeutiques",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "NUT",
+   "matiereNom" : "Nutrition",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwNTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -17065,7 +17024,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -29908,7 +29867,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 15,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
