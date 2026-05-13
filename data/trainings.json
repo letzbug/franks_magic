@@ -5978,7 +5978,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -8099,7 +8099,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 5,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -9917,7 +9917,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -10057,7 +10057,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12872,7 +12872,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 15,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -13028,7 +13028,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 11,
+   "nbInscrits" : 13,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -30657,6 +30657,103 @@
    "renseignements" : "Groupes de niveaux homogènes composés de 2 à 8 apprenants."
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1458",
+   "coursId" : "LA-FR-1458",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "20/04/2026",
+   "dateFin" : "22/05/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Reconnaître expressions idiomatiques/familières ; ajuster registre selon contexte social ; comprendre humour, ironie et références culturelles implicites.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Débattre d’un problème complexe ", "développer un argument systématiquement ", "faire un exposé clair et bien structuré ", "gérer objections avec spontanéité." ],
+      "domaine" : "production orale"
+   }, {
+      "competences" : [ "Adapter un  ton, un style et un registre au public cible", "exposer un sujet complexe avec arguments secondaires ", " prouver un point de vue longuement ", "écrire un rapport/article/dissertation structurés." ],
+      "domaine" : "production écrite"
+   }, {
+      "competences" : [ "Reconnaître les idiomatismes et changements de registre", " suivre des discussions de groupe complexes", " comprendre des  attitudes dans débats animés ", "suivre des conférences et débats avec aisance.\r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "Identifier des attitudes implicites dans des correspondance/blogues ", " comprendre l'humour et les idiomatismes\r\n", " parcourir rapidement plusieurs textes pour identifier leur pertinence" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "Reformuler, contester contributions", " exprimer un désaccord diplomatique", "demander des détails ", "organiser discussion pour décider d’actions", " négocier des affaires complexes." ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire une correspondance souple et efficace, y compris dans le registre affectif ou humoristique", "écrire des ettres formelles (candidatures, réclamations, condoléances)." ],
+      "domaine" : "interaction écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Steiner",
+      "prenom" : "Rachel"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h)",
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 65208,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 9,
+   "nbPlaces" : 24,
+   "niveau" : "C1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "niveau C1.1 acquis"
+}, {
+   "adresseCours" : {
       "codePostal" : "1750",
       "localite" : "Luxembourg",
       "nom" : "Lycée de Garçons",
@@ -33423,103 +33520,6 @@
       "websiteUrl" : "https://www.lux-online-educ-center.com"
    },
    "prerequis" : "Français A1.1 et A1.2 validés - toutes compétences acquises"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1458",
-   "coursId" : "LA-FR-1458",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "15/05/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Reconnaître expressions idiomatiques/familières ; ajuster registre selon contexte social ; comprendre humour, ironie et références culturelles implicites.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Débattre d’un problème complexe ", "développer un argument systématiquement ", "faire un exposé clair et bien structuré ", "gérer objections avec spontanéité." ],
-      "domaine" : "production orale"
-   }, {
-      "competences" : [ "Adapter un  ton, un style et un registre au public cible", "exposer un sujet complexe avec arguments secondaires ", " prouver un point de vue longuement ", "écrire un rapport/article/dissertation structurés." ],
-      "domaine" : "production écrite"
-   }, {
-      "competences" : [ "Reconnaître les idiomatismes et changements de registre", " suivre des discussions de groupe complexes", " comprendre des  attitudes dans débats animés ", "suivre des conférences et débats avec aisance.\r\n" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "Identifier des attitudes implicites dans des correspondance/blogues ", " comprendre l'humour et les idiomatismes\r\n", " parcourir rapidement plusieurs textes pour identifier leur pertinence" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "Reformuler, contester contributions", " exprimer un désaccord diplomatique", "demander des détails ", "organiser discussion pour décider d’actions", " négocier des affaires complexes." ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "écrire une correspondance souple et efficace, y compris dans le registre affectif ou humoristique", "écrire des ettres formelles (candidatures, réclamations, condoléances)." ],
-      "domaine" : "interaction écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Steiner",
-      "prenom" : "Rachel"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65208,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 9,
-   "nbPlaces" : 24,
-   "niveau" : "C1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau C1.1 acquis"
 }, {
    "adresseCours" : {
       "codePostal" : "4665",
