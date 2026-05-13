@@ -298,7 +298,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 9,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -619,7 +619,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 11,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -15116,7 +15116,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 27.0,
    "dateDebut" : "26/06/2026",
-   "dateFin" : "10/07/2026",
+   "dateFin" : "17/07/2026",
    "description" : "Dieser Kurs baut direkt auf „Psychologie 1: Grundlagen der Psychologie“ auf und richtet sich an Teilnehmende, die bereits über ein solides Grundverständnis der Psychologie verfügen.\r\n\r\nZiel ist es, über die Grundlagen hinauszugehen und die Mechanismen, die menschliches Verhalten im Alltag prägen, vertieft zu erschließen.\r\n\r\nIm Verlauf des Kurses werden zentrale Themenbereiche wie Emotionen, Motivation, Gedächtnis, Kommunikation und menschliche Entwicklung behandelt. Die Inhalte werden klar strukturiert und verständlich vermittelt, wobei ein besonderer Fokus auf ihrer praktischen Relevanz liegt.\r\n\r\nStatt Psychologie ausschließlich als theoretische Disziplin zu betrachten, bietet der Kurs konkrete Orientierung, um besser zu verstehen, warum Menschen denken, fühlen und handeln, wie sie es tun.\r\n\r\nDie Teilnehmenden entwickeln so ein differenzierteres Verständnis für menschliches Verhalten – sowohl im Hinblick auf sich selbst als auch auf andere.",
    "duree" : "6 leçons",
    "enseignants" : [ {
@@ -15158,7 +15158,8 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "prerequis" : " Dieser Kurs richtet sich an Personen, die „Psychologie 1: Grundlagen der Psychologie“ besucht haben. (SCI-PSY-19)"
+   "prerequis" : " Dieser Kurs richtet sich an Personen, die „Psychologie 1: Grundlagen der Psychologie“ besucht haben. (SCI-PSY-19)",
+   "renseignements" : "Am Freitag, den 10.07.2026 findet kein Unterricht statt."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -16625,6 +16626,128 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg (Clausen)",
+      "nom" : "Ancienne école fondamentale Clausen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "18, montée de Clausen"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCM",
+   "categorieCodeUnipop" : "SCM",
+   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
+   "coursCode" : "SCM-BIO-8",
+   "coursId" : "SCM-BIO-8",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "04/07/2026",
+   "dateFin" : "04/07/2026",
+   "description" : "Ce cours propose une approche claire et concrète pour mieux comprendre les tiques, réduire les risques et agir efficacement sans peur ni solutions miracles. Vous découvrirez leur fonctionnement, les situations à risque ainsi que les bons réflexes à adopter lors de vos sorties en nature et en cas de piqûre. La formation aborde également l’utilisation sûre des plantes et des huiles essentielles, avec un atelier pratique pour créer votre propre roll-on anti-tiques BIO. Basé sur des explications simples, des cas concrets et des échanges, ce cours vous permet de repartir avec des connaissances utiles et des solutions applicables au quotidien.",
+   "duree" : "3 leçons",
+   "enseignants" : [ {
+      "nom" : "Solovieva Ép. Simoncini",
+      "prenom" : "Irina"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 04-07-2026 à 12:10 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "12:10",
+      "jour" : "Samedi"
+   } ],
+   "id" : 67058,
+   "intitule" : "Tiques : comment se protéger efficacement et naturellement",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BIO",
+   "matiereNom" : "Biologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwNTg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "La formatrice fournira tout le matériel nécessaire et, le jour du workshop, un montant de 10 euros devra être réglé en espèces directement à la formatrice."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg (Clausen)",
+      "nom" : "Ancienne école fondamentale Clausen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "18, montée de Clausen"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCM",
+   "categorieCodeUnipop" : "SCM",
+   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
+   "coursCode" : "SCM-BIO-7",
+   "coursId" : "SCM-BIO-7",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "04/07/2026",
+   "dateFin" : "04/07/2026",
+   "description" : "This course offers a clear and practical approach to better understanding ticks, reducing risks, and responding effectively without fear or miracle solutions. You will learn how ticks function, identify high-risk situations, and adopt the right reflexes during outdoor activities and in the event of a tick bite.\r\nThe course also covers the safe use of plants and essential oils, including a hands-on workshop where you will create your own organic anti-tick roll-on.\r\nBased on simple explanations, real-life examples, and interactive discussions, this training will provide you with useful knowledge and practical solutions that you can easily apply in everyday life.",
+   "duree" : "3 leçons",
+   "enseignants" : [ {
+      "nom" : "Solovieva Ép. Simoncini",
+      "prenom" : "Irina"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 04-07-2026 à 09:20 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "09:20",
+      "jour" : "Samedi"
+   } ],
+   "id" : 67057,
+   "intitule" : "Ticks: Effective and Natural Ways to Protect Yourself",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "BIO",
+   "matiereNom" : "Biologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwNTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "The instructor will provide all the necessary materials, and on the day of the workshop, a fee of 10 euros will need to be paid in cash directly to the instructor."
 }, {
    "adresseCours" : {
       "codePostal" : "1343",
@@ -18837,66 +18960,6 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-PSY-21",
-   "coursId" : "SCI-PSY-21",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "17/07/2026",
-   "dateFin" : "17/07/2026",
-   "description" : "Stress wird oft als etwas gesehen, das man nur „reduzieren“ oder „managen“ muss. Dieser kurze Kurs verfolgt einen anderen Ansatz: verstehen, was Stress signalisiert, wie Überlastung entsteht und was im Alltag tatsächlich hilfreich ist.\r\n\r\nDer Fokus liegt auf Verständnis und konkreten Werkzeugen — ohne Wundermethoden, ohne Leistungsdruck, keine Gruppentherapie.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Frédérick",
-      "prenom" : "Gilles"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 17-07-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66254,
-   "intitule" : "Stress und mentale Überlastung verstehen - Was wirklich passiert, und was im Alltag hilft",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "PSY",
-   "matiereNom" : "Psychologie",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "-",
       "localite" : "Luxembourg",
       "nom" : "En ligne",
@@ -18963,6 +19026,66 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-21",
+   "coursId" : "SCI-PSY-21",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "18/07/2026",
+   "dateFin" : "18/07/2026",
+   "description" : "Stress wird oft als etwas gesehen, das man nur „reduzieren“ oder „managen“ muss. Dieser kurze Kurs verfolgt einen anderen Ansatz: verstehen, was Stress signalisiert, wie Überlastung entsteht und was im Alltag tatsächlich hilfreich ist.\r\n\r\nDer Fokus liegt auf Verständnis und konkreten Werkzeugen — ohne Wundermethoden, ohne Leistungsdruck, keine Gruppentherapie.",
+   "duree" : "2 leçons",
+   "enseignants" : [ {
+      "nom" : "Frédérick",
+      "prenom" : "Gilles"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 18-07-2026 à 14:30 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "14:30",
+      "jour" : "Samedi"
+   } ],
+   "id" : 66254,
+   "intitule" : "Stress und mentale Überlastung verstehen - Was wirklich passiert, und was im Alltag hilft",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4002",
