@@ -1445,7 +1445,7 @@
    "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
    "description" : "Nommer différents types d'habitation et parler des avantages et inconvénients, citer des conditions et des conséquences. \r\nRéagir à une réclamation. \r\nConnaître le système politique, participer à une discussion, formuler des déclarations diverses.",
    "domainesCompetences" : [ {
-      "competences" : [ "formuler des souhaits et des hypothèses", "nommer différents types d'habitation", "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "nommer des conditions et des conséquences", "se plaindre et réagir à une réclamation", "faire le compte-rendu d'un reportage politico-social", "participer à une discussion politico-social et défendre son point de vue", "dire si l'on est d'accord ou non avec des déclarations diverses" ],
+      "competences" : [ "nommer différents types d'habitation", "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "nommer des conditions et des conséquences", "formuler des souhaits et des hypothèses", "se plaindre et réagir à une réclamation", "faire le compte-rendu d'un reportage politico-social", "participer à une discussion politico-social et défendre son point de vue", "dire si l'on est d'accord ou non avec des déclarations diverses" ],
       "domaine" : "expression orale "
    }, {
       "competences" : [ "connaître et nommer différents types d'habitation", "faire la différence entre des propositions, des souhaits et des questions polies", "apprendre à connaître le système politique", "comprendre et formuler différentes opinions" ],
@@ -6798,7 +6798,7 @@
       "competences" : [ "Wiederprevisoune verstoen\r\n", "verstoe wann eng aner Persoun hir Meenung ausdréckt ", " eng Erzielung am Passé verstoen\r\n", "eng Weebeschreiwung verstoen\r\n", " Symptomer vu Krankheete verstoen\r\n", "  e Verbuet, en Uerder oder eng Erlaabnis verstoen (am privaten an am ëffentleche Beräich)\r\n", " Rotschléi verstoen\r\n", " däitlech geschwate Messagen um Repondeur verstoen\r\n" ],
       "domaine" : "Héierverstoen "
    }, {
-      "competences" : [ " geschriwwen Informatioune verstoen (Ëffnungszäiten, Programmer, Gebrauchsuweisungen, )\r\n", " eng Hausuerdnung verstoen (Wat däerf een ? Wat däerf een net ? -> Residence, Veräin, )\r\n", " einfach Instruktiounen op Lëtzebuergesch verstoen (Bancomat, )\r\n", "verstoe wann eng Persoun ëm Hëllef freet\r\n\r\n" ],
+      "competences" : [ " eng Hausuerdnung verstoen (Wat däerf een ? Wat däerf een net ? -> Residence, Veräin, )\r\n", " einfach Instruktiounen op Lëtzebuergesch verstoen (Bancomat, )\r\n", "verstoe wann eng Persoun ëm Hëllef freet\r\n\r\n", " geschriwwen Informatioune verstoen (Ëffnungszäiten, Programmer, Gebrauchsuweisungen, )\r\n" ],
       "domaine" : "Liesverstoen "
    }, {
       "competences" : [ " iwwert Vakanz a Fräizäit schwätzen\r\n", " erziele wat een an der Woch an de Weekend gemaach huet (positiv an negativ)\r\n", "seng Projeten an hir Organisatioun op eng einfach Manéier beschreiwen an erklären\r\n", " Hëllef ubidden an no Hëllef froen\r\n", "e Wee erklären\r\n", " e Verbuet, en Uerder oder eng Erlaabnis ausdrécken (am privaten an am ëffentleche Beräich)\r\n", "Symptomer vu Krankheete beschreiwen\r\n", " Kierperdeeler benennen\r\n", "Rotschléi ginn (Imperativ)\r\n", " kuerz, einfach Telefonsgespréicher féieren\r\n", "op e Message um Repondeur reagéieren\r\n" ],
@@ -18683,9 +18683,6 @@
    "dateInscription" : "toute l'année de 08.00-11.30 et de 13.30 à 16.00 hrs",
    "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, comprendre des textes courts et simples",
    "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant peut engager une conversation simplement dans plusieurs domaines et notamment professionnels. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
-      "domaine" : "Expression orale"
-   }, {
       "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne. ", "L'apprenant est en mesure de lire les correspondances officielles et les courriels professionnels. \r\n", "L'apprenant peut trouver rapidement les informations demandées  dans un texte. \r\n" ],
       "domaine" : "Compréhension écrite -  "
    }, {
@@ -18694,6 +18691,9 @@
    }, {
       "competences" : [ "L'apprenant est capable de répondre à un courriel. ", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées par écrit. " ],
       "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "L'apprenant peut engager une conversation simplement dans plusieurs domaines et notamment professionnels. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
+      "domaine" : "Expression orale"
    } ],
    "duree" : "30h",
    "enseignants" : [ {
@@ -35534,7 +35534,7 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
    "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
    "domainesCompetences" : [ {
-      "competences" : [ "d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ) : Wéi ass een oder eppes ?", " verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \r\n", " d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\r\n ", "d'Auerzäite verstoen (5 Minuttenofstänn)\r\n" ],
+      "competences" : [ " verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \r\n", " d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\r\n ", "d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ) : Wéi ass een oder eppes ?", "d'Auerzäite verstoen (5 Minuttenofstänn)\r\n" ],
       "domaine" : "Héierverstoen "
    }, {
       "competences" : [ "verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\r\n    \r\n", "ganz einfach Froen zu senger oder enger anerer Persoun verstoen\r\n\r\n", " einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen " ],
@@ -51239,9 +51239,6 @@
    "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21-538\r\nCoursinformatiques@dudelange.lu",
    "description" : "Compétences en traitement de texte, tableur et présentation et gestion Outlook.",
    "domainesCompetences" : [ {
-      "competences" : [ "Informations générales sur le courrier électronique : les serveurs de courrier entrant/sortant, comment créer un compte Outlook. ", "Mail gratuit, envoyer/recevoir des messages, planifier l'envoi, joindre des fichiers.\r\n" ],
-      "domaine" : "Messagerie"
-   }, {
       "competences" : [ "Maîtriser les fonctions de base de Word. Maîtriser le ruban, les principales onglets, groupes de commandes et les raccourcis.", "Créer et saisir de documents. ", "Mettre en forme des caractères et introduire effets de texte et typographie. Modifier la casse, indice, exposant, couleur pour texte et pour arrière-plan. ", "Faire de l'insertion: des puces, liste ordonnée et non-ordonnée, entête de page et de pied de page, numérotation de pages, saut de pages, bordures, caractères spéciaux et symboles. ", "Introduire des marges, reproduire la mise en forme des caractères. ", "Mettre en forme des paragraphes, faire glisser les différentes marques de retrait. ", "Créer, modifier, mettre à jour les styles de police et de paragraphe, faire les captures des images, insertion des images, comment positionner les images par rapport au texte, changer style d'affichage des images. ", "Créer des tableaux, appliquer un format ou style automatique à un tableau, fusionner, fractionner les cellules d'un tableau, mise en forme des tableaux. " ],
       "domaine" : "Traitement de Texte"
    }, {
@@ -51250,6 +51247,9 @@
    }, {
       "competences" : [ "Maîtriser les fonctions de base de PowerPoint. Maîtriser le ruban, les principales onglets, groupes de commandes et les raccourcis.", "Créer des diapositives, insérer des images, supprimer l'arrière-plan d'une image de contour non bien définie, encadrer une image.", "Insérer une zone de texte. ", "Ajouter et modifier des diapositives, recadrer des images, grouper et dissocier les éléments. ", "Insérer du son (mp3 et wav), un clip vidéo (mp4), utiliser des guides pour cadrer correctement les objets sur la diapositive, insérer et formater SmartArt. ", "Gérer les transitions entre les diapositives, connaître les différents types de transitions, insérer des formes, organiser des formes, aligner et distribuer des formes, regrouper et dissocier des formes, insérer du texte virtuel. ", "Créer des animations pour mouvement d'images et animations pour textes. " ],
       "domaine" : "Présentation"
+   }, {
+      "competences" : [ "Informations générales sur le courrier électronique : les serveurs de courrier entrant/sortant, comment créer un compte Outlook. ", "Mail gratuit, envoyer/recevoir des messages, planifier l'envoi, joindre des fichiers.\r\n" ],
+      "domaine" : "Messagerie"
    } ],
    "duree" : "40h",
    "enseignants" : [ {
