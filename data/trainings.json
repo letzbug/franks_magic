@@ -50419,11 +50419,11 @@
    "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21-538\r\nCoursinformatiques@dudelange.lu",
    "description" : "Compétences en traitement de texte, tableur et présentation et gestion Outlook.",
    "domainesCompetences" : [ {
-      "competences" : [ "Gérer les transitions entre les diapositives, animer chaque forme séparément, insérer du texte virtuel.", "Créer des animations pour mouvement d’image et animations pour textes. ", "Créer des animations avec déclencheur, comment minuter et synchroniser les animations et comment créer des animations complexes. ", "Créer des animations des pulsations, comment animer du texte avec des effets spéciaux, comment naviguer parmi les diapositives. " ],
-      "domaine" : "PRESENTATION"
-   }, {
       "competences" : [ "Créer des tables de matière, insertion des formes, des icônes et des graphiques. ", "Créer un coupon de réponse en utilisant les taquets de tabulation. ", "Créer un publipostage pour lettres en utilisant une base de données. ", "Créer un questionnaire en ligne en utilisant les commandes de l’onglet développeur. ", "Effectuer des recherches et des remplacements avancés dans un document. ", "Créer des commandes macro. ", "Créer et intégrer des formules conditionnelles SI imbriquées avec d’autres fonctions SI. ", "Créer et intégrer des formules conditionnelles MOYENNE.SI et MOYENNE.SI.ENS. Utiliser de la validation des données par une liste.", "Utiliser la fonction de recherche verticale RECHERCHEV exacte selon différents critères, dans les bases de données de type listes. ", "Utiliser la fonction SI imbriquée avec les fonctions OU et ET. Présenter les principales fonctions de dates et heures. \r\n", "Présenter les principales fonctions de texte et des fonctions de texte complexes imbriquées. " ],
       "domaine" : "TABLEUR"
+   }, {
+      "competences" : [ "Gérer les transitions entre les diapositives, animer chaque forme séparément, insérer du texte virtuel.", "Créer des animations pour mouvement d’image et animations pour textes. ", "Créer des animations avec déclencheur, comment minuter et synchroniser les animations et comment créer des animations complexes. ", "Créer des animations des pulsations, comment animer du texte avec des effets spéciaux, comment naviguer parmi les diapositives. " ],
+      "domaine" : "PRESENTATION"
    } ],
    "duree" : "20h",
    "enseignants" : [ {
