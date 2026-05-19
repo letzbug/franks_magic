@@ -8,251 +8,6 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-DIG-7",
-   "coursId" : "IN-DIG-7",
-   "coursType" : "CLASSIQUE",
-   "cout" : 22.5,
-   "dateDebut" : "20/05/2026",
-   "dateFin" : "24/06/2026",
-   "description" : "Une introduction claire et accessible à l’intelligence artificielle pour comprendre ce qu’elle est réellement, comment elle fonctionne, ses limites, et apprendre à l’utiliser de manière intelligente, critique et concrète au quotidien.",
-   "duree" : "5 leçons",
-   "enseignants" : [ {
-      "nom" : "Etienne",
-      "prenom" : "Stéphane",
-      "presentation" : "Société HYPALLAGES S.A.R.L."
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 17:10 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65358,
-   "intitule" : "Comprendre et maîtriser les bases de l’intelligence artificielle en 5 heures",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DIG",
-   "matiereNom" : "Digital",
-   "nbInscrits" : 7,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzNTg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-NUT-2",
-   "coursId" : "SO-NUT-2",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "20/05/2026",
-   "dateFin" : "20/05/2026",
-   "description" : "Atelier cuisine pratique et convivial pour découvrir les principes de la lacto-fermentation ainsi que ses nombreux bienfaits pour la santé.\r\n\r\nAu cours de ce workshop, vous apprendrez les bases de cette technique de conservation naturelle et réaliserez vous-même deux bocaux de légumes en explorant les deux méthodes principales : la saumure et la fermentation sèche.\r\n\r\nUne expérience accessible, ludique et enrichissante, qui vous permettra de repartir avec des préparations faites maison et les connaissances pour reproduire facilement ces techniques chez vous.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Arnould-Guttinger",
-      "prenom" : "Audrey"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 20-05-2026 à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66222,
-   "intitule" : "Atelier cuisine : conserver ses légumes grâce à la lactofermentation, principes et bienfaits",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "NUT",
-   "matiereNom" : "Nutrition",
-   "nbInscrits" : 12,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMjI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Pour des raisons d’organisation, les inscriptions seront clôturées la veille du cours, soit le 19/05/2026 à 17h00. Toute inscription effectuée après cette heure ne pourra malheureusement pas être prise en compte. Merci pour votre compréhension.",
-   "renseignements" : "Le formateur met à disposition tout le matériel nécessaire. Une participation de 12,50 € par personne est à régler directement auprès du formateur.\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-DIG-6",
-   "coursId" : "IN-DIG-6",
-   "coursType" : "CLASSIQUE",
-   "cout" : 45.0,
-   "dateDebut" : "20/05/2026",
-   "dateFin" : "24/06/2026",
-   "description" : "Un cours pratique qui montre comment l’IA peut stimuler la créativité : générer des idées, écrire, reformuler, structurer, créer des visuels, tout en gardant votre style et un regard critique (éthique, droits, biais).",
-   "duree" : "10 leçons",
-   "enseignants" : [ {
-      "nom" : "Etienne",
-      "prenom" : "Stéphane",
-      "presentation" : "Société HYPALLAGES S.A.R.L."
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65357,
-   "intitule" : "Écrire avec l’IA : explorer de nouvelles formes de créativité",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DIG",
-   "matiereNom" : "Digital",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzNTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "0000",
-      "localite" : "Differnt Venues",
-      "nom" : "Different venues",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Different venues"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-SCH-8",
-   "coursId" : "SCI-SCH-8",
-   "coursType" : "CLASSIQUE",
-   "cout" : 72.0,
-   "dateDebut" : "20/05/2026",
-   "dateFin" : "15/07/2026",
-   "description" : "What if anthropology wasn’t just something you read about but something you could live? Over ten sessions, you’ll travel through stories of pirates and ghosts, yaks and thinking forests, robot-gods and wandering mushrooms. Together, we’ll explore how humans and all living beings make sense of the world in their own way. This isn’t a lecture series, it’s an adventure for the curious: an invitation to see, listen, and imagine differently. Each class will take place in an unusual or unexpected location across Luxembourg places that echo the theme of the day. You might find yourself learning about forest spirits among the trees, ghosts in a haunted castle or discussing globalization inside an old factory. You don’t need any background in anthropology, just curiosity and a taste for discovery. Through stories, conversations, and shared experiences, we’ll connect Luxembourgish culture with worlds from afar, comparing local traditions, memories, and ways of living to those found across the globe. Here, learning happens in dialogue: everyone brings their own stories, questions, and thoughts. Whether you come out of curiosity or passion, you’ll leave with new ways of thinking.",
-   "duree" : "16 leçons",
-   "enseignants" : [ {
-      "nom" : "Johnson",
-      "prenom" : "Théophile"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66294,
-   "intitule" : "Thinking Differently: An Introduction to Anthropology",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "SCH",
-   "matiereNom" : "Sciences humaines",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Please note that there will be no classes during school holidays in Luxembourg.\r\nThe sessions will take place at different venues."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -31254,6 +31009,189 @@
    "renseignements" : "A short placement interview (phone or Zoom/Teams) is required before enrolment (minimum A2 level and completion of “Discovering Ukraine” recommended). Regular attendance is expected. Course materials are provided. "
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-7",
+   "coursId" : "IN-DIG-7",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "20/05/2026",
+   "dateFin" : "24/06/2026",
+   "description" : "Une introduction claire et accessible à l’intelligence artificielle pour comprendre ce qu’elle est réellement, comment elle fonctionne, ses limites, et apprendre à l’utiliser de manière intelligente, critique et concrète au quotidien.",
+   "duree" : "5 leçons",
+   "enseignants" : [ {
+      "nom" : "Etienne",
+      "prenom" : "Stéphane",
+      "presentation" : "Société HYPALLAGES S.A.R.L."
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 17:10 (durée 0h50)",
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "17:10",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 65358,
+   "intitule" : "Comprendre et maîtriser les bases de l’intelligence artificielle en 5 heures",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 7,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzNTg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-6",
+   "coursId" : "IN-DIG-6",
+   "coursType" : "CLASSIQUE",
+   "cout" : 45.0,
+   "dateDebut" : "20/05/2026",
+   "dateFin" : "24/06/2026",
+   "description" : "Un cours pratique qui montre comment l’IA peut stimuler la créativité : générer des idées, écrire, reformuler, structurer, créer des visuels, tout en gardant votre style et un regard critique (éthique, droits, biais).",
+   "duree" : "10 leçons",
+   "enseignants" : [ {
+      "nom" : "Etienne",
+      "prenom" : "Stéphane",
+      "presentation" : "Société HYPALLAGES S.A.R.L."
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 65357,
+   "intitule" : "Écrire avec l’IA : explorer de nouvelles formes de créativité",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 2,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzNTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "0000",
+      "localite" : "Differnt Venues",
+      "nom" : "Different venues",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Different venues"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-SCH-8",
+   "coursId" : "SCI-SCH-8",
+   "coursType" : "CLASSIQUE",
+   "cout" : 72.0,
+   "dateDebut" : "20/05/2026",
+   "dateFin" : "15/07/2026",
+   "description" : "What if anthropology wasn’t just something you read about but something you could live? Over ten sessions, you’ll travel through stories of pirates and ghosts, yaks and thinking forests, robot-gods and wandering mushrooms. Together, we’ll explore how humans and all living beings make sense of the world in their own way. This isn’t a lecture series, it’s an adventure for the curious: an invitation to see, listen, and imagine differently. Each class will take place in an unusual or unexpected location across Luxembourg places that echo the theme of the day. You might find yourself learning about forest spirits among the trees, ghosts in a haunted castle or discussing globalization inside an old factory. You don’t need any background in anthropology, just curiosity and a taste for discovery. Through stories, conversations, and shared experiences, we’ll connect Luxembourgish culture with worlds from afar, comparing local traditions, memories, and ways of living to those found across the globe. Here, learning happens in dialogue: everyone brings their own stories, questions, and thoughts. Whether you come out of curiosity or passion, you’ll leave with new ways of thinking.",
+   "duree" : "16 leçons",
+   "enseignants" : [ {
+      "nom" : "Johnson",
+      "prenom" : "Théophile"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66294,
+   "intitule" : "Thinking Differently: An Introduction to Anthropology",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "SCH",
+   "matiereNom" : "Sciences humaines",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyOTQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Please note that there will be no classes during school holidays in Luxembourg.\r\nThe sessions will take place at different venues."
+}, {
+   "adresseCours" : {
       "codePostal" : "3524",
       "localite" : "Dudelange",
       "nom" : "Ecole Brill",
@@ -32908,68 +32846,6 @@
       "telephone" : "+352 516 121-538"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite,\r\nHors vacances scolaires\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-CRO-20",
-   "coursId" : "AR-CRO-20",
-   "coursType" : "CLASSIQUE",
-   "cout" : 40.5,
-   "dateDebut" : "06/05/2026",
-   "dateFin" : "20/05/2026",
-   "description" : "Vous savez crocheter et vous avez envie de découvrir les bases de l’amigurumi ? Venez explorer une nouvelle façon de créer.\r\nDécouvrez l’univers du amigurumi à travers un atelier créatif et accessible.\r\nLors de ce workshop, vous apprendrez à crocheter un joli cactus pour apporter une touche originale et décorative à votre intérieur… sans jamais avoir à l'arroser !\r\nNous aborderons ensemble les techniques essentielles : le rond magique, les augmentations et diminutions invisibles, ainsi que l’assemblage et la couture des éléments. \r\nTout au long du cours, des conseils et astuces vous seront partagés pour vous guider pas à pas.\r\nÀ la fin de l’atelier, vous repartirez avec vos créations et les patrons, prêts à continuer l’aventure chez vous.",
-   "duree" : "9 leçons",
-   "enseignants" : [ {
-      "nom" : "Placchino",
-      "prenom" : "Laetitia"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66174,
-   "intitule" : "Amigurumi-Apprendre à crocheter un cactus",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CRO",
-   "matiereNom" : "Crochet",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNzQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "À noter : les cours n'auront pas lieu pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Merci de prévoir pour le 1er cours : 1 pelote coton n°3 (50 g), crochet 2,5, 100 g de ouate, aiguille à laine, marqueur de rang, ciseaux. Matériel disponible en boutique de loisirs créatifs."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -35847,67 +35723,6 @@
    },
    "prerequis" : "Keine Macintosh OS, Linux OS oder Android OS Grundkenntnisse sind erforderlich  -  Aucune connaissance de base de Macintosh OS n'est requise",
    "renseignements" : "Inscrivez-vous avant le 13-04-2026!"
-}, {
-   "adresseCours" : {
-      "codePostal" : "9085",
-      "localite" : "Ettelbruck",
-      "nom" : "CNFPC-Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "77 Rue Jean Pierre Thill"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PHOT-49",
-   "coursId" : "AR-PHOT-49",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "15/04/2026",
-   "dateFin" : "20/05/2026",
-   "description" : "Lernen Sie, Ihre Kamera kreativ einzusetzen: Von den Grundlagen der Kamera und Zubehör über ISO, Blende, Verschlusszeit und Autofokus bis zu Weißabgleich, Farbmanagement und Schärfentiefe. Praxisnah und verständlich – für beeindruckende Fotos mit voller Kontrolle über Bildgestaltung.",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Noesen",
-      "prenom" : "Georges"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63927,
-   "intitule" : "Einstieg in die digitale Fotografie",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "PHOT",
-   "matiereNom" : "Photographie",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5Mjc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Bitte bringen Sie Ihren Fotoapparat mit."
 }, {
    "adresseCours" : {
       "codePostal" : "4702",
@@ -40659,68 +40474,6 @@
    },
    "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
    "renseignements" : "Le formateur fournit l’ensemble du matériel nécessaire. Une participation forfaitaire de 20 euros sera demandée en début de la 1iere session pour couvrir les frais, à régler directement sur place."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119, rue du Cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PINT-38",
-   "coursId" : "AR-PINT-38",
-   "coursType" : "CLASSIQUE",
-   "cout" : 81.0,
-   "dateDebut" : "11/03/2026",
-   "dateFin" : "20/05/2026",
-   "description" : "Les participants ont le choix de travailler avec l'acrylique ou avec l'aquarelle.\r\nLes deux techniques seront expliquées dans le cours, puisque la manière de travailler la couleur est très différente.\r\nLa possiblilité de travailler sur le modèle proposé par la chargée de cours, ou d'après la photo choisie.\r\nPour ceux qui préfèrent l'art abstrait, la chargée de cours guide les élèves.",
-   "duree" : "18 leçons",
-   "enseignants" : [ {
-      "nom" : "Mrazkova",
-      "prenom" : "Iva",
-      "presentation" : "https://www.atelier-iva.eu/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:20",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 64542,
-   "intitule" : "Peinture l'aquarelle et l'acrylique - 2 Sem",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PINT",
-   "matiereNom" : "Peinture",
-   "nbInscrits" : 11,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ1NDI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Aquarelle : 12 couleurs, gobelet, 3 pinceaux, papier de cuisine, crayon, gomme, bloc DIN 2/3. Acrylique : 12 couleurs, bloc DIN 2/3, toiles 30x40, fusain/crayon, gomme, papier de cuisine, 4-5 pinceaux"
 }, {
    "adresseCours" : {
       "codePostal" : "1338",
@@ -48113,95 +47866,6 @@
    "renseignements" : "Hors vacances scolaires. "
 }, {
    "adresseCours" : {
-      "codePostal" : "3532",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Deich",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "31, rue du stade Jos Nosbaum,"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3590",
-      "localite" : "Dudelange",
-      "nom" : "Inter-Actions, bureau 104/ Hôtel de ville de  Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1086",
-   "coursId" : "LA-FR-1086",
-   "coursType" : "CLASSIQUE",
-   "cout" : 125.0,
-   "dateDebut" : "26/01/2026",
-   "dateFin" : "20/05/2026",
-   "dateInscription" : "CoursEnsemble@i-a.lu \r\n51 61 21 538",
-   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des\r\ndomaines immédiats de priorité. Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations\r\nsimple et direct sur des sujets familiers et habituels.\r\nDécrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets\r\nqui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre une présentation, une description dans un débit plus ou moins rapide. ", "Comprendre un récit oral de type biographique. ", "Comprendre une comparaison.\r\n", "Comprendre une explication/des instructions et consignes simples et courtes.\r\n", "Comprendre globalement un bref récit comportant des verbes simples et courants.\r\n", "Comprendre l'expression facile d'un projet, d'une action à venir. ", "Comprendre une explication brève et simplement exprimée." ],
-      "domaine" : "COMPREHENSION ORALE"
-   }, {
-      "competences" : [ "Comprendre l'expression de l'accord/du désaccord.", "Parler de ses goûts, de ses loisirs et activités quotidiennes.\r\n", "Parler suffisamment bien dans les situations du quotidien, dans les lieux de vie et commerce. (Achat-téléphone-parler de sa santé-du temps....)\r\n", "Rapporter des discours au présent. " ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Comprendre aisément une fiche d'inscription aisément, un cv.", "Comprendre un court récit biographique\r\n", "Comprendre globalement de courts textes et/ou lettres écrits en français facile utilisant de termes courants (offre d'emploi, annonce de vente-location.../brochures, pub, menus, horaires, articles de faits divers, lettres personnelles... )\r\n", "Comprendre de courts messages d'excuses, d'explication,\r\n", "Comprendre de courts mots d'instructions simples sur les thèmes de la vie quotidienne." ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Rédiger un CV", "Raconter et expliquer des faits succinctement avec des mots usuels et en utilisant quelques formes du passé. ", "Ecrire quelques phrases sur un projet. " ],
-      "domaine" : "EXPRESSION ECRITE"
-   }, {
-      "domaine" : "INTER-AGIR"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Schultz Moreeuw",
-      "prenom" : "Mariana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63030,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 17,
-   "nbPlaces" : 22,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3526",
-         "localite" : "Dudelange",
-         "nom" : "Inter-Actions",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "149, rue des Minières"
-      },
-      "code" : "IAPE",
-      "mail" : "coursensemble@inter-actions.lu",
-      "nom" : "Ensemble Quartiers Dudelange - Inter-Actions",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "ASBL",
-      "telephone" : "51 61 21 538 / 26 56",
-      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
-   },
-   "prerequis" : "Avoir validé le niveau A2.1"
-}, {
-   "adresseCours" : {
       "codePostal" : "3542",
       "localite" : "Dudelange",
       "nom" : "Lycée Nic Biever",
@@ -48286,93 +47950,6 @@
       "telephone" : "+352 516 121-538"
    },
    "prerequis" : "Ouvert aux personnes ayant le niveau A1.2"
-}, {
-   "adresseCours" : {
-      "codePostal" : "3542",
-      "localite" : "Dudelange",
-      "nom" : "Lycée Nic Biever",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "28, rue du Parc"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1131",
-   "coursId" : "LA-LB-1131",
-   "coursType" : "CLASSIQUE",
-   "cout" : 85.0,
-   "dateDebut" : "26/01/2026",
-   "dateFin" : "20/05/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange\r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
-   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines de l'environnement quotidien (informations personnelles et familiales simples, achats, travail)\r\nPouvoir communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets familiers et habituels.\r\nSavoir décrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des échanges autour de l'identité, présentation. \r\n", "Comprendre une description simple d'une personne, d'un objet. \r\n", "Comprendre la description d'un chemin, d'un logement. \r\n\r\n", "Comprendre des échanges sur les tâches quotidiennes. ", "Comprendre des échanges simples utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisir. \r\n", "Comprendre l'expression de temps, heures et moments de la journée (horaires).  " ],
-      "domaine" : "COMPREHENSION ORALE"
-   }, {
-      "competences" : [ "Échanger sur le thème de l'identité. \r\n", "Décrire une personne, d'un objet dans des simples et courants.  \r\n\r\n", "Indique le chemin. ", "Décrire un logement. \r\n", "Échanger autour des habitudes quotidiennes. \r\n", "Échanger simplement et succinctement en utilisant des expressions courantes dans les lieux de vie comme les boutiques, restaurants et autres lieux de loisir. \r\n", "Dire l'heure et les moments de la journée. " ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Comprendre de courts textes descriptifs écrits avec des mots simples et usuels (annonces, pub). ", "Comprendre de courts texte de type « petites annonces pour un logement ».\r\n", "Comprendre un planning de tâches au quotidien.\r\n" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Ecrire des mots simples et courants sur des thèmes familiers (identité, famille, nourriture, état physique-moral...)\r\n\r\n", "Ecrire de courts messages (date, rdv, noter des numéros de téléphone)." ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Da Re",
-      "prenom" : "Patrizia"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 19:05 (durée 2h), Mercredi à 19:05 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:05",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:05",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63088,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
-   "nbPlaces" : 21,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Avoir acquis le niveau A1.2",
-   "renseignements" : "Hors vacances scolaires. "
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -54080,68 +53657,6 @@
       "statut" : "MENFPS",
       "telephone" : "+49 6867 9111 246",
       "websiteUrl" : "https://www.schengenlyzeum.eu/"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "6122",
-      "localite" : "Junglinster",
-      "nom" : "Lënster Lycée Junglinster",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue Victor Ferrant"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-RU-52",
-   "coursId" : "LA-RU-52",
-   "coursType" : "CLASSIQUE",
-   "cout" : 234.0,
-   "dateDebut" : "01/10/2025",
-   "dateFin" : "20/05/2026",
-   "dateInscription" : "à partir du 01.07.2025",
-   "description" : "Pour les personnes intéressées à apprendre une nouvelle langue. \r\nAcquisition de connaissances de base de la langue russe pour débutants. Alphabet cyrillique, premiers échanges, expressions famillières sur des sujets du quotidien.\r\nL'objectif du cours est d'être capable de communiquer rapidement et de comprendre les autres.",
-   "duree" : "52h",
-   "enseignants" : [ {
-      "nom" : "Tchernykh",
-      "prenom" : "Natalia"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 19:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 60308,
-   "intitule" : "Russe",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "RU",
-   "matiereNom" : "Russe",
-   "nbInscrits" : 4,
-   "nbPlaces" : 24,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjAzMDg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6122",
-         "localite" : "Junglinster",
-         "nom" : "Lënster Lycée Junglinster",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Victor Ferrant"
-      },
-      "code" : "LLIS",
-      "mail" : "coursdusoir@llis.lu",
-      "nom" : "Lënster Lycée International School",
-      "nomContact" : "Larosche",
-      "onlineReg" : true,
-      "prenomContact" : "Christine",
-      "statut" : "MENFPS",
-      "telephone" : "+352 27 69 63-211"
    }
 }, {
    "adresseCours" : {
