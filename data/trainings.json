@@ -37,7 +37,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "DIG",
    "matiereNom" : "Digital",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -281,7 +281,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -872,7 +872,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -989,17 +989,36 @@
       "domaine" : "Production écrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Belmiloud",
+      "prenom" : "Anthony"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66696,
    "intitule" : "Français",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -1165,7 +1184,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 3,
+   "nbInscrits" : 6,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -2014,7 +2033,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -3087,7 +3106,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 21,
+   "nbInscrits" : 22,
    "nbPlaces" : 23,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -7175,7 +7194,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FISC",
    "matiereNom" : "Fiscalité",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -7236,7 +7255,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -8438,7 +8457,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -10350,7 +10369,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -10587,7 +10606,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 20,
+   "nbInscrits" : 21,
    "nbPlaces" : 22,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -10660,7 +10679,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 20,
+   "nbInscrits" : 21,
    "nbPlaces" : 22,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -10733,7 +10752,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 21,
+   "nbInscrits" : 22,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -10806,7 +10825,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -10881,78 +10900,6 @@
    "matiereNom" : "Luxembourgeois",
    "nbInscrits" : 21,
    "nbPlaces" : 22,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1133",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue des Ardennes"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240 ",
-      "localite" : "Luxembourg",
-      "nom" : "Ville De Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1477",
-   "coursId" : "LA-LB-1477",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "15/06/2026",
-   "dateFin" : "09/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) au 28 avril inclus. \r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Heinz",
-      "prenom" : "Natacha"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 08:30 (durée 1h40), Mercredi à 08:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66114,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 17,
-   "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
@@ -11201,7 +11148,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 7,
+   "nbInscrits" : 9,
    "nbPlaces" : 15,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -11552,92 +11499,6 @@
    "adresseCours" : {
       "codePostal" : "1839",
       "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Gare",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "29, rue de Strasbourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1505",
-   "coursId" : "LA-LB-1505",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "domainesCompetences" : [ {
-      "competences" : [ "peut raconter des événements au passé de manière plus approfondie (enfance, vacances, souvenirs)", "peut participer à des conversations sur des sujets d'actualité", "peut échanger des points de vue personnels, exprimer son accord ou son désaccord", "peut exprimer ses sentiments et réagir aux sentiments exprimés par d'autres", "peut s'exprimer en utilisant des formules de politesse plus élaborées", "peut raconter l'intrigue d'un livre ou d'un film et décrire ses réactions" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "peut comprendre des récits courts sur des sujets familiers", "peut comprendre des questions sur des thèmes précis (médecin, administration, banque)", "peut comprendre l'essentiel ou les points principaux de journaux radio ou télévisés" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "peut rédiger des récits et des lettres en utilisant des phrases complexes (= avec des propositions subordonnées introduites par well, datt, ob)", "peut demander des renseignements par courrier électronique, par fax et par courrier traditionnel (location, offre d'emploi)" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "peut comprendre des petits textes littéraires simples", "peut comprendre des textes sur des sujets d'actualité ou familiers (critiques de films et pièces de théâtre, lettres, brochures d'information)" ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Heinz",
-      "prenom" : "Natacha"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 19:20 (durée 1h40), Jeudi à 19:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "19:20",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "19:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66142,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 24,
-   "nbPlaces" : 25,
-   "niveau" : "B2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "B1",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1839",
-      "localite" : "Luxembourg",
       "nom" : "Centre culturel Gare",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
@@ -11756,7 +11617,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 22,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : false,
@@ -11829,7 +11690,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 20,
+   "nbInscrits" : 21,
    "nbPlaces" : 22,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -11853,79 +11714,6 @@
    },
    "prerequis" : "A1.2",
    "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1839",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Gare",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "29, rue de Strasbourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240 ",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1488",
-   "coursId" : "LA-LB-1488",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Ragnacci",
-      "prenom" : "Marie Louise"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 19:20 (durée 1h40), Jeudi à 19:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "19:20",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "19:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66125,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 23,
-   "nbPlaces" : 25,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "A1.1",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu .\r\nAccès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
       "codePostal" : "1133",
@@ -12011,151 +11799,6 @@
    "adresseInscription" : {
       "codePostal" : "2240 ",
       "localite" : "Luxembourg",
-      "nom" : "Ville De Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1483",
-   "coursId" : "LA-LB-1483",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Descoups",
-      "prenom" : "Anne"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 08:30 (durée 1h40), Jeudi à 08:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66120,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 19,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "A1.1",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1839",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Gare",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "29, rue de Strasbourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1481",
-   "coursId" : "LA-LB-1481",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Heinz",
-      "prenom" : "Natacha"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 17:30 (durée 1h40), Jeudi à 17:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66118,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 24,
-   "nbPlaces" : 25,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1133",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue des Ardennes"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240 ",
-      "localite" : "Luxembourg",
       "nom" : "Ville de Luxembourg",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
@@ -12193,7 +11836,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
+   "nbInscrits" : 20,
    "nbPlaces" : 22,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -13499,6 +13142,67 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-CUIS-61",
+   "coursId" : "AR-CUIS-61",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "26/06/2026",
+   "dateFin" : "26/06/2026",
+   "description" : "Savourez un moment de douceur autour d’une tasse de thé et de délicieuses gourmandises sucrées, poétiques et parfumées aux fleurs séchées que nous réaliserons ensemble : crème brûlée à la rose, éclairs à la lavande, biscuits aux pétales séchés…\r\n\r\nAccessible à tous les niveaux et à tous les âges, cet atelier gourmand est une invitation à la découverte, à la créativité et au plaisir des sens.\r\n\r\nUn moment convivial et chaleureux à partager en famille ou entre amis, pour allier cuisine, poésie et bien-être.",
+   "duree" : "2 leçons",
+   "enseignants" : [ {
+      "nom" : "Renneboog",
+      "prenom" : "Ellen"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 26-06-2026 à 16:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "16:20",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 67015,
+   "intitule" : "Cuisiner avec des fleurs",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "CUIS",
+   "matiereNom" : "Cuisine",
+   "nbInscrits" : 3,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwMTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "La formatrice se charge du matériel, et un remboursement en espèces sera demandé le jour même, d’un montant de 15 euros."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -13604,67 +13308,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge de fournir le matériel. Un remboursement en espèces de 20 euros sera demandé le jour même."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-CUIS-61",
-   "coursId" : "AR-CUIS-61",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "27/06/2026",
-   "dateFin" : "27/06/2026",
-   "description" : "Savourez un moment de douceur autour d’une tasse de thé et de délicieuses gourmandises sucrées, poétiques et parfumées aux fleurs séchées que nous réaliserons ensemble : crème brûlée à la rose, éclairs à la lavande, biscuits aux pétales séchés…\r\n\r\nAccessible à tous les niveaux et à tous les âges, cet atelier gourmand est une invitation à la découverte, à la créativité et au plaisir des sens.\r\n\r\nUn moment convivial et chaleureux à partager en famille ou entre amis, pour allier cuisine, poésie et bien-être.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Renneboog",
-      "prenom" : "Ellen"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 27-06-2026 à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Samedi"
-   } ],
-   "id" : 67015,
-   "intitule" : "Cuisiner avec des fleurs",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CUIS",
-   "matiereNom" : "Cuisine",
-   "nbInscrits" : 3,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwMTU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge du matériel, et un remboursement en espèces sera demandé le jour même, d’un montant de 15 euros."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -16450,7 +16093,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -20918,7 +20561,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -27927,7 +27570,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -43052,7 +42695,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 156.0,
    "dateDebut" : "03/02/2026",
-   "dateFin" : "02/06/2026",
+   "dateFin" : "04/06/2026",
    "dateInscription" : "à partir du 1er juillet 2025",
    "description" : "- dire ce qu'on fait du matin au soir et avec quelle féquence\r\n- savoir commander au restaurant\r\n- savoir faire du shopping\r\n- parler de sa famille\r\n- parler au docteur",
    "duree" : "52h",
@@ -44253,6 +43896,95 @@
    },
    "prerequis" : "Avoir acquis le niveau A1.1",
    "renseignements" : "Hors vacances scolaires. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "3532",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Deich",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "31, rue du stade Jos Nosbaum,"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3590",
+      "localite" : "Dudelange",
+      "nom" : "Inter-Actions, bureau 104/ Hôtel de ville de  Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73 L-3401 Dudelange"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1086",
+   "coursId" : "LA-FR-1086",
+   "coursType" : "CLASSIQUE",
+   "cout" : 125.0,
+   "dateDebut" : "26/01/2026",
+   "dateFin" : "20/05/2026",
+   "dateInscription" : "CoursEnsemble@i-a.lu \r\n51 61 21 538",
+   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des\r\ndomaines immédiats de priorité. Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations\r\nsimple et direct sur des sujets familiers et habituels.\r\nDécrire avec des moyens simples sa formation, son environnement immédiat et évoquer des sujets\r\nqui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre une présentation, une description dans un débit plus ou moins rapide. ", "Comprendre un récit oral de type biographique. ", "Comprendre une comparaison.\r\n", "Comprendre une explication/des instructions et consignes simples et courtes.\r\n", "Comprendre globalement un bref récit comportant des verbes simples et courants.\r\n", "Comprendre l'expression facile d'un projet, d'une action à venir. ", "Comprendre une explication brève et simplement exprimée." ],
+      "domaine" : "COMPREHENSION ORALE"
+   }, {
+      "competences" : [ "Comprendre l'expression de l'accord/du désaccord.", "Parler de ses goûts, de ses loisirs et activités quotidiennes.\r\n", "Parler suffisamment bien dans les situations du quotidien, dans les lieux de vie et commerce. (Achat-téléphone-parler de sa santé-du temps....)\r\n", "Rapporter des discours au présent. " ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "Comprendre aisément une fiche d'inscription aisément, un cv.", "Comprendre un court récit biographique\r\n", "Comprendre globalement de courts textes et/ou lettres écrits en français facile utilisant de termes courants (offre d'emploi, annonce de vente-location.../brochures, pub, menus, horaires, articles de faits divers, lettres personnelles... )\r\n", "Comprendre de courts messages d'excuses, d'explication,\r\n", "Comprendre de courts mots d'instructions simples sur les thèmes de la vie quotidienne." ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "Rédiger un CV", "Raconter et expliquer des faits succinctement avec des mots usuels et en utilisant quelques formes du passé. ", "Ecrire quelques phrases sur un projet. " ],
+      "domaine" : "EXPRESSION ECRITE"
+   }, {
+      "domaine" : "INTER-AGIR"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Schultz Moreeuw",
+      "prenom" : "Mariana"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mercredi à 09:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "09:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 63030,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 17,
+   "nbPlaces" : 22,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3526",
+         "localite" : "Dudelange",
+         "nom" : "Inter-Actions",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "149, rue des Minières"
+      },
+      "code" : "IAPE",
+      "mail" : "coursensemble@inter-actions.lu",
+      "nom" : "Ensemble Quartiers Dudelange - Inter-Actions",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "ASBL",
+      "telephone" : "51 61 21 538 / 26 56",
+      "websiteUrl" : "https://inter-actions.lu/quartiers/dudelange/"
+   },
+   "prerequis" : "Avoir validé le niveau A2.1"
 }, {
    "adresseCours" : {
       "codePostal" : "3542",
