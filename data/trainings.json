@@ -1,491 +1,5 @@
 [ {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-151",
-   "coursId" : "LA-FR-151",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "19/05/2026",
-   "dateFin" : "30/06/2026",
-   "dateInscription" : "toute l'année entre 08:00 et 11:30 et de 13.30 à 16.00 hrs",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des instructions et des consignes orales\r\n", "comprendre des expressions familières de la vie quotidienne\r\n", "comprendre quelqu'un qui se présente\r\n", "comprendre des indications chiffrées\r\n", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30 " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier", "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes\r\ncomprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)\r\n", "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information " ],
-      "domaine" : "Expressiion orale"
-   }, {
-      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)\r\n", "décrire succinctement son environnement\r\n", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue " ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Deventer",
-      "prenom" : "Pierre"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 14:30 (durée 3h),\nMardi à 14:30 (durée 3h),\nMercredi à 14:30 (durée 3h),\nJeudi à 14:30 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "14:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61425,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 19,
-   "nbPlaces" : 20,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1511",
-   "coursId" : "LA-LB-1511",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "19/05/2026",
-   "dateFin" : "18/06/2026",
-   "dateInscription" : "à partir du 1er avril 2026\r\n inscription et paiement en ligne sur le site",
-   "description" : "Nommer différents types d'habitation et parler des avantages et inconvénients, citer des conditions et des conséquences. \r\nRéagir à une réclamation. \r\nConnaître le système politique, participer à une discussion, formuler des déclarations diverses.",
-   "domainesCompetences" : [ {
-      "competences" : [ "nommer différents types d'habitation", "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "nommer des conditions et des conséquences", "formuler des souhaits et des hypothèses", "se plaindre et réagir à une réclamation", "faire le compte-rendu d'un reportage politico-social", "participer à une discussion politico-social et défendre son point de vue", "dire si l'on est d'accord ou non avec des déclarations diverses" ],
-      "domaine" : "expression orale "
-   }, {
-      "competences" : [ "connaître et nommer différents types d'habitation", "faire la différence entre des propositions, des souhaits et des questions polies", "apprendre à connaître le système politique", "comprendre et formuler différentes opinions" ],
-      "domaine" : "compréhension orale "
-   }, {
-      "competences" : [ "exprimer son avis au sujet des priorités, des avantages et des inconvénients dans le contexte de l'habitation", "formuler des souhaits et des hypothèses", "se plaindre et réagir à une réclamation" ],
-      "domaine" : "expression écrite "
-   }, {
-      "competences" : [ "comprendre des textes au sujets des différents types d'habitation", "faire la différence entre des propositions, des souhaits et des questions polies", "apprendre à connaître le système politique", "comprendre un reportage politico-social" ],
-      "domaine" : "compréhension écrite "
-   } ],
-   "duree" : "45h",
-   "enseignants" : [ {
-      "nom" : "Baur",
-      "prenom" : "Lydia"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:30 (durée 2h30), Mardi à 09:30 (durée 2h30), Mercredi à 09:30 (durée 2h30), Jeudi à 09:30 (durée 2h30), Vendredi à 09:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "09:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66195,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 11,
-   "nbPlaces" : 18,
-   "niveau" : "B1.3 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://moienasbl.lu/?aWQ9NjYxOTU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3493",
-         "localite" : "Dudelange",
-         "nom" : "Moien \"Eng Bréck fir eis Sprooch\" asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Batty Weber"
-      },
-      "code" : "Moien",
-      "mail" : "moienasbl@pt.lu",
-      "nom" : "Moien 'Eng Bréck fir eis Sprooch' asbl",
-      "nomContact" : "'Eng Bréck fir eis Sprooch' asbl",
-      "onlineReg" : true,
-      "prenomContact" : "Moien",
-      "statut" : "ASBL",
-      "telephone" : "www.moienasbl.lu",
-      "websiteUrl" : "http://www.moienasbl.lu"
-   },
-   "renseignements" : "MOIEN ASBL \r\ninformation, inscription et paiement en ligne sur le site www.moienasbl.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Hôtel de Ville de Dudelange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-PGR-22",
-   "coursId" : "IN-PGR-22",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "19/05/2026",
-   "dateFin" : "28/07/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange. \r\ncoursinformatiques@dudelange.lu\r\n51 61 21 538",
-   "description" : "Comprendre l'arrière plan d'un site Web, le codage en HTML, CSS, JavaScript et le codage à zéro.",
-   "duree" : "40h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 66671,
-   "intitule" : "Programmation-codage HTML",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PGR",
-   "matiereNom" : "Programmation",
-   "nbInscrits" : 0,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Une notion en informatique de base. ",
-   "renseignements" : "Volet 1/3. \r\nHTML"
-}, {
-   "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-INFU-120",
-   "coursId" : "IN-INFU-120",
-   "coursType" : "CLASSIQUE",
-   "cout" : 60.0,
-   "dateDebut" : "19/05/2026",
-   "dateFin" : "18/06/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange. \r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
-   "description" : "Initiation à l'ordinateur.\r\nSe familiariser avec l'ordinateur et son système d'exploitation. \r\nAcquérir les notions de base du traitement de texte. \r\nGérer les fichiers.",
-   "duree" : "20h",
-   "enseignants" : [ {
-      "nom" : "Ioanid",
-      "prenom" : "Paul George"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 16:00 (durée 2h), Jeudi à 16:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "16:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "16:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66672,
-   "intitule" : "Initiation PC / Initiation Internet",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "INFU",
-   "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 7,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "renseignements" : "Accès pour personnes à mobilité réduite,\r\nHors vacances scolaires\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1278",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-74",
-   "coursId" : "IN-BUR-74",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "19/05/2026",
-   "dateFin" : "22/05/2026",
-   "dateInscription" : "Inscription sur place avant le début de la formation.",
-   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
-   "domainesCompetences" : [ {
-      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
-      "domaine" : "Compétences informatiques"
-   } ],
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Hazizaj",
-      "prenom" : "Bashkim"
-   }, {
-      "nom" : "Gomes Da Costa",
-      "prenom" : "Orlando"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64078,
-   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1617",
-         "localite" : "Luxembourg",
-         "nom" : "Clae services asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "26, rue de Gasperich"
-      },
-      "code" : "CLAE",
-      "mail" : "patricia.lopes@clae.lu",
-      "nom" : "Clae services asbl",
-      "nomContact" : "Lopes",
-      "onlineReg" : false,
-      "prenomContact" : "Patricia",
-      "statut" : "ASBL",
-      "telephone" : "+352 29 86 86 1",
-      "websiteUrl" : "https://www.clae.lu/"
-   },
-   "prerequis" : "Connaissance de base de l'utilisation du numérique"
-}, {
-   "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Hôtel de Ville de Dudelange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-MUME-51",
-   "coursId" : "IN-MUME-51",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "19/05/2026",
-   "dateFin" : "28/07/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange. \r\ncoursinformatiques@dudelange.lu\r\n51 61 21 538",
-   "description" : "Comprendre l'arrière plan d'un site Web, le codage en HTML, CSS, JavaScript et le codage à zéro.",
-   "duree" : "40h",
-   "enseignants" : [ {
-      "nom" : "Ioanid",
-      "prenom" : "Paul George"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 64560,
-   "intitule" : "Programmation",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MUME",
-   "matiereNom" : "Multimédia",
-   "nbInscrits" : 3,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Une notion en informatique de base. ",
-   "renseignements" : "Volet 1/3. \r\nHTML"
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -27876,6 +27390,313 @@
    "renseignements" : "A short placement interview (phone or Zoom/Teams) is required before enrolment (minimum A2 level and completion of “Discovering Ukraine” recommended). Regular attendance is expected. Course materials are provided. "
 }, {
    "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Hôtel de Ville de Dudelange"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-MUME-51",
+   "coursId" : "IN-MUME-51",
+   "coursType" : "CLASSIQUE",
+   "cout" : 120.0,
+   "dateDebut" : "19/05/2026",
+   "dateFin" : "28/07/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange. \r\ncoursinformatiques@dudelange.lu\r\n51 61 21 538",
+   "description" : "Comprendre l'arrière plan d'un site Web, le codage en HTML, CSS, JavaScript et le codage à zéro.",
+   "duree" : "40h",
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 64560,
+   "intitule" : "Programmation",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "MUME",
+   "matiereNom" : "Multimédia",
+   "nbInscrits" : 3,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "prerequis" : "Une notion en informatique de base. ",
+   "renseignements" : "Volet 1/3. \r\nHTML"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Hôtel de Ville de Dudelange"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-PGR-22",
+   "coursId" : "IN-PGR-22",
+   "coursType" : "CLASSIQUE",
+   "cout" : 120.0,
+   "dateDebut" : "19/05/2026",
+   "dateFin" : "28/07/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange. \r\ncoursinformatiques@dudelange.lu\r\n51 61 21 538",
+   "description" : "Comprendre l'arrière plan d'un site Web, le codage en HTML, CSS, JavaScript et le codage à zéro.",
+   "duree" : "40h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 66671,
+   "intitule" : "Programmation-codage HTML",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PGR",
+   "matiereNom" : "Programmation",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "prerequis" : "Une notion en informatique de base. ",
+   "renseignements" : "Volet 1/3. \r\nHTML"
+}, {
+   "adresseCours" : {
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "100, rue Norbert Metz"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-INFU-120",
+   "coursId" : "IN-INFU-120",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "19/05/2026",
+   "dateFin" : "18/06/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange. \r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
+   "description" : "Initiation à l'ordinateur.\r\nSe familiariser avec l'ordinateur et son système d'exploitation. \r\nAcquérir les notions de base du traitement de texte. \r\nGérer les fichiers.",
+   "duree" : "20h",
+   "enseignants" : [ {
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 16:00 (durée 2h), Jeudi à 16:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66672,
+   "intitule" : "Initiation PC / Initiation Internet",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "INFU",
+   "matiereNom" : "Internetfürerschäin",
+   "nbInscrits" : 7,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "renseignements" : "Accès pour personnes à mobilité réduite,\r\nHors vacances scolaires\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1278",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-74",
+   "coursId" : "IN-BUR-74",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "19/05/2026",
+   "dateFin" : "22/05/2026",
+   "dateInscription" : "Inscription sur place avant le début de la formation.",
+   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
+      "domaine" : "Compétences informatiques"
+   } ],
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Hazizaj",
+      "prenom" : "Bashkim"
+   }, {
+      "nom" : "Gomes Da Costa",
+      "prenom" : "Orlando"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64078,
+   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
       "codePostal" : "9089",
       "localite" : "Ettelbruck",
       "nom" : "Association des parents d'elèves d'Ettelbruck",
@@ -32790,66 +32611,6 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-LIT-9",
-   "coursId" : "SCI-LIT-9",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "14/04/2026",
-   "dateFin" : "19/05/2026",
-   "description" : "Der Grundlagenkurs richtet sich an alle, die den Wunsch haben, ein eigenes Buch zu veröffentlichen – sei es im Self-Publishing oder über einen Verlag. Schritt für Schritt erhalten die Teilnehmer das notwendige Basiswissen, um ihre Idee in ein fertiges Werk zu verwandeln: von den ersten Konzepten über den Schreibprozess bis hin zu den zentralen Fragen rund um Veröffentlichung und Vermarktung. Ziel des Kurses ist es, den Weg zum eigenen Buch klar, verständlich und realisierbar zu machen.",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Gengler",
-      "prenom" : "Patrick"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 63849,
-   "intitule" : "Der Traum vom eigenen Buch",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LIT",
-   "matiereNom" : "Littérature",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4NDk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -36732,112 +36493,6 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "L2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "AL",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "COMPÉTENCES DE BASE",
-   "coursCode" : "AL-ALFR-258",
-   "coursId" : "AL-ALFR-258",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "16/03/2026",
-   "dateFin" : "19/05/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
-   "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul",
-   "domainesCompetences" : [ {
-      "competences" : [ "réagir  durant une conversation concernant des sujets personnels et familiers\r\n\r\n\r\n", " réagir à des messages et instructions simples\r\n", "comprendre le contenu d'une description  ou d'une histoire simple", "identifier des émotions, des opinions et des besoins exprimés dans un langage facile\r\n" ],
-      "domaine" : "COMPRENDRE"
-   }, {
-      "competences" : [ "parler de soi-même, de son travail, de sa vie quotidienne et de ses intérêts \r\n\r\n", "faire une conversation simple ", "formuler des messages, explications et instructions simples ", "exprimer ses besoins dans des situations quotidiennes\r\n" ],
-      "domaine" : "PARLER"
-   }, {
-      "competences" : [ "lire et comprendre des textes courts avec des mots familiers et courants\r\n", "utiliser un dictionnaire \r\n", "déchiffrer des mots inconnus\r\n\r\n", "repérer une information dans un texte facile  \r\n\r\n", "lire et comprendre  un mode d'emploi simple\r\n\r\n" ],
-      "domaine" : "LIRE"
-   }, {
-      "competences" : [ "remplir un formulaire simple  (une fiche de renseignements personnels, d'identité, d'inscription)\r\n\r\n", "écrire une ou plusieurs phrases simples (dans un ordre élémentaire)\r\n\r\n", "écrire un texte très simple au présent\r\n", " recomposer des phrases à partir de mots dans le désordre\r\n", "écrire une note ou un message simple" ],
-      "domaine" : "ECRIRE"
-   }, {
-      "competences" : [ "compter \r\n\r\n", "utiliser la calculatrice ", "maîtriser des additions et soustractions (simples)  de nombres entiers et décimaux avec et sans retenue\r\n", " lire l'heure \r\n", "connaître des figures  comme  le triangle, rectangle, carré et cercle\r\n", "lire des plans  ou cartes\r\n", "utiliser les unités de distance, surface, volume, poids, température et temps au quotidien" ],
-      "domaine" : "CALCULER"
-   }, {
-      "competences" : [ "pour s¿informer, consulter des petites annonces, des sites de vente\r\n", "pour s¿informer, consulter des offres d'emploi", "pour s'informer, connaitre et utiliser  guichet.lu ", "pour communiquer, recevoir, sauvegarder, transférer un message électronique et y répondre", "pour communiquer,envoyer des emails en incluant des pièces jointes" ],
-      "domaine" : "INFORMATIQUE"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Jacquet",
-      "prenom" : "Annie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 14:00 (durée 2h), Mardi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65103,
-   "intitule" : "Alphabétisation et informatique",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "ALFR",
-   "matiereNom" : "Alphabétisation en langue française",
-   "nbInscrits" : 22,
-   "nbPlaces" : 22,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Alphabétisation de niveau intermédiaire acquise",
-   "renseignements" : "non accessible aux personnes à mobilité réduite\r\n\r\n"
-}, {
-   "adresseCours" : {
       "codePostal" : "4354",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "CNFPC-Esch-sur-Alzette - Site Sommet",
@@ -38154,39 +37809,39 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-DI-43",
-   "coursId" : "SCI-DI-43",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-PINT-34",
+   "coursId" : "AR-PINT-34",
    "coursType" : "CLASSIQUE",
-   "cout" : 108.0,
+   "cout" : 216.0,
    "dateDebut" : "03/03/2026",
-   "dateFin" : "19/05/2026",
-   "description" : "Découvrir les bases de l'aménagement d'espace, dessiner des plans simples à la main et concevoir un intérieur bien pensé sur un logiciel accessible.",
-   "duree" : "24 leçons",
+   "dateFin" : "14/07/2026",
+   "description" : "Ce cours de peinture acrylique propose aux participants d’explorer différentes techniques en commençant par l’élaboration de nuanciers de couleurs, afin de mieux comprendre les mélanges et les harmonies chromatiques. Des exercices pratiques sont ensuite réalisés pour aborder la mise en volume d’objets simples, à travers l’étude de la lumière, des ombres et des contrastes. L’apprentissage se poursuit par une phase de mise en pratique progressive, qui permet de tester les acquis avant de concevoir et réaliser une œuvre personnelle.",
+   "duree" : "48 leçons",
    "enseignants" : [ {
-      "nom" : "Janezic",
-      "prenom" : "Marie"
+      "nom" : "Zaavy",
+      "prenom" : "Carole"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 17:10 (durée 2h30)",
+   "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
    "horaires" : [ {
       "duree" : "2h30",
-      "heure" : "17:10",
+      "heure" : "18:00",
       "jour" : "Mardi"
    } ],
-   "id" : 64450,
-   "intitule" : "Design d'intérieur: Penser, aménager et dessiner vos espaces de vie",
+   "id" : 63821,
+   "intitule" : "Peinture acrylique",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "DI",
-   "matiereNom" : "Design d'intérieur",
-   "nbInscrits" : 11,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
+   "matiereCode" : "PINT",
+   "matiereNom" : "Peinture",
+   "nbInscrits" : 7,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ0NTA%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MjE%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -38204,8 +37859,8 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 12 euros."
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Chaque participant devra apporter des tubes de peinture acrylique variés, 2 à 3 pinceaux, une palette, un récipient pour l’eau, des serviettes pour les pinceaux, ainsi qu’une toile ou un support pour les exercices."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -38579,68 +38234,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "prerequis" : "Il aura pas de cours pendant les vacances scolaires au luxembourg."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PINT-34",
-   "coursId" : "AR-PINT-34",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "03/03/2026",
-   "dateFin" : "14/07/2026",
-   "description" : "Ce cours de peinture acrylique propose aux participants d’explorer différentes techniques en commençant par l’élaboration de nuanciers de couleurs, afin de mieux comprendre les mélanges et les harmonies chromatiques. Des exercices pratiques sont ensuite réalisés pour aborder la mise en volume d’objets simples, à travers l’étude de la lumière, des ombres et des contrastes. L’apprentissage se poursuit par une phase de mise en pratique progressive, qui permet de tester les acquis avant de concevoir et réaliser une œuvre personnelle.",
-   "duree" : "48 leçons",
-   "enseignants" : [ {
-      "nom" : "Zaavy",
-      "prenom" : "Carole"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 63821,
-   "intitule" : "Peinture acrylique",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PINT",
-   "matiereNom" : "Peinture",
-   "nbInscrits" : 7,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MjE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Chaque participant devra apporter des tubes de peinture acrylique variés, 2 à 3 pinceaux, une palette, un récipient pour l’eau, des serviettes pour les pinceaux, ainsi qu’une toile ou un support pour les exercices."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -50692,208 +50285,6 @@
    },
    "prerequis" : "Niveau A1.",
    "renseignements" : "Tél. 819 201 307 (Valina Liégeois) ou 819 201 300 (Max Petit), resp. courriel à l'adresse education_adultes@ltett.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "6122",
-      "localite" : "Junglinster",
-      "nom" : "Lënster Lycée Junglinster",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue Victor Ferrant"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-IT-99",
-   "coursId" : "LA-IT-99",
-   "coursType" : "CLASSIQUE",
-   "cout" : 234.0,
-   "dateDebut" : "30/09/2025",
-   "dateFin" : "19/05/2026",
-   "dateInscription" : "à partir du 01.07.2025",
-   "description" : "Le cours s'adresse aux apprenants qui souhaitent continuer la connaissance et l'étude de la langue et culture italienne. Adapté aux personnes qui ont déjà suivi au moins 2 cours d'italien.",
-   "duree" : "52h",
-   "enseignants" : [ {
-      "nom" : "Di Salvatore",
-      "prenom" : "Elisabetta"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 19:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 60335,
-   "intitule" : "Italien",
-   "langueCoursCode" : "IT",
-   "langueCoursNom" : "Italien",
-   "matiereCode" : "IT",
-   "matiereNom" : "Italien",
-   "nbInscrits" : 9,
-   "nbPlaces" : 24,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjAzMzU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6122",
-         "localite" : "Junglinster",
-         "nom" : "Lënster Lycée Junglinster",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Victor Ferrant"
-      },
-      "code" : "LLIS",
-      "mail" : "coursdusoir@llis.lu",
-      "nom" : "Lënster Lycée International School",
-      "nomContact" : "Larosche",
-      "onlineReg" : true,
-      "prenomContact" : "Christine",
-      "statut" : "MENFPS",
-      "telephone" : "+352 27 69 63-211"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "6122",
-      "localite" : "Junglinster",
-      "nom" : "Lënster Lycée Junglinster",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue Victor Ferrant"
-   },
-   "adresseInscription" : {
-      "codePostal" : "6122",
-      "localite" : "Junglinster",
-      "nom" : "Lënster Lycée Junglinster",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue Victor Ferrant"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-IT-98",
-   "coursId" : "LA-IT-98",
-   "coursType" : "CLASSIQUE",
-   "cout" : 234.0,
-   "dateDebut" : "30/09/2025",
-   "dateFin" : "19/05/2026",
-   "dateInscription" : "à partir du 01.07.2025",
-   "description" : "Ce cours s'adresse à tous les apprenants ayant déjà de bonnes bases en italien et souhaitant améliorer leur aisance à l'oral.\r\nA travers des discussions autour de thèmes actuels, les participants enrichissent leur vocabulaire, renforcent leur compréhension et développent leur capacité à s'exprimer de manière fluide et naturelle. L'accent est mis sur la pratique, l'interaction et le plaisir de communiquer.",
-   "duree" : "52h",
-   "enseignants" : [ {
-      "nom" : "Di Salvatore",
-      "prenom" : "Elisabetta"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 17:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "17:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 60334,
-   "intitule" : "Italien",
-   "langueCoursCode" : "IT",
-   "langueCoursNom" : "Italien",
-   "matiereCode" : "IT",
-   "matiereNom" : "Italien",
-   "nbInscrits" : 6,
-   "nbPlaces" : 24,
-   "niveau" : "B2.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjAzMzQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6122",
-         "localite" : "Junglinster",
-         "nom" : "Lënster Lycée Junglinster",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Victor Ferrant"
-      },
-      "code" : "LLIS",
-      "mail" : "coursdusoir@llis.lu",
-      "nom" : "Lënster Lycée International School",
-      "nomContact" : "Larosche",
-      "onlineReg" : true,
-      "prenomContact" : "Christine",
-      "statut" : "MENFPS",
-      "telephone" : "+352 27 69 63-211"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "6122",
-      "localite" : "Junglinster",
-      "nom" : "Lënster Lycée Junglinster",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue Victor Ferrant"
-   },
-   "adresseInscription" : {
-      "codePostal" : "6122",
-      "localite" : "Junglinster",
-      "nom" : "Lënster Lycée Junglinster",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue Victor Ferrant"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-RU-54",
-   "coursId" : "LA-RU-54",
-   "coursType" : "CLASSIQUE",
-   "cout" : 234.0,
-   "dateDebut" : "30/09/2025",
-   "dateFin" : "19/05/2026",
-   "dateInscription" : "à partir du 01.07.2025",
-   "description" : "Consolidation et approfondissement des conaissances de la langue russe. Communcation orale, conversation avec vocabulaire plus élaboré sur les sujets du quotidien. L'objectif du cours et d'être capable de communiquer dans un milieu russophone et de s'exprimer facilement sur tout sujet.",
-   "duree" : "52h",
-   "enseignants" : [ {
-      "nom" : "Tchernykh",
-      "prenom" : "Natalia"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 19:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 60313,
-   "intitule" : "Russe",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "RU",
-   "matiereNom" : "Russe",
-   "nbInscrits" : 2,
-   "nbPlaces" : 24,
-   "niveau" : "B2.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjAzMTM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6122",
-         "localite" : "Junglinster",
-         "nom" : "Lënster Lycée Junglinster",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Victor Ferrant"
-      },
-      "code" : "LLIS",
-      "mail" : "coursdusoir@llis.lu",
-      "nom" : "Lënster Lycée International School",
-      "nomContact" : "Larosche",
-      "onlineReg" : true,
-      "prenomContact" : "Christine",
-      "statut" : "MENFPS",
-      "telephone" : "+352 27 69 63-211"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "9551",
