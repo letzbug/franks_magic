@@ -872,7 +872,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -1018,7 +1018,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 7,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -1099,7 +1099,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 3,
+   "nbInscrits" : 6,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -4250,7 +4250,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -7664,7 +7664,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "TRI",
    "matiereNom" : "Traitement d'images",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Avancé",
    "onlineRegistration" : false,
@@ -23127,10 +23127,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Compréhension et communication écrites et orales. \r\nÉchanger des informations sur des sujets de la vie quotidienne : vous présenter et présenter votre entourage, parler de vos activités, de votre santé, de votre environnement, logement, loisirs, commerces, voyages, vacances; \r\nécrire des lettres familières et remplir des déclarations;\r\ndécrire et comparer des lieux, des personnes, des objets;\r\ndemander et donner des conseils, des indications;",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Frygana",
+      "prenom" : "Maria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Lundi"
+   } ],
    "id" : 66756,
    "intitule" : "Grec moderne II",
    "langueCoursCode" : "EN",
@@ -23193,10 +23200,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "L'objectif de ce niveau est de rendre les apprenants autonomes pour qu'ils puissent se débrouiller dans des situations courantes et des conversations simples de la vie quotidienne. Acquisition d'environ 150 kanjis et maitrise d'une grammaire de base. À la fin, les apprenants qui auront fourni un travail personnel soutenu à la maison devraient être capables de se présenter à l'examen Japanese Language Proficiency Test (JLPT) N4 qui est comparable (mais pas équivalent) à un niveau A1 du CECRL. // Kanji and katakana reinforcement, verbs (masu, dictionary, nai, te, and ta-forms). The aim is to understand and use everyday expressions for basic conversation. Students will be able to describe their daily life and talk about past events. By the end of the year, participants will be prepared to pass the JLPT N5, with additional self-study outside of class.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Matsumura",
+      "prenom" : "Yurie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Lundi"
+   } ],
    "id" : 66768,
    "intitule" : "Japonais II",
    "langueCoursCode" : "EN",
@@ -23259,10 +23273,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Parfaire sa maîtrise de l'allemand à l'oral et à l'écrit à partir des connaissances de base: extension du vocabulaire de base, développement de syntaxe et de grammaire, différents temps des verbes",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Piras",
+      "prenom" : "Cristina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Lundi"
+   } ],
    "id" : 66752,
    "intitule" : "Allemand II",
    "langueCoursCode" : "DE",
@@ -23325,10 +23346,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Cours de perfectionnement et de conversation. Décrire son milieu privé et professionnel (personnes, lieux, études, job). S'échanger de manière simple sur des informations et idées, décrire un événement, comprendre des textes courts et en discuter. Comprendre les informations des médias (radio, télévision) en langue simple et distincte sur des événements et accidents du quotidien.\r\nRaconter des histoires et expériences et rapporter des événements. Demander des opinions et exprimer son point de vue sur un sujet.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Piras",
+      "prenom" : "Cristina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Lundi"
+   } ],
    "id" : 66751,
    "intitule" : "Allemand IV - conversation",
    "langueCoursCode" : "DE",
@@ -23391,10 +23419,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 à l'Athénée de Luxembourg ou en ligne",
    "description" : "The aim is to build confidence and improve conversational skills in everyday situations. Through structured dialogues and situational role-play, participants will learn to express themselves more naturally in Japanese. Grammar is studied using the Marugoto Rikai textbook and reinforced through teacher-prepared conversation materials. // Prendre part à des conversations de la vie quotidienne. Se présenter soi-même à autrui. S'exprimer de façon succincte sur des sujets familiers de la sphère privée et progressivement aussi de la vie professionnelle.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Matsumura",
+      "prenom" : "Yurie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Lundi"
+   } ],
    "id" : 66767,
    "intitule" : "Japonais III - A2 conversation",
    "langueCoursCode" : "EN",
@@ -23457,10 +23492,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "S'entraîner à s'exprimer de manière fluide sur des sujets de la vie privée et professionnelle. Expliquer des situations et expériences en élargissant son vocabulaire de base et en consolidant les temps des verbes. Présenter et discuter des sujets d'actualité. Communiquer et échanger ses opinions. Ne pas perdre le contact avec la langue arabe à la fin des cours en gardant une occasion hebdomadaire à s'entraîner au niveau de la compétence orale.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Benaceur",
+      "prenom" : "Djamila"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:40 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:40",
+      "jour" : "Lundi"
+   } ],
    "id" : 66749,
    "intitule" : "Arabe V - conversation",
    "langueCoursCode" : "AR",
@@ -23523,10 +23565,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Le plaisir d'approfondir nos connaissances et aller en avant ensemble sans contrainte ni précipitation. \r\nVouloir enrichir notre vocabulaire en lisant et en traduisant des textes que vous pouvez proposer ou choisir. \r\nParler de tout ce qui nous passionne dans la vie, raconter un événement, un voyage. \r\nApprécier l'humour et la fantaisie.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Potemkina-Jélèzniak",
+      "prenom" : "Anna"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   } ],
    "id" : 66779,
    "intitule" : "Russe III",
    "langueCoursCode" : "FR",
@@ -23589,10 +23638,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Différents temps des verbes. Adjectifs, adverbes de fréquence, contrastes, comparatif et superlatif, marqueurs du passé. \r\nRédiger des textes simples (lettres, courriels, descriptions).\r\nComprendre des informations, expressions et questions courantes sur la vie quotidienne, l'identité et des endroits. \r\nRepérer des données sur un sujet et suivre des indications brèves et simples.\r\nDevenir capable de demander des renseignements simples ou un service à quelqu'un. \r\nCommuniquer ses coordonnées et saluer par des formules simples.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Plaza Lopez",
+      "prenom" : "Maria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Lundi"
+   } ],
    "id" : 66763,
    "intitule" : "Espagnol II",
    "langueCoursCode" : "FR",
@@ -23655,10 +23711,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Acquérir les connaissances de base de la langue espagnole. \r\nParler du présent, donner des informations personnelles, décrire des actions habituelles ou un lieu, décrire des situations dans le passé. \r\nUtiliser un vocabulaire simple lié à la famille, au corps, aux vêtements, au métier. \r\nApprendre les heures, les numéros, l'alphabet, les noms des pays, les professions.\r\nLire et rédiger des textes simples.\r\nEntrer en contact avec quelqu'un.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Plaza Lopez",
+      "prenom" : "Maria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Lundi"
+   } ],
    "id" : 66762,
    "intitule" : "Espagnol I",
    "langueCoursCode" : "FR",
@@ -23721,10 +23784,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Être capable de s'entretenir en arabe sur des sujets d'intérêt personnel et dans des contextes professionnels. \r\nDéveloppement de l'expression orale et de la compétence générale en arabe au niveau de la compréhension de documents oraux et écrits. \r\nDéveloppement des stratégies d'écoute (repérage, anticipation,etc.) pour améliorer la compréhension de documents audiovisuels; points de grammaire fondamentaux reliés au type de discours pratiqué.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bourouaieh",
+      "prenom" : "Naima"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Lundi"
+   } ],
    "id" : 66746,
    "intitule" : "Arabe II",
    "langueCoursCode" : "FR",
@@ -23787,10 +23857,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Être capable de s'exprimer oralement en arabe dans un nombre limité de situations de la vie courante.\r\nPrononciation, représentation écrite, grammaire, vocabulaire et structures syntaxiques de base absolue.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bourouaieh",
+      "prenom" : "Naima"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Lundi"
+   } ],
    "id" : 66745,
    "intitule" : "Arabe I",
    "langueCoursCode" : "FR",
@@ -23853,10 +23930,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Chaque séance s’ouvre sur une œuvre d’art — une porte ouverte sur un monde d’images, d’idées et de résonances à travers le temps. Tout au long de l’année, une sélection d’œuvres clés signées par des artistes majeurs servira de point de départ à une exploration mêlant analyse formelle et mise en contexte (artistique, culturel, historique ou social). Ce regard approfondi ouvre un dialogue visuel : des liens se tissent avec d’autres œuvres du même artiste, du même courant ou d’époques différentes. Au fil du parcours, certaines images familières se dévoilent sous un jour nouveau, tandis que des correspondances inattendues émergent — offrant un regard renouvelé sur l’art et son histoire.\r\nObjectifs: explorer des oeuvres d'art et des mouvements artistiques autour d'un sujet commun, développer les compétences d'analyse individuelle et de pensée critique, comprendre le contexte culturel et historique d'une oeuvre d'art, inspirer la curiosité, la créativité et une appréciation des arts visuels",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Omes",
+      "prenom" : "Fanny"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 18:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   } ],
    "id" : 66743,
    "intitule" : "Konschtgeschicht: \"Regards croisés sur l'art\"",
    "langueCoursCode" : "LB",
@@ -23919,10 +24003,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Comprendre les points essentiels quand un langage clair et standard est utilisé.\r\nCaractériser quelqu'un ou quelque chose et exprimer des goûts et des sentiments.\r\nFormuler des opinions, exprimer l'accord, le désaccord, argumenter.\r\nRaconter un événement ou un rêve.\r\nParler du passé : souvenirs d'enfance, anecdotes, événements, parcours de vie.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Frygana",
+      "prenom" : "Maria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Lundi"
+   } ],
    "id" : 66757,
    "intitule" : "Grec moderne III",
    "langueCoursCode" : "EN",
@@ -23985,10 +24076,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Prendre contact, saluer, donner ses coordonnées.\r\nÉchanger des informations simples sur la famille, le travail, les sorties, les projets, les vacances, le logement.\r\nSe présenter d'une manière simple et présenter quelqu'un d'autre.\r\nParler de ses activités quotidiennes et de ses loisirs.\r\nCommuniquer de manière simple dans la vie de tous les jours: achats, restaurants, cafés.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Frygana",
+      "prenom" : "Maria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Mardi"
+   } ],
    "id" : 66754,
    "intitule" : "Grec moderne I",
    "langueCoursCode" : "FR",
@@ -24051,10 +24149,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou bien en ligne",
    "description" : "Kanji, verbs (masu, dictionary, nai, te, ta, potential, volitional, and more). The aim is to communicate in a variety of everyday situations as expressing feelings, giving reasons, and describing contexts and circumstances. By the end of the year, participants will be prepared to pass the JLPT N4, with additional self-study outside of class.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Matsumura",
+      "prenom" : "Yurie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 67060,
    "intitule" : "Japonais IV",
    "langueCoursCode" : "EN",
@@ -24117,10 +24222,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Utiliser des expressions courantes, être capable de s'exprimer sur sa vie courante, les études et la vie professionnelle; décrire ses loisirs, intérêts, le temps, la nourriture; être en mesure de communiquer lors de déplacements et voyages et en situations familières; accentuation des aspects grammaticaux; comprendre des texts courts et pratiques",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Su",
+      "prenom" : "Yang"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 66784,
    "intitule" : "Chinois III",
    "langueCoursCode" : "FR",
@@ -24193,10 +24305,17 @@
       "domaine" : "Compréhension "
    } ],
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Su",
+      "prenom" : "Yang"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Mardi"
+   } ],
    "id" : 66782,
    "intitule" : "Chinois I",
    "langueCoursCode" : "EN",
@@ -24317,10 +24436,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Tenir des conversations sur des sujets d'actualité (p. ex. vieillissement de la société, réchauffement climatique, développement durable, éthique, alimentation, agriculture, littérature, personnages historiques et contemporains). \r\nArgumenter son avis sur des sujets complexes. \r\nÉtablir et gérer des projets (p. ex. voyages).\r\nRévision et consolidation de la grammaire est du vocabulaire des niveaux CECRL précédents.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ruiz Plaza",
+      "prenom" : "Gloria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 66765,
    "intitule" : "Espagnol V - conversation (B1)",
    "langueCoursCode" : "ES",
@@ -24383,10 +24509,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "La grande découverte de l'alphabet cyrillique russe, des règles phonétiques avec la surprise des \"Oh!\" qui se transforment en \"Ah!\" sans stress dans une atmosphère bienveillante avec une approche personnalisée pour pouvoir se présenter, faire connaissance, jouer et chanter en russe.\r\nAcquisition de connaissances de base de la langue et culture russes",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Potemkina-Jélèzniak",
+      "prenom" : "Anna"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 66778,
    "intitule" : "Russe I",
    "langueCoursCode" : "FR",
@@ -24449,10 +24582,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Ce cours s'adresse aux apprenants ayant déjà  une connaissance de base du portugais et souhaitant enfin libérer leur parole. L'accent est mis sur le renforcement des compétences en communication. Au niveau B1, les apprenants élargiront et enrichiront leur vocabulaire quotidien, affineront leur prononciation, amélioreront la précision grammaticale et gagneront en confiance pour participer naturellement à des conversations réelles, des débats et des situations de la vie courante.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ramos De Figueiredo",
+      "prenom" : "Eduardo Herminio"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Mardi"
+   } ],
    "id" : 66777,
    "intitule" : "Portugais III - conversation",
    "langueCoursCode" : "EN",
@@ -24515,10 +24655,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées en relation avec des domaines immédiats de priorité. \r\nCommuniquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simples et directes sur des sujets familiers et habituels. \r\nDécrire avec une certaine fluidité et par des moyens simples sa formation ou son environnement immédiat et évoquer des sujets qui correspondent à des besoins immédiats.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ramos De Figueiredo",
+      "prenom" : "Eduardo Herminio"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Mardi"
+   } ],
    "id" : 66776,
    "intitule" : "Portugais II",
    "langueCoursCode" : "FR",
@@ -24735,10 +24882,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Cours de perfectionnement et de conversation.\r\nConsolidation et extension du vocabulaire et de la grammaire arabe.\r\nS'exprimer de manière détaillée sur des événements, rêves, projets, souhaits, soi-même.\r\nArgumenter son point de vue sur un sujet.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Benaceur",
+      "prenom" : "Djamila"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Mardi"
+   } ],
    "id" : 66748,
    "intitule" : "Arabe IV",
    "langueCoursCode" : "FR",
@@ -24801,10 +24955,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Consolidation et développement de la maîtrise des structures de base de l'arabe. \r\nConjugaisons des verbes au présent, futur et passé. \r\nComprendre des phrases isolées et des expressions fréquemment utilisées. \r\nCommuniquer dans des situations de la vie courante (sujets familiers et habituels). \r\nLire des textes courts et simples. \r\nMaîtrise du code graphique de l'arabe.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Benaceur",
+      "prenom" : "Djamila"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Mardi"
+   } ],
    "id" : 66747,
    "intitule" : "Arabe III",
    "langueCoursCode" : "FR",
@@ -24867,10 +25028,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Aperçu général de l'histoire de la musique, du chant grégorien au concerto pour piano de Pjotr I. Tschaikowski. L'évolution de la musique chorale, vocale, orchestrale et de chambre à travers les différentes époques présentée avec extraits de concerts, illustrations et informations essentielles. Points forts: \r\n•\tAnthony Holborn - Renaissance au bout des doigts: Le cistre enchanté..\r\n•\tJ.S. Bach - Cris et pardons: Au coeur de la passion de Bach.\r\n•\tC. PH. E. Bach - Bach le Jeune: La révolution du clavier.\r\n•\tL. van Beethoven - Le duel des Géants: B. et l'art du concerto.\r\n•\tL'Ombre et la Lumière: Les cycles secrets de Robert Schuman.\r\n•\tPassion et Nostalgie: Le souffle polonais de Chopin.\r\n•\tLe Drame Absolu: Wagner et le sacre de son \"Gesamtkunstwerk\"",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Koob",
+      "prenom" : "Sam"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 66744,
    "intitule" : "Histoire de la musique - un aperçu général avec certains points forts à mieux connaître",
    "langueCoursCode" : "LB",
@@ -24933,10 +25101,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "A la fin du cours, les apprenants pourront échanger des informations et idées simples dans les trois temps, ils sauront parler de soi-même, de leur futur et de leur passé, raconter un événement simple, faire des achats, comprendre quelques textes de la presse quotidienne (p. ex. des annonces).",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Wiczkowska",
+      "prenom" : "Edyta"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 66773,
    "intitule" : "Polonais II",
    "langueCoursCode" : "FR",
@@ -24999,10 +25174,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Répétition générale de la grammaire;\r\ntraduction de textes originaux adaptés aux connaissances requises des apprenants au cours d l'année scolaire",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Kerger",
+      "prenom" : "Robert"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 66771,
    "intitule" : "Latin II avancé",
    "langueCoursCode" : "FR",
@@ -25065,10 +25247,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Comprendre le contenu essentiel de sujets concrets ou abstraits dans un discours complexe, y compris une discussion technique dans sa spécialité. Communiquer avec un degré de spontanéité et d'aisance telle qu'une conversation avec un interlocuteur natif. S'exprimer de façon claire et détaillée sur une grande gamme de sujets. Émettre un avis sur un sujet d'actualité et exposer les avantages et les inconvénients de différentes possibilités. Le focus est mis sur l'expression orale et la compréhension auditive dans ce cours.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Simou",
+      "prenom" : "Areti"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 17:50 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:50",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66755,
    "intitule" : "Grec moderne IV - conversation",
    "langueCoursCode" : "FR",
@@ -25131,10 +25320,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Apprendre et consolider la grammaire fondamentale;\r\ns'entraîner dans la lecture de textes non originaux, mais adaptés au niveau des connaissances requises au cours de l'année scolaire",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Dabe",
+      "prenom" : "Liliane Marcelle"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66770,
    "intitule" : "Latin I intermédiaire",
    "langueCoursCode" : "FR",
@@ -25263,10 +25459,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Comprendre les principaux points d'une conversation simple portant sur des sujets familiers (travail, loisirs, famille).\r\nFaire face avec une certaine fluidité à la plupart des situations susceptibles lors d'un voyage ou d'un événement social.\r\nProduire des textes cohérents et assez détaillés sur des sujets familiers ou d'intérêt personnel.\r\nDécrire de manière assez détaillée des expériences ou événements, des rêves, espoirs ou ambitions.\r\nExposer et argumenter brièvement ses opinions.\r\nTemps des verbes complétés par conditionnel et subjonctif.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ruiz Plaza",
+      "prenom" : "Gloria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66764,
    "intitule" : "Espagnol III",
    "langueCoursCode" : "FR",
@@ -25329,10 +25532,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Aimer parler et participer aux conversations en abordant des sujets variés sans tension; écouter en essayant de comprendre les avis des autres participants; prendre l'initiative en proposant un sujet, un article, une image, un texte, un personnage, un objet pour lancer le débat; distinguer des registres du langage, cultiver la spontanéité et l'humour.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Potemkina-Jélèzniak",
+      "prenom" : "Anna"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66780,
    "intitule" : "Russe IV - conversation",
    "langueCoursCode" : "RU",
@@ -25395,10 +25605,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés très simples satisfaisant des besoins concrets.\r\nSe présenter ou présenter quelqu'un d'autre. \r\nPoser à une personne des questions la concernant (lieu d'habitation, relations familiales et sociales, profession, loisirs) et savoir répondre au même type de questions. Communiquer de façon simple si l'interlocuteur parle lentement et distinctement en se montrant coopératif.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Ramos De Figueiredo",
+      "prenom" : "Eduardo Herminio"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66775,
    "intitule" : "Portugais I",
    "langueCoursCode" : "FR",
@@ -25461,10 +25678,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "A la fin du cours, les apprenants pourront échanger des informations plus complexes; raconter un événement de manière détaillée; rédiger un email structuré ou une lettre; préciser son avis sur un certain sujet;  argumenter son opinion; accepter poliment une proposition ou la refuser. Ce cours est surtout concentré sur la conversation.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Wiczkowska",
+      "prenom" : "Edyta"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66774,
    "intitule" : "Polonais III",
    "langueCoursCode" : "FR",
@@ -25527,10 +25751,17 @@
    "dateInscription" : "Mardi, 15 septembre 2026 de 17h30 à 19h30 ou bien en ligne",
    "description" : "Renforcement de l'expression orale sur des sujets variés (actualité, société, histoire, culture hispanophone). \r\nTechniques d'argumentation et de débat: exposer un point d vue, nuancer, concéder, réfuter.\r\nExpression de l'opinion, du doute, de la concession, de l'hypothèse.\r\nEnrichissement lexical: expressions idiomatiques, collocations, registres de langue.\r\nPréparation aux interactions orales complexes et spontanées.\r\nRévision et approfondissement du subjonctif présent dans ses différents emplois.\r\nRévision contraste de temps du passé.\r\nDébats en groupe sur des sujets d'actualité.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Plaza Lopez",
+      "prenom" : "Maria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 18:45 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:45",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67059,
    "intitule" : "Espagnol IV",
    "langueCoursCode" : "FR",
@@ -25593,10 +25824,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Students will work on guided assignments as well as personal projects inspired by images and reference materials from the animal and plant world. The course encourages an explanatory and expressive approach to drawing, focusing less on technical perfection than on developing observation, visual sensitivity and an individual artistic language. Through experimentation, students will investigate how formal elements such as line, texture, composition, contrats and mark-making contribute to the character and expressive qualities of a drawing. Attention will also be given to analysing what gives drawings presence, atmosphere, rhythm an emotional impact. The course will allow individuals to explore different ideas and drawing techniques while focusing their attention on the present moment to promote mindfulness and mental well-being. Short group discussions on the creative process are encouraged for those interested in sharing ideas and reflections with others.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Omes",
+      "prenom" : "Fanny"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66742,
    "intitule" : "Drawing class - Capturing life: Drawing the zoological and botanical world",
    "langueCoursCode" : "EN",
@@ -25659,10 +25897,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Améliorer les compétences globales, communiquer plus aisément, exprimer des opinions, comprendre des contenus plus complexes et utiliser le chinois dans la vie quotidienne et académique.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Su",
+      "prenom" : "Yang"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66785,
    "intitule" : "Chinois IV",
    "langueCoursCode" : "FR",
@@ -25725,10 +25970,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Permettre des entretiens simples dans la vie quotidienne: se présenter, exprimer des préférences et souhaits, décrire le temps, faire des commissions, s'orienter, formuler des questions. Le point fort est mis sur l'écoute et la communication verbale.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Su",
+      "prenom" : "Yang"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66783,
    "intitule" : "Chinois II - conversation A1",
    "langueCoursCode" : "EN",
@@ -25791,10 +26043,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Approfondissement du vocabulaire, de la grammaire et de la syntaxe par rapport au niveau A1 du CECRL; différenciation entre les temps des verbes (parler de projets futurs, raconter du passé, décrire des événements et émotions du passé, présent et futur); participer à des entretiens; discuter des sujets d'actualité de manière simple",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Piras",
+      "prenom" : "Cristina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 17:35 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:35",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66753,
    "intitule" : "Allemand III",
    "langueCoursCode" : "DE",
@@ -25857,10 +26116,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Apprentissage oral puis écrit de la langue allemande; vocabulaire de base pour un niveau débutant",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Piras",
+      "prenom" : "Cristina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 19:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66750,
    "intitule" : "Allemand I",
    "langueCoursCode" : "DE",
@@ -25923,10 +26189,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "L'Arc-en-ciel des couleurs et autres adjectifs, l'étonnante logique des dates, la richesse des déclinaisons, la multitude des verbes irréguliers ainsi que la liberté des verbes de mouvement pour parler de la vie et annoncer les bonnes nouvelles!\r\nApprofondissement des connaissances de la langue et culture russes",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Potemkina-Jélèzniak",
+      "prenom" : "Anna"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66781,
    "intitule" : "Russe II",
    "langueCoursCode" : "FR",
@@ -25989,10 +26262,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Cours d'introduction à la langue: devenir capable de communiquer avec des mots et phrases très simples dans l'activité quotidienne. \r\nLes apprenants pourront se présenter, faire connaissance avec quelqu'un, faire des achats, parler d'eux-mêmes, de leurs habitudes, de leurs passe-temps, lire et remplir un document simple, formuler une invitation, écrire une carte postale, connaître les chiffres, couleurs et adjectifs de base",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Wiczkowska",
+      "prenom" : "Edyta"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 18:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66772,
    "intitule" : "Polonais I",
    "langueCoursCode" : "FR",
@@ -28358,10 +28638,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Cours pour débutants avec vocabulaire, grammaire et syntaxe de base. \r\nAccent surtout sur l'expression orale: p.ex. se présenter soi-même ou présenter quelqu'un d'autre, décrire un chemin, un besoin, un événement de manière très simple. \r\nComparaisons  avec la grammaire française et allemande.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guri",
+      "prenom" : "Nertil"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 19:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66758,
    "intitule" : "Anglais I",
    "langueCoursCode" : "FR",
@@ -28686,10 +28973,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Apprendre et pratiquer l'anglais en communiquant; comprendre et utiliser des expressions familières et quotidiennes ainsi que des énoncés plutôt simples. \r\nCommuniquer de façon adéquate tout en élargissant son vocabulaire et en se concentrant sur une syntaxe correcte (comparaisons avec la grammaire française et allemande).",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guri",
+      "prenom" : "Nertil"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   } ],
    "id" : 66759,
    "intitule" : "Anglais II",
    "langueCoursCode" : "EN",
@@ -28995,10 +29289,17 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Cours de perfectionnement:\r\nApprendre et pratiquer l'anglais en communiquant. Comprendre les points essentiels: au travail/école/actualité/loisirs. Se débrouiller lors d'un voyage. Tenir un discours plus complexe et cohérent dans les domaines d'intérêt et familiers. Faire attention aux temps des verbes. Raconter/exposer/expliquer de manière assez détaillée: évènement/rêve/projet/idée. Comparaison avec grammaire française et allemande.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guri",
+      "prenom" : "Nertil"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 19:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   } ],
    "id" : 66760,
    "intitule" : "Anglais III",
    "langueCoursCode" : "EN",
@@ -29468,10 +29769,17 @@
       "domaine" : "Expressions orales spontanées et préparées"
    } ],
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Guri",
+      "prenom" : "Nertil"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 19:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66761,
    "intitule" : "Anglais IV - conversation",
    "langueCoursCode" : "EN",
@@ -31657,7 +31965,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -32559,10 +32867,7 @@
    "dateInscription" : "Hôtel de Ville de Dudelange/ \r\n51 61 21 538\r\nCoursinformatiques@dudelange.lu",
    "description" : "Initiation à l'ordinateur.\r\nSe familiariser avec l'ordinateur et son système d'exploitation. \r\nAcquérir les notions de base du traitement de texte. \r\nGérer les fichiers.",
    "duree" : "24h",
-   "enseignants" : [ {
-      "nom" : "Casanova E Silva",
-      "prenom" : "Marisa"
-   } ],
+   "enseignants" : [ ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
    "horaires" : [ {
@@ -33244,7 +33549,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 17,
+   "nbInscrits" : 18,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
