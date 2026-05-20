@@ -713,7 +713,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -1634,17 +1634,36 @@
       "domaine" : "Expression Ecrite"
    } ],
    "duree" : "60h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Thomas",
+      "prenom" : "Philippe"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:30 (durée 3h), Mardi à 08:30 (durée 3h), Mercredi à 08:30 (durée 3h), Jeudi à 08:30 (durée 3h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 66698,
    "intitule" : "Français",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 5,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -7552,7 +7571,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DIG",
    "matiereNom" : "Digital",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -24015,7 +24034,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "JA",
    "matiereNom" : "Japonais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -30831,6 +30850,68 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NUT-2",
+   "coursId" : "SO-NUT-2",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "20/05/2026",
+   "dateFin" : "20/05/2026",
+   "description" : "Atelier cuisine pratique et convivial pour découvrir les principes de la lacto-fermentation ainsi que ses nombreux bienfaits pour la santé.\r\n\r\nAu cours de ce workshop, vous apprendrez les bases de cette technique de conservation naturelle et réaliserez vous-même deux bocaux de légumes en explorant les deux méthodes principales : la saumure et la fermentation sèche.\r\n\r\nUne expérience accessible, ludique et enrichissante, qui vous permettra de repartir avec des préparations faites maison et les connaissances pour reproduire facilement ces techniques chez vous.",
+   "duree" : "2 leçons",
+   "enseignants" : [ {
+      "nom" : "Arnould-Guttinger",
+      "prenom" : "Audrey"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 20-05-2026 à 16:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "16:20",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66222,
+   "intitule" : "Atelier cuisine : conserver ses légumes grâce à la lactofermentation, principes et bienfaits",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NUT",
+   "matiereNom" : "Nutrition",
+   "nbInscrits" : 11,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMjI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Pour des raisons d’organisation, les inscriptions seront clôturées la veille du cours, soit le 19/05/2026 à 17h00. Toute inscription effectuée après cette heure ne pourra malheureusement pas être prise en compte. Merci pour votre compréhension.",
+   "renseignements" : "Le formateur met à disposition tout le matériel nécessaire. Une participation de 12,50 € par personne est à régler directement auprès du formateur.\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
