@@ -36,71 +36,11 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
+   "nbInscrits" : 11,
+   "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-DIG-10",
-   "coursId" : "IN-DIG-10",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "22/05/2026",
-   "dateFin" : "22/05/2026",
-   "description" : "Mobile networks connect society, business, and public services. Participants explore 4G, 5G, satellites, and future 6G technologies using real-world examples. \r\n\r\nTelecommunication networks are developed using virtual testbeds and emulators. This course allows participants to build and experiment with mobile networks in software environments.\r\n\r\nLearners configure virtual base stations, simulate user traffic, and analyse coverage using no-code platforms and visual tools.\r\n\r\nThe focus is on experimentation and system understanding through guided labs.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Jaffer",
-      "prenom" : "Ghulam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 22-05-2026 à 14:30 (durée 5h)",
-   "horaires" : [ {
-      "duree" : "5h",
-      "heure" : "14:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66089,
-   "intitule" : "Modern Telecommunications: From Mobile Networks to 6G",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DIG",
-   "matiereNom" : "Digital",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwODk%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -627,7 +567,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -7872,7 +7812,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -9692,7 +9632,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -24057,10 +23997,18 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Apprentissage des lettres japonaises. Acquisition de vocabulaire et de structures grammaticales simples. Acquérir les bases indispensables pour débutants absolus.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Moulin",
+      "prenom" : "Aurélie",
+      "presentation" : "Mme Moulin a donné un cours de japonais à l'Athénée pendant l'année scolaire 2024/2025 avec un contrat expert externe. En 2025/2026 son statut a été changé en 'chargé d'éducation'."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 66769,
    "intitule" : "Japonais I",
    "langueCoursCode" : "EN",
@@ -25080,10 +25028,18 @@
    "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
    "description" : "Apprentissage des lettres japonaises. Acquisition de vocabulaire et de structures grammaticales simples. Acquérir les bases indispensables pour débutants absolus.",
    "duree" : "52 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Moulin",
+      "prenom" : "Aurélie",
+      "presentation" : "Mme Moulin a donné un cours de japonais à l'Athénée pendant l'année scolaire 2024/2025 avec un contrat expert externe. En 2025/2026 son statut a été changé en 'chargé d'éducation'."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 17:45 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:45",
+      "jour" : "Mercredi"
+   } ],
    "id" : 66766,
    "intitule" : "Japonais I",
    "langueCoursCode" : "EN",
@@ -31710,7 +31666,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -57169,7 +57125,8 @@
    "duree" : "52 leçons",
    "enseignants" : [ {
       "nom" : "Moulin",
-      "prenom" : "Aurélie"
+      "prenom" : "Aurélie",
+      "presentation" : "Mme Moulin a donné un cours de japonais à l'Athénée pendant l'année scolaire 2024/2025 avec un contrat expert externe. En 2025/2026 son statut a été changé en 'chargé d'éducation'."
    } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 17:45 (durée 1h40)",
