@@ -11,68 +11,6 @@
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COS-6",
-   "coursId" : "AR-COS-6",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "22/05/2026",
-   "dateFin" : "22/05/2026",
-   "description" : "Apprendre à reconnaître son type de cheveu et ses besoins spécifiques, puis créer un soin capillaire naturel et personnalisé.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Bakayoko",
-      "prenom" : "Ahoua Eve",
-      "presentation" : "https://missbak.com/en/pages/impact-social-missbak?srsltid=AfmBOorxsp0ZXyMqo9qFsvWH2a_O2wMzNwJI1tjrMGt1yC-FAYdU--Xs"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 22-05-2026 à 12:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65822,
-   "intitule" : "Workshop - Identifiez votre type de cheveu et fabriquez un soin adapté",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COS",
-   "matiereNom" : "Cosmétiques",
-   "nbInscrits" : 7,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU4MjI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge de l’achat du matériel nécessaire, avec un remboursement forfaitaire de 25 euros."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
    "coursCode" : "AR-OEN-28",
    "coursId" : "AR-OEN-28",
    "coursType" : "CLASSIQUE",
@@ -31184,103 +31122,6 @@
    "renseignements" : "Accès pour personnes à mobilité réduite,\r\nHors vacances scolaires\r\n"
 }, {
    "adresseCours" : {
-      "codePostal" : "1278",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-74",
-   "coursId" : "IN-BUR-74",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "19/05/2026",
-   "dateFin" : "22/05/2026",
-   "dateInscription" : "Inscription sur place avant le début de la formation.",
-   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
-   "domainesCompetences" : [ {
-      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
-      "domaine" : "Compétences informatiques"
-   } ],
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Hazizaj",
-      "prenom" : "Bashkim"
-   }, {
-      "nom" : "Gomes Da Costa",
-      "prenom" : "Orlando"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64078,
-   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1617",
-         "localite" : "Luxembourg",
-         "nom" : "Clae services asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "26, rue de Gasperich"
-      },
-      "code" : "CLAE",
-      "mail" : "patricia.lopes@clae.lu",
-      "nom" : "Clae services asbl",
-      "nomContact" : "Lopes",
-      "onlineReg" : false,
-      "prenomContact" : "Patricia",
-      "statut" : "ASBL",
-      "telephone" : "+352 29 86 86 1",
-      "websiteUrl" : "https://www.clae.lu/"
-   },
-   "prerequis" : "Connaissance de base de l'utilisation du numérique"
-}, {
-   "adresseCours" : {
       "codePostal" : "9089",
       "localite" : "Ettelbruck",
       "nom" : "Association des parents d'elèves d'Ettelbruck",
@@ -33838,103 +33679,6 @@
    },
    "prerequis" : "niveau A2 oral acquis",
    "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1458",
-   "coursId" : "LA-FR-1458",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "20/04/2026",
-   "dateFin" : "22/05/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Reconnaître expressions idiomatiques/familières ; ajuster registre selon contexte social ; comprendre humour, ironie et références culturelles implicites.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Débattre d’un problème complexe ", "développer un argument systématiquement ", "faire un exposé clair et bien structuré ", "gérer objections avec spontanéité." ],
-      "domaine" : "production orale"
-   }, {
-      "competences" : [ "Adapter un  ton, un style et un registre au public cible", "exposer un sujet complexe avec arguments secondaires ", " prouver un point de vue longuement ", "écrire un rapport/article/dissertation structurés." ],
-      "domaine" : "production écrite"
-   }, {
-      "competences" : [ "Reconnaître les idiomatismes et changements de registre", " suivre des discussions de groupe complexes", " comprendre des  attitudes dans débats animés ", "suivre des conférences et débats avec aisance.\r\n" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "Identifier des attitudes implicites dans des correspondance/blogues ", " comprendre l'humour et les idiomatismes\r\n", " parcourir rapidement plusieurs textes pour identifier leur pertinence" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "Reformuler, contester contributions", " exprimer un désaccord diplomatique", "demander des détails ", "organiser discussion pour décider d’actions", " négocier des affaires complexes." ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "écrire une correspondance souple et efficace, y compris dans le registre affectif ou humoristique", "écrire des ettres formelles (candidatures, réclamations, condoléances)." ],
-      "domaine" : "interaction écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Steiner",
-      "prenom" : "Rachel"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 17:00 (durée 3h), Mardi à 17:00 (durée 3h), Mercredi à 17:00 (durée 3h), Jeudi à 17:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "17:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65208,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 9,
-   "nbPlaces" : 24,
-   "niveau" : "C1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau C1.1 acquis"
 }, {
    "adresseCours" : {
       "codePostal" : "1750",
@@ -41773,47 +41517,47 @@
    "renseignements" : "Mitzubringen: Nähmaschine, Stoff- und Papierscheren, Nahttrenner, Stecknadeln, Qualitätsgarn, Nadeln, Maßband, Schneiderkreide, Stoffmarker, Geodreieck, Schnittpapier, Bleistift, Stoff je nach Projekt."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
+      "codePostal" : "1338",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée Bonnevoie",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
+      "rueNumero" : "119 rue du cimetière"
    },
    "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-AG-18",
-   "coursId" : "AR-AG-18",
+   "coursCode" : "AR-COUT-84",
+   "coursId" : "AR-COUT-84",
    "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
+   "cout" : 216.0,
    "dateDebut" : "27/02/2026",
-   "dateFin" : "22/05/2026",
-   "description" : "Workshop de pluridisciplinaire 6 séances autour du thème du bestiaire. Au programme : création d'un bestiaire illustré à partir de différentes techniques graphiques : dessin à l'encre, au fusain, au crayons ou encore initiation à la gravure.",
-   "duree" : "20 leçons",
+   "dateFin" : "10/07/2026",
+   "description" : "Les participants ayant déjà les bases, pourront apporter leur propre projet et les séances seront tournées sur un accompagnement avec des conseils (sur les tissus, sur la machine à coudre), des astuces et la marche à suivre afin de réaliser au mieux leur projet couture. Si les participants n'ont pas d'idées de projets, des livres de couture et de patronage leur seront proposés.\r\nLes apprenants débutants découvriront les bases de la couture :\r\nCe cours vise à initier les participants à l'art de la couture, tout en explorant les bases à travers son vocabulaire, l’utilisation des machines, leurs accessoires, les tissus et par la réalisation de pièce d’études et accessoires.\r\nVous apprendrez à maîtriser les bases de la couture avec la découverte de la machine à coudre et de la surjeteuse, comprendre leurs fonctionnalités. Vous réaliserez des accessoires simples ; des trousses, des tote-bags, des pochettes, afin de découvrir la pose d'accessoires (type : zip, boutons..)\r\nVous découvrirez les différentes coutures de finitions et de montage mais, également le montage des différents cols et des différentes poches. Vous apprendrez à lire des patronages industriels, à retoucher vos vêtements mais surtout à réaliser vos propres pièces.\r\nAlors, venez découvrir l'art de la couture et passer un bon moment de partage.",
+   "duree" : "48 leçons",
    "enseignants" : [ {
-      "nom" : "Valet",
-      "prenom" : "Léa"
+      "nom" : "Brilli",
+      "prenom" : "Julie"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 18:50 (durée 1h40)",
+   "horairePrevu" : "Vendredi à 17:10 (durée 2h30)",
    "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:50",
+      "duree" : "2h30",
+      "heure" : "17:10",
       "jour" : "Vendredi"
    } ],
-   "id" : 62940,
-   "intitule" : "Bestiaire illustré  - Créatures réelles et imaginaires - dessin, gravure",
+   "id" : 63949,
+   "intitule" : "Cours de couture – Niveau débutant & intermédiaire",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "AG",
-   "matiereNom" : "Arts graphiques",
-   "nbInscrits" : 2,
+   "matiereCode" : "COUT",
+   "matiereNom" : "Couture",
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
-   "niveau" : "Débutant",
+   "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjI5NDA%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NDk%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -41831,7 +41575,8 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "À apporter : bloc de papier A3, crayons graphites, stylos feutres, colle, ciseaux, gomme mie de pain, fusains/crayons fusains, gouge à graver (kit d’initiation). "
+   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
+   "renseignements" : "Matériel : mètre ruban, ciseaux, coupe-fil/découd-vite, épingles, fil blanc/noir, règle, toile coton, craie ou stylo frixion, papier patron, aiguilles machine (70–100)."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -41905,68 +41650,6 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-AAS-3",
-   "coursId" : "AR-AAS-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "27/02/2026",
-   "dateFin" : "22/05/2026",
-   "description" : "Atelier pluridisciplinaire centré sur le développement de l'imaginaire à travers différentes techniques : collage, gravure, illustrations et micro-édition. Cet atelier s'adresse aussi bien aux débutants souhaitant exercer leur imaginaire qu'aux personnes plus expérimentées désirant étendre leur univers à de nouvelles formes (impressions, livres-objets, microédition).",
-   "duree" : "20 leçons",
-   "enseignants" : [ {
-      "nom" : "Valet",
-      "prenom" : "Léa"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64678,
-   "intitule" : "Imaginaire et processus créatifs - collage, gravure, illustrations",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "AAS",
-   "matiereNom" : "Arts et artisanat",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ2Nzg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Le cours n’aura pas lieu pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "À apporter : bloc de papier A3, crayons graphites, gomme, ciseaux, cutter, kit d’initiation à la gravure (gouge) et papier calque. Matériel disponible dans les magasins de beaux-arts."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -42018,68 +41701,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "There will be no classes during the school holidays in Luxembourg.\r\nThe instructor will inform you about the materials needed for the course."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119 rue du cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-COUT-84",
-   "coursId" : "AR-COUT-84",
-   "coursType" : "CLASSIQUE",
-   "cout" : 216.0,
-   "dateDebut" : "27/02/2026",
-   "dateFin" : "10/07/2026",
-   "description" : "Les participants ayant déjà les bases, pourront apporter leur propre projet et les séances seront tournées sur un accompagnement avec des conseils (sur les tissus, sur la machine à coudre), des astuces et la marche à suivre afin de réaliser au mieux leur projet couture. Si les participants n'ont pas d'idées de projets, des livres de couture et de patronage leur seront proposés.\r\nLes apprenants débutants découvriront les bases de la couture :\r\nCe cours vise à initier les participants à l'art de la couture, tout en explorant les bases à travers son vocabulaire, l’utilisation des machines, leurs accessoires, les tissus et par la réalisation de pièce d’études et accessoires.\r\nVous apprendrez à maîtriser les bases de la couture avec la découverte de la machine à coudre et de la surjeteuse, comprendre leurs fonctionnalités. Vous réaliserez des accessoires simples ; des trousses, des tote-bags, des pochettes, afin de découvrir la pose d'accessoires (type : zip, boutons..)\r\nVous découvrirez les différentes coutures de finitions et de montage mais, également le montage des différents cols et des différentes poches. Vous apprendrez à lire des patronages industriels, à retoucher vos vêtements mais surtout à réaliser vos propres pièces.\r\nAlors, venez découvrir l'art de la couture et passer un bon moment de partage.",
-   "duree" : "48 leçons",
-   "enseignants" : [ {
-      "nom" : "Brilli",
-      "prenom" : "Julie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63949,
-   "intitule" : "Cours de couture – Niveau débutant & intermédiaire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NDk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
-   "renseignements" : "Matériel : mètre ruban, ciseaux, coupe-fil/découd-vite, épingles, fil blanc/noir, règle, toile coton, craie ou stylo frixion, papier patron, aiguilles machine (70–100)."
 }, {
    "adresseCours" : {
       "codePostal" : "4354",
