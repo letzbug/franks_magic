@@ -653,7 +653,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 11,
+   "nbInscrits" : 13,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -819,7 +819,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 12,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -1603,7 +1603,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -4286,7 +4286,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 20,
+   "nbInscrits" : 19,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -6433,7 +6433,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -7511,7 +7511,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DIG",
    "matiereNom" : "Digital",
-   "nbInscrits" : 5,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -8111,7 +8111,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 4,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -22803,7 +22803,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "JA",
    "matiereNom" : "Japonais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -23241,7 +23241,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ES",
    "matiereNom" : "Espagnol",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -25377,7 +25377,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ES",
    "matiereNom" : "Espagnol",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 24,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -25450,7 +25450,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 26,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -30828,7 +30828,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NUT",
    "matiereNom" : "Nutrition",
-   "nbInscrits" : 11,
+   "nbInscrits" : 10,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -31687,7 +31687,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 24,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -33428,12 +33428,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -33587,12 +33587,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -35347,12 +35347,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -37597,12 +37597,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -44829,12 +44829,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -46502,12 +46502,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -46590,12 +46590,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -46765,12 +46765,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -46854,12 +46854,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -46945,12 +46945,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -47200,12 +47200,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -47284,12 +47284,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -47369,12 +47369,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -47611,12 +47611,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -47696,12 +47696,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -47785,12 +47785,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -47966,12 +47966,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -48318,12 +48318,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -48403,12 +48403,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -49085,12 +49085,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -49416,12 +49416,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -49803,12 +49803,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -49891,12 +49891,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -51109,12 +51109,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
@@ -51266,12 +51266,12 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "9151",
-         "localite" : "Eschdorf",
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
          "nom" : "Landakademie",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2, am Foumichterwee"
+         "rueNumero" : "57, route de Fischbach"
       },
       "code" : "LANAKA",
       "fax" : "+352 89 95 68-40",
