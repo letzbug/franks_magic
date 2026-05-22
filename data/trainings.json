@@ -591,7 +591,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 13,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -1476,7 +1476,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 4,
+   "nbInscrits" : 6,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -3670,7 +3670,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -7740,8 +7740,8 @@
    "categorieCode" : "BP",
    "categorieCodeUnipop" : "CIT",
    "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-53",
-   "coursId" : "BP-EN-53",
+   "coursCode" : "BP-FR-53",
+   "coursId" : "BP-FR-53",
    "coursType" : "CLASSIQUE",
    "cout" : 0.0,
    "dateDebut" : "08/06/2026",
@@ -7749,8 +7749,8 @@
    "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
    "duree" : "6h",
    "enseignants" : [ {
-      "nom" : "Ahmed",
-      "prenom" : "Samah"
+      "nom" : "Ramdedovic",
+      "prenom" : "Munir"
    } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi 08-06-2026 à 12:00 (durée 2h),\nMercredi 10-06-2026 à 12:00 (durée 2h),\nVendredi 12-06-2026 à 12:00 (durée 2h)",
@@ -7767,17 +7767,17 @@
       "heure" : "12:00",
       "jour" : "Vendredi"
    } ],
-   "id" : 58204,
+   "id" : 58205,
    "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 17,
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Découvrir le GDL en français",
+   "nbInscrits" : 6,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMDQ%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMDU%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "1273",
@@ -7927,78 +7927,6 @@
       "websiteUrl" : "http://www.cigr.lu"
    },
    "renseignements" : "M. Lopes Philippe Tel: 26 70 17 12 e-mail: istuffsandweiler@pt.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-53",
-   "coursId" : "BP-FR-53",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "08/06/2026",
-   "dateFin" : "12/06/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Ramdedovic",
-      "prenom" : "Munir"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi 08-06-2026 à 12:00 (durée 2h),\nMercredi 10-06-2026 à 12:00 (durée 2h),\nVendredi 12-06-2026 à 12:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 58205,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 5,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMDU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -9739,7 +9667,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 20,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : false,
@@ -9885,7 +9813,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 8,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -10367,78 +10295,6 @@
    "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu .\r\nAccès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
-      "codePostal" : "1133",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue des Ardennes"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240 ",
-      "localite" : "Luxembourg",
-      "nom" : "Ville De Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1482",
-   "coursId" : "LA-LB-1482",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "15/06/2026",
-   "dateFin" : "09/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Schlechter",
-      "prenom" : "Anna"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 19:20 (durée 1h40), Mercredi à 19:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "19:20",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "19:20",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66119,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 21,
-   "nbPlaces" : 22,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
       "codePostal" : "2309",
       "localite" : "Luxembourg",
       "nom" : "Lycée Technique du Centre",
@@ -10664,7 +10520,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 15,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -11229,223 +11085,6 @@
       "telephone" : "+352 4796-4150"
    },
    "prerequis" : "A1.2",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1133",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue des Ardennes"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240 ",
-      "localite" : "Luxembourg",
-      "nom" : "Ville De Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1487",
-   "coursId" : "LA-LB-1487",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Schlechter",
-      "prenom" : "Anna"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 19:20 (durée 1h40), Jeudi à 19:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "19:20",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "19:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66124,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 21,
-   "nbPlaces" : 22,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "A1.1",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1133",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue des Ardennes"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240 ",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1479",
-   "coursId" : "LA-LB-1479",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Lemal",
-      "prenom" : "Carine"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 10:20 (durée 1h40), Jeudi à 10:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66116,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 20,
-   "nbPlaces" : 22,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1839",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Gare",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "29, rue de Strasbourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1478",
-   "coursId" : "LA-LB-1478",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Freimann",
-      "prenom" : "Annick"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 08:30 (durée 1h40), Jeudi à 08:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66115,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 23,
-   "nbPlaces" : 25,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
    "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
@@ -13164,6 +12803,71 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-CUIS-62",
+   "coursId" : "AR-CUIS-62",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "30/06/2026",
+   "dateFin" : "02/07/2026",
+   "description" : "Tour du monde en cuisine avec Chef Angie.\r\n\r\nPartez pour un véritable voyage culinaire à travers différentes cultures gastronomiques, guidé par Chef Angie. Chaque module, d’une durée de deux jours, propose une immersion pratique dans une cuisine du monde, mêlant techniques, histoire et dégustation.\r\n\r\nCe programme est conçu pour tous les passionnés de cuisine souhaitant découvrir des saveurs authentiques et développer leur créativité culinaire dans une ambiance conviviale et professionnelle.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Briceno Campos",
+      "prenom" : "Angie Roxana"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 17:00 (durée 2h30), Jeudi à 17:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67170,
+   "intitule" : "Cours de cuisine Internationale : Cuisine péruvienne – Saveurs emblématiques",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "CUIS",
+   "matiereNom" : "Cuisine",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcxNzA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Une participation aux frais des ingrédients,de 15 € sera demandée et à régler directement à la formatrice le jour même. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -14238,6 +13942,166 @@
       "rueNumero" : "18, montée de Clausen"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-115",
+   "coursId" : "SO-YOG-115",
+   "coursType" : "CLASSIQUE",
+   "cout" : 4.5,
+   "dateDebut" : "04/07/2026",
+   "dateFin" : "04/07/2026",
+   "description" : "Discover Laughter Yoga through a fun, accessible workshop open to everyone, combining mindful breathing, gentle movements, and guided laughter exercises. Inspired by the neurobiology of joy, this workshop helps release tension, stimulate feel-good hormones, and restore positive energy in a warm, friendly, and supportive atmosphere. No prior experience is required.",
+   "duree" : "1 leçon",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 04-07-2026 à 14:00 (durée 0h50)",
+   "horaires" : [ ],
+   "id" : 67111,
+   "intitule" : "Laughter Yoga – Neurobiology of Joy and Everyday Lightness",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcxMTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg (Clausen)",
+      "nom" : "Ancienne école fondamentale Clausen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "18, montée de Clausen"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-114",
+   "coursId" : "SO-YOG-114",
+   "coursType" : "CLASSIQUE",
+   "cout" : 4.5,
+   "dateDebut" : "04/07/2026",
+   "dateFin" : "04/07/2026",
+   "description" : "Découvrez le yoga du rire à travers un atelier ludique et accessible à tous, combinant respiration consciente, mouvements doux et exercices de rire guidé. Inspiré de la neurobiologie de la joie, cet atelier permet de relâcher les tensions, de stimuler les hormones du bien-être et de retrouver une énergie positive dans une ambiance conviviale et bienveillante. Aucun prérequis n’est nécessaire.",
+   "duree" : "1 leçon",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 04-07-2026 à 10:10 (durée 0h50)",
+   "horaires" : [ ],
+   "id" : 67110,
+   "intitule" : "Yoga du Rire – Neurobiologie de la joie et légèreté au quotidien",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcxMTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg (Clausen)",
+      "nom" : "Ancienne école fondamentale Clausen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "18, montée de Clausen"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-BIJU-38",
+   "coursId" : "AR-BIJU-38",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "04/07/2026",
+   "dateFin" : "04/07/2026",
+   "description" : "Workshop bijoux d’été : Créez vos propres bracelets, bague ou boucles d’oreilles en perles. Apprenez des techniques simples et repartez avec des pièces uniques et colorées, faites par vous-même.",
+   "duree" : "5 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 04-07-2026 à 10:20 (durée 4h10)",
+   "horaires" : [ ],
+   "id" : 67143,
+   "intitule" : "Créations de Bijoux en Perles – Spécial Été",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BIJU",
+   "matiereNom" : "Bijoux",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcxNDM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Un paiement de 6 € en espèces devra être effectué le jour de la formation directement auprès de la formatrice pour le remboursment du matériel. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg (Clausen)",
+      "nom" : "Ancienne école fondamentale Clausen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "18, montée de Clausen"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
@@ -15171,6 +15035,71 @@
       "websiteUrl" : "https://lucilingua.lu/en/index.html"
    },
    "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-CUIS-63",
+   "coursId" : "AR-CUIS-63",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "07/07/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "Tour du monde en cuisine avec Chef Angie.\r\n\r\nPartez pour un véritable voyage culinaire à travers différentes cultures gastronomiques, guidé par Chef Angie. Chaque module, d’une durée de deux jours, propose une immersion pratique dans une cuisine du monde, mêlant techniques, histoire et dégustation.\r\n\r\nCe programme est conçu pour tous les passionnés de cuisine souhaitant découvrir des saveurs authentiques et développer leur créativité culinaire dans une ambiance conviviale et professionnelle.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Briceno Campos",
+      "prenom" : "Angie Roxana"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 17:00 (durée 2h30), Jeudi à 17:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "17:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67171,
+   "intitule" : "Cours de cuisine Internationale : Cuisine Bachiche – Fusion Pérou–Italie",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "CUIS",
+   "matiereNom" : "Cuisine",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcxNzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Une participation aux frais des ingrédients,de 15 € sera demandée et à régler directement à la formatrice le jour même. "
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -31233,7 +31162,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "INFU",
    "matiereNom" : "Internetfürerschäin",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
