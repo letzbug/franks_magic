@@ -591,7 +591,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -757,7 +757,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -1476,7 +1476,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 2,
+   "nbInscrits" : 4,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -1644,7 +1644,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -5601,7 +5601,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
+   "nbInscrits" : 17,
    "nbPlaces" : 20,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : false,
@@ -7773,7 +7773,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13548,7 +13548,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -33114,100 +33114,6 @@
    },
    "prerequis" : "Need to bring your sewing machine to the course location and use it for your project implementation work.",
    "renseignements" : "Notwendigkeit, die eigene Nähmaschine zum Kursort mitzubringen und diese bei der Umsetzung der Projekte verwenden. | Nécessité d'apporter sa propre machine à coudre au site du cours et de l'utiliser pour le travail de projet."
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-DE-112",
-   "coursId" : "LA-DE-112",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "29/04/2026",
-   "dateFin" : "04/06/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. Peut communiquer lors de tâches simples et habituelles sur des sujets familiers. Peut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "als Zuhörer die Hauptaussagen eines langen und deutlich gesprochenen Gesprächs (privaten) verstehen, wenn ihm das Thema vertraut ist.\r\n", "im Bezug auf Familie/Einkauf/das nähere Umfeld/Arbeit das Vokabular verstehen\r\nin einfachen Situationen des täglichen Lebens z.B. in Geschäften, auf der Post, Bank \r\n (z. B. Anweisungen) verstehen z.B. Schließungszeit, Aufruf im Flughafen)", "generell klare und langsame Diskussionen verstehen z. B. tägliche Ereignisse\r\n-einfachen Wegweisungen folgen und sie verstehen (von einem Punkt zum anderen gehen)\r\n" ],
-      "domaine" : "Hörverständnis"
-   }, {
-      "competences" : [ " einen kurzen und einfachen Text mit gebräuchlichen Ausdrücken verstehen\r\n", "Informationen einer Werbung verstehen und genaue Informationen in täglichen Dokumenten, Werbeprospekten usw. finden\r\n-in einem einfachen, persönlichen, kurzen Brief die Hauptinformation und Position des Schreibers  verstehen", "einfache Signale, Zeichen und Schilder verstehen\r\n-biografische Daten (Familiensituation, Schulkarriere, Berufsweg) verstehen\r\n" ],
-      "domaine" : "Leseverstehen"
-   }, {
-      "competences" : [ "mit einfachen Mitteln ein Gespräch führen, in Gang halten und beenden\r\n\r\n", "die täglichen Lebenssituationen beschreiben\r\n", "die täglichen Aktivitäten in der Vergangenheitsform in Verwendung von Strukturwörtern beschreiben\r\n", "kurze Tipps zu Ernährung, Freizeit, Reisen, Wohnen, Einkauf geben", "Seine Vorlieben beschreiben", "Orte beschreiben und Wegbeschreibung erfragen (eingeschränkt)", "Dinge beschreiben (groß/rund/klein..)" ],
-      "domaine" : "Mündlicher Ausdruck"
-   }, {
-      "competences" : [ "jemanden begrüßen, mich vorstellen, jemanden vorstellen, mich verabschieden\r\n", "Fragen stellen und beantworten\r\n", " Ideen austauschen und Auskunft geben\r\n", "die einfachen Höflichkeitsfloskeln verwenden\r\n", "einen Vorschlag/Einladung/Entschuldigung annehmen oder aussprechen\r\n", " über seine Vorlieben sprechen, was mag man oder nicht\r\n", " nach Dingen fragen und geben\r\n", "nach einem Dienst fragen und geben\r\n", " nach persönlichen Informationen fragen und sie auch beantworten\r\n", "nach dem Weg fragen und mit Hilfe einer Karte beantworten\r\n\r\n", " Fahrkarten kaufen, ein Essen bestellen" ],
-      "domaine" : "Mündliche Interaktion"
-   }, {
-      "competences" : [ "einen sehr einfachen Brief, eine Mail schreiben mit Anrede u. Grußformel\r\n", " eine einfache Buchung (Hotel, Reise) vornehmen, bestellen, reservieren\r\n", "Dank und Entschuldigung schreiben\r\n", "strukturiert über Ereignisse berichten (Fest, Ausflug, Wochenende.)\r\n", "über alltägliche Dinge Auskunft geben z. B. Freizeitbeschäftigung\r\n", "einfache Sätze über seine Familie/Lebensbedingungen/Ausbildung/Arbeit schreiben\r\n" ],
-      "domaine" : "Schriftlicher Ausdruck"
-   } ],
-   "duree" : "40h",
-   "enseignants" : [ {
-      "nom" : "Wallenstein",
-      "prenom" : "Jeannette"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63671,
-   "intitule" : "Allemand, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "DE",
-   "langueCoursNom" : "Allemand",
-   "matiereCode" : "DE",
-   "matiereNom" : "Allemand",
-   "nbInscrits" : 18,
-   "nbPlaces" : 24,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau A1.2 acquis"
 }, {
    "adresseCours" : {
       "codePostal" : "2163",
