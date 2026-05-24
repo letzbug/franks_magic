@@ -2663,9 +2663,6 @@
    "dateInscription" : "13/05 au 30/05 8h00-18h00",
    "description" : "Utilisateur indépendant\r\nPeut comprendre les points essentiels quand un langage clair et standard est utilisé et s'il s'agit de choses familières dans le travail, à l'école, dans les loisirs, etc. Peut se débrouiller dans la plupart des situations rencontrées en voyage dans une région où la langue cible est parlée. Peut produire un discours simple et cohérent sur des sujets familiers et dans ses domaines d'intérêt. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des raisons ou explications pour un projet ou une idée.",
    "domainesCompetences" : [ {
-      "competences" : [ "Peut écrire des textes suivis non complexes sur une gamme de sujets variés dans son domaine, en liant une série d'éléments en une séquence linéaire.", "Peut indiquer distinctement l'ordre chronologique d'un texte narratif.\r\n", "Peut rédiger une critique simple sur un film, un livre ou un programme télévisé, en\r\nutilisant une gamme limitée de langage." ],
-      "domaine" : "Production écrite"
-   }, {
       "competences" : [ "Peut lire des textes factuels clairs sur des sujets relatifs à son domaine et à ses intérêts avec un niveau satisfaisant de compréhension", "Peut comprendre suffisamment bien une correspondance formelle sur un sujet peu\r\nfamilier, pour être capable de la transférer à quelqu'un d'autre" ],
       "domaine" : "Compréhension écrite"
    }, {
@@ -2674,6 +2671,9 @@
    }, {
       "competences" : [ "Peut assez aisément mener à bien une description directe et non compliquée de sujets variés dans son domaine en la présentant comme une succession linéaire de points.", "Peut exprimer clairement ses sentiments par rapport à quelque chose qu'il/elle a vécu et expliquer pourquoi il/elle ressent ces sentiments." ],
       "domaine" : "production orale et d'interaction"
+   }, {
+      "competences" : [ "Peut écrire des textes suivis non complexes sur une gamme de sujets variés dans son domaine, en liant une série d'éléments en une séquence linéaire.", "Peut indiquer distinctement l'ordre chronologique d'un texte narratif.\r\n", "Peut rédiger une critique simple sur un film, un livre ou un programme télévisé, en\r\nutilisant une gamme limitée de langage." ],
+      "domaine" : "Production écrite"
    } ],
    "duree" : "60h",
    "enseignants" : [ {
@@ -36949,9 +36949,6 @@
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
    "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
    "domainesCompetences" : [ {
-      "competences" : [ "utiliser des formules de politesse simples \r\n\r\n", "saluer, présenter quelqu'un, remercier \r\n", "poser des questions, répondre à des questions \r\n\r\n", "demander et échanger des renseignements personnels et sur autrui \r\n", "demander des directives et en donner / demander et expliquer son chemin à l'aide   d'une carte \r\n" ],
-      "domaine" : "interaction orale"
-   }, {
       "competences" : [ " comprendre  des informations relatives à la famille,  aux achats,  à l'environnement proche, au travail  \r\n", "comprendre  et suivre des directives et instructions simples : ex l'itinéraire (aller d'un point à l'autre à pied ou \r\n   par les transports en commun)\r\n", "généralement comprendre le sujet d'une discussion claire, simple et lente  \r\n", "comprendre des énoncés très simples qui visent à satisfaire des besoins immédiats de la vie de tous  les jours \r\n\r\n" ],
       "domaine" : "compréhension orale"
    }, {
@@ -36960,6 +36957,9 @@
    }, {
       "competences" : [ "se présenter, présenter quelqu'un  \r\n", "décrire ses goûts   \r\n", "décrire mon environnement, des lieux, des conditions de vie ", "décrire des activités quotidiennes\r\n", "décrire ou identifier des gens  \r\n" ],
       "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "utiliser des formules de politesse simples \r\n\r\n", "saluer, présenter quelqu'un, remercier \r\n", "poser des questions, répondre à des questions \r\n\r\n", "demander et échanger des renseignements personnels et sur autrui \r\n", "demander des directives et en donner / demander et expliquer son chemin à l'aide   d'une carte \r\n" ],
+      "domaine" : "interaction orale"
    }, {
       "competences" : [ "écrire  des messages  simples et courts (entrer en contact, exprimer  des remerciements ou excuses)                            \r\n\r\n\r\n\t\t", "écrire une suite de phrases simples : sur sa famille, sur son environnement,  sur sa formation, sur  son travail \r\n\r\n", "écrire une lettre personnelle très simple \r\n\t\t" ],
       "domaine" : "expression écrite"
@@ -37860,7 +37860,7 @@
       "competences" : [ "Peut identifier des formules de politesse et de salutations\r\n", "Peut comprendre les chiffres, les prix et l'heure\r\n", "Peut comprendre des mots et expressions familiers\r\n", "Peut comprendre des questions, instructions ou indications\r\ncourtes et élémentaires", "Peut manifester ma compréhension ou mon incompréhension\r\n", "Peut comprendre des consignes courtes et simples\r\n", "Peut comprendre l'appartenance ou la quantité\r\n", "Peut comprendre des informations ou des questions personnelles\r\nsimples" ],
       "domaine" : "Compréhension orale"
    }, {
-      "competences" : [ "Peut épeler\r\n", "Peut comprendre des messages et indications simples et courts\r\n", "Peut comprendre et suivre des instructions, des indications\r\n", "Peut comprendre des textes simples avec des informations et\r\ndescriptions courtes", "Peut comprendre des textes simples donnant des informations et\r\ndes descriptions sur l'identité, la présentation," ],
+      "competences" : [ "Peut épeler\r\n", "Peut comprendre des messages et indications simples et courts\r\n", "Peut comprendre et suivre des instructions, des indications\r\n", "Peut comprendre des textes simples donnant des informations et\r\ndes descriptions sur l'identité, la présentation,", "Peut comprendre des textes simples avec des informations et\r\ndescriptions courtes" ],
       "domaine" : "Compréhension écrite"
    }, {
       "competences" : [ "Peut se présenter présenter quelqu'un (identité, nom, âge,\r\nnationalité, profession, lieu d'habitation...)", "Peut parler de son environnement quotidien (donner ses\r\ncoordonnées, parler de sa famille...)", "Peut llire un texte à voix haute\r\n", "Peut exprimer l'appartenance / la quantité\r\n", "Peut entrer en contact avec quelqu'un\r\n", "Peut utiliser des expressions élémentaires de salutation et de\r\ncongé.", "Peut réagir à des messages et instructions simples\r\n", "Peut poser et répondre à des questions personnelles\r\n", "Peut répondre par l'affirmative, répondre par la négative\r\n", "Peut présenter quelqu'un (identité, nom, âge, nationalité,\r\nprofession, lieu d'habitation...)" ],
@@ -46477,7 +46477,7 @@
       "competences" : [ "Kann Informatiounen an Uweisungen an einfachen Texter verstoen", "Kann e ganz einfachen Text iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Korrespondenz verstoen (Kaarten, E-mailen...)" ],
       "domaine" : "Liesverstoen"
    }, {
-      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Ka geleefeg Verben am Präsens benotzen", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen" ],
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
       "domaine" : "Mëndlechen Ausdrock"
    }, {
       "competences" : [ "Kann e kuerzen einfachen Text op eng Kaart oder Mail schreiwen", "Kann e Formulaire ausfëllen (Numm, Adress, Nationalitéit, Zivilstand)" ],
