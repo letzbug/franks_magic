@@ -3719,10 +3719,33 @@
    "dateInscription" : "27/04/2026",
    "description" : "Raconter des événements au passé;\r\nManifester son intérêt pour une chose, un événement et en indiquer la cause;\r\nRépondre/réagir à une annonce, utiliser des formules de politesse plus élaborées;\r\nRépondre à des questions et suivre une conversation dont le sujet est familier;\r\nS`informer sur l`offre des activités de loisir; comprendre les grands titres du journal (radio ou télé).",
    "duree" : "45h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Wies",
+      "prenom" : "Marie-Louise"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 12:15 (durée 1h30), Mardi à 12:15 (durée 1h30), Mercredi à 12:15 (durée 1h30), Jeudi à 12:15 (durée 1h30), Vendredi à 12:15 (durée 1h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "12:15",
+      "jour" : "Vendredi"
+   } ],
    "id" : 66678,
    "intitule" : "Cours de luxembourgeois intensif  A 2.1",
    "langueCoursCode" : "LB",
