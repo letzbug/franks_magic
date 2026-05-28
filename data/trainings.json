@@ -1,66 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DESS-47",
-   "coursId" : "AR-DESS-47",
-   "coursType" : "CLASSIQUE",
-   "cout" : 22.5,
-   "dateDebut" : "29/05/2026",
-   "dateFin" : "29/05/2026",
-   "description" : "This outdoor botanical drawing workshop invites participants to observe, draw, and experiment with plants in a relaxed and creative setting. We will meet at Blumm for an introduction covering composition tips, how to choose subjects, and the basics of watercolor, before heading together to Merl Park to draw from life. Participants will create sketchbook pages, research studies, and, if they wish, watercolor pieces. The workshop is open to all levels and focuses on exploration, observation, and enjoyment rather than perfection.",
-   "duree" : "5 leçons",
-   "enseignants" : [ {
-      "nom" : "Morel",
-      "prenom" : "Juliane"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 29-05-2026 à 12:50 (durée 4h10)",
-   "horaires" : [ {
-      "duree" : "4h10",
-      "heure" : "12:50",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64914,
-   "intitule" : "Outdoor Botanical Drawing Workshop",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DESS",
-   "matiereNom" : "Dessin",
-   "nbInscrits" : 10,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ5MTQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Please bring fine ink pens, a pencil, watercolors, brushes, a cloth, a small water container, and a sketchbook. For full practice, use watercolor or thick paper with a rigid support, plus any portable tools you like."
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -1294,7 +1233,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 25,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : true,
@@ -3604,7 +3543,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -35475,79 +35414,6 @@
    },
    "prerequis" : "Keine Informatik (Computer) Vorkenntnisse erforderlich --Aucune connaissance préalable en informatique (ordinateur) requise ",
    "renseignements" : "Inscrivez-vous avant le 10-04-2026"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "CIN",
-   "categorieCodeUnipop" : "CIN",
-   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
-   "coursCode" : "CIN-LB-26",
-   "coursId" : "CIN-LB-26",
-   "coursType" : "CLASSIQUE",
-   "cout" : 182.0,
-   "dateDebut" : "14/04/2026",
-   "dateFin" : "29/05/2026",
-   "dateInscription" : "FIN D'INSCRIPTIONS : 09/04/2026",
-   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
-   "domainesCompetences" : [ {
-      "competences" : [ "- Utiliser des formules de salutations et de politesse\r\n- Se présenter ou présenter une autre personne\r\n- Utiliser des nombres, des dates et des horaires\r\n- Exprimer et comparer des instructions simples, des souhaits et des préférences\r\n- Décrire en phrases simples le déroulement de la journée, des activité professionnelles, et des loisirs \r\n- Décrire la météo\r\n- Utiliser les différents verbes courants au présent" ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "- Comprendre les différentes formules de salutation\r\n- Comprendre des informations simples sur soi-même, sur d'autres personnes et issues du quotidien " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Comprendre des textes courts et simples contenant des informations et des instructions" ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "39h",
-   "enseignants" : [ {
-      "nom" : "Chies",
-      "prenom" : "Martine"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 18:00 (durée 3h), Vendredi à 13:30 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "13:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65517,
-   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "LB",
-   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 15,
-   "nbPlaces" : 20,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjU1MTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4665",
-         "localite" : "Oberkorn",
-         "nom" : "Luxembourg Online Education Center",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "68 rue Charles Schambourg"
-      },
-      "code" : "LOECL",
-      "mail" : "lux.online.education.center@gmail.com",
-      "nom" : "Luxembourg Online Education Center Lux",
-      "nomContact" : "Chies",
-      "onlineReg" : true,
-      "prenomContact" : "Martine",
-      "statut" : "PREST_EXT",
-      "telephone" : "661 195 032",
-      "websiteUrl" : "https://www.lux-online-educ-center.com"
-   },
-   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "1617",
