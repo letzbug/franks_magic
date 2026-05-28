@@ -390,7 +390,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 1,
+   "nbInscrits" : 4,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -1462,7 +1462,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -3688,7 +3688,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 3,
+   "nbInscrits" : 5,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -5108,78 +5108,6 @@
    },
    "prerequis" : "niveau A2 oral acquis",
    "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2543",
-      "localite" : "Luxembourg",
-      "nom" : "Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "32, Dernier Sol"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1278",
-   "coursId" : "LA-LB-1278",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "29/06/2026",
-   "description" : "Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives.",
-   "domainesCompetences" : [ {
-      "competences" : [ "understand public announcements (schedules, departure, arrival...), predictable instructions, standard recorded messages, repetitive information (educational instructions), in particular if the conditions of listening are good (either noise, or music...), " ],
-      "domaine" : "listening"
-   }, {
-      "competences" : [ "identify globally (in their aspect, their typography, their localization) the function of certain common texts of the daily environment or the school environment;\r\nunderstand texts constituted by one or two sentences, containing familiar words and expressions (postcard or instructions)." ],
-      "domaine" : "Reading"
-   }, {
-      "competences" : [ "give information about himself: his name, his nationality, his address, his age, his date of birth, in questionnaires or index cards of information;\r\nwrite a very simple message concerning the activities of the daily life containing some personal details." ],
-      "domaine" : "Writing"
-   }, {
-      "competences" : [ "\r\ncommunicate, in a very simple way, provided that his interlocutor shows himself comprehensive, speaks very slowly and repeats if he did not understand; use elementary expressions of greeting and notice to leave;\r\n" ],
-      "domaine" : "Speaking"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 63461,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 22,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2543",
-         "localite" : "Luxembourg",
-         "nom" : "Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "32, Dernier Sol"
-      },
-      "code" : "CAL",
-      "mail" : "secretariat@calux.lu",
-      "nom" : "Centre Avicenne Luxembourg",
-      "nomContact" : "Almohammad",
-      "onlineReg" : false,
-      "prenomContact" : "Ahmad",
-      "statut" : "ASBL",
-      "telephone" : "621 719 410",
-      "websiteUrl" : "https://avicenne.lu/"
-   },
-   "prerequis" : "A1.1 du CECRL",
-   "renseignements" : "langue véhiculaire : français , anglais \r\nOnline tool:  ZOOM® (nothing to buy or download)\r\n"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -7218,7 +7146,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -15273,7 +15201,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -42954,7 +42882,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 20,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
