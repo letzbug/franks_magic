@@ -96,7 +96,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 8,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -248,7 +248,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -329,7 +329,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 7,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -413,7 +413,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -494,7 +494,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -663,7 +663,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 4,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -1317,7 +1317,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -1401,7 +1401,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 18,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -2461,7 +2461,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 7,
+   "nbInscrits" : 9,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -3627,7 +3627,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -5237,99 +5237,6 @@
    "renseignements" : "non accessible aux personnes à mobilité réduite"
 }, {
    "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-903",
-   "coursId" : "LA-FR-903",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "22/07/2026",
-   "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées, en relation avec des domaines  immédiats de priorité.\r\nComprendre un échange qui porte sur l'expression d'une impression, d'un sentiment, d'un gout, d'un accord ou d'un désaccord, en termes simples.\r\nSuivre des directrices et des instructions claires et précises.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut suivre des directives simples comme un itinéraire", "Peut comprendre l'idée générale d'un texte", "Peut comprendre des informations relatives à la famille, aux achats et à l'environnement proche.", "Peut identifier l'élément principal des nouvelles télévisées." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut trouver des renseignements précis dans des documents simples.", "Peut comprendre différents types de lettre ou emails.", "Peut comprendre des faits décris dans des articles simples.", "Peut comprendre des consignes rédigées simplement." ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Peut saluer, se présenter, présenter quelqu'un, remercier.", "Peut poser des questions et y répondre", "Peut utiliser des formules de politesse simples.", "Peut décrire des lieux, des objets, des activités quotidiennes, ses gouts, un évènement.", "Peut exprimer ses opinions, expliquer pourquoi une chose plait ou déplait.", "Peut dire ce qu'il aime ou pas.", "Peut exprimer des projets.", "Peut obtenir et fournir des biens et services.", "Peut commencer, poursuivre et terminer une brève conversation.", "Peut demander de répéter en cas d'incompréhension." ],
-      "domaine" : "Production orale"
-   }, {
-      "competences" : [ "Peut écrire des messages simples et courts pour entrer en contact ou exprimer des remerciements.", "Peut écrire des phrases simples au présent, au passé et au futur.", "Peut décrire des activités quotidiennes.", "Peut faire la description d'un évènement, d'activités passées, d'expériences personnelles. " ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Silvino Cardoso",
-      "prenom" : "Ana Carina"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:30 (durée 2h), Mardi à 17:30 (durée 2h), Mercredi à 17:30 (durée 2h), Jeudi à 17:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 60893,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -5395,7 +5302,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 18,
+   "nbInscrits" : 17,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -6811,7 +6718,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -9559,7 +9466,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -23940,7 +23847,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "JA",
    "matiereNom" : "Japonais",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 24,
    "niveau" : "A2 du CECRL",
    "onlineRegistration" : true,
@@ -31461,25 +31368,25 @@
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-899",
-   "coursId" : "LA-FR-899",
+   "coursCode" : "LA-FR-905",
+   "coursId" : "LA-FR-905",
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "18/05/2026",
    "dateFin" : "03/07/2026",
    "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre des mots familiers, des expressions courantes ainsi que des énoncés très simple au sujet d'elles-mêmes, de leur famille et de l'environnement concret et immédiat si les gens parlent lentement et distinctement.",
+   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées, en relation avec des domaines  immédiats de priorité.\r\nComprendre un échange qui porte sur l'expression d'une impression, d'un sentiment, d'un gout, d'un accord ou d'un désaccord, en termes simples.\r\nSuivre des directrices et des instructions claires et précises.",
    "domainesCompetences" : [ {
-      "competences" : [ "Peut identifier les formules de politesse et de salutation.", "Peut comprendre les chiffres, les prix et l'heure.", "Peut comprendre des expressions et mots familiers.", "Peut comprendre des questions, instructions ou indications courtes et élémentaires.", "Peut manifester sa compréhension ou son incompréhension.", "Peut comprendre des consignes courtes et simples.", "Peut comprendre l'appartenance ou la quantité.", "Peut comprendre des informations ou des questions personnelles simples.", "Peut comprendre la description d'un objet ou d'une personne." ],
+      "competences" : [ "Peut suivre des directives simple comme un itinéraire.\r\n", "Peut comprendre l'idée générale d'un texte.\r\n", "Peut comprendre des informations relatives à la famille, aux\r\nachats et à l'environnement.", "Peut identifier l'élément principal des nouvelles télévisées.\r\n" ],
       "domaine" : "Compréhension orale"
    }, {
-      "competences" : [ "Peut épeler.", "Peut comprendre des indications et messages courts et simples.", "Peut comprendre des textes courts avec des mots familiers et courants.", "Peut comprendre et suivre des instructions, des indications.", "Peut comprendre des textes simples avec des informations et  des descriptions courtes.", "Peut comprendre des textes simples donnant des informations et des descriptions sur l'identité, la présentation, la description, sur les évènements dans le temps, sur la localisation, la météo..." ],
+      "competences" : [ "Peut trouver des renseignements précis dans des documents\r\nsimples.", "Peut comprendre différents types de lettres ou emails.\r\n", "Peut comprendre des faits décrits dans des articles simples.\r\n", "Peut comprendre des consignes rédigées simplement" ],
       "domaine" : "Compréhension écrite"
    }, {
-      "competences" : [ "Peut se présenter.", "Peut parler de son environnement quotidien (donner ses coordonnées, parler de sa famille, de ses loisirs).", "Peut lire un texte à voix haute.", "Peut exprimer l'appartenance ou la quantité.", "Peut entrer en contact avec quelqu'un.", "Peut utiliser des expressions élémentaires de salutation et  de congé.", "Peut réagir à des messages et instructions simples.", "Peut poser et répondre à des questions personnelles.", "Peut répondre par l'affirmative ou par la négative.", "Peut présenter quelqu'un (identité, nom, âge, nationalité, profession, lieu d'habitation.", "Peut décrire un objet ou une personne.", "Peut désigner quelque chose ou quelqu'un, dire le prix d'un objet.", "Peut exprimer des besoins dans des situations quotidiennes.", "Peut se situer dans le temps (situer des évènements dans le temps, dire la date, l'heure).", "Peut se situer dans l'espace (situer un lieu, localiser une ville...).", "Peut demander un service, une information à quelqu'un (demander le prix, demander l'heure, un objet...)." ],
-      "domaine" : "Production orale"
+      "competences" : [ "Peut saluer, se présenter, présenter quelqu'un, remercier.\r\n", "Peut poser des questions et y répondre.\r\n", "Peut utiliser des formules de politesse simples.\r\n", "Peut décrire des lieux, des objets, des activités quotidiennes, ses\r\ngouts, un évènement.", "Peut exprimer ses opinions, expliquer pourquoi une chose plait\r\nou déplait.", "Peut dire ce qu'il aime ou pas.\r\n", "Peut exprimer des projets\r\n", "Peut obtenir et fournir des biens et services.\r\n", "Peut commencer, poursuivre et terminer une brève conversation.\r\n", "Peut demander de répéter en cas d'incompréhension." ],
+      "domaine" : "Production Orale"
    }, {
-      "competences" : [ "Peut remplir une fiche de renseignements personnels (une fiche d'identité, une fiche d'inscription, un formulaire simple...).", "Peut écrire un texte de présentation simple sur soi-même et sur les autres.", "Peut écrire des messages simples à des amis (lettre ou email).", "Peut écrire des phrases simples au présent.", "Peut d'écrire le lieu ou il habite (pièces de la maison, objets du quotidien)." ],
+      "competences" : [ "Peut écrire des messages simples et courts pour entrer en contact\r\nou exprimer des remerciements.", "Peut écrire des phrases simples au présent, au passé et au futur.\r\n", "Peut décrire des activités quotidiennes.\r\n", "Peut faire la description d'un évènement, d'activités passées,\r\nd'expériences personnelles" ],
       "domaine" : "Production écrite"
    } ],
    "duree" : "60h",
@@ -31488,29 +31395,29 @@
       "prenom" : "Delfina"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 10:00 (durée 2h), Mardi à 10:00 (durée 2h), Mercredi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h), Vendredi à 10:00 (durée 2h)",
+   "horairePrevu" : "Lundi à 13:00 (durée 2h), Mardi à 13:00 (durée 2h), Mercredi à 13:00 (durée 2h), Jeudi à 13:00 (durée 2h), Vendredi à 13:00 (durée 2h)",
    "horaires" : [ {
       "duree" : "2h",
-      "heure" : "10:00",
+      "heure" : "13:00",
       "jour" : "Lundi"
    }, {
       "duree" : "2h",
-      "heure" : "10:00",
+      "heure" : "13:00",
       "jour" : "Mardi"
    }, {
       "duree" : "2h",
-      "heure" : "10:00",
+      "heure" : "13:00",
       "jour" : "Mercredi"
    }, {
       "duree" : "2h",
-      "heure" : "10:00",
+      "heure" : "13:00",
       "jour" : "Jeudi"
    }, {
       "duree" : "2h",
-      "heure" : "10:00",
+      "heure" : "13:00",
       "jour" : "Vendredi"
    } ],
-   "id" : 60889,
+   "id" : 60895,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
@@ -31518,7 +31425,7 @@
    "matiereNom" : "Français",
    "nbInscrits" : 0,
    "nbPlaces" : 25,
-   "niveau" : "A1.2 du CECRL",
+   "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -32024,200 +31931,6 @@
    "nbInscrits" : 0,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-905",
-   "coursId" : "LA-FR-905",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "18/05/2026",
-   "dateFin" : "03/07/2026",
-   "dateInscription" : "Tous les jours de 9h à 12h",
-   "description" : "Comprendre des phrases isolées et des expressions fréquemment utilisées, en relation avec des domaines  immédiats de priorité.\r\nComprendre un échange qui porte sur l'expression d'une impression, d'un sentiment, d'un gout, d'un accord ou d'un désaccord, en termes simples.\r\nSuivre des directrices et des instructions claires et précises.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut suivre des directives simple comme un itinéraire.\r\n", "Peut comprendre l'idée générale d'un texte.\r\n", "Peut comprendre des informations relatives à la famille, aux\r\nachats et à l'environnement.", "Peut identifier l'élément principal des nouvelles télévisées.\r\n" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut trouver des renseignements précis dans des documents\r\nsimples.", "Peut comprendre différents types de lettres ou emails.\r\n", "Peut comprendre des faits décrits dans des articles simples.\r\n", "Peut comprendre des consignes rédigées simplement" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Peut saluer, se présenter, présenter quelqu'un, remercier.\r\n", "Peut poser des questions et y répondre.\r\n", "Peut utiliser des formules de politesse simples.\r\n", "Peut décrire des lieux, des objets, des activités quotidiennes, ses\r\ngouts, un évènement.", "Peut exprimer ses opinions, expliquer pourquoi une chose plait\r\nou déplait.", "Peut dire ce qu'il aime ou pas.\r\n", "Peut exprimer des projets\r\n", "Peut obtenir et fournir des biens et services.\r\n", "Peut commencer, poursuivre et terminer une brève conversation.\r\n", "Peut demander de répéter en cas d'incompréhension." ],
-      "domaine" : "Production Orale"
-   }, {
-      "competences" : [ "Peut écrire des messages simples et courts pour entrer en contact\r\nou exprimer des remerciements.", "Peut écrire des phrases simples au présent, au passé et au futur.\r\n", "Peut décrire des activités quotidiennes.\r\n", "Peut faire la description d'un évènement, d'activités passées,\r\nd'expériences personnelles" ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Henriques Tomaz",
-      "prenom" : "Delfina"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 13:00 (durée 2h), Mardi à 13:00 (durée 2h), Mercredi à 13:00 (durée 2h), Jeudi à 13:00 (durée 2h), Vendredi à 13:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "13:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 60895,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9089",
-         "localite" : "Ettelbruck",
-         "nom" : "Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1, rue Michel Weber"
-      },
-      "code" : "APE",
-      "mail" : "mariadelfinalbuquerque@yahoo.fr",
-      "nom" : "Association des Parents d'Elèves d'Ettelbruck",
-      "nomContact" : "Henriques Tomaz",
-      "onlineReg" : false,
-      "prenomContact" : "Maria Delfina",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 500 047"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9089",
-      "localite" : "Ettelbruck",
-      "nom" : "Association des parents d'elèves d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1, rue Michel Weber"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-900",
-   "coursId" : "LA-FR-900",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "18/05/2026",
-   "dateFin" : "03/07/2026",
-   "dateInscription" : "tous les jours de 9h à 12h",
-   "description" : "Comprendre des mots familiers, des expressions courantes ainsi que des énoncés très simple au sujet d'elles-mêmes, de leur famille et de l'environnement concret et immédiat si les gens parlent lentement et distinctement.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Peut identifier des formules de politesse et de salutation.", "Peut comprendre les chiffres, les prix et l'heure.\r\n", "Peut comprendre des expressions et mots familiers.", "Peut comprendre des questions, instructions ou indications courtes et élémentaires.", "Peut manifester sa compréhension ou son incompréhension.", "Peut comprendre des consignes courtes et simples.", "Peut comprendre l'appartenance ou la quantité.", "Peut comprendre des informations ou des questions personnelles simples.", "Peut comprendre la description d'un objet ou d'une personne." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Peut épeler.", "Peut comprendre des indications ou des messages courts et simples. ", "Peut comprendre des textes courts avec des mots familiers et courants.", "Peut comprendre et suivre des instructions, des indications.", "Peut comprendre des textes simples avec des informations et des descriptions coures.", "Peut comprendre des textes simples donnant des informations et des descriptions sur l'identité, la présentation, la description, sur les évènements dans le temps, sur la localisation, la météo...)" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Peut se présenter.", "Peut parler de son environnement quotidien (donner ses coordonnées, parler de sa famille, de ses loisirs).", "Peut lire un texte à voix haute.", "Peut exprimer l'appartenance ou la quantité.", "Peut entrer en contact avec quelqu'un.", "Peut utiliser des expressions élémentaires de salutation et de congé.", "Peut réagir à des messages et instructions simples.", "Peut poser et répondre à des questions personnelles.", "Peut répondre par l'affirmative ou la négative.", "Peut présenter quelqu'un (identité, nom, âge, nationalité, profession, lieu d'habitation).", "Peut décrire un objet ou une personne.", "Peut désigner quelqu'un ou quelque chose, dire le prix d'un objet.", "Peut exprimer des besoins dans des situations quotidiennes.", "Peut se situer dans le temps (situer des évènements dans le temps, dire la date, l'heure...).", "Peut se situer dans l'espace (situer un lieu, localiser une ville...)", "Peut demander un service, une information à quelqu'un (demander un prix, demander l'heure, un objet...)" ],
-      "domaine" : "Production orale"
-   }, {
-      "competences" : [ "Peut remplir une fiche de renseignements personnels ( une fiche d'identité, une fiche d'inscription, un formulaire simple...). ", "Peut écrire un texte de présentation simple sur soi-même et sur les autres.", "Peut écrire des messages très simples à des amis (lettre ou email).", "Peut écrire des phrases simples au présent.", "Peut décrire le lieu ou il habite (pièces de la maison, objets du quotidien)." ],
-      "domaine" : "Production écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Henriques Tomaz",
-      "prenom" : "Delfina"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 15:00 (durée 2h), Mardi à 15:00 (durée 2h), Mercredi à 15:00 (durée 2h), Jeudi à 15:00 (durée 2h), Vendredi à 15:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "15:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "15:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "15:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "15:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "15:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 60890,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 25,
-   "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
