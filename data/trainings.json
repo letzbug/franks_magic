@@ -1,509 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-LIT-10",
-   "coursId" : "SCI-LIT-10",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "03/06/2026",
-   "dateFin" : "05/06/2026",
-   "description" : "Explore creative writing in English through your own life stories. The course begins with short, inspiring writing exercises and gradually moves toward writing about meaningful moments from your life. In a friendly atmosphere, you may also choose to share your texts with fellow participants.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Rufolo",
-      "prenom" : "Dr. Dana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 03-06-2026 à 18:00 (durée 1h40), Jeudi 04-06-2026 à 18:00 (durée 1h40), Vendredi 05-06-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66044,
-   "intitule" : "Creative Writing - Writing Your Life, part one",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "LIT",
-   "matiereNom" : "Littérature",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwNDQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Paper or notebook. Pen or pencil and eraser. \r\nA computer for those who prefer typing on a computer. \r\n\r\nWednesday, 03 June 2026 – 18:00 (1h40)\r\n\r\nThursday, 04 June 2026 – 18:00 (1h40)\r\n\r\nFriday, 05 June 2026 – 18:00 (1h40)"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-NUT-3",
-   "coursId" : "SO-NUT-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "03/06/2026",
-   "dateFin" : "03/06/2026",
-   "description" : "Atelier alliant théorie et pratique pour découvrir les bienfaits nutritionnels des boissons fermentées telles que le kéfir de fruits, le kombucha ou encore les pétillants de fleurs.\r\n\r\nAprès une introduction théorique, vous réaliserez vous-même deux préparations : un kéfir de fruits et une boisson pétillante à base de fleurs.\r\n\r\nUn atelier accessible et convivial, qui vous permettra de comprendre les bases de la fermentation et de repartir avec des préparations à déguster chez vous.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Arnould-Guttinger",
-      "prenom" : "Audrey"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 03-06-2026 à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66223,
-   "intitule" : "Faire sa boisson fermentée : kéfir d'eau, kombucha, pétillant de fleurs, principes et bienfaits",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "NUT",
-   "matiereNom" : "Nutrition",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMjM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Le formateur met à disposition tout le matériel nécessaire. Une participation de 12,50 € par personne est à régler directement auprès du formateur."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCM",
-   "categorieCodeUnipop" : "SCM",
-   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
-   "coursCode" : "SCM-SCN-18",
-   "coursId" : "SCM-SCN-18",
-   "coursType" : "CLASSIQUE",
-   "cout" : 63.0,
-   "dateDebut" : "03/06/2026",
-   "dateFin" : "15/07/2026",
-   "description" : "In this class we will embark on a journey to discover the wonders of our Universe: from the origin of distant planets, life cycle of stars big and small. Learn about the latest scientific discoveries, and how you too can incorporate a small dose of astronomy in your daily life.",
-   "duree" : "14 leçons",
-   "enseignants" : [ {
-      "nom" : "Gárate Silva",
-      "prenom" : "Matias Ignacio"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66610,
-   "intitule" : "Discovering the Universe - Astronomy",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "SCN",
-   "matiereNom" : "Sciences naturelles",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY2MTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "There will be no classes during the school holidays in Luxembourg."
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie-Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1486",
-   "coursId" : "LA-FR-1486",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "03/06/2026",
-   "dateFin" : "07/07/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. Peut se débrouiller dans des situations rencontrées en voyage. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
-   "domainesCompetences" : [ {
-      "competences" : [ "suivre une conférence ou un exposé relatif à son domaine à condition que la langue soit standard et clairement articulée   ", "comprendre l’information contenue dans la plupart des documents radiodiffusés si le sujet est d’intérêt personnel et la langue standard articulée d’une façon lente et distincte.", "suivre les points principaux d’une longue discussion (à condition que la diction soit claire et la langue standard)  ", "comprendre des informations techniques et suivre des directives détaillées" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "comprendre les points significatifs d’un article de journal  ", "reconnaitre le schéma argumentatif d’un texte et identifier les conclusions d’un texte argumentatif              ", "parcourir un texte assez long pour y localiser des informations   et aussi réunir ces informations provenant de plusieurs parties du texte afin d’accomplir une tâche spécifique               ", "comprendre des textes rédigés dans une langue courante relative au domaine professionnel" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "rédiger un compte-rendu simple dans une langue suffisamment correcte", "écrire des textes articulés simplement\r\n", "résumer une source d’informations factuelles", "écrire des lettres personnelles pour décrire des expériences et impressions" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "exposer les raisons, développer des arguments suffisamment clairs pour être compris sans difficulté la plupart du temps", "s’exprimer de manière simple afin de raconter des expériences et des événements, ses rêves, ses espoirs et ses buts\r\n", "rapporter assez couramment une narration ou une description sous forme d’une suite de points\r\n", " raconter une histoire, l’intrigue d’un film ou d’un livre et exprimer ses réactions \r\n", "résumer un bref récit, un article, une discussion… et répondre à d’éventuelles questions complémentaires de détail\r\n" ],
-      "domaine" : "expression orale en continu"
-   }, {
-      "competences" : [ " intervenir sans préparation dans des conversations sur des sujets familiers ou d’intérêt personnel ou qui concernent la vie quotidienne.", "mener à bien un entretien préparé en vérifiant et confirmant l’information ", "communiquer avec une certaine assurance une grande quantité d’informations factuelles sur des questions habituelles ou non dans mon domaine  \r\n", "exprimer clairement un point de vue et commenter brièvement le point de vue d’autrui", "donner son opinion sur une nouvelle, un article, un exposé, une discussion, un entretien, un documentaire et répondre à des questions de détail complémentaire /  résumer" ],
-      "domaine" : "interaction orale"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Marsal",
-      "prenom" : "Gayane"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 12:45 (durée 3h), Mardi à 12:45 (durée 3h), Mercredi à 12:45 (durée 3h), Jeudi à 12:45 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "12:45",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "12:45",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "12:45",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "12:45",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65255,
-   "intitule" : "Français, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "B1.3 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Niveau B1.2 acquis"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-FISC-12",
-   "coursId" : "SCI-FISC-12",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "03/06/2026",
-   "dateFin" : "08/07/2026",
-   "description" : "Ce cours propose une explication claire et structurée de la déclaration fiscale, page par page, afin de comprendre quelles informations y renseigner et où trouver les documents nécessaires. Il aborde également d'autres formulaires spécifiques, tels que ceux relatifs aux revenus locatifs, à la vente de biens immobiliers ou à l’activité indépendante. L’objectif est de permettre aux participant·e·s de mieux comprendre leurs obligations fiscales et de remplir leur déclaration en toute autonomie.",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Keiser",
-      "prenom" : "Romain"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66708,
-   "intitule" : "Comment faire sa déclaration d'impôts personnelle",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FISC",
-   "matiereNom" : "Fiscalité",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MDg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-BE-9",
-   "coursId" : "SO-BE-9",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "03/06/2026",
-   "dateFin" : "03/06/2026",
-   "description" : "Par où commencer et comment structurer efficacement chaque zone ? Cet atelier propose une méthode claire pour optimiser les espaces, faciliter le quotidien et renforcer l’organisation globale de la maison. Les bénéfices se ressentent rapidement dans la gestion des repas, du rangement et de la fluidité des tâches domestiques.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Krier",
-      "prenom" : "Marie Paule",
-      "presentation" : "Marie-Paule Krier, fondatrice d'Edenhouse, allie son expérience en hôtellerie, commerce et rangement à des formations en house & office organizing et house managing. Inspirée par sa famille et son voyage au Japon, elle a développé \"LA MÉTHODE\" pour créer des espaces qui reflètent chaque individu. Plus d'infos sur www.edenhouse.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 03-06-2026 à 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65374,
-   "intitule" : "HOME ORGANSING 6 : Organiser sa cuisine",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BE",
-   "matiereNom" : "Bien-être",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUzNzQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie-Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1475",
-   "coursId" : "LA-FR-1475",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "03/06/2026",
-   "dateFin" : "07/07/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. Peut se débrouiller dans des situations rencontrées en voyage. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
-   "domainesCompetences" : [ {
-      "competences" : [ "suivre une conférence ou un exposé relatif à son domaine à condition que la langue soit standard et clairement articulée   ", "comprendre l’information contenue dans la plupart des documents radiodiffusés si le sujet est d’intérêt personnel et la langue standard articulée d’une façon lente et distincte.", "suivre les points principaux d’une longue discussion (à condition que la diction soit claire et la langue standard)  ", "comprendre des informations techniques et suivre des directives détaillées" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "comprendre les points significatifs d’un article de journal  ", "reconnaitre le schéma argumentatif d’un texte et identifier les conclusions d’un texte argumentatif              ", "parcourir un texte assez long pour y localiser des informations   et aussi réunir ces informations provenant de plusieurs parties du texte afin d’accomplir une tâche spécifique               ", "comprendre des textes rédigés dans une langue courante relative au domaine professionnel" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "rédiger un compte-rendu simple dans une langue suffisamment correcte", "écrire des textes articulés simplement\r\n", "résumer une source d’informations factuelles", "écrire des lettres personnelles pour décrire des expériences et impressions" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "exposer les raisons, développer des arguments suffisamment clairs pour être compris sans difficulté la plupart du temps", "s’exprimer de manière simple afin de raconter des expériences et des événements, ses rêves, ses espoirs et ses buts\r\n", "rapporter assez couramment une narration ou une description sous forme d’une suite de points\r\n", " raconter une histoire, l’intrigue d’un film ou d’un livre et exprimer ses réactions \r\n", "résumer un bref récit, un article, une discussion… et répondre à d’éventuelles questions complémentaires de détail\r\n" ],
-      "domaine" : "expression orale en continu"
-   }, {
-      "competences" : [ " intervenir sans préparation dans des conversations sur des sujets familiers ou d’intérêt personnel ou qui concernent la vie quotidienne.", "mener à bien un entretien préparé en vérifiant et confirmant l’information ", "communiquer avec une certaine assurance une grande quantité d’informations factuelles sur des questions habituelles ou non dans mon domaine  \r\n", "exprimer clairement un point de vue et commenter brièvement le point de vue d’autrui", "donner son opinion sur une nouvelle, un article, un exposé, une discussion, un entretien, un documentaire et répondre à des questions de détail complémentaire /  résumer" ],
-      "domaine" : "interaction orale"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Marsal",
-      "prenom" : "Gayane"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65243,
-   "intitule" : "Français, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 1,
-   "nbPlaces" : 20,
-   "niveau" : "B1.3 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Niveau B1.2 acquis"
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -31583,6 +31079,196 @@
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
 }, {
    "adresseCours" : {
+      "codePostal" : "1254",
+      "localite" : "Hollerich",
+      "nom" : "Blumm Geesseknäppchen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Campus scolaire"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-LIT-10",
+   "coursId" : "SCI-LIT-10",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "03/06/2026",
+   "dateFin" : "05/06/2026",
+   "description" : "Explore creative writing in English through your own life stories. The course begins with short, inspiring writing exercises and gradually moves toward writing about meaningful moments from your life. In a friendly atmosphere, you may also choose to share your texts with fellow participants.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Rufolo",
+      "prenom" : "Dr. Dana"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 03-06-2026 à 18:00 (durée 1h40), Jeudi 04-06-2026 à 18:00 (durée 1h40), Vendredi 05-06-2026 à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66044,
+   "intitule" : "Creative Writing - Writing Your Life, part one",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "LIT",
+   "matiereNom" : "Littérature",
+   "nbInscrits" : 5,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwNDQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Paper or notebook. Pen or pencil and eraser. \r\nA computer for those who prefer typing on a computer. \r\n\r\nWednesday, 03 June 2026 – 18:00 (1h40)\r\n\r\nThursday, 04 June 2026 – 18:00 (1h40)\r\n\r\nFriday, 05 June 2026 – 18:00 (1h40)"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCM",
+   "categorieCodeUnipop" : "SCM",
+   "categorieNom" : "SCIENCES NATURELLES ET MATHÉMATIQUES",
+   "coursCode" : "SCM-SCN-18",
+   "coursId" : "SCM-SCN-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 63.0,
+   "dateDebut" : "03/06/2026",
+   "dateFin" : "15/07/2026",
+   "description" : "In this class we will embark on a journey to discover the wonders of our Universe: from the origin of distant planets, life cycle of stars big and small. Learn about the latest scientific discoveries, and how you too can incorporate a small dose of astronomy in your daily life.",
+   "duree" : "14 leçons",
+   "enseignants" : [ {
+      "nom" : "Gárate Silva",
+      "prenom" : "Matias Ignacio"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66610,
+   "intitule" : "Discovering the Universe - Astronomy",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "SCN",
+   "matiereNom" : "Sciences naturelles",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY2MTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "There will be no classes during the school holidays in Luxembourg."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-FISC-12",
+   "coursId" : "SCI-FISC-12",
+   "coursType" : "CLASSIQUE",
+   "cout" : 54.0,
+   "dateDebut" : "03/06/2026",
+   "dateFin" : "08/07/2026",
+   "description" : "Ce cours propose une explication claire et structurée de la déclaration fiscale, page par page, afin de comprendre quelles informations y renseigner et où trouver les documents nécessaires. Il aborde également d'autres formulaires spécifiques, tels que ceux relatifs aux revenus locatifs, à la vente de biens immobiliers ou à l’activité indépendante. L’objectif est de permettre aux participant·e·s de mieux comprendre leurs obligations fiscales et de remplir leur déclaration en toute autonomie.",
+   "duree" : "12 leçons",
+   "enseignants" : [ {
+      "nom" : "Keiser",
+      "prenom" : "Romain"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66708,
+   "intitule" : "Comment faire sa déclaration d'impôts personnelle",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FISC",
+   "matiereNom" : "Fiscalité",
+   "nbInscrits" : 6,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MDg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -33285,7 +32971,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -48234,79 +47920,6 @@
    "renseignements" : "Toute demande est à adresser à M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1\r\nRenseignements supplémentaires: www.cc-cdv.lu"
 }, {
    "adresseCours" : {
-      "codePostal" : "9080",
-      "localite" : "Ettelbruck",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "71, avenue Salentiny"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9080",
-      "localite" : "Ettelbruck",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "71, avenue Salentiny"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-3DP-1",
-   "coursId" : "IN-3DP-1",
-   "coursType" : "CLASSIQUE",
-   "cout" : 108.0,
-   "dateDebut" : "11/02/2026",
-   "dateFin" : "03/06/2026",
-   "dateInscription" : "Jeudi, le 18 septembre 2025 à 19.00 heures au Lycée Technique d'Ettelbruck",
-   "description" : "Ce cours offre une initiation pratique à l'impression 3D : types d'imprimantes, matériaux, préparation de fichiers STL, tranchage, calibration et maintenance de base.\r\nL'objectif est de comprendre les principes de l'impression 3D : savoir préparer, lancer et suivre une impression 3D en toute autonomie.",
-   "duree" : "24h",
-   "enseignants" : [ {
-      "nom" : "Malek",
-      "prenom" : "Cédric"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 59975,
-   "intitule" : "Introduction à l'impression 3D",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "3DP",
-   "matiereNom" : "3D-Printing",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk5NzU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9080",
-         "localite" : "Ettelbruck",
-         "nom" : "Lycée Technique d'Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "71, avenue Salentiny"
-      },
-      "code" : "LTEtt",
-      "fax" : "+352 81 89 01",
-      "mail" : "education_adultes@ltett.lu",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "nomContact" : "Liégeois",
-      "onlineReg" : true,
-      "prenomContact" : "Valina",
-      "statut" : "MENFPS",
-      "telephone" : "81 92 01 307"
-   },
-   "prerequis" : "Connaissances de base en modélisation 3D (Autodesk Inventor, Fusion 360, SolidWorks, etc.)",
-   "renseignements" : "Courriel:education_adultes@ltett.lu\r\nTéléphone. 819 201 307 (Valina Liégeois)  "
-}, {
-   "adresseCours" : {
       "codePostal" : "6919",
       "localite" : "Luxembourg, Hollerich",
       "nom" : "Entente sans frontières",
@@ -57321,78 +56934,6 @@
    },
    "prerequis" : "Niveau A2.1 déjà complété. Être prêt à réviser de façon autonome et à mettre en pratique les acquis.",
    "renseignements" : "Langue véhiculaire : français et anglais\r\nRenseignement : Manuel «Marugoto A2.2» à acheter; il peut également être acquis lors du premier cours.   "
-}, {
-   "adresseCours" : {
-      "codePostal" : "9080",
-      "localite" : "Ettelbruck",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "71, avenue Lucien Salentiny"
-   },
-   "adresseInscription" : {
-      "codePostal" : "9080",
-      "localite" : "Ettelbruck",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "71, avenue Salentiny"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-QIG-3",
-   "coursId" : "SO-QIG-3",
-   "coursType" : "CLASSIQUE",
-   "cout" : 189.0,
-   "dateDebut" : "24/09/2025",
-   "dateFin" : "03/06/2026",
-   "dateInscription" : "Jeudi, le 18 septembre 2025 à 19.00 heures au Lycée Technique d'Ettelbruck",
-   "description" : "Entretenir et renforcer sa santé physique, mentale et émotionnelle par des mouvements lents associés à la respiration et à l'attention.",
-   "duree" : "42h",
-   "enseignants" : [ {
-      "nom" : "Garin",
-      "prenom" : "Pascal"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 19:00 (durée 1h30)",
-   "horaires" : [ {
-      "duree" : "1h30",
-      "heure" : "19:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 60346,
-   "intitule" : "Qi Gong",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "QIG",
-   "matiereNom" : "Qi Gong",
-   "nbInscrits" : 33,
-   "nbPlaces" : 35,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjAzNDY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "9080",
-         "localite" : "Ettelbruck",
-         "nom" : "Lycée Technique d'Ettelbruck",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "71, avenue Salentiny"
-      },
-      "code" : "LTEtt",
-      "fax" : "+352 81 89 01",
-      "mail" : "education_adultes@ltett.lu",
-      "nom" : "Lycée Technique d'Ettelbruck",
-      "nomContact" : "Liégeois",
-      "onlineReg" : true,
-      "prenomContact" : "Valina",
-      "statut" : "MENFPS",
-      "telephone" : "81 92 01 307"
-   },
-   "renseignements" : "Tél. 819 201 307 Valina Liégeois resp. 819 201 300 Max Petit ou par courriel à l'adresse education_adultes@ltett.lu "
 }, {
    "adresseCours" : {
       "codePostal" : "4277",
