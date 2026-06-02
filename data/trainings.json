@@ -44,7 +44,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "LIT",
    "matiereNom" : "Littérature",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -325,7 +325,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FISC",
    "matiereNom" : "Fiscalité",
-   "nbInscrits" : 7,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -2878,7 +2878,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SAN",
    "matiereNom" : "Santé",
-   "nbInscrits" : 11,
+   "nbInscrits" : 13,
    "nbPlaces" : 200,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -8963,7 +8963,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -10565,6 +10565,65 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Une participation aux frais des ingrédients,de 15 € sera demandée et à régler directement à la formatrice le jour même. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "1255",
+      "localite" : "Hollerich",
+      "nom" : "Parc de Merl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "28a Rue de Bragance"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-56",
+   "coursId" : "AR-DESS-56",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "15/07/2026",
+   "description" : "A gentle introduction to botanical drawing and watercolor in the park for begginners. We'll explore techniques and find inspiration together, then head out to observe and sketch from life at your own pace. Plants, trees, whatever catches your eye. A slow workshop - time to really look, with individual guidance throughout.\r\n\r\nThe course will take place at Parc de Merl, at the following address: 28a Rue de Bragance, 1255 Hollerich, Luxembourg.",
+   "duree" : "5 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 15-07-2026 à 12:50 (durée 4h10)",
+   "horaires" : [ {
+      "duree" : "4h10",
+      "heure" : "12:50",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67364,
+   "intitule" : "Outdoor Drawing & Watercolor in the Park - A Botanical Initiation",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNjQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "La formatrice parle également français.\r\n\r\n",
+   "renseignements" : "Please bring fine ink pens, a pencil, watercolors, brushes, a cloth, a small water container, and a sketchbook. For full practice, use watercolor or thick paper with a rigid support, plus any portable tools you like.\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -12798,7 +12857,8 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   }
+   },
+   "renseignements" : "A €6 materials fee is to be paid in cash on the day of the course directly to the instructor."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -13293,7 +13353,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -15398,7 +15458,67 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   }
+   },
+   "renseignements" : "A €6 materials fee is to be paid in cash on the day of the course directly to the instructor."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1840",
+      "localite" : "Luxembourg",
+      "nom" : "Pétrusse Parks",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Vallée de la Pétrusse"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-57",
+   "coursId" : "AR-DESS-57",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "08/08/2026",
+   "dateFin" : "08/08/2026",
+   "description" : "A gentle introduction to botanical drawing and watercolor in the park for begginners. We'll explore techniques and find inspiration together, then head out to observe and sketch from life at your own pace. Plants, trees, whatever catches your eye. A slow workshop - time to really look, with individual guidance throughout.\r\n\r\nThe course will take place at Pétrusse Parks, at the following address:\r\n\r\nVallée de la Pétrusse\r\nL-1840 Luxembourg City",
+   "duree" : "5 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 08-08-2026 à 12:50 (durée 4h10)",
+   "horaires" : [ {
+      "duree" : "4h10",
+      "heure" : "12:50",
+      "jour" : "Samedi"
+   } ],
+   "id" : 67365,
+   "intitule" : "Outdoor Drawing & Watercolor in the Park - A Botanical Initiation",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNjU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "La formatrice parle également français.\r\n\r\n",
+   "renseignements" : "Please bring fine ink pens, a pencil, watercolors, brushes, a cloth, a small water container, and a sketchbook. For full practice, use watercolor or thick paper with a rigid support, plus any portable tools you like.\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "-",
@@ -17606,10 +17726,17 @@
    "dateFin" : "24/08/2026",
    "description" : "Au cours de cet atelier, vous réaliserez de magnifiques boucles d’oreilles ou pendentifs uniques en associant couleurs, formes et effets d’émail. Cette activité s’adresse à des participants ayant déjà des connaissances de base en sciage et en travail du cuivre ainsi que d’autres métaux. Dans une ambiance conviviale, vous créerez des bijoux personnalisés et repartirez avec vos propres réalisations.",
    "duree" : "7 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Cifani",
+      "prenom" : "Sandra"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi 24-08-2026 à 10:20 (durée 5h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "5h50",
+      "heure" : "10:20",
+      "jour" : "Lundi"
+   } ],
    "id" : 67333,
    "intitule" : "Émail sur cuivre",
    "langueCoursCode" : "LB",
@@ -18232,7 +18359,10 @@
    "dateFin" : "29/08/2026",
    "description" : "Au cours de cet atelier, vous réaliserez de magnifiques boucles d’oreilles ou pendentifs uniques en associant couleurs, formes et effets d’émail. Cette activité s’adresse à des participants ayant déjà des connaissances de base en sciage et en travail du cuivre ainsi que d’autres métaux. Dans une ambiance conviviale, vous créerez des bijoux personnalisés et repartirez avec vos propres réalisations.",
    "duree" : "7 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Cifani",
+      "prenom" : "Sandra"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 29-08-2026 à 10:20 (durée 5h50)",
    "horaires" : [ {
@@ -21598,7 +21728,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "JA",
    "matiereNom" : "Japonais",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -32987,7 +33117,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -33071,7 +33201,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
