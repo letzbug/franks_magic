@@ -166,7 +166,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "SCN",
    "matiereNom" : "Sciences naturelles",
-   "nbInscrits" : 5,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -478,7 +478,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 20,
    "niveau" : "B1.3 du CECRL",
    "onlineRegistration" : false,
@@ -666,7 +666,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PSY",
    "matiereNom" : "Psychologie",
-   "nbInscrits" : 5,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -2174,7 +2174,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "ELEC",
    "matiereNom" : "Elec/trique-tronique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -3062,7 +3062,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -6123,7 +6123,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "UC",
    "matiereNom" : "Upcycling",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -7594,7 +7594,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -7780,7 +7780,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "NUT",
    "matiereNom" : "Nutrition",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -7823,17 +7823,24 @@
    "dateFin" : "04/07/2026",
    "description" : "Discover Laughter Yoga through a fun, accessible workshop open to everyone, combining mindful breathing, gentle movements, and guided laughter exercises. Inspired by the neurobiology of joy, this workshop helps release tension, stimulate feel-good hormones, and restore positive energy in a warm, friendly, and supportive atmosphere. No prior experience is required.",
    "duree" : "1 leçon",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Morais Martins",
+      "prenom" : "Luisa Maria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 04-07-2026 à 14:00 (durée 0h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "14:00",
+      "jour" : "Samedi"
+   } ],
    "id" : 67111,
    "intitule" : "Laughter Yoga – Neurobiology of Joy and Everyday Lightness",
    "langueCoursCode" : "EN",
    "langueCoursNom" : "Anglais",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -10578,7 +10585,7 @@
    "cout" : 0.0,
    "dateDebut" : "15/07/2026",
    "dateFin" : "15/07/2026",
-   "description" : "L’UniPop organise, en collaboration avec PassaParola, un ciné-débat autour du film « L’Arrivée de la Jeuness ». Cette projection sera suivie d’un échange en présence du réalisateur, Monsieur Fabio Bottani, et de la productrice, Madame Maria Grazia Galati, qui se tiendront à disposition du public pour approfondir les thématiques abordées.\r\n\r\nCe long-métrage retrace un siècle d’histoire de l’immigration italienne au Luxembourg à travers la saga d’une famille transalpine. Depuis l’arrivée en 1909 de Mario, mineur, jusqu’à aujourd’hui, où une descendante enseigne le luxembourgeois aux « nouveaux immigrants », le film met en scène cinq générations confrontées aux grandes réalités de leur époque, telles que les guerres, la résistance, les camps de concentration, mais aussi les parcours de vie, les passions et les réussites. En toile de fond figure également l’équipe de football Jeunesse d’Esch-sur-Alzette, symbole fort d’une communauté marquée par son histoire minière.\r\n\r\nInspiré de l’ouvrage de Remo Ceccarelli (Tanti italiani fa... in Luxembourg, 2019) et réalisé dans le cadre d’Esch2022 Capitale européenne de la culture, le film alterne documents d’archives et scènes de fiction. Comme le souligne le réalisateur Fabio Bottani : « Faire un film historique pour le rendre accessible, en particulier pour un public jeune. Faire connaître une histoire que trop de gens ne connaissent pas encore. »",
+   "description" : "L’UniPop organise, en collaboration avec PassaParola, un ciné-débat autour du film « L’Arrivée de la Jeunesse ». La projection sera suivie d’un échange en présence du réalisateur, Monsieur Fabio Bottani, et de la productrice, Madame Maria Grazia Galati, qui se tiendront à disposition du public pour approfondir les thématiques abordées.\r\n\r\nCe moyen-métrage sera diffusé en version originale luxembourgeoise et italienne, avec des sous-titres en français. Il retrace un siècle d’histoire de l’immigration italienne au Luxembourg à travers la saga d’une famille transalpine, depuis l’arrivée en 1909 de Mario, mineur, jusqu’à aujourd’hui, où une descendante enseigne le luxembourgeois aux « nouveaux immigrants ». Le film met en scène cinq générations confrontées aux grandes réalités de leur époque : guerres, résistance, camps de concentration, mais aussi parcours de vie, passions et réussites. En toile de fond apparaît également l’équipe de football Jeunesse d’Esch-sur-Alzette, symbole fort d’une communauté marquée par son histoire minière.\r\n\r\nInspiré de l’ouvrage de Remo Ceccarelli (Tanti italiani fa... in Luxembourg, 2019) et réalisé dans le cadre d’Esch2022 Capitale européenne de la culture, le film alterne archives et scènes de fiction. Comme le souligne le réalisateur Fabio Bottani : « Faire un film historique pour le rendre accessible, en particulier pour un public jeune. Faire connaître une histoire que trop de gens ne connaissent pas encore. »",
    "duree" : "3 leçons",
    "enseignants" : [ ],
    "format" : "PRESENTIEL",
@@ -10612,7 +10619,60 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "La soirée est entièrement gratuite."
+   "renseignements" : "La soirée est entièrement gratuite.\r\nLe film sera diffusé en version originale en langues luxembourgeoise et italienne, avec des sous-titres en français au début de la projection."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-COA-24",
+   "coursId" : "SO-COA-24",
+   "coursType" : "CLASSIQUE",
+   "cout" : 9.0,
+   "dateDebut" : "16/07/2026",
+   "dateFin" : "16/07/2026",
+   "description" : "Et si le premier élément à cocher sur votre liste de vacances était de retrouver un peu plus de sérénité en famille ? Entre écrans, disputes, rythme chamboulé et charge mentale parfois accrue, ce workshop vous apportera des outils concrets pour poser un cadre plus apaisé et vivre un été plus serein au quotidien.",
+   "duree" : "2 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:50 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 67319,
+   "intitule" : "Survivre aux vacances sans crise : Écrans, disputes et charge mentale en famille",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COA",
+   "matiereNom" : "Coaching",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMTk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -12296,6 +12356,59 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-MU-5",
+   "coursId" : "AR-MU-5",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.5,
+   "dateDebut" : "31/07/2026",
+   "dateFin" : "14/08/2026",
+   "description" : "Sangen am Summer – e Workshop fir jiddereen, jonk an al, deen einfach a lëschteg Lidder ubitt fir Freed a Spaass um Sangen ze kréien. Keng Virkenntnisser sinn néideg, just Loscht a Motivatioun fir matzemaachen, mat engem besonnesche Schwéierpunkt op d’Lëtzebuergescht. Am Kader vum Cours ginn Optrëtter geplangt um Belval op verschiddene Plazen, zu Esch op verschiddene Plazen an zu Déifferdeng op verschiddene Plazen.",
+   "duree" : "9 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 17:10 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67345,
+   "intitule" : "Sangen am Summer - e Workshop fir jiddereen, jonk an al",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "MU",
+   "matiereNom" : "Musique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNDU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "-",
       "localite" : "-",
       "nom" : "En ligne",
@@ -12591,6 +12704,59 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-17",
+   "coursId" : "IN-DIG-17",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "01/08/2026",
+   "dateFin" : "08/08/2026",
+   "description" : "Cette formation en langue française s’adresse aux adultes débutants souhaitant découvrir les assistants IA conversationnels en toute confiance. Elle permet de comprendre simplement comment ces outils peuvent aider à rédiger, résumer, reformuler ou organiser des idées, tout en montrant que la décision, la responsabilité et l’expérience restent toujours humaines. À travers des exemples concrets et accessibles, les participants apprennent à utiliser l’IA comme un soutien du quotidien, sans dépendance à une marque ou à une technologie spécifique. Une approche rassurante, pratique et démythifiée de l’intelligence artificielle.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 14:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67341,
+   "intitule" : "Les IA vont-elles vous remplacer ? Comprendre sans jargon",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNDE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -12809,6 +12975,60 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-54",
+   "coursId" : "AR-DESS-54",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "03/08/2026",
+   "description" : "Tout commence par un trait : un workshop créatif et accessible à tous pour apprendre à observer, comprendre et s’exprimer à travers le dessin en noir et blanc. Comme nos empreintes, nos dessins sont tous uniques.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi 03-08-2026 à 17:20 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67337,
+   "intitule" : "Tout commence par un trait",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Matériel à apporter : Feuilles A4 en 200gr , des crayons et une gomme."
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -12956,17 +13176,25 @@
    "dateFin" : "31/08/2026",
    "description" : "Apprenez à créer des bijoux uniques et élégants en maîtrisant l'assemblage minutieux de perles de différentes tailles et couleurs. Vous apprendrez à mélanger les différentes couleurs et formes de perles pour réaliser des bijoux créatifs et uniques (bagues, colliers, bracelets...). Rejoignez-nous pour une expérience créative et enrichissante, où vous pourrez exprimer votre style et votre créativité à travers ces créations étincelantes.",
    "duree" : "20 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Rybak",
+      "prenom" : "Roksoliana",
+      "site" : "https://shorturl.at/Swbb6"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:10 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Lundi"
+   } ],
    "id" : 67159,
    "intitule" : "L'univers du perlage",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "BIJU",
    "matiereNom" : "Bijoux",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -13702,6 +13930,59 @@
    "renseignements" : "Un remboursement de 6 € devra être effectué directement auprès de la formatrice pour le matériel utilisé lors de l’atelier."
 }, {
    "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg (Clausen)",
+      "nom" : "Ancienne école fondamentale Clausen",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "18, montée de Clausen"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-18",
+   "coursId" : "IN-DIG-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "04/08/2026",
+   "dateFin" : "11/08/2026",
+   "description" : "Cette formation en langue française s’adresse aux adultes débutants souhaitant découvrir les assistants IA conversationnels en toute confiance. Elle permet de comprendre simplement comment ces outils peuvent aider à rédiger, résumer, reformuler ou organiser des idées, tout en montrant que la décision, la responsabilité et l’expérience restent toujours humaines. À travers des exemples concrets et accessibles, les participants apprennent à utiliser l’IA comme un soutien du quotidien, sans dépendance à une marque ou à une technologie spécifique. Une approche rassurante, pratique et démythifiée de l’intelligence artificielle.",
+   "duree" : "6 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67342,
+   "intitule" : "Les IA vont-elles vous remplacer ? Comprendre sans jargon",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNDI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -13762,6 +14043,59 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "A apporter: Un tapis de yoga ainsi qu’une sangle et une brique de yoga. Veuillez noter qu'il n'y a ni vestiaires ni douches sur place. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DES-12",
+   "coursId" : "AR-DES-12",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "04/08/2026",
+   "dateFin" : "04/08/2026",
+   "description" : "Cet été, venez apprendre à décorer une pièce de votre intérieur. Vous apportez le plan (ou les mesures) de la pièce sur laquelle vous souhaitez travailler, et nous créons ensemble un univers harmonieux et coloré : un moodboard sur ordinateur (initiation à Canva), ainsi qu’une initiation à la modélisation 3D de votre espace.",
+   "duree" : "5 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 04-08-2026 à 14:30 (durée 4h10)",
+   "horaires" : [ ],
+   "id" : 67323,
+   "intitule" : "Workshop d'été : Apprendre à décorer une pièce de son intérieur",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DES",
+   "matiereNom" : "Design",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMjM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "1343",
@@ -14391,6 +14725,64 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DES-16",
+   "coursId" : "AR-DES-16",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "06/08/2026",
+   "dateFin" : "06/08/2026",
+   "description" : "Cet été, venez découvrir le dessin numérique sur Ipad avec l'application Procreate, en apprenant à dessiner des éléments de décoration d'intérieur. Nous apprendrons comment réaliser un croquis d'intérieur inspirant et coloré, à partir d'une photo d'un espace vide. Les gestes agréables du dessin à la main, avec la richesse de la palette des outils numériques.",
+   "duree" : "4 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 06-08-2026 à 14:30 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67327,
+   "intitule" : "Workshop d'été : Dessin d'intérieur sur Ipad",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DES",
+   "matiereNom" : "Design",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMjc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Les élèves doivent venir avec un iPad compatible Procreate, l’app Procreate installée (˜15 €), un Apple Pencil, un iPad chargé avec son chargeur, ainsi qu’un carnet de notes."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -14864,6 +15256,64 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-55",
+   "coursId" : "AR-DESS-55",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "10/08/2026",
+   "dateFin" : "10/08/2026",
+   "description" : "Tout commence par un trait : un workshop créatif et accessible à tous pour apprendre à observer, comprendre et s’exprimer à travers le dessin en noir et blanc. Comme nos empreintes, nos dessins sont tous uniques.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi 10-08-2026 à 17:20 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:20",
+      "jour" : "Lundi"
+   } ],
+   "id" : 67338,
+   "intitule" : "Tout commence par un trait",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Matériel à apporter : Feuilles A4 en 200gr , des crayons et une gomme."
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -15112,6 +15562,121 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DES-13",
+   "coursId" : "AR-DES-13",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "11/08/2026",
+   "dateFin" : "11/08/2026",
+   "description" : "Cet été, venez apprendre à décorer une pièce de votre intérieur. Vous apportez le plan (ou les mesures) de la pièce sur laquelle vous souhaitez travailler, et nous créons ensemble un univers harmonieux et coloré : un moodboard sur ordinateur (initiation à Canva), ainsi qu’une initiation à la modélisation 3D de votre espace.",
+   "duree" : "5 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 11-08-2026 à 14:30 (durée 4h10)",
+   "horaires" : [ {
+      "duree" : "4h10",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   } ],
+   "id" : 67324,
+   "intitule" : "Workshop d'été : Apprendre à décorer une pièce de son intérieur",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DES",
+   "matiereNom" : "Design",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMjQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-CUIS-67",
+   "coursId" : "AR-CUIS-67",
+   "coursType" : "CLASSIQUE",
+   "cout" : 4.5,
+   "dateDebut" : "13/08/2026",
+   "dateFin" : "13/08/2026",
+   "description" : "L’intelligence artificielle au service de la cuisine africaine, ses points forts, ses limites. Comment l’IA nous fait découvrir ou redécouvrir un produit. Comment nous pouvons l’utiliser dans l’élaboration de recettes. Présentation matérielle des aliments incontournables de la cuisine africaine. Les aliments incontournables les plus courants et les moins dans les supermarchés habituels.",
+   "duree" : "1 leçon",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 13-08-2026 à 18:00 (durée 0h50)",
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67335,
+   "intitule" : "Conférence-débat : Cuisine africaine et intelligence artificielle",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "CUIS",
+   "matiereNom" : "Cuisine",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Frais de participation pour matériel : 5€ (les participants pourront repartir avec le produit en fonction des quantités disponibles) "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -15162,6 +15727,64 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DES-17",
+   "coursId" : "AR-DES-17",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "13/08/2026",
+   "dateFin" : "13/08/2026",
+   "description" : "Cet été, venez découvrir le dessin numérique sur Ipad avec l'application Procreate, en apprenant à dessiner des éléments de décoration d'intérieur. Nous apprendrons comment réaliser un croquis d'intérieur inspirant et coloré, à partir d'une photo d'un espace vide. Les gestes agréables du dessin à la main, avec la richesse de la palette des outils numériques.",
+   "duree" : "4 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 13-08-2026 à 14:30 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67328,
+   "intitule" : "Workshop d'été : Dessin d'intérieur sur Ipad",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DES",
+   "matiereNom" : "Design",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMjg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Les élèves doivent venir avec un iPad compatible Procreate, l’app Procreate installée (˜15 €), un Apple Pencil, un iPad chargé avec son chargeur, ainsi qu’un carnet de notes."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -15292,6 +15915,60 @@
       "websiteUrl" : "https://mfamigr.gouvernement.lu/"
    },
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-53",
+   "coursId" : "AR-DESS-53",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.5,
+   "dateDebut" : "17/08/2026",
+   "dateFin" : "31/08/2026",
+   "description" : "Découvrez l’art du portrait réaliste en noir et blanc et apprenez à donner vie à vos dessins. Grâce à une approche progressive et accessible, vous explorerez les techniques essentielles d’observation, d’ombres et de contrastes pour réaliser un portrait A3 expressif et personnel. Un atelier créatif pour développer votre regard et votre sens artistique, quel que soit votre niveau.",
+   "duree" : "9 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 14:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67336,
+   "intitule" : "Portrait réaliste noir & blanc",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Matériel à apporter : Une feuille A3 (200 g), des crayons et une gomme."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -15980,6 +16657,63 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DES-14",
+   "coursId" : "AR-DES-14",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "18/08/2026",
+   "dateFin" : "18/08/2026",
+   "description" : "Cet été, venez apprendre à décorer une pièce de votre intérieur. Vous apportez le plan (ou les mesures) de la pièce sur laquelle vous souhaitez travailler, et nous créons ensemble un univers harmonieux et coloré : un moodboard sur ordinateur (initiation à Canva), ainsi qu’une initiation à la modélisation 3D de votre espace.",
+   "duree" : "5 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 18-08-2026 à 14:30 (durée 4h10)",
+   "horaires" : [ {
+      "duree" : "4h10",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   } ],
+   "id" : 67325,
+   "intitule" : "Workshop d'été : Apprendre à décorer une pièce de son intérieur",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DES",
+   "matiereNom" : "Design",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMjU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "IN",
    "categorieCodeUnipop" : "TIC",
    "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
@@ -16042,39 +16776,36 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-COA-21",
-   "coursId" : "SO-COA-21",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DES-18",
+   "coursId" : "AR-DES-18",
    "coursType" : "CLASSIQUE",
-   "cout" : 13.5,
+   "cout" : 18.0,
    "dateDebut" : "20/08/2026",
    "dateFin" : "20/08/2026",
-   "description" : "Le stress fait aujourd’hui partie du quotidien de nombreuses personnes. Pourtant, il est souvent mal compris et n’est réellement pris en compte qu’au moment où apparaissent les premiers signes d’épuisement.\r\n\r\nCe workshop propose d’explorer les mécanismes du stress, d’identifier ses propres facteurs déclencheurs et de mieux comprendre les signaux envoyés par le corps et le mental.\r\n\r\nL’objectif est de développer des stratégies concrètes pour réduire durablement la surcharge et retrouver davantage de stabilité au quotidien.\r\n\r\nLes participants découvriront les différents types de stress, les impacts du stress chronique ainsi que des outils simples de régulation et de prévention. Ils repartiront également avec des pistes d’action concrètes et directement applicables dans leur vie professionnelle et personnelle.",
-   "duree" : "3 leçons",
-   "enseignants" : [ {
-      "nom" : "Mazzara",
-      "prenom" : "Violaine Marguerite"
-   } ],
+   "description" : "Cet été, venez découvrir le dessin numérique sur Ipad avec l'application Procreate, en apprenant à dessiner des éléments de décoration d'intérieur. Nous apprendrons comment réaliser un croquis d'intérieur inspirant et coloré, à partir d'une photo d'un espace vide. Les gestes agréables du dessin à la main, avec la richesse de la palette des outils numériques.",
+   "duree" : "4 leçons",
+   "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 20-08-2026 à 17:10 (durée 2h30)",
+   "horairePrevu" : "Jeudi 20-08-2026 à 14:30 (durée 3h20)",
    "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
+      "duree" : "3h20",
+      "heure" : "14:30",
       "jour" : "Jeudi"
    } ],
-   "id" : 67201,
-   "intitule" : "Comprendre et réduire son stress au quotidien",
+   "id" : 67329,
+   "intitule" : "Workshop d'été : Dessin d'intérieur sur Ipad",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "COA",
-   "matiereNom" : "Coaching",
+   "matiereCode" : "DES",
+   "matiereNom" : "Design",
    "nbInscrits" : 0,
    "nbPlaces" : 10,
-   "niveau" : "Débutant",
+   "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyMDE%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMjk%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -16091,7 +16822,8 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   }
+   },
+   "renseignements" : "Les élèves doivent venir avec un iPad compatible Procreate, l’app Procreate installée (˜15 €), un Apple Pencil, un iPad chargé avec son chargeur, ainsi qu’un carnet de notes."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -16156,6 +16888,66 @@
    },
    "prerequis" : "Aucun",
    "renseignements" : "Le formateur fournit le matériel nécessaire. Une participation forfaitaire de 20 € sera demandée lors de la première séance pour l’achat du matériel, que les participants pourront ensuite conserver."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-COA-21",
+   "coursId" : "SO-COA-21",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "20/08/2026",
+   "dateFin" : "20/08/2026",
+   "description" : "Le stress fait aujourd’hui partie du quotidien de nombreuses personnes. Pourtant, il est souvent mal compris et n’est réellement pris en compte qu’au moment où apparaissent les premiers signes d’épuisement.\r\n\r\nCe workshop propose d’explorer les mécanismes du stress, d’identifier ses propres facteurs déclencheurs et de mieux comprendre les signaux envoyés par le corps et le mental.\r\n\r\nL’objectif est de développer des stratégies concrètes pour réduire durablement la surcharge et retrouver davantage de stabilité au quotidien.\r\n\r\nLes participants découvriront les différents types de stress, les impacts du stress chronique ainsi que des outils simples de régulation et de prévention. Ils repartiront également avec des pistes d’action concrètes et directement applicables dans leur vie professionnelle et personnelle.",
+   "duree" : "3 leçons",
+   "enseignants" : [ {
+      "nom" : "Mazzara",
+      "prenom" : "Violaine Marguerite"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 20-08-2026 à 17:10 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67201,
+   "intitule" : "Comprendre et réduire son stress au quotidien",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COA",
+   "matiereNom" : "Coaching",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyMDE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -16578,6 +17370,61 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-BIJU-44",
+   "coursId" : "AR-BIJU-44",
+   "coursType" : "CLASSIQUE",
+   "cout" : 31.5,
+   "dateDebut" : "24/08/2026",
+   "dateFin" : "24/08/2026",
+   "description" : "Au cours de cet atelier, vous réaliserez de magnifiques boucles d’oreilles ou pendentifs uniques en associant couleurs, formes et effets d’émail. Cette activité s’adresse à des participants ayant déjà des connaissances de base en sciage et en travail du cuivre ainsi que d’autres métaux. Dans une ambiance conviviale, vous créerez des bijoux personnalisés et repartirez avec vos propres réalisations.",
+   "duree" : "7 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi 24-08-2026 à 10:20 (durée 5h50)",
+   "horaires" : [ ],
+   "id" : 67333,
+   "intitule" : "Émail sur cuivre",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "BIJU",
+   "matiereNom" : "Bijoux",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Cette activité s’adresse à des participants ayant déjà des connaissances de base en sciage et en travail du cuivre ainsi que d’autres métaux. ",
+   "renseignements" : "Le cours se déroulera de 10h20 à 12h50, puis de 13h40 à 17h10, avec une pause entre les deux sessions."
+}, {
+   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Lycée Athénée ",
@@ -16653,33 +17500,33 @@
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-LGR-9",
-   "coursId" : "AR-LGR-9",
+   "coursCode" : "AR-DES-15",
+   "coursId" : "AR-DES-15",
    "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
+   "cout" : 22.5,
    "dateDebut" : "25/08/2026",
    "dateFin" : "25/08/2026",
-   "description" : "Lors de ce workshop d’initiation à la gravure en taille d’épargne, les participants découvriront les bases de la linogravure et les techniques d’impression associées. Accessible à tous, sans aucun prérequis, cet atelier invite à expérimenter un processus créatif unique, du dessin à la réalisation d’une image imprimée. Une occasion idéale pour explorer une technique artistique expressive et repartir avec ses propres créations.",
-   "duree" : "4 leçons",
+   "description" : "Cet été, venez apprendre à décorer une pièce de votre intérieur. Vous apportez le plan (ou les mesures) de la pièce sur laquelle vous souhaitez travailler, et nous créons ensemble un univers harmonieux et coloré : un moodboard sur ordinateur (initiation à Canva), ainsi qu’une initiation à la modélisation 3D de votre espace.",
+   "duree" : "5 leçons",
    "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 25-08-2026 à 10:20 (durée 3h20)",
+   "horairePrevu" : "Mardi 25-08-2026 à 14:30 (durée 4h10)",
    "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "10:20",
+      "duree" : "4h10",
+      "heure" : "14:30",
       "jour" : "Mardi"
    } ],
-   "id" : 67230,
-   "intitule" : "Initiation à la gravure en taille d'épargne - linoleum",
+   "id" : 67326,
+   "intitule" : "Workshop d'été : Apprendre à décorer une pièce de son intérieur",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "LGR",
-   "matiereNom" : "Linogravure",
+   "matiereCode" : "DES",
+   "matiereNom" : "Design",
    "nbInscrits" : 0,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyMzA%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMjY%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -16696,8 +17543,7 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge du matériel. Un remboursement de 6 euros est à effectuer en espèces le jour même."
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -16761,6 +17607,64 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-LGR-9",
+   "coursId" : "AR-LGR-9",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "25/08/2026",
+   "dateFin" : "25/08/2026",
+   "description" : "Lors de ce workshop d’initiation à la gravure en taille d’épargne, les participants découvriront les bases de la linogravure et les techniques d’impression associées. Accessible à tous, sans aucun prérequis, cet atelier invite à expérimenter un processus créatif unique, du dessin à la réalisation d’une image imprimée. Une occasion idéale pour explorer une technique artistique expressive et repartir avec ses propres créations.",
+   "duree" : "4 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 25-08-2026 à 10:20 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "10:20",
+      "jour" : "Mardi"
+   } ],
+   "id" : 67230,
+   "intitule" : "Initiation à la gravure en taille d'épargne - linoleum",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LGR",
+   "matiereNom" : "Linogravure",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyMzA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "La formatrice se charge du matériel. Un remboursement de 6 euros est à effectuer en espèces le jour même."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -16804,6 +17708,64 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DES-19",
+   "coursId" : "AR-DES-19",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "27/08/2026",
+   "dateFin" : "27/08/2026",
+   "description" : "Cet été, venez découvrir le dessin numérique sur Ipad avec l'application Procreate, en apprenant à dessiner des éléments de décoration d'intérieur. Nous apprendrons comment réaliser un croquis d'intérieur inspirant et coloré, à partir d'une photo d'un espace vide. Les gestes agréables du dessin à la main, avec la richesse de la palette des outils numériques.",
+   "duree" : "4 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 27-08-2026 à 14:30 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67330,
+   "intitule" : "Workshop d'été : Dessin d'intérieur sur Ipad",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DES",
+   "matiereNom" : "Design",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Les élèves doivent venir avec un iPad compatible Procreate, l’app Procreate installée (˜15 €), un Apple Pencil, un iPad chargé avec son chargeur, ainsi qu’un carnet de notes."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -16979,6 +17941,65 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-BIJU-45",
+   "coursId" : "AR-BIJU-45",
+   "coursType" : "CLASSIQUE",
+   "cout" : 31.5,
+   "dateDebut" : "29/08/2026",
+   "dateFin" : "29/08/2026",
+   "description" : "Au cours de cet atelier, vous réaliserez de magnifiques boucles d’oreilles ou pendentifs uniques en associant couleurs, formes et effets d’émail. Cette activité s’adresse à des participants ayant déjà des connaissances de base en sciage et en travail du cuivre ainsi que d’autres métaux. Dans une ambiance conviviale, vous créerez des bijoux personnalisés et repartirez avec vos propres réalisations.",
+   "duree" : "7 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 29-08-2026 à 10:20 (durée 5h50)",
+   "horaires" : [ {
+      "duree" : "5h50",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   } ],
+   "id" : 67334,
+   "intitule" : "Émail sur cuivre",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BIJU",
+   "matiereNom" : "Bijoux",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Cette activité s’adresse à des participants ayant déjà des connaissances de base en sciage et en travail du cuivre ainsi que d’autres métaux. ",
+   "renseignements" : "Le cours se déroulera de 10h20 à 12h50, puis de 13h40 à 17h10, avec une pause entre les deux sessions."
 }, {
    "adresseCours" : {
       "codePostal" : "-",
@@ -21692,7 +22713,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "RU",
    "matiereNom" : "Russe",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 24,
    "niveau" : "A1 du CECRL",
    "onlineRegistration" : true,
@@ -22357,7 +23378,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LA",
    "matiereNom" : "Latin",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 24,
    "niveau" : "C1 du CECRL",
    "onlineRegistration" : true,
@@ -22430,7 +23451,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "EL",
    "matiereNom" : "Grec",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 24,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : true,
@@ -23685,10 +24706,17 @@
    "dateInscription" : "A partir de juillet 2026",
    "description" : "Pour les personnes qui ont une certaine base de la langue russe et voudraient approfondir et élargir leurs connaissances. Enrichissement du vocabulaire, communication orale, conversation avec vocabulaire plus élaboré sur les sujets du quotidien.\r\nL’objectif du cours est d’être capable de communiquer sur les sujets du quotidiens et de comprendre les autres.",
    "duree" : "52h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Tchernykh",
+      "prenom" : "Natalia"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Lundi"
+   } ],
    "id" : 67149,
    "intitule" : "Russe - A2.1",
    "langueCoursCode" : "FR",
@@ -23748,10 +24776,17 @@
    "dateInscription" : "A partir de juillet 2026",
    "description" : "Ce cours s'adresse aux apprenants possédant déjà de bonnes bases en italien et souhaitant améliorer leur aisance oral. A travers des discussions autour de thèmes variés et d'actualité, les participants enrichissent leur vocabulaire, perfectionnent leur compréhension orale et développent leur capacité à s'exprimer de manière fluide, spontanée et naturelle.\r\nLe cours met l'accent sur la pratique active de la langue, l'interaction entre les participants et le plaisir de communiquer den italien dans un ambiance conviviale et dynamique.",
    "duree" : "52h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Di Salvatore",
+      "prenom" : "Elisabetta"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:00",
+      "jour" : "Mardi"
+   } ],
    "id" : 67071,
    "intitule" : "Italien",
    "langueCoursCode" : "IT",
@@ -23811,10 +24846,17 @@
    "dateInscription" : "A partir de juillet 2026",
    "description" : "Le cours s'adresse aux apprenants qui souhaitent poursuivre l'étude de la langue et de la culture italienne. Il est destiné aux personnes ayant déjà suivi au moins deux cours d'italien ou possédant un niveau élémentaire avancé (A2.1)\r\nLe cours met également l'accent sur la compréhension orale, la conversation et la découverte de la culture italienne à travers des documents authentiques, des activités interactives et des supports variés.",
    "duree" : "52h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Di Salvatore",
+      "prenom" : "Elisabetta"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   } ],
    "id" : 67070,
    "intitule" : "Italien",
    "langueCoursCode" : "IT",
@@ -25299,10 +26341,17 @@
    "dateInscription" : "A partir de juillet 2026",
    "description" : "Ce cours s’adresse à tous les apprenants ayant déjà de bonnes bases en langue russe et souhaitant améliorer leur aisance à l’oral.\r\nA travers des discussions autour de différents thèmes, les participants enrichissent elur vocabulaire, renforcent leur compréhension et développent leur capacité à s’exprimer de manière fluide et naturelle. L’accent est mis sur la pratique, l’interaction et le plaisir de communiquer.",
    "duree" : "52h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Tchernykh",
+      "prenom" : "Natalia"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mardi"
+   } ],
    "id" : 67150,
    "intitule" : "Russe - B2 intermédiaire/avancé",
    "langueCoursCode" : "FR",
@@ -25741,10 +26790,17 @@
    "dateInscription" : "A partir de juillet 2026",
    "description" : "Pour les personnes qui connaissent l’alphabet cyrillique et aimeraient aller plus loin.\r\nConsolidation et approfondissement des connaissances de la langue russe. Enrichissement du vocabulaire, communication orale, conversation sur les sujets du quotidien. L’objectif du cours est d’être capable de communiquer rapidement et de comprendre les autres. ",
    "duree" : "52h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Tchernykh",
+      "prenom" : "Natalia"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 67148,
    "intitule" : "Russe - A1.2 Faux débutant",
    "langueCoursCode" : "FR",
@@ -25876,10 +26932,17 @@
    "dateInscription" : "A partir de juillet 2026",
    "description" : "Pour les personnes intéressées à apprendre une nouvelle langue.\r\nAcquisition de connaissances de base de la langue russe pour débutants. Alphabet cyrillique, premier échanges, expressions familières sur des sujets du quotidien.\r\nL’objectif du cours est d’être capable de communiquer rapidement et de comprendre les autres.",
    "duree" : "52h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Tchernykh",
+      "prenom" : "Natalia"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 19:00 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "19:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67147,
    "intitule" : "Russe - A1.1 Débutant",
    "langueCoursCode" : "FR",
@@ -29583,7 +30646,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 8,
+   "nbInscrits" : 7,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -29752,7 +30815,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 25,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : true,
@@ -30108,7 +31171,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 18,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -30298,7 +31361,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 11,
+   "nbInscrits" : 12,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -30662,6 +31725,111 @@
    "prerequis" : "Connaître l'alphabet latin est une obligation - Ability to read and write in latin alphabet."
 }, {
    "adresseCours" : {
+      "codePostal" : "3532",
+      "localite" : "Dudelange",
+      "nom" : "Ecole DEICH",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "31, rue du stade Jos Nos Baum"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel De Ville De  Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1534",
+   "coursId" : "LA-FR-1534",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "23/07/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange. \r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
+   "description" : "Comprendre et utiliser des phrases simples au quotidien. Se présenter, décrire, échanger des informations personnelles et concrètes simples avec des termes simples et courants. Communiquer avec un interlocuteur qui s'exprime clairement et lentement.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des mots familiers, des expressions courantes et simples au sujet de sa famille. \r\n", "Comprendre des mots familiers, des expressions très courantes au sujet de son environnement concret et immédiat, exprimés dans un débit lent et distinct. \r\n", "Comprendre des questions simples, formulées dans un débit plus ou moins lent, au sujet de soi, de sa famille et de son environnement concret et immédiat (profession, logement, lieux de vie...) \r\n", "Identifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne. \r\n", "Comprendre une description simple d'une personne, d'un objet, d'un fait, exprimée de façon simple et avec des termes courants. \r\n", "Comprendre les expressions d'appartenance \r\n", "Comprendre les énoncés chiffrés (heures, dates, numéros de téléphone, prix...) \r\n", "Comprendre de courts échanges sur les loisirs et activités \r\n\r\n", "Comprendre de courts échanges sur de simples et brèves indications autour des activités du quotidien. ", "Comprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet de soi-même. \r\n" ],
+      "domaine" : "COMPREHENSION ORALE"
+   }, {
+      "competences" : [ " Poser et répondre à des questions simples sur des sujets familiers (famille, lieu de vie, métiers, loisirs et activités) \r\n", "Exprimer son goût et ses préférences \r\n", "Décrire et poser des questions sur le caractère d'une personne, d'un objet \r\n", "Poser et répondre à des questions sur l'heure, la date, le tarif et les activités du quotidien. \r\n", "Parler de ses loisirs et activités. Poser et répondre à des questions simples autour des loisirs et activités. \r\n\r\n", "Suivre et exprimer de brèves et simples indications au quotidien (indiquer, retrouver un emplacement/ suivre une notice simple)" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "Reconnaître des noms, des expressions et des mots courants ; \r\n", "Comprendre des messages simples (horaires, formulaire d'inscription simple, publicité...) \r\n", "Comprendre des indications brèves et simples (ex : Indication de chemin, l'emplacement d'un objet, d'un chemin...)\r\n" ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "Compléter un formulaire simple \r\n\r\n", "Ecrire un texte court et simple sur soi-même et/ou son environnement immédiat, en s'appuyant sur un matériel donné.", "Ecrire de brèves consignes (sous forme de post it,  court message...)" ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Michelitsch",
+      "prenom" : "Pernelle"
+   }, {
+      "nom" : "Vallet",
+      "prenom" : "Danielle"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 17:25 (durée 2h05), Mardi à 17:25 (durée 2h05), Jeudi à 17:25 (durée 2h05)",
+   "horaires" : [ {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66270,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 21,
+   "nbPlaces" : 22,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "prerequis" : "Avoir le niveau A1.1"
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -30775,7 +31943,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "01/06/2026",
-   "dateFin" : "06/07/2026",
+   "dateFin" : "09/07/2026",
    "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
    "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. Peut se débrouiller dans des situations rencontrées en voyage. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
    "domainesCompetences" : [ {
@@ -30824,7 +31992,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 12,
+   "nbInscrits" : 15,
    "nbPlaces" : 24,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -30915,7 +32083,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
+   "nbInscrits" : 16,
    "nbPlaces" : 22,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
@@ -31107,7 +32275,7 @@
    "langueCoursNom" : "Allemand",
    "matiereCode" : "DE",
    "matiereNom" : "Allemand",
-   "nbInscrits" : 4,
+   "nbInscrits" : 6,
    "nbPlaces" : 24,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -31491,7 +32659,7 @@
    "matiereCode" : "FR",
    "matiereNom" : "Français",
    "nbInscrits" : 0,
-   "nbPlaces" : 25,
+   "nbPlaces" : 27,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
