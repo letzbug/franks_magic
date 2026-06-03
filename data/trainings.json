@@ -36,7 +36,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "COA",
    "matiereNom" : "Coaching",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2643,7 +2643,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -2696,7 +2696,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3756,7 +3756,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 15,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -10175,59 +10175,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La soirée est entièrement gratuite.\r\nLe film sera diffusé en version originale en langues luxembourgeoise et italienne, avec des sous-titres en français au début de la projection."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-COA-24",
-   "coursId" : "SO-COA-24",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "16/07/2026",
-   "dateFin" : "16/07/2026",
-   "description" : "Et si le premier élément à cocher sur votre liste de vacances était de retrouver un peu plus de sérénité en famille ? Entre écrans, disputes, rythme chamboulé et charge mentale parfois accrue, ce workshop vous apportera des outils concrets pour poser un cadre plus apaisé et vivre un été plus serein au quotidien.",
-   "duree" : "2 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:50 (durée 1h40)",
-   "horaires" : [ ],
-   "id" : 67319,
-   "intitule" : "Survivre aux vacances sans crise : Écrans, disputes et charge mentale en famille",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COA",
-   "matiereNom" : "Coaching",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMTk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -24858,7 +24805,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -24924,7 +24871,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -24990,7 +24937,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -29466,7 +29413,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Au coût d'inscription s'ajouteront les frais de participation (environ 90 EUR).\r\n"
@@ -29694,7 +29641,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Langue véhiculaire : Français et Anglais\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -30080,7 +30027,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -30231,7 +30178,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -30365,7 +30312,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. \r\n"
@@ -30431,7 +30378,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -30497,7 +30444,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. \r\n"
@@ -30563,7 +30510,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -30691,7 +30638,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Langue véhiculaire : Français et Anglais"
@@ -30757,7 +30704,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -30823,7 +30770,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Au coût d'inscription s'ajouteront les frais de participation (environ 90 EUR).\r\n"
@@ -30889,7 +30836,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Ce cours s'adresse principalement aux débutants.\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. \r\n"
@@ -30955,7 +30902,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -31021,7 +30968,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -31087,7 +31034,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
@@ -31518,7 +31465,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 18,
+   "nbInscrits" : 19,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -31764,7 +31711,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 13,
+   "nbInscrits" : 16,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -32018,7 +31965,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 9,
    "nbPlaces" : 25,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : true,
@@ -32458,7 +32405,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 16,
    "nbPlaces" : 18,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -35253,7 +35200,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 24,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -42728,7 +42675,7 @@
       "onlineReg" : true,
       "prenomContact" : "Alain",
       "statut" : "MENFPS",
-      "telephone" : "+352 50 87 30 217",
+      "telephone" : "+352 50 87 30 206",
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
