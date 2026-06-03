@@ -4570,7 +4570,10 @@
    "dateFin" : "17/06/2026",
    "description" : "Cet atelier vous aidera à comprendre le sucre sous toutes ses formes, ses effets sur l’organisme et comment le consommer de manière plus consciente. Vous apprendrez à réduire les excès sans frustration et à faire des choix éclairés au quotidien.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Rosenfelder",
+      "prenom" : "Patricia Fernande Marie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 17-06-2026 à 18:00 (durée 1h40)",
    "horaires" : [ {
@@ -6670,7 +6673,10 @@
    "dateFin" : "02/07/2026",
    "description" : "Prendre du recul sur son quotidien de parent, mieux comprendre les tensions et découvrir des solutions concrètes pour améliorer la relation avec ses enfants.\r\nÀ travers des situations du quotidien et des échanges entre parents, vous repartirez avec des outils simples, pratiques et directement applicables pour favoriser une relation plus apaisée et coopérative.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Van Vaerenberg",
+      "prenom" : "Jennifer"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi 02-07-2026 à 18:00 (durée 1h40)",
    "horaires" : [ {
@@ -6906,7 +6912,10 @@
    "dateFin" : "03/07/2026",
    "description" : "STEM isn’t just for scientists. It’s the foundation of the technologies, systems, and discoveries that shape our world. This course invites learners of all ages and backgrounds to engage with STEM through interactive simulations, visual tools, and hands-on digital labs. Rather than abstract formulas, you’ll experience how things work—running experiments, interpreting data, building simple systems, and explaining what you learn. No prior expertise required—just curiosity!\r\nBy the end of this training edition, participants will be able to:\r\n1.\tRun interactive simulations that visualise scientific phenomena\r\n2.\tExplore logic and computation using no-code visual tools\r\n3.\tAnalyse and interpret data through intuitive dashboards\r\n4.\tModel simple engineering systems with drag-and-drop software\r\n5.\tExplain real-world technologies (e.g. sensors, automated systems)\r\n6.\tCommunicate STEM ideas confidently to diverse audiences",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi 03-07-2026 à 14:30 (durée 5h)",
    "horaires" : [ {
@@ -6963,10 +6972,17 @@
    "dateFin" : "31/07/2026",
    "description" : "Ce cours s’adresse aux personnes qui souhaitent à la fois danser et découvrir l’histoire de la danse. « Le Sacre du printemps » de Nijinski servira de point de départ : nous en explorerons les enjeux corporels, esthétiques et symboliques.\r\nÀ partir de cette matière historique, les séances proposeront des improvisations ludiques et guidées, permettant de revisiter certains principes clés d’une chorégraphie célèbre (spatialité, rythme, intention, qualité de présence), tout en laissant à chacun la possibilité de développer sa propre écriture corporelle.\r\nCe cours offre une manière vivante de s’initier aux grandes œuvres du XXe siècle et de comprendre les choix artistiques par le corps, en les transformant en expériences sensibles et personnelles. Une façon d’entrer dans l’histoire de la danse tout en enrichissant sa pratique individuelle du mouvement.",
    "duree" : "5 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Mesager",
+      "prenom" : "Mélanie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi à 12:10 (durée 0h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "12:10",
+      "jour" : "Vendredi"
+   } ],
    "id" : 67014,
    "intitule" : "Improvisation Dansée : explorer une œuvre du répertoire",
    "langueCoursCode" : "FR",
@@ -7016,10 +7032,17 @@
    "dateFin" : "31/07/2026",
    "description" : "Inspiré des techniques d’entraînement des danseurs de ballet et accessible à tous, ce cours au sol associe assouplissement, renforcement musculaire et conscience corporelle.\r\nSans les contraintes liées à l’équilibre, il permet d’améliorer la posture, de mieux ressentir l’alignement du corps et de développer une force à la fois souple, précise et contrôlée.\r\nGrâce à une approche progressive et accessible, vous gagnerez en mobilité, tonicité et fluidité dans le mouvement, tout en prenant plaisir à bouger.\r\nCe cours peut également constituer un excellent échauffement pour le cours \" Improvisation dansée \". ",
    "duree" : "5 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Mesager",
+      "prenom" : "Mélanie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi à 11:10 (durée 0h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "11:10",
+      "jour" : "Vendredi"
+   } ],
    "id" : 67013,
    "intitule" : "Assouplissement et musculation",
    "langueCoursCode" : "FR",
@@ -7886,10 +7909,18 @@
    "dateFin" : "27/07/2026",
    "description" : "Apprenez à créer des bijoux uniques et élégants en maîtrisant l'assemblage minutieux de perles de différentes tailles et couleurs. Vous apprendrez à mélanger les différentes couleurs et formes de perles pour réaliser des bijoux créatifs et uniques (bagues, colliers, bracelets...). Rejoignez-nous pour une expérience créative et enrichissante, où vous pourrez exprimer votre style et votre créativité à travers ces créations étincelantes.",
    "duree" : "16 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Rybak",
+      "prenom" : "Roksoliana",
+      "site" : "https://shorturl.at/Swbb6"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 17:10 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Lundi"
+   } ],
    "id" : 67156,
    "intitule" : "L'univers du perlage",
    "langueCoursCode" : "FR",
@@ -8570,10 +8601,18 @@
    "dateFin" : "28/07/2026",
    "description" : "Ce cours s’adresse à tous ceux qui souhaitent apprendre à broder à partir de zéro ou perfectionner leurs compétences. Les élèves se familiariseront avec les techniques de base, le choix des matériaux, la création de motifs simples et complexes, ainsi que les méthodes de finition soignée et professionnelle.\r\n\r\nAu fil des séances, ils pourront réaliser des créations décoratives personnalisées telles qu’une écharpe, une ceinture, un sac à main ou encore un porte-monnaie brodé. Chaque séance permet également de découvrir une nouvelle technique, afin de progresser pas à pas et d’enrichir continuellement ses savoir-faire.",
    "duree" : "16 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Rybak",
+      "prenom" : "Roksoliana",
+      "site" : "https://shorturl.at/Swbb6"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:10 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Mardi"
+   } ],
    "id" : 67157,
    "intitule" : "L’Art de la Broderie",
    "langueCoursCode" : "FR",
@@ -8832,7 +8871,10 @@
    "dateFin" : "08/07/2026",
    "description" : "This course introduces the fundamentals of space and satellite technology systems, progressing from basic concepts to intermediate topics. It is designed for adult and lifelong learners in Luxembourg, requiring no prior technical background. The course covers how satellites work, their role in modern communications, and their impact on society.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 08-07-2026 à 14:30 (durée 5h)",
    "horaires" : [ {
@@ -8951,7 +8993,11 @@
    "dateFin" : "11/07/2026",
    "description" : "Cet atelier est spécialement conçu pour les futurs parents, idéal à partir du 6¿ mois de grossesse, afin de vivre ensemble un temps de connexion et de compréhension du corps. Ce workshop s’appuie sur les principes de la méthode De Gasquet : protection du périnée, respiration physiologique et postures adaptées à la grossesse. ¿ Pourquoi pratiquer le yoga en couple ? - pour renforcer le lien entre les futurs parents, - pour impliquer activement le/ la partenaire dans la grossesse, - pour apprendre des postures et gestes pour le quotidien, - pour soulager les tensions (dos, bassin, jambes lourdes), - pour créer un espace de confiance et de communication. Le/la partenaire apprend des techniques simples de mobilisation du bassin, d’aide aux postures, de massage et de soutien respiratoire. - Modalités d’inscription 1 inscription = 1 personne 2 inscriptions = 1 couple",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Andreos",
+      "prenom" : "Aurélie",
+      "presentation" : "https://aurelie-yoga-ayurveda.com/"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 11-07-2026 à 10:20 (durée 1h40)",
    "horaires" : [ {
@@ -9010,7 +9056,10 @@
    "dateFin" : "11/07/2026",
    "description" : "Dans cet atelier ludique et convivial, vous apprendrez à décorer des pots de fleurs en utilisant la peinture ou la technique du serviettage (collage de serviettes en papier).\r\n\r\nAccessible à tous, cet atelier ne nécessite que peu de matériel et d’équipement, et permet de laisser libre cours à sa créativité dans une ambiance détendue et inspirante.",
    "duree" : "3 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Renneboog",
+      "prenom" : "Ellen"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 11-07-2026 à 18:00 (durée 2h30)",
    "horaires" : [ {
@@ -10082,7 +10131,10 @@
    "dateFin" : "15/07/2026",
    "description" : "A gentle introduction to botanical drawing and watercolor in the park for begginners. We'll explore techniques and find inspiration together, then head out to observe and sketch from life at your own pace. Plants, trees, whatever catches your eye. A slow workshop - time to really look, with individual guidance throughout.\r\n\r\nThe course will take place at Parc de Merl, at the following address: 28a Rue de Bragance, 1255 Hollerich, Luxembourg.",
    "duree" : "5 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Morel",
+      "prenom" : "Juliane"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 15-07-2026 à 12:50 (durée 4h10)",
    "horaires" : [ {
@@ -10142,10 +10194,17 @@
    "dateFin" : "15/07/2026",
    "description" : "L’UniPop organise, en collaboration avec PassaParola, un ciné-débat autour du film « L’Arrivée de la Jeunesse ». La projection sera suivie d’un échange en présence du réalisateur, Monsieur Fabio Bottani, et de la productrice, Madame Maria Grazia Galati, qui se tiendront à disposition du public pour approfondir les thématiques abordées.\r\n\r\nCe moyen-métrage sera diffusé en version originale luxembourgeoise et italienne, avec des sous-titres en français. Il retrace un siècle d’histoire de l’immigration italienne au Luxembourg à travers la saga d’une famille transalpine, depuis l’arrivée en 1909 de Mario, mineur, jusqu’à aujourd’hui, où une descendante enseigne le luxembourgeois aux « nouveaux immigrants ». Le film met en scène cinq générations confrontées aux grandes réalités de leur époque : guerres, résistance, camps de concentration, mais aussi parcours de vie, passions et réussites. En toile de fond apparaît également l’équipe de football Jeunesse d’Esch-sur-Alzette, symbole fort d’une communauté marquée par son histoire minière.\r\n\r\nInspiré de l’ouvrage de Remo Ceccarelli (Tanti italiani fa... in Luxembourg, 2019) et réalisé dans le cadre d’Esch2022 Capitale européenne de la culture, le film alterne archives et scènes de fiction. Comme le souligne le réalisateur Fabio Bottani : « Faire un film historique pour le rendre accessible, en particulier pour un public jeune. Faire connaître une histoire que trop de gens ne connaissent pas encore. »",
    "duree" : "3 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Conférence",
+      "prenom" : "Up"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 15-07-2026 à 18:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
    "id" : 67314,
    "intitule" : "Ciné-Débat: L’Arrivée de la Jeunesse",
    "langueCoursCode" : "FR",
@@ -10196,10 +10255,17 @@
    "dateFin" : "16/07/2026",
    "description" : "Initiez-vous à l’univers de la création de bijoux à travers un atelier accessible aux débutants et laissez parler votre créativité. Vous découvrirez les techniques de base du travail du métal, telles que le tracé, le sciage, le limage ou encore le texturage, afin de réaliser pas à pas votre propre bijou en laiton.\r\n\r\nAccompagnés tout au long du processus, les participants auront l’occasion de créer un pendentif ou une paire de boucles d’oreilles uniques, dans une ambiance conviviale et créative. Tout l’outillage nécessaire est mis à disposition.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Chapel",
+      "prenom" : "Diane"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 13:40 (durée 5h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "5h",
+      "heure" : "13:40",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67208,
    "intitule" : "Initiation à la création de bijoux",
    "langueCoursCode" : "FR",
@@ -10250,10 +10316,17 @@
    "dateFin" : "14/08/2026",
    "description" : "This Qigong practice, rooted in Taoist philosophy, gently supports the release of physical fatigue and mental stress. Through slow, mindful movements, it helps restore balance, enhance vitality, and cultivate a deep sense of harmony between body and mind.",
    "duree" : "15 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Cheng",
+      "prenom" : "Aixia"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi à 17:10 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:10",
+      "jour" : "Vendredi"
+   } ],
    "id" : 67272,
    "intitule" : "Qigong - Chines culture",
    "langueCoursCode" : "EN",
@@ -10371,10 +10444,17 @@
    "dateFin" : "18/07/2026",
    "description" : "Atelier pratique et convivial dédié à l’art de préparer infusions et décoctions. Cette formation vous invite à découvrir les plantes médicinales du Luxembourg et à apprendre à composer vos propres tisanes de manière sûre, responsable et adaptée à vos besoins.\r\n\r\nVous repartirez avec des connaissances concrètes et des clés simples pour créer des mélanges personnalisés.",
    "duree" : "3 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Solovieva Ép. Simoncini",
+      "prenom" : "Irina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 18-07-2026 à 10:20 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   } ],
    "id" : 67191,
    "intitule" : "Tisanes sur mesure",
    "langueCoursCode" : "FR",
@@ -11400,10 +11480,17 @@
    "dateFin" : "22/07/2026",
    "description" : "Découvrez comment retrouver plus d’énergie, améliorer votre sommeil et soutenir votre santé en respectant les rythmes naturels du corps. Ce workshop interactif explore l’importance du rythme circadien, de la saisonnalité et de la chrononutrition à travers des conseils concrets sur la lumière, les écrans, l’alimentation et les habitudes du quotidien. Un moment d’échange et de discussion pour mieux comprendre les besoins naturels de l’organisme et adopter des habitudes favorisant l’équilibre et le bien-être.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Arnould-Guttinger",
+      "prenom" : "Audrey"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 22-07-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
    "id" : 67275,
    "intitule" : "Chrononutrition et importance du rythme circadien",
    "langueCoursCode" : "FR",
@@ -11517,10 +11604,17 @@
    "dateFin" : "25/07/2026",
    "description" : "In the process of writing down memories of your life, you will also be encouraged to remember your ambitions, your dreams. It is a small jump from this fundamental diary-like writing to constructing a story where one of those dreams actually becomes a lived reality for an imagined protagonist. The result will be the beginning of a short story you never believed you were capable of writing!",
    "duree" : "5 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Rufolo",
+      "prenom" : "Dr. Dana"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 25-07-2026 à 10:20 (durée 4h10)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h10",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   } ],
    "id" : 67332,
    "intitule" : "Writing Your Dreams in Short Story Format",
    "langueCoursCode" : "EN",
@@ -11979,14 +12073,21 @@
    "cout" : 9.0,
    "dateDebut" : "30/07/2026",
    "dateFin" : "30/07/2026",
-   "description" : "Ce cours propose de découvrir comment utiliser les huiles essentielles en toute sécurité pendant l’été. Vous apprendrez lesquelles privilégier pour les petits maux de saison, comment les utiliser efficacement  et quelles précautions respecter pour profiter de leurs bienfaits en toute sérénité.",
+   "description" : "L'été s'installe, et avec lui des envies de soleil, de grand air... mais aussi les petits désagréments de la saison ! Moustiques gourmands, coups de soleil imprévus, jambes lourdes ou petits bobos de vacances : et si vous passiez au naturel cette année ? \r\nRejoignez-moi pour un atelier pratique et convivial dédié aux huiles essentielles incontournables de l'été. Apprenez à composer votre trousse de secours naturelle pour profiter de la saison estivale en toute connaissance sur le bon usage de celles-ci.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Rosenfelder",
+      "prenom" : "Patricia Fernande Marie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi 30-07-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67321,
-   "intitule" : "Huiles essentielles pour l'été",
+   "intitule" : "Atelier Aromathérapie : Ma trousse naturelle pour l’été !",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
@@ -12094,10 +12195,17 @@
    "dateFin" : "14/08/2026",
    "description" : "Sangen am Summer – e Workshop fir jiddereen, jonk an al, deen einfach a lëschteg Lidder ubitt fir Freed a Spaass um Sangen ze kréien. Keng Virkenntnisser sinn néideg, just Loscht a Motivatioun fir matzemaachen, mat engem besonnesche Schwéierpunkt op d’Lëtzebuergescht. Am Kader vum Cours ginn Optrëtter geplangt um Belval op verschiddene Plazen, zu Esch op verschiddene Plazen an zu Déifferdeng op verschiddene Plazen.",
    "duree" : "9 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lieser",
+      "prenom" : "Daniel"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi à 17:10 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:10",
+      "jour" : "Vendredi"
+   } ],
    "id" : 67345,
    "intitule" : "Sangen am Summer - e Workshop fir jiddereen, jonk an al",
    "langueCoursCode" : "LB",
@@ -12215,10 +12323,17 @@
    "dateFin" : "29/08/2026",
    "description" : "Découvrez l’improvisation dans une ambiance ludique et bienveillante ! À travers des jeux, des défis créatifs et des moments de rire, osez lâcher prise, développer votre imagination et partager la scène en toute simplicité.",
    "duree" : "8 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Durante",
+      "prenom" : "Pascal"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi à 10:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   } ],
    "id" : 67273,
    "intitule" : "Stage découverte: Improvisation théâtrale",
    "langueCoursCode" : "FR",
@@ -12269,10 +12384,17 @@
    "dateFin" : "01/08/2026",
    "description" : "Create stunning jewelry from real plants! Learn to preserve leaves and flowers, design unique pieces, and craft nature-inspired accessories.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bulat",
+      "prenom" : "Arina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 01-08-2026 à 14:30 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "14:30",
+      "jour" : "Samedi"
+   } ],
    "id" : 67234,
    "intitule" : "Jewelry making with real plants",
    "langueCoursCode" : "EN",
@@ -12323,10 +12445,24 @@
    "dateFin" : "08/08/2026",
    "description" : "La linogravure est une technique de gravure en relief, ou taille d’épargne. Très proche de la gravure sur bois, elle consiste à creuser certaines parties d’une plaque de linoléum afin de laisser intactes les zones qui seront encrées et imprimées, permettant ainsi de reproduire le motif créé.\r\n\r\nLors de ces ateliers, les participants pourront réaliser leur propre tampon sur une plaque de vinyle, une matière souple et facile à travailler, adaptée à la linogravure. Ils auront le choix entre des designs originaux (plantes, champignons, dinosaures, mollusques…) ou la création de leur propre dessin, qu’ils graveront sur une plaque de linogravure de 10 x 10 cm.",
    "duree" : "8 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Brilli",
+      "prenom" : "Julie"
+   }, {
+      "nom" : "Valet",
+      "prenom" : "Léa"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi à 10:20 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   }, {
+      "duree" : "3h20",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   } ],
    "id" : 67211,
    "intitule" : "Découvrez l'art de la linogravure et apprenez à créer vos propres tampons",
    "langueCoursCode" : "FR",
@@ -12377,7 +12513,10 @@
    "dateFin" : "01/08/2026",
    "description" : "Vivez une expérience immersive au cœur de la Forêt de Bambësch et découvrez la nature sous un nouveau regard.\r\n\r\nAu fil de la sortie, les participants seront invités à :\r\n\r\n- Écouter la “musique” des plantes sauvages à l’aide d’un appareil de bio-résonance\r\n- Comprendre les interactions entre arbres, champignons, insectes et sol\r\n- Explorer les effets bénéfiques de la forêt sur le bien-être physique, émotionnel et mental.\r\n\r\nUne immersion sensorielle unique pour se reconnecter à la nature et à soi-même.",
    "duree" : "3 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Solovieva Ép. Simoncini",
+      "prenom" : "Irina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 01-08-2026 à 10:20 (durée 2h30)",
    "horaires" : [ {
@@ -12435,10 +12574,17 @@
    "dateFin" : "08/08/2026",
    "description" : "Cette formation en langue française s’adresse aux adultes débutants souhaitant découvrir les assistants IA conversationnels en toute confiance. Elle permet de comprendre simplement comment ces outils peuvent aider à rédiger, résumer, reformuler ou organiser des idées, tout en montrant que la décision, la responsabilité et l’expérience restent toujours humaines. À travers des exemples concrets et accessibles, les participants apprennent à utiliser l’IA comme un soutien du quotidien, sans dépendance à une marque ou à une technologie spécifique. Une approche rassurante, pratique et démythifiée de l’intelligence artificielle.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Funk",
+      "prenom" : "Philippe"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi à 14:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Samedi"
+   } ],
    "id" : 67341,
    "intitule" : "Les IA vont-elles vous remplacer ? Comprendre sans jargon",
    "langueCoursCode" : "FR",
@@ -12668,10 +12814,17 @@
    "dateFin" : "03/08/2026",
    "description" : "Nous sommes tous victimes, à un moment ou à un autre, de nos démons personnels, qu’il s’agisse de la colère, de la peur, de la jalousie, de la haine de soi, d’un traumatisme, d’un regret ou d’une perte. L’enseignement simple de Tsultrim Allione contient une méthode puissante pour parvenir à s’en libérer. Il s’inspire du bouddhisme et nous fait découvrir que nous pouvons trouver la libération non pas en tentant d’esquiver nos démons et les souffrances de la vie, mais en nous tournant vers eux, le cœur rempli de compassion.",
    "duree" : "1 leçon",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Renneboog",
+      "prenom" : "Ellen"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi 03-08-2026 à 17:10 (durée 0h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "17:10",
+      "jour" : "Lundi"
+   } ],
    "id" : 67196,
    "intitule" : "Nourrir ses démons intérieurs",
    "langueCoursCode" : "FR",
@@ -12721,10 +12874,17 @@
    "dateFin" : "03/08/2026",
    "description" : "Tout commence par un trait : un workshop créatif et accessible à tous pour apprendre à observer, comprendre et s’exprimer à travers le dessin en noir et blanc. Comme nos empreintes, nos dessins sont tous uniques.",
    "duree" : "3 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Yagbasan",
+      "prenom" : "Rengin"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi 03-08-2026 à 17:20 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:20",
+      "jour" : "Lundi"
+   } ],
    "id" : 67337,
    "intitule" : "Tout commence par un trait",
    "langueCoursCode" : "FR",
@@ -13622,10 +13782,17 @@
    "dateFin" : "04/08/2026",
    "description" : "Lors de cet atelier, les participants s’initieront à la gravure en taille douce sur plaque de rhénalon, un plastique transparent idéal pour l’expérimentation artistique, et découvriront les différentes techniques d’impression qui en découlent.\r\n\r\nPas à pas, ils apprendront à graver leur propre motif, à jouer avec les textures et les contrastes, puis à imprimer leurs créations pour donner vie à des œuvres uniques. Cet atelier propose une approche accessible et créative de la gravure, permettant à chacun d’explorer une technique artistique riche et expressive, dans une ambiance conviviale et inspirante.",
    "duree" : "5 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Valet",
+      "prenom" : "Léa"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 09:20 (durée 4h10)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "4h10",
+      "heure" : "09:20",
+      "jour" : "Mardi"
+   } ],
    "id" : 67212,
    "intitule" : "Initiation à la gravure en taille douce sur rhénalon",
    "langueCoursCode" : "FR",
@@ -13676,10 +13843,17 @@
    "dateFin" : "11/08/2026",
    "description" : "Cette formation en langue française s’adresse aux adultes débutants souhaitant découvrir les assistants IA conversationnels en toute confiance. Elle permet de comprendre simplement comment ces outils peuvent aider à rédiger, résumer, reformuler ou organiser des idées, tout en montrant que la décision, la responsabilité et l’expérience restent toujours humaines. À travers des exemples concrets et accessibles, les participants apprennent à utiliser l’IA comme un soutien du quotidien, sans dépendance à une marque ou à une technologie spécifique. Une approche rassurante, pratique et démythifiée de l’intelligence artificielle.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Funk",
+      "prenom" : "Philippe"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:00 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   } ],
    "id" : 67342,
    "intitule" : "Les IA vont-elles vous remplacer ? Comprendre sans jargon",
    "langueCoursCode" : "FR",
@@ -13844,10 +14018,18 @@
    "dateFin" : "25/08/2026",
    "description" : "Ce cours s’adresse à tous ceux qui souhaitent apprendre à broder à partir de zéro ou perfectionner leurs compétences. Les élèves se familiariseront avec les techniques de base, le choix des matériaux, la création de motifs simples et complexes, ainsi que les méthodes de finition soignée et professionnelle.\r\n\r\nAu fil des séances, ils pourront réaliser des créations décoratives personnalisées telles qu’une écharpe, une ceinture, un sac à main ou encore un porte-monnaie brodé. Chaque séance permet également de découvrir une nouvelle technique, afin de progresser pas à pas et d’enrichir continuellement ses savoir-faire.",
    "duree" : "16 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Rybak",
+      "prenom" : "Roksoliana",
+      "site" : "https://shorturl.at/Swbb6"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:10 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Mardi"
+   } ],
    "id" : 67158,
    "intitule" : "L’Art de la Broderie",
    "langueCoursCode" : "FR",
@@ -14136,7 +14318,11 @@
    "dateFin" : "05/08/2026",
    "description" : "Une introduction claire et accessible à l’intelligence artificielle pour comprendre ce qu’elle est réellement, comment elle fonctionne, ses limites, et apprendre à l’utiliser de manière intelligente, critique et concrète au quotidien.",
    "duree" : "5 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Etienne",
+      "prenom" : "Stéphane",
+      "presentation" : "Société HYPALLAGES S.A.R.L."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mercredi 05-08-2026 à 14:30 (durée 4h10)",
    "horaires" : [ {
@@ -14255,10 +14441,17 @@
    "dateFin" : "27/08/2026",
    "description" : "Le pouvoir de votre assiette : composer des repas qui soutiennent l’énergie, les hormones et la digestion. Le stress chronique, la fatigue mentale, les fringales, les troubles du sommeil ou encore la baisse d’énergie ne sont pas uniquement liés au rythme de vie : l’alimentation joue un rôle fondamental dans l’équilibre du système nerveux, des hormones et de la glycémie.\r\n\r\nDurant cet atelier, vous découvrirez comment composer une assiette qui soutient réellement votre corps et votre mental grâce aux principes de la naturopathie et de la nutrithérapie. Vous apprendrez à mieux comprendre votre fatigue et vos variations d’énergie, à stabiliser votre glycémie et limiter les fringales, à composer des repas anti-stress, à soutenir votre concentration et votre humeur, et à repartir avec des outils concrets, simples et durables.",
    "duree" : "8 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sorcinelli",
+      "prenom" : "Fabiana"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 10:20 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67285,
    "intitule" : "D-stress ton assiette",
    "langueCoursCode" : "FR",
@@ -14308,10 +14501,18 @@
    "dateFin" : "27/08/2026",
    "description" : "Un cours de yoga doux et accessible pour relâcher les tensions, retrouver de la mobilité et se reconnecter à son corps. Pensé pour les débutants, les personnes raides, sédentaires ou sportives, ce cours propose une approche simple et progressive du yoga, incluant des postures debout, assises et allongées. À travers des mouvements fluides, des postures de base et un travail de respiration, chacun avance à son rythme dans une ambiance détendue et bienveillante. L’objectif est de délier le corps, d’améliorer la souplesse, de gagner en mobilité et de réduire le stress ainsi que les tensions du quotidien. Aucune expérience en yoga n’est nécessaire : il n’est pas besoin d’être souple pour commencer. Un moment pour respirer, ralentir et se sentir mieux dans son corps tout au long de l’été.",
    "duree" : "4 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Andreos",
+      "prenom" : "Aurélie",
+      "presentation" : "https://aurelie-yoga-ayurveda.com/"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 09:20 (durée 0h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "09:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67282,
    "intitule" : "Yoga D’Stress - Mobilité & Souplesse",
    "langueCoursCode" : "FR",
@@ -14362,10 +14563,17 @@
    "dateFin" : "27/08/2026",
    "description" : "Un cours accessible et dynamique pour rester actif pendant l’été, retrouver de l’énergie et adopter de bonnes habitudes de mouvement. À travers des exercices de renforcement musculaire, de mobilité et de respiration, ce cours permet de travailler l’ensemble du corps dans une ambiance motivante et bienveillante. L’objectif est de bouger régulièrement, de renforcer le corps en douceur, d’améliorer la posture et la mobilité, de gagner en tonicité et en énergie, et de se sentir bien physiquement comme mentalement. Le cours est adapté à tous les niveaux, aussi bien aux débutants qu’aux personnes souhaitant reprendre une activité physique progressive durant l’été.",
    "duree" : "4 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Sorcinelli",
+      "prenom" : "Fabiana"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 18:10 (durée 0h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "18:10",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67284,
    "intitule" : "Summer Fit - Bouger & se renforcer cet été",
    "langueCoursCode" : "FR",
@@ -14394,7 +14602,7 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "Veuillez noter qu'il n'y a ni vestiaires ni douches sur place. "
+   "renseignements" : "Veuillez noter qu’il n’y a ni vestiaires ni douches sur place. Nous vous invitons donc à venir habillé de manière adaptée à l’activité."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -14416,10 +14624,18 @@
    "dateFin" : "27/08/2026",
    "description" : "Un cours de yoga doux et accessible pour relâcher les tensions, retrouver de la mobilité et se reconnecter à son corps. Pensé pour les débutants, les personnes raides, sédentaires ou sportives, ce cours propose une approche simple et progressive du yoga, incluant des postures debout, assises et allongées. À travers des mouvements fluides, des postures de base et un travail de respiration, chacun avance à son rythme dans une ambiance détendue et bienveillante. L’objectif est de délier le corps, d’améliorer la souplesse, de gagner en mobilité et de réduire le stress ainsi que les tensions du quotidien. Aucune expérience en yoga n’est nécessaire : il n’est pas besoin d’être souple pour commencer. Un moment pour respirer, ralentir et se sentir mieux dans son corps tout au long de l’été.",
    "duree" : "4 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Andreos",
+      "prenom" : "Aurélie",
+      "presentation" : "https://aurelie-yoga-ayurveda.com/"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 17:10 (durée 0h50)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67283,
    "intitule" : "Yoga D’Stress -  Mobilité & Souplesse",
    "langueCoursCode" : "FR",
@@ -14710,10 +14926,18 @@
    "dateFin" : "07/08/2026",
    "description" : "Apprenez à utiliser le storytelling pour captiver, convaincre et valoriser vos idées ou produits. Ce cours vous donnera les clés pour structurer vos récits et améliorer votre aisance à l’oral, notamment dans la vente.",
    "duree" : "9 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Etienne",
+      "prenom" : "Stéphane",
+      "presentation" : "Société HYPALLAGES S.A.R.L."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi 07-08-2026 à 09:20 (durée 7h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "7h30",
+      "heure" : "09:20",
+      "jour" : "Vendredi"
+   } ],
    "id" : 67288,
    "intitule" : "Le pouvoir des histoires : maîtriser le storytelling pour convaincre et vendre",
    "langueCoursCode" : "FR",
@@ -14826,10 +15050,17 @@
    "dateFin" : "08/08/2026",
    "description" : "Atelier pratique pour découvrir la macération, une méthode d’extraction douce des principes actifs des plantes. Vous apprendrez quand et pourquoi l’utiliser, ses différentes formes, ainsi que les conditions idéales pour une extraction optimale.\r\n\r\nLa formation inclut également la réalisation d’un macérât huileux de calendula, reconnu pour ses propriétés apaisantes, réparatrices et adoucissantes pour la peau.",
    "duree" : "3 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Solovieva Ép. Simoncini",
+      "prenom" : "Irina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 08-08-2026 à 10:20 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "10:20",
+      "jour" : "Samedi"
+   } ],
    "id" : 67193,
    "intitule" : "De la plante au soin : découvrez la macération solaire",
    "langueCoursCode" : "FR",
@@ -14880,7 +15111,10 @@
    "dateFin" : "08/08/2026",
    "description" : "Create stunning jewelry from real plants! Learn to preserve leaves and flowers, design unique pieces, and craft nature-inspired accessories.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bulat",
+      "prenom" : "Arina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 08-08-2026 à 14:30 (durée 1h40)",
    "horaires" : [ {
@@ -14938,7 +15172,10 @@
    "dateFin" : "08/08/2026",
    "description" : "A gentle introduction to botanical drawing and watercolor in the park for begginners. We'll explore techniques and find inspiration together, then head out to observe and sketch from life at your own pace. Plants, trees, whatever catches your eye. A slow workshop - time to really look, with individual guidance throughout.\r\n\r\nThe course will take place at Pétrusse Parks, at the following address:\r\n\r\nVallée de la Pétrusse\r\nL-1840 Luxembourg City",
    "duree" : "5 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Morel",
+      "prenom" : "Juliane"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 08-08-2026 à 12:50 (durée 4h10)",
    "horaires" : [ {
@@ -15069,7 +15306,10 @@
    "dateFin" : "10/08/2026",
    "description" : "Tout commence par un trait : un workshop créatif et accessible à tous pour apprendre à observer, comprendre et s’exprimer à travers le dessin en noir et blanc. Comme nos empreintes, nos dessins sont tous uniques.",
    "duree" : "3 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Yagbasan",
+      "prenom" : "Rengin"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi 10-08-2026 à 17:20 (durée 2h30)",
    "horaires" : [ {
@@ -15309,7 +15549,10 @@
    "dateFin" : "11/08/2026",
    "description" : "Lors de ce workshop d’initiation à la gravure en taille d’épargne, les participants découvriront les bases de la linogravure et les techniques d’impression associées. Accessible à tous, sans aucun prérequis, cet atelier invite à expérimenter un processus créatif unique, du dessin à la réalisation d’une image imprimée. Une occasion idéale pour explorer une technique artistique expressive et repartir avec ses propres créations.",
    "duree" : "4 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Valet",
+      "prenom" : "Léa"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi 11-08-2026 à 14:30 (durée 3h20)",
    "horaires" : [ {
@@ -15424,7 +15667,10 @@
    "dateFin" : "13/08/2026",
    "description" : "L’intelligence artificielle au service de la cuisine africaine, ses points forts, ses limites. Comment l’IA nous fait découvrir ou redécouvrir un produit. Comment nous pouvons l’utiliser dans l’élaboration de recettes. Présentation matérielle des aliments incontournables de la cuisine africaine. Les aliments incontournables les plus courants et les moins dans les supermarchés habituels.",
    "duree" : "1 leçon",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Gandang",
+      "prenom" : "Pascaline"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi 13-08-2026 à 18:00 (durée 0h50)",
    "horaires" : [ {
@@ -15600,7 +15846,11 @@
    "dateFin" : "14/08/2026",
    "description" : "L’atelier se déroule en français et combine théorie et pratique pour vous apprendre à structurer, visualiser et présenter vos données de manière claire, impactante et convaincante. Une approche concrète pour gagner en efficacité et en aisance dans vos présentations.",
    "duree" : "9 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Etienne",
+      "prenom" : "Stéphane",
+      "presentation" : "Société HYPALLAGES S.A.R.L."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi 14-08-2026 à 09:20 (durée 7h30)",
    "horaires" : [ {
@@ -15730,10 +15980,17 @@
    "dateFin" : "31/08/2026",
    "description" : "Découvrez l’art du portrait réaliste en noir et blanc et apprenez à donner vie à vos dessins. Grâce à une approche progressive et accessible, vous explorerez les techniques essentielles d’observation, d’ombres et de contrastes pour réaliser un portrait A3 expressif et personnel. Un atelier créatif pour développer votre regard et votre sens artistique, quel que soit votre niveau.",
    "duree" : "9 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Yagbasan",
+      "prenom" : "Rengin"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 14:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   } ],
    "id" : 67336,
    "intitule" : "Portrait réaliste noir & blanc",
    "langueCoursCode" : "FR",
@@ -16763,7 +17020,11 @@
    "dateFin" : "21/08/2026",
    "description" : "L'atelier se déroulera en français et permettra aux participants d’apprendre à utiliser l’IA pour stimuler leur créativité, générer des idées et enrichir leurs projets.",
    "duree" : "9 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Etienne",
+      "prenom" : "Stéphane",
+      "presentation" : "Société HYPALLAGES S.A.R.L."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi 21-08-2026 à 09:20 (durée 7h30)",
    "horaires" : [ {
@@ -16938,7 +17199,10 @@
    "dateFin" : "22/08/2026",
    "description" : "Les trésors cachés de la nature luxembourgeoise.\r\nPartez à la découverte de la richesse naturelle du Luxembourg au fil d’une balade immersive.\r\nAu cours du chemin, les participants apprendront à reconnaître : les fleurs sauvages comestibles et leurs usages culinaires surprenants ; les plantes médicinales locales utilisées traditionnellement au Luxembourg ; l’univers fascinant des champignons, mousses et lichens, véritables indicateurs de la biodiversité et de la richesse des écosystèmes\r\n\r\nUne sortie pour observer, comprendre et redécouvrir la nature qui nous entoure.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Solovieva Ép. Simoncini",
+      "prenom" : "Irina"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 22-08-2026 à 10:20 (durée 1h40)",
    "horaires" : [ {
@@ -17130,10 +17394,33 @@
    "dateFin" : "28/08/2026",
    "description" : "When people hear the word rhetoric, they often think of politicians or fancy speeches. But, in reality, rhetoric is simply how we get our ideas across -- whether we are speaking, writing, or posting online.\r\nYou already use rhetoric every day, i.e. when you convince a friend to try a new café, share a story, or write a post you hope others will enjoy. Want to express yourself with more confidence and authenticity? This workshop will help you speak with confidence, write with authenticity, and post with purpose, without sounding rehearsed or fake.\r\nThrough engaging slides, real-life examples, discussions, and role play, you will discover the secrets of presence, storytelling, and persuasive communication in a relaxed, supportive environment.\r\nTalk better. Write smarter. Post louder. Join us!",
    "duree" : "15 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Berthier",
+      "prenom" : "Rolade"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi 24-08-2026 à 09:20 (durée 2h30), Mardi 25-08-2026 à 09:20 (durée 2h30), Mercredi 26-08-2026 à 09:20 (durée 2h30), Jeudi 27-08-2026 à 09:20 (durée 2h30), Vendredi 28-08-2026 à 09:20 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "09:20",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:20",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:20",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:20",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "09:20",
+      "jour" : "Vendredi"
+   } ],
    "id" : 67145,
    "intitule" : "The Art of Public Rhetoric: Speaking, Writing, and Digital Expression",
    "langueCoursCode" : "EN",
@@ -17366,10 +17653,17 @@
    "dateFin" : "25/08/2026",
    "description" : "Lors de ce workshop d’initiation au collage, les participants seront invités à créer un livre-objet de type leporello autour du thème du bestiaire. À partir d’une sélection d’images mêlant éléments animaliers, botaniques et architecturaux, chacun pourra imaginer et composer des créatures inédites. Cet atelier ludique et créatif est idéal pour stimuler l’imaginaire et explorer de nouvelles formes narratives visuelles, sans aucun prérequis nécessaire.",
    "duree" : "4 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Valet",
+      "prenom" : "Léa"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi 25-08-2026 à 14:30 (durée 3h20)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 67231,
    "intitule" : "Cut and collage - Bestiaire de poche",
    "langueCoursCode" : "FR",
@@ -17419,7 +17713,10 @@
    "dateFin" : "25/08/2026",
    "description" : "Lors de ce workshop d’initiation à la gravure en taille d’épargne, les participants découvriront les bases de la linogravure et les techniques d’impression associées. Accessible à tous, sans aucun prérequis, cet atelier invite à expérimenter un processus créatif unique, du dessin à la réalisation d’une image imprimée. Une occasion idéale pour explorer une technique artistique expressive et repartir avec ses propres créations.",
    "duree" : "4 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Valet",
+      "prenom" : "Léa"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi 25-08-2026 à 10:20 (durée 3h20)",
    "horaires" : [ {
@@ -17475,14 +17772,21 @@
    "cout" : 9.0,
    "dateDebut" : "27/08/2026",
    "dateFin" : "27/08/2026",
-   "description" : "Ce cours propose de découvrir comment utiliser les huiles essentielles en toute sécurité pendant l’été. Vous apprendrez lesquelles privilégier pour les petits maux de saison, comment les utiliser efficacement et quelles précautions respecter pour profiter de leurs bienfaits en toute sérénité.",
+   "description" : "L'été s'installe, et avec lui des envies de soleil, de grand air... mais aussi les petits désagréments de la saison ! Moustiques gourmands, coups de soleil imprévus, jambes lourdes ou petits bobos de vacances : et si vous passiez au naturel cette année ? \r\nRejoignez-moi pour un atelier pratique et convivial dédié aux huiles essentielles incontournables de l'été. Apprenez à composer votre trousse de secours naturelle pour profiter de la saison estivale en toute connaissance sur le bon usage de celles-ci.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Rosenfelder",
+      "prenom" : "Patricia Fernande Marie"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi 27-08-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67322,
-   "intitule" : "Huiles essentielles pour l'été",
+   "intitule" : "Atelier Aromathérapie : Ma trousse naturelle pour l’été !",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
@@ -17648,10 +17952,17 @@
    "dateFin" : "27/08/2026",
    "description" : "Commencez la rentrée sur de bonnes bases en retrouvant plus de sérénité à la maison. Entre gestion des écrans, devoirs et reprise des routines, ce workshop vous propose des outils simples et concrets pour apaiser le quotidien, renforcer la coopération et encourager l’autonomie des enfants.",
    "duree" : "2 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Van Vaerenberg",
+      "prenom" : "Jennifer"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Jeudi à 18:50 (durée 1h40)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67287,
    "intitule" : "Routines, écrans, devoirs : préparer une rentrée plus apaisée",
    "langueCoursCode" : "FR",
@@ -17701,7 +18012,11 @@
    "dateFin" : "28/08/2026",
    "description" : "Ce cours s’adresse aux apprenants ayant déjà une bonne maîtrise du français et souhaitant aller plus loin dans leur expression orale. À travers des discussions variées (actualité, culture, société, monde professionnel), vous développerez votre aisance, enrichirez votre vocabulaire et apprendrez à mieux structurer vos idées pour argumenter avec plus de précision et de nuance. Un atelier dynamique et interactif pour gagner en confiance à l’oral au niveau B2/C1.",
    "duree" : "9 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Etienne",
+      "prenom" : "Stéphane",
+      "presentation" : "Société HYPALLAGES S.A.R.L."
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Vendredi 28-08-2026 à 09:20 (durée 7h30)",
    "horaires" : [ {
@@ -17759,7 +18074,10 @@
    "dateFin" : "29/08/2026",
    "description" : "Le cours proposé est une initiation à la technique du cyanotype. Il permettra de découvrir l’ensemble du processus, depuis la création de photogrammes jusqu’à la réalisation de négatifs et de tirages. Les participants expérimenteront chaque étape afin de comprendre et maîtriser cette technique photographique alternative, à la fois simple et créative.",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Stagno",
+      "prenom" : "Luisa Maria"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi 29-08-2026 à 09:20 (durée 5h)",
    "horaires" : [ {
@@ -31145,7 +31463,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "SCN",
    "matiereNom" : "Sciences naturelles",
-   "nbInscrits" : 4,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -31546,7 +31864,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -31630,7 +31948,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 15,
+   "nbInscrits" : 19,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -32932,7 +33250,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 19,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
