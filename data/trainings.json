@@ -1,390 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-COA-9",
-   "coursId" : "SO-COA-9",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "04/06/2026",
-   "dateFin" : "18/06/2026",
-   "description" : "Découvrez des techniques concrètes et accessibles pour apaiser le stress au quotidien, retrouver votre calme intérieur et préserver votre énergie. À travers des exercices pratiques, vous apprendrez à mieux gérer les tensions professionnelles et personnelles, à rétablir votre équilibre et à adopter des réflexes simples pour vous sentir plus serein, où que vous soyez.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Mazzara",
-      "prenom" : "Violaine Marguerite"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63801,
-   "intitule" : "Coaching - Gérer son stress au travail et à la maison : des outils simples pour souffler",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COA",
-   "matiereNom" : "Coaching",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MDE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-EN-230",
-   "coursId" : "LA-EN-230",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "04/06/2026",
-   "dateFin" : "27/07/2026",
-   "dateInscription" : "toute l'année sous www.walfer.lu/enseignement",
-   "description" : "Comprendre des conversations quotidiennes et y participer, donner votre opinion et échanger des idées sur des sujets actuels, comprendre les grandes lignes de textes clairement rédigés, comprendre la plupart des informations dans une émission de télévision, raconter un événement, une expérience ou un rêve, décrire un espoir ou un but, exposer brièvement des raisons ou des explications pour un projet ou une idée.",
-   "domainesCompetences" : [ {
-      "competences" : [ "peut comprendre les points significatifs d'un fait divers raconté à la radio, d'un film dans lequel l'histoire repose largement sur l'action et l'image et où la langue est claire et directe\r\n- peut comprendre un récit d'événements et les situer dans le temps\r\n- peut identifier l'intention, l'opinion et la prise de position exprimées par d'autres personnes - peut comprendre globalement quels arguments une personne utilise dans une discussion" ],
-      "domaine" : "COMPREHENSION DE L'ORAL"
-   }, {
-      "competences" : [ "peut défendre et justifier ses opinions, et développer une argumentation simple sur un thème (ex : situation politique, traditions du pays)\r\n- peut brièvement exposer et justifier ses projets\r\n- peut raconter une histoire, une anecdote, ou l'intrigue d'un livre ou d'un film de façon détaillée et exprimer ses réactions\r\n- peut rapporter une histoire" ],
-      "domaine" : "EXPRESSION ORALE"
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 17:30 (durée 1h30), Mardi à 17:30 (durée 1h30), Jeudi à 17:30 (durée 1h30)",
-   "horaires" : [ ],
-   "id" : 67052,
-   "intitule" : "Anglais - Conversation",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Anglais",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "B1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-PSY-18",
-   "coursId" : "SCI-PSY-18",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "04/06/2026",
-   "dateFin" : "18/06/2026",
-   "description" : "Ce cours propose une introduction structurée aux fondements de la psychologie en tant que discipline scientifique. Il offre une vue d’ensemble des concepts clés, de l’histoire du domaine, des grandes expériences et des principales catégories de troubles psychiques.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Frédérick",
-      "prenom" : "Gilles"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66251,
-   "intitule" : "Psychologie 1 - Les bases",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PSY",
-   "matiereNom" : "Psychologie",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-NAT-5",
-   "coursId" : "SO-NAT-5",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "04/06/2026",
-   "dateFin" : "04/06/2026",
-   "description" : "Apprenez à préparer des repas qui soutiennent votre équilibre nerveux et émotionnel, découvrez quels aliments aident à gérer le stress et comment créer des assiettes apaisantes et nourrissantes au quotidien.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Rosenfelder",
-      "prenom" : "Patricia Fernande Marie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 04-06-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66096,
-   "intitule" : "Construire son assiette anti-stress",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "NAT",
-   "matiereNom" : "Naturopathie",
-   "nbInscrits" : 5,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-BIJU-35",
-   "coursId" : "AR-BIJU-35",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "04/06/2026",
-   "dateFin" : "02/07/2026",
-   "description" : "Plongez dans l’art délicat du perlage et apprenez à façonner des bijoux qui racontent une histoire. Explorez les secrets de l’assemblage précis des perles aux formes et couleurs variées, et laissez-vous inspirer par leurs origines, leur histoire et la richesse culturelle qu’elles portent. Jouez avec les nuances et les textures pour donner vie à des pièces uniques — bagues, colliers, bracelets — qui scintilleront comme des éclats de lumière. Rejoignez-nous pour une aventure créative où chaque perle devient une étoile et chaque bijou, un reflet de votre imagination.",
-   "duree" : "20 leçons",
-   "enseignants" : [ {
-      "nom" : "Rybak",
-      "prenom" : "Roksoliana",
-      "site" : "https://shorturl.at/Swbb6"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:10 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 64990,
-   "intitule" : "L'univers du perlage",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BIJU",
-   "matiereNom" : "Bijoux",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ5OTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "À noter : il n’y aura pas de cours pendant les vacances scolaires"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TRI-35",
-   "coursId" : "IN-TRI-35",
-   "coursType" : "CLASSIQUE",
-   "cout" : 30.0,
-   "dateDebut" : "04/06/2026",
-   "dateFin" : "02/07/2026",
-   "dateInscription" : "Lundi à Vendredi 9h à 18h",
-   "description" : "Photoshop Module X : Importer des images depuis des médias de stockage différents vers l'ordinateur. Administrer des images. Sauvegarde (graver) les photos sur un CD/DVD. Importer ses images; conversion de format et changement de taille, recoupage d'image. Gestion d'images; fonction autoréglages. Retouche de petites fautes et imperfection; réparation de l'effet 'yeux rouges'; apprendre à connaître les fonctions et outils basiques.\r\nCombiner, retoucher, travailler avec des images, appliquer la fonction de filtre du programme Photoshop l'élément. Introduction aux calques, utilisation et compréhension, combiner 2 images. Introduction à la notion d'objets, utilisation et réglage de filtres. Correction de couleurs, contrastes, canal alpha et autres paramètres de couleurs; création d'un montage photo simple.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Importer des images depuis des médias de stockage différents vers l'ordinateur. Administrer des images. Sauvegarde (graver) les photos sur un CD/DVD.\r\nImporter ses images; conversion de format et changement de taille, recoupage d'image. Gestion d'images; fonction autoréglages. Retouche de petites fautes et imperfection; réparation de l'effet \"yeux rouges\"; apprendre à connaître les fonctions et outils basiques." ],
-      "domaine" : "Traitement d'images"
-   } ],
-   "duree" : "10h",
-   "enseignants" : [ {
-      "nom" : "Toth",
-      "prenom" : "Laszlo",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 14:00 (durée 1h45)",
-   "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61851,
-   "intitule" : "Photoshop Elements M-X-7",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TRI",
-   "matiereNom" : "Traitement d'images",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Computer Grundkenntnisse sind erforderlich  --  Connaissances de base en informatique (ordinateur) nécessaires",
-   "renseignements" : "Inscription jusqu'au 01-06-2026 !"
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -31358,6 +30973,265 @@
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-COA-9",
+   "coursId" : "SO-COA-9",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "04/06/2026",
+   "dateFin" : "18/06/2026",
+   "description" : "Découvrez des techniques concrètes et accessibles pour apaiser le stress au quotidien, retrouver votre calme intérieur et préserver votre énergie. À travers des exercices pratiques, vous apprendrez à mieux gérer les tensions professionnelles et personnelles, à rétablir votre équilibre et à adopter des réflexes simples pour vous sentir plus serein, où que vous soyez.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Mazzara",
+      "prenom" : "Violaine Marguerite"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 17:10 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63801,
+   "intitule" : "Coaching - Gérer son stress au travail et à la maison : des outils simples pour souffler",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COA",
+   "matiereNom" : "Coaching",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM4MDE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-18",
+   "coursId" : "SCI-PSY-18",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "04/06/2026",
+   "dateFin" : "18/06/2026",
+   "description" : "Ce cours propose une introduction structurée aux fondements de la psychologie en tant que discipline scientifique. Il offre une vue d’ensemble des concepts clés, de l’histoire du domaine, des grandes expériences et des principales catégories de troubles psychiques.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Frédérick",
+      "prenom" : "Gilles"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66251,
+   "intitule" : "Psychologie 1 - Les bases",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 6,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-BIJU-35",
+   "coursId" : "AR-BIJU-35",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "04/06/2026",
+   "dateFin" : "02/07/2026",
+   "description" : "Plongez dans l’art délicat du perlage et apprenez à façonner des bijoux qui racontent une histoire. Explorez les secrets de l’assemblage précis des perles aux formes et couleurs variées, et laissez-vous inspirer par leurs origines, leur histoire et la richesse culturelle qu’elles portent. Jouez avec les nuances et les textures pour donner vie à des pièces uniques — bagues, colliers, bracelets — qui scintilleront comme des éclats de lumière. Rejoignez-nous pour une aventure créative où chaque perle devient une étoile et chaque bijou, un reflet de votre imagination.",
+   "duree" : "20 leçons",
+   "enseignants" : [ {
+      "nom" : "Rybak",
+      "prenom" : "Roksoliana",
+      "site" : "https://shorturl.at/Swbb6"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 17:10 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 64990,
+   "intitule" : "L'univers du perlage",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BIJU",
+   "matiereNom" : "Bijoux",
+   "nbInscrits" : 3,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQ5OTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "À noter : il n’y aura pas de cours pendant les vacances scolaires"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4702",
+      "localite" : "Pétange",
+      "nom" : "CIGL - Pétange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "4, rue Pierre Grégoire"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TRI-35",
+   "coursId" : "IN-TRI-35",
+   "coursType" : "CLASSIQUE",
+   "cout" : 30.0,
+   "dateDebut" : "04/06/2026",
+   "dateFin" : "02/07/2026",
+   "dateInscription" : "Lundi à Vendredi 9h à 18h",
+   "description" : "Photoshop Module X : Importer des images depuis des médias de stockage différents vers l'ordinateur. Administrer des images. Sauvegarde (graver) les photos sur un CD/DVD. Importer ses images; conversion de format et changement de taille, recoupage d'image. Gestion d'images; fonction autoréglages. Retouche de petites fautes et imperfection; réparation de l'effet 'yeux rouges'; apprendre à connaître les fonctions et outils basiques.\r\nCombiner, retoucher, travailler avec des images, appliquer la fonction de filtre du programme Photoshop l'élément. Introduction aux calques, utilisation et compréhension, combiner 2 images. Introduction à la notion d'objets, utilisation et réglage de filtres. Correction de couleurs, contrastes, canal alpha et autres paramètres de couleurs; création d'un montage photo simple.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Importer des images depuis des médias de stockage différents vers l'ordinateur. Administrer des images. Sauvegarde (graver) les photos sur un CD/DVD.\r\nImporter ses images; conversion de format et changement de taille, recoupage d'image. Gestion d'images; fonction autoréglages. Retouche de petites fautes et imperfection; réparation de l'effet \"yeux rouges\"; apprendre à connaître les fonctions et outils basiques." ],
+      "domaine" : "Traitement d'images"
+   } ],
+   "duree" : "10h",
+   "enseignants" : [ {
+      "nom" : "Toth",
+      "prenom" : "Laszlo",
+      "site" : "http://www.cigpetange.lu"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 14:00 (durée 1h45)",
+   "horaires" : [ {
+      "duree" : "1h45",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 61851,
+   "intitule" : "Photoshop Elements M-X-7",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "TRI",
+   "matiereNom" : "Traitement d'images",
+   "nbInscrits" : 2,
+   "nbPlaces" : 10,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4702",
+         "localite" : "Pétange",
+         "nom" : "CIGL - Pétange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "4, rue Pierre Grégoire"
+      },
+      "code" : "CIGL - P",
+      "fax" : "+352 23 65 20 03",
+      "mail" : "info@cyberhall.lu",
+      "nom" : "CIGL - Pétange",
+      "nomContact" : "Toth",
+      "onlineReg" : false,
+      "prenomContact" : "Laszlo",
+      "statut" : "ASBL",
+      "telephone" : "+352 23 65 17 33 33",
+      "websiteUrl" : "http://www.cigpetange.lu"
+   },
+   "prerequis" : "Computer Grundkenntnisse sind erforderlich  --  Connaissances de base en informatique (ordinateur) nécessaires",
+   "renseignements" : "Inscription jusqu'au 01-06-2026 !"
+}, {
+   "adresseCours" : {
       "codePostal" : "1254",
       "localite" : "Hollerich",
       "nom" : "Blumm Geesseknäppchen",
@@ -44949,68 +44823,6 @@
    "renseignements" : "Matériels requis :\r\nObligatoire :\r\n  *  Vêtements de travail\r\n  *  Chaussures de sécurité\r\n  *  Lunettes de sécurité\r\n  *  Tablier de soudeur/forgeron en cuir.\r\nFacultatif :\r\n  *  Gants en cuir \r\n  *  Protection auditive."
 }, {
    "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "119 rue du cimetière"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-PINT-35",
-   "coursId" : "AR-PINT-35",
-   "coursType" : "CLASSIQUE",
-   "cout" : 148.5,
-   "dateDebut" : "26/02/2026",
-   "dateFin" : "04/06/2026",
-   "description" : "Cours de la peinture du paysage par époques : une analyse et une reconstruction des tableaux des maîtres de la peinture par périodes. Peinture à l’acrylique et à l’huile.\r\n1ère année : du gothique jusqu’à l’impressionnisme\r\n2ème année : le postimpressionnisme et le 20ème siècle\r\n3ème année : recherche du style personnel",
-   "duree" : "33 leçons",
-   "enseignants" : [ {
-      "nom" : "Cekovic",
-      "prenom" : "Ivana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63971,
-   "intitule" : "Peinture de paysage, du gothique à la fin du XXe siècle - 2 SEM",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PINT",
-   "matiereNom" : "Peinture",
-   "nbInscrits" : 6,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5NzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
-   "renseignements" : "Bloc A3 Figueras, bloc esquisses, fusains/crayons 2–5B, gommes, fixatif, pinceaux plats + pointu, médium, retardateur, récipients, palette, spatules, chiffon, nappe, chevalet, acryliques (blanc, jaune, ocre, rouges, bleus, vert, marron, noir)."
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -48487,72 +48299,6 @@
    },
    "prerequis" : "Croatian language level A2.1 required, or an appropriate test passed.",
    "renseignements" : "The classes are taught by a teacher of Croatian language and literature with a master's degree from the University of Zagreb.\r\nFor more information write to: info@hrvatska.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "6122",
-      "localite" : "Junglinster",
-      "nom" : "Lënster Lycée Junglinster",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue Victor Ferrant"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1035",
-   "coursId" : "LA-LB-1035",
-   "coursType" : "CLASSIQUE",
-   "cout" : 156.0,
-   "dateDebut" : "03/02/2026",
-   "dateFin" : "04/06/2026",
-   "dateInscription" : "à partir du 1er juillet 2025",
-   "description" : "- dire ce qu'on fait du matin au soir et avec quelle féquence\r\n- savoir commander au restaurant\r\n- savoir faire du shopping\r\n- parler de sa famille\r\n- parler au docteur",
-   "duree" : "52h",
-   "enseignants" : [ {
-      "nom" : "Lamesch",
-      "prenom" : "Margot Jeannine"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 18:30 (durée 2h), Jeudi à 18:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61882,
-   "intitule" : "Lëtzebuergesch - faux débutants/false beginners",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 11,
-   "nbPlaces" : 20,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjE4ODI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6122",
-         "localite" : "Junglinster",
-         "nom" : "Lënster Lycée Junglinster",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "2, rue Victor Ferrant"
-      },
-      "code" : "LLIS",
-      "mail" : "coursdusoir@llis.lu",
-      "nom" : "Lënster Lycée International School",
-      "nomContact" : "Larosche",
-      "onlineReg" : true,
-      "prenomContact" : "Christine",
-      "statut" : "MENFPS",
-      "telephone" : "+352 27 69 63-211"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "3524",
