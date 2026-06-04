@@ -1,194 +1,5 @@
 [ {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-EN-202",
-   "coursId" : "LA-EN-202",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "05/06/2026",
-   "dateFin" : "10/07/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. Peut se débrouiller dans des situations rencontrées en voyage. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des documents radiodiffusés en langue standard traitant de la vie quotidienne : interviews, discussions, vidéo", "Comprendre des situations peu prévisibles dans leurs contenus : sujets concrets ou abstraits, discussions, interviews", "Comprendre des informations télévisées\r\n" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Apporter et préciser son discours dans une langue qui respecte les structures grammaticales appropriées, le contexte et le registre de langue. (description d'une personne, un lieu, un objet, un fait, un concept )" ],
-      "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "Faire connaissance/ interagir lors d'une rencontre (se présenter, parler de soi et d'autrui, parler de son parcours, de sa famille et de son environnement immédiat", "Participer aux conversations informelles et échanger des points de vue", "Souligner ce qui est important dans un événement ou une expérience", "Transmettre différents degrés d'émotions\r\n", "Emettre des avis et des explications et des arguments et réagir à des opinions", "Discuter autour d'un thème de médias\r\n" ],
-      "domaine" : "Interaction orale"
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Vendredi à 09:00 (durée 2h30) et 12:00 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 65233,
-   "intitule" : "Conversation en langue anglaise",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Anglais",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "tout le niveau B1 acquis"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-PSY-19",
-   "coursId" : "SCI-PSY-19",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "05/06/2026",
-   "dateFin" : "19/06/2026",
-   "description" : "Dieser Kurs bietet eine strukturierte Einführung in die Grundlagen der Psychologie als wissenschaftliche Disziplin. Er vermittelt einen Überblick über zentrale Begriffe, die historische Entwicklung des Fachs, klassische Experimente sowie grundlegende Bereiche der Psychopathologie.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Frédérick",
-      "prenom" : "Gilles"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66252,
-   "intitule" : "Psychologie 1 - Grundlagen der Psychologie",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "PSY",
-   "matiereNom" : "Psychologie",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-DIG-13",
-   "coursId" : "IN-DIG-13",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "05/06/2026",
-   "dateFin" : "05/06/2026",
-   "description" : "\"AI for All\" is designed to make artificial intelligence accessible and understandable for everyone in Luxembourg, regardless of age, background, or profession. The course combines theory, practical exercises, and real-world examples to demystify AI, empower critical thinking, and enable learners to understand and engage with AI technologies shaping society and the workplace.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Jaffer",
-      "prenom" : "Ghulam"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 05-06-2026 à 14:30 (durée 5h)",
-   "horaires" : [ {
-      "duree" : "5h",
-      "heure" : "14:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66147,
-   "intitule" : "Workshop - AI for All",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DIG",
-   "matiereNom" : "Digital",
-   "nbInscrits" : 8,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNDc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "3341",
       "localite" : "Huncherange/bettembourg",
       "nom" : "Kultourhaus Huncherange",
@@ -30934,6 +30745,135 @@
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EN-202",
+   "coursId" : "LA-EN-202",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "05/06/2026",
+   "dateFin" : "10/07/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. Peut se débrouiller dans des situations rencontrées en voyage. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des documents radiodiffusés en langue standard traitant de la vie quotidienne : interviews, discussions, vidéo", "Comprendre des situations peu prévisibles dans leurs contenus : sujets concrets ou abstraits, discussions, interviews", "Comprendre des informations télévisées\r\n" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Apporter et préciser son discours dans une langue qui respecte les structures grammaticales appropriées, le contexte et le registre de langue. (description d'une personne, un lieu, un objet, un fait, un concept )" ],
+      "domaine" : "Expression orale en continu"
+   }, {
+      "competences" : [ "Faire connaissance/ interagir lors d'une rencontre (se présenter, parler de soi et d'autrui, parler de son parcours, de sa famille et de son environnement immédiat", "Participer aux conversations informelles et échanger des points de vue", "Souligner ce qui est important dans un événement ou une expérience", "Transmettre différents degrés d'émotions\r\n", "Emettre des avis et des explications et des arguments et réagir à des opinions", "Discuter autour d'un thème de médias\r\n" ],
+      "domaine" : "Interaction orale"
+   } ],
+   "duree" : "30h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Vendredi à 09:00 (durée 2h30) et 12:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 65233,
+   "intitule" : "Conversation en langue anglaise",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Anglais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "tout le niveau B1 acquis"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-19",
+   "coursId" : "SCI-PSY-19",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "05/06/2026",
+   "dateFin" : "19/06/2026",
+   "description" : "Dieser Kurs bietet eine strukturierte Einführung in die Grundlagen der Psychologie als wissenschaftliche Disziplin. Er vermittelt einen Überblick über zentrale Begriffe, die historische Entwicklung des Fachs, klassische Experimente sowie grundlegende Bereiche der Psychopathologie.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Frédérick",
+      "prenom" : "Gilles"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66252,
+   "intitule" : "Psychologie 1 - Grundlagen der Psychologie",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 2,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -31193,55 +31133,47 @@
    "renseignements" : "Inscription jusqu'au 01-06-2026 !"
 }, {
    "adresseCours" : {
-      "codePostal" : "1254",
-      "localite" : "Hollerich",
-      "nom" : "Blumm Geesseknäppchen",
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "Campus scolaire"
+      "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
    "categorieCode" : "SCI",
    "categorieCodeUnipop" : "SCH",
    "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-LIT-10",
-   "coursId" : "SCI-LIT-10",
+   "coursCode" : "SCI-FISC-12",
+   "coursId" : "SCI-FISC-12",
    "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
+   "cout" : 54.0,
    "dateDebut" : "03/06/2026",
-   "dateFin" : "05/06/2026",
-   "description" : "Explore creative writing in English through your own life stories. The course begins with short, inspiring writing exercises and gradually moves toward writing about meaningful moments from your life. In a friendly atmosphere, you may also choose to share your texts with fellow participants.",
-   "duree" : "6 leçons",
+   "dateFin" : "08/07/2026",
+   "description" : "Ce cours propose une explication claire et structurée de la déclaration fiscale, page par page, afin de comprendre quelles informations y renseigner et où trouver les documents nécessaires. Il aborde également d'autres formulaires spécifiques, tels que ceux relatifs aux revenus locatifs, à la vente de biens immobiliers ou à l’activité indépendante. L’objectif est de permettre aux participant·e·s de mieux comprendre leurs obligations fiscales et de remplir leur déclaration en toute autonomie.",
+   "duree" : "12 leçons",
    "enseignants" : [ {
-      "nom" : "Rufolo",
-      "prenom" : "Dr. Dana"
+      "nom" : "Keiser",
+      "prenom" : "Romain"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 03-06-2026 à 18:00 (durée 1h40), Jeudi 04-06-2026 à 18:00 (durée 1h40), Vendredi 05-06-2026 à 18:00 (durée 1h40)",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
    "horaires" : [ {
       "duree" : "1h40",
       "heure" : "18:00",
       "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
    } ],
-   "id" : 66044,
-   "intitule" : "Creative Writing - Writing Your Life, part one",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "LIT",
-   "matiereNom" : "Littérature",
-   "nbInscrits" : 5,
+   "id" : 66708,
+   "intitule" : "Comment faire sa déclaration d'impôts personnelle",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FISC",
+   "matiereNom" : "Fiscalité",
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
+   "niveau" : "Débutant",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwNDQ%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MDg%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "4360",
@@ -31258,8 +31190,7 @@
       "statut" : "MENFPS",
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Paper or notebook. Pen or pencil and eraser. \r\nA computer for those who prefer typing on a computer. \r\n\r\nWednesday, 03 June 2026 – 18:00 (1h40)\r\n\r\nThursday, 04 June 2026 – 18:00 (1h40)\r\n\r\nFriday, 05 June 2026 – 18:00 (1h40)"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -31321,66 +31252,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "There will be no classes during the school holidays in Luxembourg."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-FISC-12",
-   "coursId" : "SCI-FISC-12",
-   "coursType" : "CLASSIQUE",
-   "cout" : 54.0,
-   "dateDebut" : "03/06/2026",
-   "dateFin" : "08/07/2026",
-   "description" : "Ce cours propose une explication claire et structurée de la déclaration fiscale, page par page, afin de comprendre quelles informations y renseigner et où trouver les documents nécessaires. Il aborde également d'autres formulaires spécifiques, tels que ceux relatifs aux revenus locatifs, à la vente de biens immobiliers ou à l’activité indépendante. L’objectif est de permettre aux participant·e·s de mieux comprendre leurs obligations fiscales et de remplir leur déclaration en toute autonomie.",
-   "duree" : "12 leçons",
-   "enseignants" : [ {
-      "nom" : "Keiser",
-      "prenom" : "Romain"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66708,
-   "intitule" : "Comment faire sa déclaration d'impôts personnelle",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FISC",
-   "matiereNom" : "Fiscalité",
-   "nbInscrits" : 7,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MDg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -42624,66 +42495,6 @@
    },
    "prerequis" : "Während der Schulferien werden keine Kurse durchgeführt.",
    "renseignements" : "Die Materialliste wird den Teilnehmern nach der Anmeldung zum Kurs zugesendet."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-DAN-19",
-   "coursId" : "SO-DAN-19",
-   "coursType" : "CLASSIQUE",
-   "cout" : 40.5,
-   "dateDebut" : "13/03/2026",
-   "dateFin" : "05/06/2026",
-   "description" : "Ce cours s'adresse aux personnes qui souhaitent à la fois danser et découvrir l'histoire de la danse. Chaque semestre, une œuvre du répertoire chorégraphique servira de point de départ : par exemple \"L’Après-midi d’un faune\" de Nijinski, dont nous explorerons les enjeux corporels, esthétiques et symboliques. À partir de cette matière historique, les séances proposeront des improvisations ludiques et guidées, permettant de revisiter certains principes clés d’une chorégraphie célèbre (spatialité, rythme, intentions, qualité de présence) tout en laissant chacun développer sa propre écriture corporelle. Ce cours offre une manière vivante de s’initier aux grandes œuvres du XXe siècle et d’en comprendre les choix artistiques par le corps, en les transformant en expériences sensibles et personnelles. Une façon d’entrer dans l’histoire de la danse tout en enrichissant sa pratique individuelle du mouvement.",
-   "duree" : "9 leçons",
-   "enseignants" : [ {
-      "nom" : "Mesager",
-      "prenom" : "Mélanie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 12:00 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63931,
-   "intitule" : "Improvisation Dansée : explorer une œuvre du répertoire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DAN",
-   "matiereNom" : "Danse",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5MzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
