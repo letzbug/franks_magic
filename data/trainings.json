@@ -1742,7 +1742,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FS",
    "matiereNom" : "Feng Shui",
-   "nbInscrits" : 4,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
@@ -3371,7 +3371,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 15,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -7619,7 +7619,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -9279,6 +9279,57 @@
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-30",
+   "coursId" : "CIN-LB-30",
+   "coursType" : "CLASSIQUE",
+   "cout" : 750.0,
+   "dateDebut" : "13/07/2026",
+   "dateFin" : "30/07/2026",
+   "dateInscription" : "uniquement via le portail GICEA",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "27h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi 13-07-2026 à 18:00 (durée 3h) et 18:00 (durée 3h), Mardi 14-07-2026 à 18:00 (durée 3h) et 18:00 (durée 3h), Mercredi 15-07-2026 à 18:00 (durée 3h), 18:00 (durée 3h) et 18:00 (durée 3h), Jeudi 23-07-2026 à 18:00 (durée 3h) et 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 66300,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYzMDA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7540",
+         "localite" : "Rollingen",
+         "nom" : "Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "141, rue de Luxembourg"
+      },
+      "code" : "LCPB",
+      "mail" : "lorangclaudine@yahoo.com",
+      "nom" : "Lorang Claudine Pierrette B. - Lëtzebuerger Sprooch a Kultur Formatrice",
+      "nomContact" : "Lorang",
+      "onlineReg" : true,
+      "prenomContact" : "Claudine",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 621 345 595"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
    "adresseInscription" : {
       "codePostal" : "7201",
       "localite" : "Walferdange",
@@ -9638,7 +9689,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12049,6 +12100,225 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-NUT-7",
+   "coursId" : "SO-NUT-7",
+   "coursType" : "CLASSIQUE",
+   "cout" : 36.0,
+   "dateDebut" : "01/08/2026",
+   "dateFin" : "29/08/2026",
+   "description" : "Le pouvoir de votre assiette : composer des repas qui soutiennent l’énergie, les hormones et la digestion. Le stress chronique, la fatigue mentale, les fringales, les troubles du sommeil ou encore la baisse d’énergie ne sont pas uniquement liés au rythme de vie : l’alimentation joue un rôle fondamental dans l’équilibre du système nerveux, des hormones et de la glycémie.\r\n\r\nDurant cet atelier, vous découvrirez comment composer une assiette qui soutient réellement votre corps et votre mental grâce aux principes de la naturopathie et de la nutrithérapie. Vous apprendrez à mieux comprendre votre fatigue et vos variations d’énergie, à stabiliser votre glycémie et limiter les fringales, à composer des repas anti-stress, à soutenir votre concentration et votre humeur, et à repartir avec des outils concrets, simples et durables.",
+   "duree" : "8 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 10:20 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 67285,
+   "intitule" : "D-stress ton assiette",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "NUT",
+   "matiereNom" : "Nutrition",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyODU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Le 15 août étant un jour férié, il n’y aura pas de cours ce jour-là."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-121",
+   "coursId" : "SO-YOG-121",
+   "coursType" : "CLASSIQUE",
+   "cout" : 4.5,
+   "dateDebut" : "01/08/2026",
+   "dateFin" : "29/08/2026",
+   "description" : "Un cours de yoga doux et accessible pour relâcher les tensions, retrouver de la mobilité et se reconnecter à son corps. Pensé pour les débutants, les personnes raides, sédentaires ou sportives, ce cours propose une approche simple et progressive du yoga, incluant des postures debout, assises et allongées. À travers des mouvements fluides, des postures de base et un travail de respiration, chacun avance à son rythme dans une ambiance détendue et bienveillante. L’objectif est de délier le corps, d’améliorer la souplesse, de gagner en mobilité et de réduire le stress ainsi que les tensions du quotidien. Aucune expérience en yoga n’est nécessaire : il n’est pas besoin d’être souple pour commencer. Un moment pour respirer, ralentir et se sentir mieux dans son corps tout au long de l’été.",
+   "duree" : "4 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 09:20 (durée 0h50)",
+   "horaires" : [ ],
+   "id" : 67282,
+   "intitule" : "Yoga D’Stress - Mobilité & Souplesse",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyODI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Le 15 août étant un jour férié, il n’y aura pas de cours ce jour-là.",
+   "renseignements" : "A apporter: tapis de yoga - brique de yoga - sangle de yoga. Veuillez noter qu'il n'y a ni vestiaires ni douches sur place. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-PT-1",
+   "coursId" : "SO-PT-1",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "01/08/2026",
+   "dateFin" : "29/08/2026",
+   "description" : "Un cours accessible et dynamique pour rester actif pendant l’été, retrouver de l’énergie et adopter de bonnes habitudes de mouvement. À travers des exercices de renforcement musculaire, de mobilité et de respiration, ce cours permet de travailler l’ensemble du corps dans une ambiance motivante et bienveillante. L’objectif est de bouger régulièrement, de renforcer le corps en douceur, d’améliorer la posture et la mobilité, de gagner en tonicité et en énergie, et de se sentir bien physiquement comme mentalement. Le cours est adapté à tous les niveaux, aussi bien aux débutants qu’aux personnes souhaitant reprendre une activité physique progressive durant l’été.",
+   "duree" : "4 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 18:10 (durée 0h50)",
+   "horaires" : [ ],
+   "id" : 67284,
+   "intitule" : "Summer Fit - Bouger & se renforcer cet été",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PT",
+   "matiereNom" : "Personal Training",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyODQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Le 15 août étant un jour férié, il n’y aura pas de cours ce jour-là.",
+   "renseignements" : "Veuillez noter qu’il n’y a ni vestiaires ni douches sur place. Nous vous invitons donc à venir habillé de manière adaptée à l’activité."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-122",
+   "coursId" : "SO-YOG-122",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "01/08/2026",
+   "dateFin" : "29/08/2026",
+   "description" : "Un cours de yoga doux et accessible pour relâcher les tensions, retrouver de la mobilité et se reconnecter à son corps. Pensé pour les débutants, les personnes raides, sédentaires ou sportives, ce cours propose une approche simple et progressive du yoga, incluant des postures debout, assises et allongées. À travers des mouvements fluides, des postures de base et un travail de respiration, chacun avance à son rythme dans une ambiance détendue et bienveillante. L’objectif est de délier le corps, d’améliorer la souplesse, de gagner en mobilité et de réduire le stress ainsi que les tensions du quotidien. Aucune expérience en yoga n’est nécessaire : il n’est pas besoin d’être souple pour commencer. Un moment pour respirer, ralentir et se sentir mieux dans son corps tout au long de l’été.",
+   "duree" : "4 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi à 17:10 (durée 0h50)",
+   "horaires" : [ ],
+   "id" : 67283,
+   "intitule" : "Yoga D’Stress -  Mobilité & Souplesse",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyODM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Le 15 août étant un jour férié, il n’y aura pas de cours ce jour-là.",
+   "renseignements" : "A apporter : tapis de yoga - briques de yoga. Veuillez noter qu'il n'y a ni vestiaires ni douches sur place. \r\n\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
@@ -14035,251 +14305,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Les personnes qui n’ont pas de matériel pour faire du scrapbooking peuvent acheter un kit de matériel de base auprès de la formatrice pour 15 €.\r\n\r\nLa formatrice parle français, allemand, luxembourgeois et anglais."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-NUT-7",
-   "coursId" : "SO-NUT-7",
-   "coursType" : "CLASSIQUE",
-   "cout" : 36.0,
-   "dateDebut" : "06/08/2026",
-   "dateFin" : "27/08/2026",
-   "description" : "Le pouvoir de votre assiette : composer des repas qui soutiennent l’énergie, les hormones et la digestion. Le stress chronique, la fatigue mentale, les fringales, les troubles du sommeil ou encore la baisse d’énergie ne sont pas uniquement liés au rythme de vie : l’alimentation joue un rôle fondamental dans l’équilibre du système nerveux, des hormones et de la glycémie.\r\n\r\nDurant cet atelier, vous découvrirez comment composer une assiette qui soutient réellement votre corps et votre mental grâce aux principes de la naturopathie et de la nutrithérapie. Vous apprendrez à mieux comprendre votre fatigue et vos variations d’énergie, à stabiliser votre glycémie et limiter les fringales, à composer des repas anti-stress, à soutenir votre concentration et votre humeur, et à repartir avec des outils concrets, simples et durables.",
-   "duree" : "8 leçons",
-   "enseignants" : [ {
-      "nom" : "Sorcinelli",
-      "prenom" : "Fabiana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 10:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 67285,
-   "intitule" : "D-stress ton assiette",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "NUT",
-   "matiereNom" : "Nutrition",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyODU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-121",
-   "coursId" : "SO-YOG-121",
-   "coursType" : "CLASSIQUE",
-   "cout" : 4.5,
-   "dateDebut" : "06/08/2026",
-   "dateFin" : "27/08/2026",
-   "description" : "Un cours de yoga doux et accessible pour relâcher les tensions, retrouver de la mobilité et se reconnecter à son corps. Pensé pour les débutants, les personnes raides, sédentaires ou sportives, ce cours propose une approche simple et progressive du yoga, incluant des postures debout, assises et allongées. À travers des mouvements fluides, des postures de base et un travail de respiration, chacun avance à son rythme dans une ambiance détendue et bienveillante. L’objectif est de délier le corps, d’améliorer la souplesse, de gagner en mobilité et de réduire le stress ainsi que les tensions du quotidien. Aucune expérience en yoga n’est nécessaire : il n’est pas besoin d’être souple pour commencer. Un moment pour respirer, ralentir et se sentir mieux dans son corps tout au long de l’été.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Andreos",
-      "prenom" : "Aurélie",
-      "presentation" : "https://aurelie-yoga-ayurveda.com/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 09:20 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "09:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 67282,
-   "intitule" : "Yoga D’Stress - Mobilité & Souplesse",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyODI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "A apporter: tapis de yoga - brique de yoga - sangle de yoga. Veuillez noter qu'il n'y a ni vestiaires ni douches sur place. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-PT-1",
-   "coursId" : "SO-PT-1",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "06/08/2026",
-   "dateFin" : "27/08/2026",
-   "description" : "Un cours accessible et dynamique pour rester actif pendant l’été, retrouver de l’énergie et adopter de bonnes habitudes de mouvement. À travers des exercices de renforcement musculaire, de mobilité et de respiration, ce cours permet de travailler l’ensemble du corps dans une ambiance motivante et bienveillante. L’objectif est de bouger régulièrement, de renforcer le corps en douceur, d’améliorer la posture et la mobilité, de gagner en tonicité et en énergie, et de se sentir bien physiquement comme mentalement. Le cours est adapté à tous les niveaux, aussi bien aux débutants qu’aux personnes souhaitant reprendre une activité physique progressive durant l’été.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Sorcinelli",
-      "prenom" : "Fabiana"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:10 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "18:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 67284,
-   "intitule" : "Summer Fit - Bouger & se renforcer cet été",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PT",
-   "matiereNom" : "Personal Training",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyODQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Veuillez noter qu’il n’y a ni vestiaires ni douches sur place. Nous vous invitons donc à venir habillé de manière adaptée à l’activité."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-122",
-   "coursId" : "SO-YOG-122",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "06/08/2026",
-   "dateFin" : "27/08/2026",
-   "description" : "Un cours de yoga doux et accessible pour relâcher les tensions, retrouver de la mobilité et se reconnecter à son corps. Pensé pour les débutants, les personnes raides, sédentaires ou sportives, ce cours propose une approche simple et progressive du yoga, incluant des postures debout, assises et allongées. À travers des mouvements fluides, des postures de base et un travail de respiration, chacun avance à son rythme dans une ambiance détendue et bienveillante. L’objectif est de délier le corps, d’améliorer la souplesse, de gagner en mobilité et de réduire le stress ainsi que les tensions du quotidien. Aucune expérience en yoga n’est nécessaire : il n’est pas besoin d’être souple pour commencer. Un moment pour respirer, ralentir et se sentir mieux dans son corps tout au long de l’été.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Andreos",
-      "prenom" : "Aurélie",
-      "presentation" : "https://aurelie-yoga-ayurveda.com/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 17:10 (durée 0h50)",
-   "horaires" : [ {
-      "duree" : "0h50",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 67283,
-   "intitule" : "Yoga D’Stress -  Mobilité & Souplesse",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyODM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "A apporter : tapis de yoga - briques de yoga. Veuillez noter qu'il n'y a ni vestiaires ni douches sur place. "
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -18027,7 +18052,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 15,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -18096,7 +18121,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 15,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -20579,6 +20604,160 @@
       "websiteUrl" : "https://www.clae.lu/"
    },
    "renseignements" : "Accès pour personnes à mobilité réduite."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1950",
+      "localite" : "Luxembourg",
+      "nom" : "Chambre des salariés",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "18, rue Auguste Lumière"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-42",
+   "coursId" : "CIN-LB-42",
+   "coursType" : "CLASSIQUE",
+   "cout" : 225.0,
+   "dateDebut" : "16/09/2026",
+   "dateFin" : "09/12/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "35h",
+   "enseignants" : [ {
+      "nom" : "Wies",
+      "prenom" : "Marie-Louise"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi 21-09-2026 à 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30) et 18:30 (durée 1h30), Mercredi 16-09-2026 à 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30), 18:30 (durée 1h30) et 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "1h30",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67367,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 19,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNjc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1950",
+         "localite" : "Luxembourg",
+         "nom" : "Chambre des salariés",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "18, rue Auguste Lumière"
+      },
+      "code" : "CSL",
+      "mail" : "csl@csl.lu",
+      "nom" : "Chambre des salariés du Luxembourg",
+      "nomContact" : "Sinanovic",
+      "onlineReg" : true,
+      "prenomContact" : "Melisa",
+      "statut" : "PREST_EXT",
+      "telephone" : "27 494 200",
+      "websiteUrl" : "https://www.csl.lu/fr/lllc/"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "4276",
@@ -23168,7 +23347,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LA",
    "matiereNom" : "Latin",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 24,
    "niveau" : "C1 du CECRL",
    "onlineRegistration" : true,
@@ -31903,7 +32082,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -32325,7 +32504,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 20,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -33040,7 +33219,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 12,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -33149,6 +33328,111 @@
       "websiteUrl" : "https://www.lux-online-educ-center.com"
    },
    "prerequis" : "Connaître l'alphabet latin est une obligation - Ability to read and write in latin alphabet."
+}, {
+   "adresseCours" : {
+      "codePostal" : "3532",
+      "localite" : "Dudelange",
+      "nom" : "Ecole DEICH",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "31, rue du stade Jos Nos Baum"
+   },
+   "adresseInscription" : {
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel De Ville De  Dudelange",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Place de Hôtel de Ville, BP 73"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1534",
+   "coursId" : "LA-FR-1534",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "01/06/2026",
+   "dateFin" : "23/07/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange. \r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
+   "description" : "Comprendre et utiliser des phrases simples au quotidien. Se présenter, décrire, échanger des informations personnelles et concrètes simples avec des termes simples et courants. Communiquer avec un interlocuteur qui s'exprime clairement et lentement.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des mots familiers, des expressions courantes et simples au sujet de sa famille. \r\n", "Comprendre des mots familiers, des expressions très courantes au sujet de son environnement concret et immédiat, exprimés dans un débit lent et distinct. \r\n", "Comprendre des questions simples, formulées dans un débit plus ou moins lent, au sujet de soi, de sa famille et de son environnement concret et immédiat (profession, logement, lieux de vie...) \r\n", "Identifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne. \r\n", "Comprendre une description simple d'une personne, d'un objet, d'un fait, exprimée de façon simple et avec des termes courants. \r\n", "Comprendre les expressions d'appartenance \r\n", "Comprendre les énoncés chiffrés (heures, dates, numéros de téléphone, prix...) \r\n", "Comprendre de courts échanges sur les loisirs et activités \r\n\r\n", "Comprendre de courts échanges sur de simples et brèves indications autour des activités du quotidien. ", "Comprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet de soi-même. \r\n" ],
+      "domaine" : "COMPREHENSION ORALE"
+   }, {
+      "competences" : [ " Poser et répondre à des questions simples sur des sujets familiers (famille, lieu de vie, métiers, loisirs et activités) \r\n", "Exprimer son goût et ses préférences \r\n", "Décrire et poser des questions sur le caractère d'une personne, d'un objet \r\n", "Poser et répondre à des questions sur l'heure, la date, le tarif et les activités du quotidien. \r\n", "Parler de ses loisirs et activités. Poser et répondre à des questions simples autour des loisirs et activités. \r\n\r\n", "Suivre et exprimer de brèves et simples indications au quotidien (indiquer, retrouver un emplacement/ suivre une notice simple)" ],
+      "domaine" : "EXPRESSION ORALE"
+   }, {
+      "competences" : [ "Reconnaître des noms, des expressions et des mots courants ; \r\n", "Comprendre des messages simples (horaires, formulaire d'inscription simple, publicité...) \r\n", "Comprendre des indications brèves et simples (ex : Indication de chemin, l'emplacement d'un objet, d'un chemin...)\r\n" ],
+      "domaine" : "COMPREHENSION ECRITE"
+   }, {
+      "competences" : [ "Compléter un formulaire simple \r\n\r\n", "Ecrire un texte court et simple sur soi-même et/ou son environnement immédiat, en s'appuyant sur un matériel donné.", "Ecrire de brèves consignes (sous forme de post it,  court message...)" ],
+      "domaine" : "EXPRESSION ECRITE"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Michelitsch",
+      "prenom" : "Pernelle"
+   }, {
+      "nom" : "Vallet",
+      "prenom" : "Danielle"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 17:25 (durée 2h05), Mardi à 17:25 (durée 2h05), Jeudi à 17:25 (durée 2h05)",
+   "horaires" : [ {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h05",
+      "heure" : "17:25",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66270,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 21,
+   "nbPlaces" : 22,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 73"
+      },
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
+      "onlineReg" : false,
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
+   },
+   "prerequis" : "Avoir le niveau A1.1"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -40559,7 +40843,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "13/04/2026",
-   "dateFin" : "02/06/2026",
+   "dateFin" : "10/06/2026",
    "description" : "This course is designed to develop learners’ English language proficiency within the context of banking and finance. It integrates functional communication skills with the specific terminology, grammar, and discourse structures commonly used in financial institutions. Through a range of practical activities, case studies, and simulations, learners will enhance their ability to discuss financial products and services, interpret financial documents, and communicate effectively with clients and colleagues in professional banking environments. The course also introduces learners to key concepts in Islamic and conventional banking, corporate finance, and financial regulations, enabling them to operate confidently in both local and international financial settings.\r\nUnit 1: Money matters\r\nUnit 2: Products in retail banking\r\nUnit 3: Personal loans and credit\r\nUnit 4: Islamic Banking\r\nUnit 5: The structure of a bank\r\nUnit 6: Finance in companies\r\nUnit 7: Corporate banking\r\nUnit 8: Central banks and banking regulations",
    "domainesCompetences" : [ {
       "competences" : [ "Demonstrate mastery of essential financial and banking terminology used in personal, retail, corporate, and investment banking contexts.\r\nExplain and compare a range of financial products and services, including bank accounts, credit and debit cards, loans, overdrafts, mortgages, and online banking systems.\r\n\t" ],
