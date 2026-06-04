@@ -1804,7 +1804,7 @@
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "COS",
-   "matiereNom" : "Cosmétiques",
+   "matiereNom" : "Création de produits cosmétiques",
    "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
@@ -3193,87 +3193,6 @@
    "prerequis" : "niveau A2.1 acquis"
 }, {
    "adresseCours" : {
-      "codePostal" : "6635",
-      "localite" : "Wasserbillig",
-      "nom" : "Bâtiment Miseler Spatzen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "11, rue St Martin"
-   },
-   "adresseInscription" : {
-      "codePostal" : "6630",
-      "localite" : "Wasserbillig",
-      "nom" : "Administration Communale de Mertert / Wasserbillig",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1-3, Grand-Rue"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1125",
-   "coursId" : "LA-LB-1125",
-   "coursType" : "CLASSIQUE",
-   "cout" : 150.0,
-   "dateDebut" : "15/06/2026",
-   "dateFin" : "21/07/2026",
-   "dateInscription" : "Lundi - Vendredi de 07:00 à 16:00",
-   "description" : "Donner aux apprenants la chance de parler la langue luxembourgeoise",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Halbig",
-      "prenom" : "Karin"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63082,
-   "intitule" : "A1.2 Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
-   "nbPlaces" : 15,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6630",
-         "localite" : "Wasserbillig",
-         "nom" : "Administration Communale de Mertert / Wasserbillig",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "1-3, Grand-Rue"
-      },
-      "code" : "A.C. MERWA",
-      "fax" : "/",
-      "mail" : "rachel.gotting@mertert.lu",
-      "nom" : "Commune de Mertert ",
-      "nomContact" : "GOTTING",
-      "onlineReg" : false,
-      "prenomContact" : "Rachel",
-      "statut" : "Administration Communale",
-      "telephone" : "74 00 16 122"
-   }
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -4332,7 +4251,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -5665,60 +5584,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge d’acheter le matériel nécessaire pour le cours. Un remboursement sur place, en espèces, d’un montant de 25 euros sera demandé aux participants. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-BE-18",
-   "coursId" : "SO-BE-18",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "30/06/2026",
-   "dateFin" : "30/06/2026",
-   "description" : "Cogitations nocturnes, décalage horaire, troubles de l’endormissement, réveils nocturnes ou précoces : autant de problèmes qui peuvent nous empoisonner la vie et avoir un effet néfaste sur notre santé mentale.\r\n\r\nQuelles sont les solutions en aromathérapie, gemmothérapie, phytothérapie, nutrithérapie et élixirs floraux, compatibles et complémentaires à la médecine classique ?\r\n\r\nUn atelier pratico-pratique, ludique et créatif, durant lequel vous fabriquerez votre doudou olfactif (stick), une composition artistique, un gel douche détente ainsi qu’un roller « nuits paisibles ».",
-   "duree" : "6 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 30-06-2026 à 10:20 (durée 5h)",
-   "horaires" : [ ],
-   "id" : 67007,
-   "intitule" : "Kit de survie du dormeur - Bien-être et sommeil: des solutions naturelles au quotidien",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BE",
-   "matiereNom" : "Bien-être",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwMDc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge d’acheter le matériel nécessaire pour le cours. Un remboursement sur place, en espèces, d’un montant de 25 euros sera demandé aux participants."
 }, {
    "adresseCours" : {
       "codePostal" : "-",
@@ -8441,7 +8306,7 @@
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "COS",
-   "matiereNom" : "Cosmétiques",
+   "matiereNom" : "Création de produits cosmétiques",
    "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
@@ -11281,10 +11146,25 @@
    "dateFin" : "13/08/2026",
    "description" : "Mir üben a schwätze Lëtzebuergesch am Alldag duerch praktesch Uwendungen wéi akafen, Administratiouns- an Informatiounssituatiounen, um Maart zu Esch oder an der Stad, beim Guichet Renseignement CFL, beim LCTO fir Informatiounen, oder iwwer Guichet.lu. Mir maachen och eng Visitt duerch d’Stad, üben e Restaurant unzeruffen, eng Reservatioun ze maachen, zesummen ze iesse goen an ze bestellen. Zum Schluss erstellen mir e praktesche Guide, deen am Alldag benotzt ka ginn.",
    "duree" : "27 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lieser",
+      "prenom" : "Daniel"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 14:30 (durée 2h30), Mercredi à 14:30 (durée 2h30), Jeudi à 14:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67343,
    "intitule" : "Mir üben a schwätze Lëtzebuergesch am Alldag – praktesch Uwendungen",
    "langueCoursCode" : "LB",
@@ -11336,10 +11216,25 @@
    "dateFin" : "10/08/2026",
    "description" : "Dëse Cours proposéiert aktiv Lëtzebuergesch lauschteren a verstoen iwwer 2 bis 3 Wochen, mat 3 bis 5 Sessiounen d’Woch vun 2 bis 3 Stonnen den Dag. Mir lauschteren Radio (RTL, 100,7), liesen a analyséieren Texter aus de Beiträg a kréien Erklärungen dozou. Donieft schreiwe mir selwer kuerz Beiträg, déi mir am Museksall ophuelen, a mir kucken och lëtzebuergesch Filmer a Serien, fir d’Versteesdemech an d’Rezeptiounssprooch ze stäerken.",
    "duree" : "27 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lieser",
+      "prenom" : "Daniel"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 10:20 (durée 2h30), Mercredi à 10:20 (durée 2h30), Jeudi à 10:20 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "10:20",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "10:20",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "10:20",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67344,
    "intitule" : "Lëtzebuergesch aktiv lauschteren a verstoene léieren",
    "langueCoursCode" : "LB",
@@ -11728,6 +11623,66 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-DIG-16",
+   "coursId" : "IN-DIG-16",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "31/07/2026",
+   "dateFin" : "31/07/2026",
+   "description" : "This practical workshop teaches participants to build and operate a low-cost LEO satellite ground station using a laptop/PC, SDR, and open-source software. It covers SDR setup, TLE data, real-time satellite tracking, and receiving NOAA, ISS, and amateur signals. Participants decode telemetry and weather images, use VHF/UHF antennas, and explore RF monitoring. Tools include RTL-SDR, SDR++, GPredict, and Orbitron. By the end, they have a fully functional entry-level ground station.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Jaffer",
+      "prenom" : "Ghulam"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 31-07-2026 à 14:20 (durée 5h)",
+   "horaires" : [ {
+      "duree" : "5h",
+      "heure" : "14:20",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 67331,
+   "intitule" : "Personal DIY Space Ground Station Masterclass: Build a Real LEO Satellite Ground Station in 1 Hour",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DIG",
+   "matiereNom" : "Digital",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
@@ -11992,17 +11947,10 @@
    "enseignants" : [ {
       "nom" : "Brilli",
       "prenom" : "Julie"
-   }, {
-      "nom" : "Valet",
-      "prenom" : "Léa"
    } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Samedi à 10:20 (durée 3h20)",
    "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "10:20",
-      "jour" : "Samedi"
-   }, {
       "duree" : "3h20",
       "heure" : "10:20",
       "jour" : "Samedi"
@@ -13940,7 +13888,7 @@
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "PAP",
-   "matiereNom" : "Paper arts/crafts",
+   "matiereNom" : "Papier maché",
    "nbInscrits" : 0,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
@@ -31082,7 +31030,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PSY",
    "matiereNom" : "Psychologie",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -31670,7 +31618,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 19,
+   "nbInscrits" : 20,
    "nbPlaces" : 25,
    "niveau" : "A2.3 du CECRL",
    "onlineRegistration" : true,
@@ -31916,7 +31864,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 17,
+   "nbInscrits" : 18,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -32170,7 +32118,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 25,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : true,
@@ -32422,7 +32370,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 18,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -33053,7 +33001,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 14,
+   "nbInscrits" : 15,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
