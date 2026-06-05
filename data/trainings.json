@@ -283,8 +283,8 @@
    "categorieCode" : "BP",
    "categorieCodeUnipop" : "CIT",
    "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-53",
-   "coursId" : "BP-FR-53",
+   "coursCode" : "BP-EN-53",
+   "coursId" : "BP-EN-53",
    "coursType" : "CLASSIQUE",
    "cout" : 0.0,
    "dateDebut" : "08/06/2026",
@@ -292,8 +292,8 @@
    "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
    "duree" : "6h",
    "enseignants" : [ {
-      "nom" : "Ramdedovic",
-      "prenom" : "Munir"
+      "nom" : "Ahmed",
+      "prenom" : "Samah"
    } ],
    "format" : "BLENDED",
    "horairePrevu" : "Lundi 08-06-2026 à 12:00 (durée 2h),\nMercredi 10-06-2026 à 12:00 (durée 2h),\nVendredi 12-06-2026 à 12:00 (durée 2h)",
@@ -310,17 +310,17 @@
       "heure" : "12:00",
       "jour" : "Vendredi"
    } ],
-   "id" : 58205,
+   "id" : 58204,
    "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 9,
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "EN",
+   "matiereNom" : "Découvrir le GDL en anglais",
+   "nbInscrits" : 17,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMDU%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMDQ%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "1273",
@@ -470,6 +470,78 @@
       "websiteUrl" : "http://www.cigr.lu"
    },
    "renseignements" : "M. Lopes Philippe Tel: 26 70 17 12 e-mail: istuffsandweiler@pt.lu"
+}, {
+   "adresseCours" : {
+      "codePostal" : "-",
+      "localite" : "-",
+      "nom" : "En ligne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "En ligne"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "BP",
+   "categorieCodeUnipop" : "CIT",
+   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
+   "coursCode" : "BP-FR-53",
+   "coursId" : "BP-FR-53",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "08/06/2026",
+   "dateFin" : "12/06/2026",
+   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Ramdedovic",
+      "prenom" : "Munir"
+   } ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi 08-06-2026 à 12:00 (durée 2h),\nMercredi 10-06-2026 à 12:00 (durée 2h),\nVendredi 12-06-2026 à 12:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 58205,
+   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Découvrir le GDL en français",
+   "nbInscrits" : 10,
+   "nbPlaces" : 18,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMDU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1273",
+         "localite" : "Luxembourg-Hamm",
+         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "13c, rue de Bitbourg"
+      },
+      "code" : "MFSVA",
+      "fax" : "+352 247-85730",
+      "mail" : "programme.zesummeliewen@fm.etat.lu",
+      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+      "nomContact" : "Programme",
+      "onlineReg" : true,
+      "prenomContact" : "Equipe",
+      "statut" : "MENFPS",
+      "telephone" : ".",
+      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+   },
+   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -3746,7 +3818,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -4062,7 +4134,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -5243,7 +5315,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 3,
+   "nbInscrits" : 5,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -5437,7 +5509,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -7173,7 +7245,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 12,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -9332,66 +9404,525 @@
    "renseignements" : "Une participation aux frais des ingrédients,de 15 € sera demandée et à régler directement à la formatrice le jour même. "
 }, {
    "adresseCours" : {
-      "codePostal" : "1255",
-      "localite" : "Hollerich",
-      "nom" : "Parc de Merl",
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "28a Rue de Bragance"
+      "rueNumero" : "14, Porte de France"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DESS-56",
-   "coursId" : "AR-DESS-56",
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1589",
+   "coursId" : "LA-FR-1589",
    "coursType" : "CLASSIQUE",
-   "cout" : 22.5,
+   "cout" : 180.0,
    "dateDebut" : "15/07/2026",
-   "dateFin" : "15/07/2026",
-   "description" : "A gentle introduction to botanical drawing and watercolor in the park for begginners. We'll explore techniques and find inspiration together, then head out to observe and sketch from life at your own pace. Plants, trees, whatever catches your eye. A slow workshop - time to really look, with individual guidance throughout.\r\n\r\nThe course will take place at Parc de Merl, at the following address: 28a Rue de Bragance, 1255 Hollerich, Luxembourg.",
-   "duree" : "5 leçons",
-   "enseignants" : [ {
-      "nom" : "Morel",
-      "prenom" : "Juliane"
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "reconnaître des noms, mots et expressions courants", "comprendre des messages simples (sms ou de type « carte postale ») ", "suivre des indications brèves et simples" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) ", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "questionner quelqu’un sur son identité, son travail, ses loisirs, son environnement et répondre à des questions analogues ", "utiliser des formules (basiques) d’adresse et de congé \r\n", "demander un prix\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un SMS/message basique (pour donner rdv par exemple)\r\n", " remplir un formulaire d’inscription \r\n", "se présenter brièvement\r\n" ],
+      "domaine" : "expression écrite"
    } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 15-07-2026 à 12:50 (durée 4h10)",
-   "horaires" : [ {
-      "duree" : "4h10",
-      "heure" : "12:50",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 67364,
-   "intitule" : "Outdoor Drawing & Watercolor in the Park - A Botanical Initiation",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "DESS",
-   "matiereNom" : "Dessin",
+   "duree" : "60 leçons",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 11:10 (durée 2h30), Mardi à 11:10 (durée 2h30), Mercredi à 11:10 (durée 2h30), Jeudi à 11:10 (durée 2h30), Vendredi à 11:10 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67086,
+   "intitule" : "Français, culture et citoyenneté Intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
    "nbInscrits" : 0,
-   "nbPlaces" : 12,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNjQ%3D",
+   "nbPlaces" : 22,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
+         "rueNumero" : "5, Av Marie Thérèse"
       },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
    },
-   "prerequis" : "La formatrice parle également français.\r\n\r\n",
-   "renseignements" : "Please bring fine ink pens, a pencil, watercolors, brushes, a cloth, a small water container, and a sketchbook. For full practice, use watercolor or thick paper with a rigid support, plus any portable tools you like.\r\n"
+   "prerequis" : "alphabétisation acquise",
+   "renseignements" : "accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1582",
+   "coursId" : "LA-LB-1582",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "Secrétariat: vendredi de 9h30 à 13h00 et lundi et jeudi de 14h00 à 17h30 ou sur notre site internet cflh.lu",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " d'Wiederprevisiounen am grousse Ganze verstoen\r\n", "Informatiounen a Froen iwwer elementar Aktivitéiten am Kontext vun de Beruffer verstoen ", "verstoe wann een iwwer Fräizäitaktivitéite schwätzt oder dono freet\r\n", "bei engem Akafsgespréich an an alldeegleche Situatiounen einfach Froen an Informatioune verstoen\r\n", "Familljeverhältnisser verstoen (Brudder, Schwëster, )", "ganz einfach Explikatiounen zu enger Krankheet verstoen (Kierperdeeler)\r\n" ],
+      "domaine" : "Héierverstoen "
+   }, {
+      "competences" : [ "geschriwwen Informatiounen iwwert eng Aarbecht verstoen (Annoncen, )\r\n", "geschriwwen Informatiounen zu Fräizäitaktivitéiten, Hobbien a Manifestatioune verstoen (Flyeren, Annoncen, )\r\n" ],
+      "domaine" : "Liesverstoen "
+   }, {
+      "competences" : [ "  d'Wieder ganz einfach beschreiwen (Et (ass))\r\n", " iwwer säi Beruff schwätzen an eng aner Persoun dono froen\r\n", "säin Dagesoflaf beschreiwen (fir d'éischt, dann, duerno, zum Schluss)\r\n", " iwwer meng Hobbie schwätzen (gär, net gär, all Dag, heiansdo, oft, ')\r\n", "e Rendezvous ausmaachen (wéini ? wou ? um wéi vill Auer ?)\r\n", " een Akafsgespréich féieren :\r\n         - > positiv oder negativ op Froe reagéieren (net ; keen, keng)\r\n         - > ech hätt gär, kréien ech w.e.g, \r\n         - > wéi vill kascht(en) ? + Quantitéiten (Kilo, Pond, Liter, ) (Pluriel vun de Wierder)", " iwwert seng Famill schwätzen (seng Elteren, säi Brudder, seng Schwëster, seng Kanner, )", "beschreiwe wou een eppes wéi huet, respektiv sech ausdrécke wann et engem net gutt geet \r\n" ],
+      "domaine" : "Mëndlechen Ausdrock "
+   }, {
+      "competences" : [ " eng ganz einfach Kaart aus der Vakanz schreiwen\r\n", "eng kleng Email oder eng SMS iwwer säi Beruff oder den Alldag schreiwen", "eng kleng Notiz schreiwe fir e Kolleg fir e Rendezvous auszemaachen\r\n" ],
+      "domaine" : "Schrëftlechen Ausdrock "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67092,
+   "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Niveau A1.1 acquis"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1581",
+   "coursId" : "LA-LB-1581",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. \r\nPeut communiquer lors de tâches simples et habituelles sur des sujets familiers. \r\nPeut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ "eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, )\r\n", "eng ganz einfach Weebeschreiwung an enger Stad verstoen (riichtaus, no lénks, no riets, )\r\n", "e Gespréich iwwer alldeeglech Aktivitéite verstoen (am Stot, dobaussen, am Restaurant, )\r\n\r\n\r\n\r\n", " eng Persounebeschreiwung verstoen (um Radio, op enger Party, ) (Ausgesinn, Kleeder, Adjektiver)\r\n", " Informatiounen iwwer Wunnenge verstoen (Gréisst, Präis, Zëmmeren, ) (kafen, verkafen, lounen, verlounen)\r\n" ],
+      "domaine" : "Héierverstoen "
+   }, {
+      "competences" : [ "op engem Panneau eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, )\r\n \r\n", "  an engem Gebai eng wichteg Orientéierungshëllef verstoen (éischte Stack, am Keller, )", "   eng Wunnengsannonce verstoen (Lag, Gréisst, Zëmmeren, )", "  eng Persounebeschreiwung verstoen, d'Ausgesinn an de Charakter  (Annonce, ) (Kierper, Kleeder, Adjektiver)\r\n" ],
+      "domaine" : "Liesverstoen "
+   }, {
+      "competences" : [ " Informatiounen zu Horairë froen oder ginn\r\n\r\n\r\n", " eng ganz einfach Weebeschreiwung gi wann een gefrot gett", " no Informatiounen iwwert e Restaurant froen an eppes bestellen (Ëffnungszäiten, Menü, )", "  eng Wunneng beschreiwen a kommentéieren ", "  iwwer säin Alldag schwätzen (Stot, Gewunnechten, ) (ëmmer, ni, dacks, heiansdo, all Dag, .)", " eng Persoun beschreiwen (Ausgesinn a Charakter)\r\n    ", " soe wat engem gefält a wat net", "Saache matenee vergläichen (méi / manner- wéi ; gär, léiwer am léifsten)\r\n" ],
+      "domaine" : "Mëndlechen Ausdrock "
+   }, {
+      "competences" : [ "eng ganz einfach Weebeschreiwung maachen (SMS oder E-Mail, )\r\n\r\n\r\n", " eng einfach Wunnengsannonce schreiwen", " an enger SMS oder enger E-Mail e Rendezvous ausmaachen", "   eng ganz einfach Persounebeschreiwung opsetzen" ],
+      "domaine" : "Schrëftlechen Ausdrock "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 14:30 (durée 3h), Mardi à 14:30 (durée 3h), Mercredi à 14:30 (durée 3h), Jeudi à 14:30 (durée 3h), Vendredi à 14:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67091,
+   "intitule" : "Luxembourgeois, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Niveau A1.2 acquis"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1580",
+   "coursId" : "LA-LB-1580",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. \r\nPeut communiquer lors de tâches simples et habituelles sur des sujets familiers. \r\nPeut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ " eng Weebeschreiwung verstoen\r\n", "eng Wunnengsbeschreiwung verstoen\r\n", " Informatiounen iwwert Aktivitéite vun enger Persoun, hir Pläng awer och dat, wat scho geschitt ass, verstoen\r\n", " eng Persoun unhand vun enger Beschreiwung identifizéieren\r\n", "Wiederprevisioune verstoen\r\n", " e Verbuet, en Uerder oder eng Erlaabnis verstoen (am privaten an am ëffentleche Beräich)", "Rotschléi verstoen (Imperativ)" ],
+      "domaine" : "Héierverstoen "
+   }, {
+      "competences" : [ " eng Persounebeschreiwung verstoen\r\n", "   geschriwwe Wiederprevisioune verstoen\r\n ", "  e geschriwwene Verbuet, en Uerder oder eng geschriwwen Erlaabnis verstoen", " geschriwwe Rotschléi verstoen (Imperativ)\r\n\r\n" ],
+      "domaine" : "Liesverstoen "
+   }, {
+      "competences" : [ " no engem Wee froen an eng einfach Weebeschreiwung maachen\r\n", " Plazen an der Stad nennen a soe wat een do maache kann\r\n", "an engem Restaurant een Dësch reservéieren an eng Commande maachen\r\n", "einfach Informatioune froen oder se ginn (Ëffnungszäiten, Vakanz, )\r\n", " iwwert eng Wunneng, e Quartier / eng Uertschaft schwätzen\r\n", "iwwert säin Alldag schwätzen\r\n", "sech iwwert eppes informéieren an iwwert d'Vir- an d'Nodeeler diskutéieren (meng Meenung ausdrécken)\r\n", " seng Virléiften op eng ganz einfach Manéier ausdrécken\r\n", " e Rendezvous ausmaachen\r\n", " iwwer Vakanz a Fräizäit schwätzen \r\n", "iwwert de Weekend an d'Woch schwätzen (am Passé)\r\n", " e Verbuet, en Uerder oder eng Erlaabnis formuléieren (Modalverben)\r\n", " Rotschléi ginn (Modalverben)\r\n", "Symptomer vu Krankheete beschreiwen an duerno froen\r\n", " Messagë verstoen an dorop reagéieren\r\n", " kuerz, einfach Telefonsgespréicher féieren\r\n\r\n" ],
+      "domaine" : "Mëndlechen Ausdrock "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67090,
+   "intitule" : "Luxembourgeois oral , culture et citoyenneté intensif",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 22,
+   "niveau" : "A2.3 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Niveau A2.2 acquis"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1579",
+   "coursId" : "LA-LB-1579",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \r\n", " d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\r\n ", "d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ) : Wéi ass een oder eppes ?", "d'Auerzäite verstoen (5 Minuttenofstänn)\r\n" ],
+      "domaine" : "Héierverstoen "
+   }, {
+      "competences" : [ "verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\r\n    \r\n", "ganz einfach Froen zu senger oder enger anerer Persoun verstoen\r\n\r\n", " einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen " ],
+      "domaine" : "Liesverstoen "
+   }, {
+      "competences" : [ "« Moien » an « Äddi » soen a froe wéi et engem geet an äntwere wann ee gefrot gett\r\n\r\n  ", "sech oder eng aner Persoun kuerz presentéieren : de Vir- a Familljennumm, den Alter, d'Nationalitéit, d'Sproochen, wou ech/si hierkommen/kënnt, d'Address, de Beruff, d'Familljesituatioun\r\n", "eng aner Persoun no deene Saache froen", "seng perséinlech Donnéeë ginn an eng aner Persoun dono froen : d'Adress, d'Telefonsnummer, d'Emailaddress, de Gebuertsdatum", "d'Negatioun benotzen : « net » a « keen / keng »", "d'Auerzäit an den Datum (Dag a Mount) soe wann ech dono gefrot ginn", "d'Wochendeeg, d'Méint an d'Joreszäite benennen", "en Objet oder eng Persoun kuerz beschreiwen", " e kuerzen Text haart virliesen\r\n" ],
+      "domaine" : "Mëndlechen Ausdrock "
+   }, {
+      "competences" : [ "eng kuerz Email / SMS schreiwe fir ze froe wéi et geet\r\n\r\n ", "  einfach Sätz am Present schreiwen\r\n", "  een einfache Formulaire ausfëllen\r\n" ],
+      "domaine" : "Schrëftlechen Ausdrock "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67089,
+   "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation requise"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1578",
+   "coursId" : "LA-LB-1578",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet", "einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \r\n", " d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\r\n ", "d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ) : Wéi ass een oder eppes ?", "d'Auerzäite verstoen (5 Minuttenofstänn)\r\n" ],
+      "domaine" : "Héierverstoen "
+   }, {
+      "competences" : [ "verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\r\n    \r\n", "ganz einfach Froen zu senger oder enger anerer Persoun verstoen\r\n\r\n", " einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen " ],
+      "domaine" : "Liesverstoen "
+   }, {
+      "competences" : [ "« Moien » an « Äddi » soen a froe wéi et engem geet an äntwere wann ee gefrot gett\r\n\r\n  ", "sech oder eng aner Persoun kuerz presentéieren : de Vir- a Familljennumm, den Alter, d'Nationalitéit, d'Sproochen, wou ech/si hierkommen/kënnt, d'Address, de Beruff, d'Familljesituatioun\r\n", "eng aner Persoun no deene Saache froen", "seng perséinlech Donnéeë ginn an eng aner Persoun dono froen : d'Adress, d'Telefonsnummer, d'Emailaddress, de Gebuertsdatum", "d'Negatioun benotzen : « net » a « keen / keng »", "d'Auerzäit an den Datum (Dag a Mount) soe wann ech dono gefrot ginn", "d'Wochendeeg, d'Méint an d'Joreszäite benennen", "en Objet oder eng Persoun kuerz beschreiwen", " e kuerzen Text haart virliesen\r\n" ],
+      "domaine" : "Mëndlechen Ausdrock "
+   }, {
+      "competences" : [ "eng kuerz Email / SMS schreiwe fir ze froe wéi et geet\r\n\r\n ", "  einfach Sätz am Present schreiwen\r\n", "  een einfache Formulaire ausfëllen\r\n" ],
+      "domaine" : "Schrëftlechen Ausdrock "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 11:30 (durée 3h), Mardi à 11:30 (durée 3h), Mercredi à 11:30 (durée 3h), Jeudi à 11:30 (durée 3h), Vendredi à 11:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67088,
+   "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation requise"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1577",
+   "coursId" : "LA-LB-1577",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ "einfach kuerz an elementar Froe verstoen an dorop reagéieren: Wou wunnt Dir/hien ? Wéi ass Är/seng Telefonsnummer ? Wat ass dat ? Wéi vill Auer ass et ? etc. \r\n", " d'Zifferen an d'Zuelen an d'Datumer (Dag a Mount) verstoen\r\n ", "d'Faarwen an e puer aner Adjektiver verstoen (grouss-kleng, schéin-ellen, ) : Wéi ass een oder eppes ?", "d'Auerzäite verstoen (5 Minuttenofstänn)\r\n", " verstoe wann ee sech oder aner Leit begréisst oder « Äddi » seet" ],
+      "domaine" : "Héierverstoen "
+   }, {
+      "competences" : [ "verstoe wann een eng Begréissung, respektiv eng Formel fir Äddi ze soen, liest\r\n    \r\n", "ganz einfach Froen zu senger oder enger anerer Persoun verstoen\r\n\r\n", " einfach Sätz verstoen, déi Informatiounen aus dem deegleche Liewen enthalen : Zuelen, Auerzäiten, Datumer, Faarwen " ],
+      "domaine" : "Liesverstoen "
+   }, {
+      "competences" : [ "« Moien » an « Äddi » soen a froe wéi et engem geet an äntwere wann ee gefrot gett\r\n\r\n  ", "sech oder eng aner Persoun kuerz presentéieren : de Vir- a Familljennumm, den Alter, d'Nationalitéit, d'Sproochen, wou ech/si hierkommen/kënnt, d'Address, de Beruff, d'Familljesituatioun\r\n", "eng aner Persoun no deene Saache froen", "seng perséinlech Donnéeë ginn an eng aner Persoun dono froen : d'Adress, d'Telefonsnummer, d'Emailaddress, de Gebuertsdatum", "d'Negatioun benotzen : « net » a « keen / keng »", "d'Auerzäit an den Datum (Dag a Mount) soe wann ech dono gefrot ginn", "d'Wochendeeg, d'Méint an d'Joreszäite benennen", "en Objet oder eng Persoun kuerz beschreiwen", " e kuerzen Text haart virliesen\r\n" ],
+      "domaine" : "Mëndlechen Ausdrock "
+   }, {
+      "competences" : [ "eng kuerz Email / SMS schreiwe fir ze froe wéi et geet\r\n\r\n ", "  einfach Sätz am Present schreiwen\r\n", "  een einfache Formulaire ausfëllen\r\n" ],
+      "domaine" : "Schrëftlechen Ausdrock "
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 08:30 (durée 3h), Mardi à 08:30 (durée 3h), Mercredi à 08:30 (durée 3h), Jeudi à 08:30 (durée 3h), Vendredi à 08:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67087,
+   "intitule" : "Luxembourgeois, Culture et Citoyenneté, intensif",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation acquise"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -9454,6 +9985,1106 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La soirée est entièrement gratuite.\r\nLe film sera diffusé en version originale en langues luxembourgeoise et italienne, avec des sous-titres en français au début de la projection."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1255",
+      "localite" : "Hollerich",
+      "nom" : "Parc de Merl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "28a Rue de Bragance"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-56",
+   "coursId" : "AR-DESS-56",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "15/07/2026",
+   "description" : "A gentle introduction to botanical drawing and watercolor in the park for begginners. We'll explore techniques and find inspiration together, then head out to observe and sketch from life at your own pace. Plants, trees, whatever catches your eye. A slow workshop - time to really look, with individual guidance throughout.\r\n\r\nThe course will take place at Parc de Merl, at the following address: 28a Rue de Bragance, 1255 Hollerich, Luxembourg.",
+   "duree" : "5 leçons",
+   "enseignants" : [ {
+      "nom" : "Morel",
+      "prenom" : "Juliane"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 15-07-2026 à 12:50 (durée 4h10)",
+   "horaires" : [ {
+      "duree" : "4h10",
+      "heure" : "12:50",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67364,
+   "intitule" : "Outdoor Drawing & Watercolor in the Park - A Botanical Initiation",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNjQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "La formatrice parle également français.\r\n\r\n",
+   "renseignements" : "Please bring fine ink pens, a pencil, watercolors, brushes, a cloth, a small water container, and a sketchbook. For full practice, use watercolor or thick paper with a rigid support, plus any portable tools you like.\r\n"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1588",
+   "coursId" : "LA-FR-1588",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
+   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. Peut se débrouiller dans des situations rencontrées en voyage. Peut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des propos sur la vie quotidienne, le travail, l’école, les loisirs etc dans un langage clair et standard", " saisir les idées principales d’une discussion si la diction est claire et la langue standard ", "comprendre des récits courts", "comprendre l’essentiel des programmes diffusés qui traitent des sujets connus ou intéressants pour moi" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre tout type d’écrits quotidiens (pour informer, expliquer… brochures, catalogues, facture…)", "comprendre l’information générale dont on a besoin dans des écrits quotidiens tels que lettres, e-mail, courts documents administratifs, notes…       ", "comprendre suffisamment bien la description d’événements, de sentiments et de souhaits dans des lettres personnelles.", "chercher des informations spécifiques dont on a besoin pour accomplir une tâche précise " ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "raconter un événement, une expérience ou une histoire", "faire une description simple au présent ou au passé                        \r\n", "relater en détail ses expériences en décrivant ses sentiments et ses réactions \r\n", "décrire simplement (quelqu’un, un objet, un lieu, phénomène, un fait…)", "exprimer des sentiments : la surprise, la joie, la tristesse…son accord/ son désaccord\r\n" ],
+      "domaine" : "expression orale"
+   }, {
+      "competences" : [ "échanger des informations : famille, loisirs, travail, voyages, fait divers   ", "faire face à des situations pour trouver une solution", "demander des directives et donner des instructions ", "proposer, suggérer, accepter, refuser une proposition\r\n", "commencer, poursuivre, terminer une conversation sur un sujet précis  " ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire des textes articulés simplement \r\n", "répondre à des messages en donnant des informations simples ", "rédiger un récit court", "écrire des lettres personnelles (donner des nouvelles, décrire en détail expériences, évènements, projets)" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:30 (durée 3h), Mardi à 08:30 (durée 3h), Mercredi à 08:30 (durée 3h), Jeudi à 08:30 (durée 3h), Vendredi à 08:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67085,
+   "intitule" : "Français, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "niveau A2.3 requis"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1587",
+   "coursId" : "LA-FR-1587",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre un discours simple et cohérent sur des sujets familiers. \r\nPeut se débrouiller dans des situations rencontrées en voyage. \r\nPeut raconter un événement, une expérience ou un rêve, décrire un espoir ou un but et exposer brièvement des explications pour un projet ou une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des propos sur la vie quotidienne, le travail, l’école, les loisirs etc dans un langage clair et standard\r\n", "saisir les idées principales d’une discussion si la diction est claire et la langue standard ", "comprendre des récits courts", "chercher des informations spécifiques dont on a besoin pour accomplir une tâche précise \r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre tout type d’écrits quotidiens (pour informer, expliquer… brochures, catalogues, facture…)\r\n", "comprendre l’information générale dont on a besoin dans des écrits quotidiens tels que lettres, e-mail, courts documents administratifs, notes… ", "comprendre suffisamment bien la description d’événements, de sentiments et de souhaits dans des lettres personnelles.", "chercher des informations spécifiques dont on a besoin pour accomplir une tâche précise " ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "raconter un événement, une expérience ou une histoire", "faire une description simple au présent ou au passé                        ", "relater en détail ses expériences en décrivant ses sentiments et ses réactions ", "décrire simplement (quelqu’un, un objet, un lieu, phénomène, un fait…)\r\n", "exprimer des sentiments : la surprise, la joie, la tristesse…son accord/ son désaccord\r\n\r\n" ],
+      "domaine" : "expression orale"
+   }, {
+      "competences" : [ "échanger des informations : famille, loisirs, travail, voyages, fait divers   ", "faire face à des situations pour trouver une solution\r\n", "demander des directives et donner des instructions ", "proposer, suggérer, accepter, refuser une proposition", "commencer, poursuivre, terminer une conversation sur un sujet précis  " ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire des textes articulés simplement \r\n", "répondre à des messages en donnant des informations simples.", "rédiger un récit court\r\n", "écrire des lettres personnelles (donner des nouvelles, décrire en détail expériences, évènements, projets)" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67084,
+   "intitule" : "Français, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Niveau A2.3 requis",
+   "renseignements" : " accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1586",
+   "coursId" : "LA-FR-1586",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des énoncés très simples qui visent à satisfaire des besoins immédiats de la vie de tous  les jours \r\n\r\n", " comprendre  des informations relatives à la famille,  aux achats,  à l'environnement proche, au travail  \r\n", "comprendre  et suivre des directives et instructions simples : ex l'itinéraire (aller d'un point à l'autre à pied ou \r\n   par les transports en commun)\r\n", "généralement comprendre le sujet d'une discussion claire, simple et lente  \r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre les signes,  panneaux et affiches courants dans les lieux publics (rues, restaurants, gares, sur le lieu de travail )\r\n ", " reconnaître différents types de  documents  ", "comprendre l'information  de brochures publicitaires et je peux trouver  des   informations précises dans des\r\n  documents quotidiens comme publicités, brochures,  menus  \r\n", "comprendre  une lettre personnelle simple et courte au présent \r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "se présenter, présenter quelqu'un  \r\n", "décrire ses goûts   \r\n", "décrire mon environnement, des lieux, des conditions de vie ", "décrire des activités quotidiennes\r\n", "décrire ou identifier des gens  \r\n" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "utiliser des formules de politesse simples \r\n\r\n", "saluer, présenter quelqu'un, remercier \r\n", "poser des questions, répondre à des questions \r\n\r\n", "demander et échanger des renseignements personnels et sur autrui \r\n", "demander des directives et en donner / demander et expliquer son chemin à l'aide   d'une carte \r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire  des messages  simples et courts (entrer en contact, exprimer  des remerciements ou excuses)                            \r\n\r\n\r\n\t\t", "écrire une suite de phrases simples : sur sa famille, sur son environnement,  sur sa formation, sur  son travail \r\n\r\n", "écrire une lettre personnelle très simple \r\n\t\t" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60 leçons",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 11:10 (durée 2h30), Mardi à 11:10 (durée 2h30), Mercredi à 11:10 (durée 2h30), Jeudi à 11:10 (durée 2h30), Vendredi à 11:10 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67083,
+   "intitule" : "Français, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 27,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "niveau A1.2 requis",
+   "renseignements" : " accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1615",
+   "coursId" : "LA-FR-1615",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des énoncés très simples qui visent à satisfaire des besoins immédiats de la vie de tous  les jours \r\n\r\n", " comprendre  des informations relatives à la famille,  aux achats,  à l'environnement proche, au travail  \r\n", "comprendre  et suivre des directives et instructions simples : ex l'itinéraire (aller d'un point à l'autre à pied ou \r\n   par les transports en commun)\r\n", "généralement comprendre le sujet d'une discussion claire, simple et lente  \r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre les signes,  panneaux et affiches courants dans les lieux publics (rues, restaurants, gares, sur le lieu de travail )\r\n ", " reconnaître différents types de  documents  ", "comprendre l'information  de brochures publicitaires et je peux trouver  des   informations précises dans des\r\n  documents quotidiens comme publicités, brochures,  menus  \r\n", "comprendre  une lettre personnelle simple et courte au présent \r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "se présenter, présenter quelqu'un  \r\n", "décrire ses goûts   \r\n", "décrire mon environnement, des lieux, des conditions de vie ", "décrire des activités quotidiennes\r\n", "décrire ou identifier des gens  \r\n" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "utiliser des formules de politesse simples \r\n\r\n", "saluer, présenter quelqu'un, remercier \r\n", "poser des questions, répondre à des questions \r\n\r\n", "demander et échanger des renseignements personnels et sur autrui \r\n", "demander des directives et en donner / demander et expliquer son chemin à l'aide   d'une carte \r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire  des messages  simples et courts (entrer en contact, exprimer  des remerciements ou excuses)                            \r\n\r\n\r\n\t\t", "écrire une suite de phrases simples : sur sa famille, sur son environnement,  sur sa formation, sur  son travail \r\n\r\n", "écrire une lettre personnelle très simple \r\n\t\t" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 11:30 (durée 3h), Mardi à 11:30 (durée 3h), Mercredi à 11:30 (durée 3h), Jeudi à 11:30 (durée 3h), Vendredi à 11:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67375,
+   "intitule" : "Français, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "niveau A1.2 requis",
+   "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1585",
+   "coursId" : "LA-FR-1585",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre la description simple d’une personne ou d’un objet.\r\n", "comprendre des questions simples : registre formel ou familier. ", "comprendre des indications simples (toutes heures, orientation.…) \r\n", "comprendre des expressions de quantité" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "comprendre des textes simples et courts. ", "comprendre des messages simples (liste de courses – recette- menu..)\r\n", "suivre des indications brèves et simples\r\n" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "parler simplement : - de son environnement quotidien ; - de sa famille et de ses amis ; - de son travail ; - de sa santé ; - de ses goûts et loisirs.", " décrire simplement quelqu’un ou quelque chose \r\n", "parler simplement d’actions futures. \r\n", "utiliser des formules de politesse\r\n" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "parler simplement de soi et de ses proches et répondre à des questions", " prendre un rendez-vous, le reporter ou l’annuler (se situer dans le temps) ", "répondre par l’affirmative ou la négative \r\n", "demander un service ou une information ", "utiliser des formules d’adresse et de congé\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un texte très simple parler de sa famille et de son environnement et de son travail \r\n", "écrire un texte très simple pour présenter quelqu’un d’autre et parler de sa famille et de son environnement et de son travail ", "écrire des messages courts pour communiquer ou demander des informations.\r\n" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 14:45 (durée 3h), Mardi à 14:45 (durée 3h), Mercredi à 14:45 (durée 3h), Jeudi à 14:45 (durée 3h), Vendredi à 14:45 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67081,
+   "intitule" : "Français, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Niveau A1.1 acquis",
+   "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1584",
+   "coursId" : "LA-FR-1584",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "reconnaître des noms, mots et expressions courants", "comprendre des messages simples (sms ou de type « carte postale ») ", "suivre des indications brèves et simples" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) ", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "questionner quelqu’un sur son identité, son travail, ses loisirs, son environnement et répondre à des questions analogues ", "utiliser des formules (basiques) d’adresse et de congé \r\n", "demander un prix\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un SMS/message basique (pour donner rdv par exemple)\r\n", " remplir un formulaire d’inscription \r\n", "se présenter brièvement\r\n" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 18:00 (durée 3h), Mardi à 18:00 (durée 3h), Mercredi à 18:00 (durée 3h), Jeudi à 18:00 (durée 3h), Vendredi à 18:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67080,
+   "intitule" : "Français, culture et citoyenneté Intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation acquise",
+   "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1583",
+   "coursId" : "LA-FR-1583",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des énoncés très simples qui visent à satisfaire des besoins immédiats de la vie de tous  les jours \r\n\r\n", " comprendre  des informations relatives à la famille,  aux achats,  à l'environnement proche, au travail  \r\n", "comprendre  et suivre des directives et instructions simples : ex l'itinéraire (aller d'un point à l'autre à pied ou \r\n   par les transports en commun)\r\n", "généralement comprendre le sujet d'une discussion claire, simple et lente  \r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre les signes,  panneaux et affiches courants dans les lieux publics (rues, restaurants, gares, sur le lieu de travail )\r\n ", " reconnaître différents types de  documents  ", "comprendre l'information  de brochures publicitaires et je peux trouver  des   informations précises dans des\r\n  documents quotidiens comme publicités, brochures,  menus  \r\n", "comprendre  une lettre personnelle simple et courte au présent \r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "se présenter, présenter quelqu'un  \r\n", "décrire ses goûts   \r\n", "décrire mon environnement, des lieux, des conditions de vie ", "décrire des activités quotidiennes\r\n", "décrire ou identifier des gens  \r\n" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "utiliser des formules de politesse simples \r\n\r\n", "saluer, présenter quelqu'un, remercier \r\n", "poser des questions, répondre à des questions \r\n\r\n", "demander et échanger des renseignements personnels et sur autrui \r\n", "demander des directives et en donner / demander et expliquer son chemin à l'aide   d'une carte \r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire  des messages  simples et courts (entrer en contact, exprimer  des remerciements ou excuses)                            \r\n\r\n\r\n\t\t", "écrire une suite de phrases simples : sur sa famille, sur son environnement,  sur sa formation, sur  son travail \r\n\r\n", "écrire une lettre personnelle très simple \r\n\t\t" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 14:45 (durée 3h), Mardi à 14:45 (durée 3h), Mercredi à 14:45 (durée 3h), Jeudi à 14:45 (durée 3h), Vendredi à 14:45 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67079,
+   "intitule" : "Français, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "niveau A1.2 requis",
+   "renseignements" : " non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1582",
+   "coursId" : "LA-FR-1582",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre la description simple d’une personne ou d’un objet.\r\n", "comprendre des questions simples : registre formel ou familier. ", "comprendre des indications simples (toutes heures, orientation.…) \r\n", "comprendre des expressions de quantité" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "comprendre des textes simples et courts. ", "comprendre des messages simples (liste de courses – recette- menu..)\r\n", "suivre des indications brèves et simples\r\n" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "parler simplement : - de son environnement quotidien ; - de sa famille et de ses amis ; - de son travail ; - de sa santé ; - de ses goûts et loisirs.", " décrire simplement quelqu’un ou quelque chose \r\n", "parler simplement d’actions futures. \r\n", "utiliser des formules de politesse\r\n" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "parler simplement de soi et de ses proches et répondre à des questions", " prendre un rendez-vous, le reporter ou l’annuler (se situer dans le temps) ", "répondre par l’affirmative ou la négative \r\n", "demander un service ou une information ", "utiliser des formules d’adresse et de congé\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un texte très simple parler de sa famille et de son environnement et de son travail \r\n", "écrire un texte très simple pour présenter quelqu’un d’autre et parler de sa famille et de son environnement et de son travail ", "écrire des messages courts pour communiquer ou demander des informations.\r\n" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 11:30 (durée 3h), Mardi à 11:30 (durée 3h), Mercredi à 11:30 (durée 3h), Jeudi à 11:30 (durée 3h), Vendredi à 11:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67078,
+   "intitule" : "Français, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Niveau A1.1 acquis",
+   "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie-Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1581",
+   "coursId" : "LA-FR-1581",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. \r\nPeut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. \r\nPeut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre la description simple d’une personne ou d’un objet.\r\n", "comprendre des questions simples : registre formel ou familier. ", "comprendre des indications simples (toutes heures, orientation.…) \r\n", "comprendre des expressions de quantité" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "comprendre des textes simples et courts. ", "comprendre des messages simples (liste de courses – recette- menu..)\r\n", "suivre des indications brèves et simples\r\n" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "parler simplement : - de son environnement quotidien ; - de sa famille et de ses amis ; - de son travail ; - de sa santé ; - de ses goûts et loisirs.", " décrire simplement quelqu’un ou quelque chose \r\n", "parler simplement d’actions futures. \r\n", "utiliser des formules de politesse\r\n" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "parler simplement de soi et de ses proches et répondre à des questions", " prendre un rendez-vous, le reporter ou l’annuler (se situer dans le temps) ", "répondre par l’affirmative ou la négative \r\n", "demander un service ou une information ", "utiliser des formules d’adresse et de congé\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un texte très simple parler de sa famille et de son environnement et de son travail \r\n", "écrire un texte très simple pour présenter quelqu’un d’autre et parler de sa famille et de son environnement et de son travail ", "écrire des messages courts pour communiquer ou demander des informations.\r\n" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 08:30 (durée 3h), Mardi à 08:30 (durée 3h), Mercredi à 08:30 (durée 3h), Jeudi à 08:30 (durée 3h), Vendredi à 08:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67077,
+   "intitule" : "Français, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "Niveau A1.1 acquis",
+   "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1580",
+   "coursId" : "LA-FR-1580",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "reconnaître des noms, mots et expressions courants", "comprendre des messages simples (sms ou de type « carte postale ») ", "suivre des indications brèves et simples" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) ", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "questionner quelqu’un sur son identité, son travail, ses loisirs, son environnement et répondre à des questions analogues ", "utiliser des formules (basiques) d’adresse et de congé \r\n", "demander un prix\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un SMS/message basique (pour donner rdv par exemple)\r\n", " remplir un formulaire d’inscription \r\n", "se présenter brièvement\r\n" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 11:30 (durée 3h), Mardi à 11:30 (durée 3h), Mercredi à 11:30 (durée 3h), Jeudi à 11:30 (durée 3h), Vendredi à 11:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67076,
+   "intitule" : "Français, culture et citoyenneté Intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation acquise",
+   "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1579",
+   "coursId" : "LA-FR-1579",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "reconnaître des noms, mots et expressions courants", "comprendre des messages simples (sms ou de type « carte postale ») ", "suivre des indications brèves et simples" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) ", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "questionner quelqu’un sur son identité, son travail, ses loisirs, son environnement et répondre à des questions analogues ", "utiliser des formules (basiques) d’adresse et de congé \r\n", "demander un prix\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un SMS/message basique (pour donner rdv par exemple)\r\n", " remplir un formulaire d’inscription \r\n", "se présenter brièvement\r\n" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 08:30 (durée 2h30), Mardi à 08:30 (durée 2h30), Mercredi à 08:30 (durée 2h30), Jeudi à 08:30 (durée 2h30), Vendredi à 08:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67075,
+   "intitule" : "Français, culture et citoyenneté Intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation acquise",
+   "renseignements" : "non accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1578",
+   "coursId" : "LA-FR-1578",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. Peut communiquer lors de tâches simples et habituelles sur des sujets familiers. Peut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des phrases et des expressions relatives à ce dont on a besoin dans des situations simples \r\nde la vie quotidienne, dans des magasins, à la poste, à la banque… ", "comprendre suffisamment pour échanger des propos habituels sans trop d’efforts.", "comprendre les points essentiels d’annonces, de messages brefs, simples et clairs." ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "trouver, identifier  des informations précises  dans des documents  écrits simples  tels que lettres,dépliants, publicités, articles de presse\r\n", "comprendre un texte court et simple  contenant des termes courants \r\n\r\n", "comprendre un règlement écrit simplement\r\n \r\n", "comprendre un mode d'emploi" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "décrire des  objets \r\n", "comparer  des personnes, des lieux, des objets\r\n", "donner brièvement des justifications\r\n", "exprimer ses opinions\r\n\r\n\r\n", "raconter une histoire simple (énoncés reliés par les articulations les plus fréquentes)" ],
+      "domaine" : "expression orale en comtinu"
+   }, {
+      "competences" : [ "obtenir et fournir des biens et services (commander un repas, acheter un billet)\r\n", "faire,  accepter  une offre, une invitation, des excuses\r\n\r\n", "faire des suggestions et réagir à des propositions  ", "échanger des idées simples et  des renseignements\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "rédiger une annonce ou y réagir pour demander des précisions\r\n", "rédiger simplement des consignes\r\n", " faire une description  brève d'un  événement passé, d'activités passées, d'expériences professionnelles" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 14:45 (durée 3h), Mardi à 14:45 (durée 3h), Mercredi à 14:45 (durée 3h), Jeudi à 14:45 (durée 3h), Vendredi à 14:45 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67074,
+   "intitule" : "Français, Culture et Citoyenneté intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "niveau A2.1 acquis ",
+   "renseignements" : " accessible aux personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "AL",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "COMPÉTENCES DE BASE",
+   "coursCode" : "AL-ALFR-267",
+   "coursId" : "AL-ALFR-267",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "15/07/2026",
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul",
+   "domainesCompetences" : [ {
+      "competences" : [ "compter jusqu'à 100\r\n", "utiliser la calculatrice \r\n", "maîtriser des additions et soustractions de nombres entiers et décimaux\r\n", "calculer avec de l'argent\r\n", "lire l'heure digitale\r\n" ],
+      "domaine" : "calculer"
+   }, {
+      "competences" : [ "identifier des formules de politesse et de salutations \r\n", "réagir à des messages simples (identité, rendez-vous..)\r\n" ],
+      "domaine" : "comprendre"
+   }, {
+      "competences" : [ "écrire les lettres en majuscules d'imprimerie\r\n", "écrire les lettres en minuscules cursives\r\n", "écrire les chiffres jusqu'à 100\r\n", "recomposer des mots à partir de lettres ou de syllabes\r\n", "écrire le graphème ch\r\n", "écrire le graphème ph\r\n", "écrire les graphèmes s et ss\r\n", "écrire le graphème qu\r\n", "écrire les graphèmes é, er, ez et es, et, ê\r\n", "écrire les graphèmes oi, ai, ei, ui\r\n", "écrire les graphèmes on, en, an\r\n", "écrire les graphèmes ou , eu, au, eau \r\n", "écrire les graphèmes in, un, ain, ien   \r\n", "écrire les graphèmes g/e-i  et g/a-o-u\r\n", "écrire les graphèmes c/e-i et c/a-o-u\r\n", "écrire le graphème ç\r\n", "écrire des lettres  et des mots en écriture scripte  \r\n", "copier des lettres et des mots en écriture cursive\r\n", "copier une liste de mots en rapport avec des champs lexicaux ou des catégories grammaticales.", "remplir un formulaire     \r\n", "écrire à un rythme normal (chronométrage du temps d'écriture d'un même mot)" ],
+      "domaine" : "écrire"
+   }, {
+      "competences" : [ "prononcer toutes les lettres de l'alphabet\r\n", "lire des mots en écriture scripte\r\n", "lire et comprendre des phrases courtes avec des mots familiers et courants\r\n", "utiliser un dictionnaire\r\n", "ire le graphème ch, \r\n", "lire le graphème ph\r\n", "lire les graphèmes  s et ss\r\n", "lire le graphème qu\r\n", " lire les graphèmes é, er, ez et es, et, ê\r\n", " lire les graphèmes oi, ai, ei, ui\r\n", " lire les graphèmes on/om, en/em, an/am\r\n", " lire les graphèmes ou , eu, au, eau\r\n", "lire les graphèmes in, un, ain, ien\r\n", " lire les graphèmes g/e-i  et g/a-o-u\r\n", "lire les graphèmes c/e-i et c/a-o-u\r\n", " lire le graphème ç" ],
+      "domaine" : "lire"
+   }, {
+      "competences" : [ "utiliser des formules de politesse et de salutations\r\n", "manifester sa compréhension ou son incompréhension verbalement\r\n", "se présenter simplement et prendre rendez-vous" ],
+      "domaine" : "parler"
+   }, {
+      "competences" : [ "identifier la nature des mots", "identifier les symboles de ponctuation" ],
+      "domaine" : "Grammaire et syntaxe"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 11:30 (durée 3h), Mardi à 11:30 (durée 3h), Mercredi à 11:30 (durée 3h), Jeudi à 11:30 (durée 3h), Vendredi à 11:30 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67073,
+   "intitule" : "Alphabétisation en langue française",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "ALFR",
+   "matiereNom" : "Alphabétisation en langue française",
+   "nbInscrits" : 0,
+   "nbPlaces" : 18,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation de niveau débutant requise",
+   "renseignements" : "accessible aux personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -27644,6 +29275,124 @@
       "prenomContact" : "Christine",
       "statut" : "MENFPS",
       "telephone" : "+352 27 69 63-211"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "8209",
+      "localite" : "Mamer",
+      "nom" : "Maison Citoyenne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue Josy Barthel"
+   },
+   "adresseInscription" : {
+      "codePostal" : "8201",
+      "localite" : "Mamer",
+      "nom" : "Administration Communale de Mamer",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "B.P. 50"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-SIG-25",
+   "coursId" : "LA-SIG-25",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.0,
+   "dateDebut" : "06/10/2026",
+   "dateFin" : "01/12/2026",
+   "duree" : "12h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:00 (durée 1h30)",
+   "horaires" : [ ],
+   "id" : 67318,
+   "intitule" : "Cours de langue de signes",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "SIG",
+   "matiereNom" : "Cours de langue de signes",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8201",
+         "localite" : "Mamer",
+         "nom" : "Administration Communale de Mamer",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 50"
+      },
+      "code" : "A.C. MAMER",
+      "mail" : "cours@mamer.lu",
+      "nom" : "Commune de Mamer",
+      "nomContact" : "Peiffer",
+      "onlineReg" : false,
+      "prenomContact" : "Jil",
+      "statut" : "Administration Communale",
+      "telephone" : "/"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "8209",
+      "localite" : "Mamer",
+      "nom" : "Maison Citoyenne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "8, rue Josy Barthel"
+   },
+   "adresseInscription" : {
+      "codePostal" : "8201",
+      "localite" : "Mamer",
+      "nom" : "Administration Communale de Mamer",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "B.P. 50"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-SIG-24",
+   "coursId" : "LA-SIG-24",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.0,
+   "dateDebut" : "06/10/2026",
+   "dateFin" : "01/12/2026",
+   "duree" : "12h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 16:00 (durée 1h30)",
+   "horaires" : [ ],
+   "id" : 67317,
+   "intitule" : "Cours de langue de signes",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "SIG",
+   "matiereNom" : "Cours de langue de signes",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8201",
+         "localite" : "Mamer",
+         "nom" : "Administration Communale de Mamer",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "B.P. 50"
+      },
+      "code" : "A.C. MAMER",
+      "mail" : "cours@mamer.lu",
+      "nom" : "Commune de Mamer",
+      "nomContact" : "Peiffer",
+      "onlineReg" : false,
+      "prenomContact" : "Jil",
+      "statut" : "Administration Communale",
+      "telephone" : "/"
    }
 }, {
    "adresseCours" : {
