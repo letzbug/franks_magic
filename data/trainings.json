@@ -22267,7 +22267,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EL",
    "matiereNom" : "Grec",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 24,
    "niveau" : "A2 du CECRL",
    "onlineRegistration" : true,
@@ -24678,7 +24678,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "JA",
    "matiereNom" : "Japonais",
-   "nbInscrits" : 1,
+   "nbInscrits" : 3,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -35364,6 +35364,10 @@
       "duree" : "2h",
       "heure" : "08:00",
       "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
    } ],
    "id" : 60889,
    "intitule" : "Français",
@@ -35371,7 +35375,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 20,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
