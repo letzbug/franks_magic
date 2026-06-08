@@ -1207,7 +1207,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SAN",
    "matiereNom" : "Santé",
-   "nbInscrits" : 19,
+   "nbInscrits" : 20,
    "nbPlaces" : 200,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -4465,7 +4465,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 2,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11984,146 +11984,6 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-COMMU-21",
-   "coursId" : "SCI-COMMU-21",
-   "coursType" : "CLASSIQUE",
-   "cout" : 121.5,
-   "dateDebut" : "27/07/2026",
-   "dateFin" : "13/08/2026",
-   "description" : "Mir üben a schwätze Lëtzebuergesch am Alldag duerch praktesch Uwendungen wéi akafen, Administratiouns- an Informatiounssituatiounen, um Maart zu Esch oder an der Stad, beim Guichet Renseignement CFL, beim LCTO fir Informatiounen, oder iwwer Guichet.lu. Mir maachen och eng Visitt duerch d’Stad, üben e Restaurant unzeruffen, eng Reservatioun ze maachen, zesummen ze iesse goen an ze bestellen. Zum Schluss erstellen mir e praktesche Guide, deen am Alldag benotzt ka ginn.",
-   "duree" : "27 leçons",
-   "enseignants" : [ {
-      "nom" : "Lieser",
-      "prenom" : "Daniel"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:30 (durée 2h30), Mercredi à 14:30 (durée 2h30), Jeudi à 14:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "14:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "14:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "14:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 67343,
-   "intitule" : "Mir üben a schwätze Lëtzebuergesch am Alldag – praktesch Uwendungen",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COMMU",
-   "matiereNom" : "Communication",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant / intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNDM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Dir hutt d'Base vum Lëtzebuergesche, mais wëllt nach besser an dës Sprooch andauchen.",
-   "renseignements" : "Dëse Cours fënnt iwwer 3 Wochen statt, all Dënschdeg, Mëttwoch an Donneschdeg vun 14h30 bis 17h00, a bitt eng reegelméisseg a strukturéiert Léieropportunitéit am Lëtzebuergeschen."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-COMMU-22",
-   "coursId" : "SCI-COMMU-22",
-   "coursType" : "CLASSIQUE",
-   "cout" : 121.5,
-   "dateDebut" : "27/07/2026",
-   "dateFin" : "10/08/2026",
-   "description" : "Dëse Cours proposéiert aktiv Lëtzebuergesch lauschteren a verstoen iwwer 2 bis 3 Wochen, mat 3 bis 5 Sessiounen d’Woch vun 2 bis 3 Stonnen den Dag. Mir lauschteren Radio (RTL, 100,7), liesen a analyséieren Texter aus de Beiträg a kréien Erklärungen dozou. Donieft schreiwe mir selwer kuerz Beiträg, déi mir am Museksall ophuelen, a mir kucken och lëtzebuergesch Filmer a Serien, fir d’Versteesdemech an d’Rezeptiounssprooch ze stäerken.",
-   "duree" : "27 leçons",
-   "enseignants" : [ {
-      "nom" : "Lieser",
-      "prenom" : "Daniel"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 10:20 (durée 2h30), Mercredi à 10:20 (durée 2h30), Jeudi à 10:20 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "10:20",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "10:20",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h30",
-      "heure" : "10:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 67344,
-   "intitule" : "Lëtzebuergesch aktiv lauschteren a verstoene léieren",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COMMU",
-   "matiereNom" : "Communication",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant / intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNDQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Dir hutt d'Base vum Lëtzebuergesche, mais wëllt nach besser an dës Sprooch andauchen. ",
-   "renseignements" : "Dëse Cours fënnt iwwer 3 Wochen statt, all Dënschdeg, Mëttwoch an Donneschdeg vun 10h20 bis 12h50, a bitt eng reegelméisseg a strukturéiert Léieropportunitéit am Lëtzebuergeschen."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -12222,6 +12082,146 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Veuillez ramener un tapis de gymnastique, des vêtements confortables, ainsi qu’une bouteille d’eau."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-COMMU-21",
+   "coursId" : "SCI-COMMU-21",
+   "coursType" : "CLASSIQUE",
+   "cout" : 121.5,
+   "dateDebut" : "28/07/2026",
+   "dateFin" : "13/08/2026",
+   "description" : "Mir üben a schwätze Lëtzebuergesch am Alldag duerch praktesch Uwendungen wéi akafen, Administratiouns- an Informatiounssituatiounen, um Maart zu Esch oder an der Stad, beim Guichet Renseignement CFL, beim LCTO fir Informatiounen, oder iwwer Guichet.lu. Mir maachen och eng Visitt duerch d’Stad, üben e Restaurant unzeruffen, eng Reservatioun ze maachen, zesummen ze iesse goen an ze bestellen. Zum Schluss erstellen mir e praktesche Guide, deen am Alldag benotzt ka ginn.",
+   "duree" : "27 leçons",
+   "enseignants" : [ {
+      "nom" : "Lieser",
+      "prenom" : "Daniel"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:30 (durée 2h30), Mercredi à 14:30 (durée 2h30), Jeudi à 14:30 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67343,
+   "intitule" : "Mir üben a schwätze Lëtzebuergesch am Alldag – praktesch Uwendungen",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "COMMU",
+   "matiereNom" : "Communication",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant / intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNDM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Dir hutt d'Base vum Lëtzebuergesche, mais wëllt nach besser an dës Sprooch andauchen.",
+   "renseignements" : "Dëse Cours fënnt iwwer 3 Wochen statt, all Dënschdeg, Mëttwoch an Donneschdeg vun 14h30 bis 17h00, a bitt eng reegelméisseg a strukturéiert Léieropportunitéit am Lëtzebuergeschen."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-COMMU-22",
+   "coursId" : "SCI-COMMU-22",
+   "coursType" : "CLASSIQUE",
+   "cout" : 121.5,
+   "dateDebut" : "28/07/2026",
+   "dateFin" : "10/08/2026",
+   "description" : "Dëse Cours proposéiert aktiv Lëtzebuergesch lauschteren a verstoen iwwer 2 bis 3 Wochen, mat 3 bis 5 Sessiounen d’Woch vun 2 bis 3 Stonnen den Dag. Mir lauschteren Radio (RTL, 100,7), liesen a analyséieren Texter aus de Beiträg a kréien Erklärungen dozou. Donieft schreiwe mir selwer kuerz Beiträg, déi mir am Museksall ophuelen, a mir kucken och lëtzebuergesch Filmer a Serien, fir d’Versteesdemech an d’Rezeptiounssprooch ze stäerken.",
+   "duree" : "27 leçons",
+   "enseignants" : [ {
+      "nom" : "Lieser",
+      "prenom" : "Daniel"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 10:20 (durée 2h30), Mercredi à 10:20 (durée 2h30), Jeudi à 10:20 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "10:20",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "10:20",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h30",
+      "heure" : "10:20",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67344,
+   "intitule" : "Lëtzebuergesch aktiv lauschteren a verstoene léieren",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "COMMU",
+   "matiereNom" : "Communication",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant / intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczNDQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Dir hutt d'Base vum Lëtzebuergesche, mais wëllt nach besser an dës Sprooch andauchen. ",
+   "renseignements" : "Dëse Cours fënnt iwwer 3 Wochen statt, all Dënschdeg, Mëttwoch an Donneschdeg vun 10h20 bis 12h50, a bitt eng reegelméisseg a strukturéiert Léieropportunitéit am Lëtzebuergeschen."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -17394,7 +17394,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PHOT",
    "matiereNom" : "Photographie",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -20739,6 +20739,94 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4024",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "371, Route de Belval"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4141",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "86, Rue Victor Hugo"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1633",
+   "coursId" : "LA-LB-1633",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "15/09/2026",
+   "dateFin" : "10/12/2026",
+   "dateInscription" : "De 08h00 à 16h00 du mercredi au vendredi à partir du mois d'août",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprend des expressions courantes utilisées dans des contextes quotidiens (ex. achats, transports).\r\nPeut suivre une conversation simple si l’interlocuteur parle clairement.\r\nComprend les points principaux d’une annonce ou d’une information pratique (ex. \"La pharmacie est fermée aujourd’hui\")." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut lire et comprendre des textes courts sur des sujets familiers (ex. emails, lettres simples).\r\nPeut comprendre des instructions simples (ex. recettes de cuisine, indications sur un médicament).\r\nPeut extraire des informations spécifiques d’un programme ou d’une brochure touristique." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut parler de sa routine quotidienne en utilisant des phrases simples (ex. \"Le matin, je prends mon café et je vais au travail.\").\r\nPeut exprimer ses goûts et préférences en expliquant brièvement pourquoi.\r\nPeut raconter un événement passé en utilisant des phrases basiques (ex. \"Hier, je suis allé au cinéma.\")." ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Peut écrire des messages courts et simples sur des sujets familiers.\r\nPeut rédiger un email ou une lettre amicale (ex. \"Salut Paul, comment vas-tu ?\").\r\nPeut écrire un texte court décrivant son lieu de vie ou son travail." ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "Peut interagir dans des situations de la vie quotidienne (ex. demander des informations, faire des achats).\r\nPeut participer à une conversation simple sur des sujets personnels et professionnels.\r\nPeut reformuler une phrase si l’interlocuteur ne comprend pas immédiatement." ],
+      "domaine" : "Interaction"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Sartini",
+      "prenom" : "Massimo Sauro"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:30 (durée 2h), Jeudi à 08:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67413,
+   "intitule" : "Cours de langues Luxembourgeois A2.1",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4141",
+         "localite" : "Esch sur Alzette",
+         "nom" : "CIGL - Esch sur Alzette",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "86, Rue Victor Hugo"
+      },
+      "code" : "CIGL-Esch",
+      "fax" : "+352 45 44 24 500",
+      "mail" : "sarra.koubaa@ciglesch.lu",
+      "nom" : "CIGL - Esch sur Alzette",
+      "nomContact" : "Lippis",
+      "onlineReg" : false,
+      "prenomContact" : "Luciano",
+      "statut" : "ASBL",
+      "telephone" : "+352 54 42 45 208"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -21574,6 +21662,94 @@
       "websiteUrl" : "https://www.csl.lu/fr/lllc/"
    },
    "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4024",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "371, Route de Belval"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4141",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "86, Rue Victor Hugo"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1632",
+   "coursId" : "LA-LB-1632",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "16/09/2026",
+   "dateFin" : "07/12/2026",
+   "dateInscription" : "De 08h00 à 16h00 du mercredi au vendredi à partir du mois d'août",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprend des mots isolés et des expressions très simples liés à son environnement immédiat (ex. \"Bonjour\", \"merci\", \"au revoir\").\r\nPeut identifier des noms familiers, des mots et des expressions courantes si l'interlocuteur parle lentement et distinctement.\r\nCapable de repérer des consignes élémentaires en classe ou dans un contexte très prévisible (ex. \"Ouvrez le livre\")." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Reconnait des mots et des expressions courantes dans des supports visuels (ex. affiches, pictogrammes, étiquettes).\r\nPeut comprendre des phrases courtes et simples avec aide (ex. \"La boulangerie est à droite\").\r\nCapable d’identifier des noms et des mots familiers dans des textes très courts." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut produire des mots isolés et des expressions très simples (ex. se présenter : \"Je m'appelle Marie\").\r\nPeut réciter des formules courantes de politesse et de salutation.\r\nPrononciation parfois hésitante mais compréhensible sur des mots simples." ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Peut écrire son nom, son âge, sa nationalité sur un formulaire.\r\nCapable de recopier des mots et des phrases simples.\r\nPeut écrire des phrases courtes avec modèle (ex. \"Je suis étudiant. J'aime le sport.\")." ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "Peut répondre à des questions simples avec des mots isolés (ex. \"Tu as quel âge ?\" \"20 ans\").\r\nPeut poser des questions basiques sur l’identité (ex. \"Comment tu t’appelles ?\").\r\nPeut participer à un dialogue ultra simple si l’interlocuteur parle lentement et répète." ],
+      "domaine" : "Interaction"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Sartini",
+      "prenom" : "Massimo Sauro"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 14:30 (durée 2h), Mercredi à 08:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67412,
+   "intitule" : "Cours de langues Luxembourgeois A1.1",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4141",
+         "localite" : "Esch sur Alzette",
+         "nom" : "CIGL - Esch sur Alzette",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "86, Rue Victor Hugo"
+      },
+      "code" : "CIGL-Esch",
+      "fax" : "+352 45 44 24 500",
+      "mail" : "sarra.koubaa@ciglesch.lu",
+      "nom" : "CIGL - Esch sur Alzette",
+      "nomContact" : "Lippis",
+      "onlineReg" : false,
+      "prenomContact" : "Luciano",
+      "statut" : "ASBL",
+      "telephone" : "+352 54 42 45 208"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4276",
@@ -28557,10 +28733,17 @@
    "dateInscription" : "A partir de juillet 2026",
    "description" : "Le cours vise surtout sur le dialogue dans les situations de tous les jours. Nous apprenons ä nous présenter, à donner des informations sur notre personne et à en demander à une tierce personne. Nous apprenons à comprendre et nommer les activités dans le contexte professionnel ainsi que l'heure et les petites annonces.",
    "duree" : "52h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Bock",
+      "prenom" : "Karin"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 17:15 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "17:15",
+      "jour" : "Mardi"
+   } ],
    "id" : 67174,
    "intitule" : "Luxembourgeois - Débutants",
    "langueCoursCode" : "FR",
@@ -30868,6 +31051,94 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "4024",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "371, Route de Belval"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4141",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "86, Rue Victor Hugo"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1634",
+   "coursId" : "LA-LB-1634",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "04/01/2027",
+   "dateFin" : "07/04/2027",
+   "dateInscription" : "De 08h00 à 16h00 du mercredi au vendredi à partir du mois d'août",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprend des phrases très courantes dans un contexte familier (ex. en famille, au restaurant).\r\nPeut repérer des informations essentielles dans des annonces ou des dialogues très simples (ex. \"Le train part à 10 heures\").\r\nComprend mieux les consignes et instructions si elles sont répétées et dites lentement." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut comprendre des phrases simples dans des documents du quotidien (ex. menus, prospectus, horaires).\r\nPeut reconnaître des informations essentielles dans une carte postale ou un email simple.\r\nComprend des descriptions très courtes de personnes, de lieux ou d’objets." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut se présenter plus en détail (ex. \"Je m’appelle Pierre, j’ai 25 ans et j’habite à Paris.\").\r\nPeut décrire de façon simple sa famille, ses goûts, son environnement immédiat.\r\nPeut dire ce qu’il aime et ce qu’il n’aime pas avec des phrases simples (ex. \"J’aime le football mais je n’aime pas le tennis.\")." ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Peut écrire quelques phrases sur lui-même et son quotidien.\r\nPeut rédiger des phrases simples sur ce qu’il aime (ex. \"J’aime aller au cinéma.\").\r\nPeut remplir des formulaires avec plus de détails (ex. écrire une courte description dans un profil en ligne)." ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "Peut poser et répondre à des questions simples sur des besoins immédiats (ex. commander un plat dans un restaurant).\r\nPeut comprendre et suivre une conversation courte sur des sujets connus (ex. demander son chemin).\r\nPeut répondre avec des phrases plus complètes mais avec quelques erreurs grammaticales." ],
+      "domaine" : "Interaction"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Sartini",
+      "prenom" : "Massimo Sauro"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 14:30 (durée 2h), Mercredi à 08:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67414,
+   "intitule" : "Cours de langues Luxembourgeois A1.2",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4141",
+         "localite" : "Esch sur Alzette",
+         "nom" : "CIGL - Esch sur Alzette",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "86, Rue Victor Hugo"
+      },
+      "code" : "CIGL-Esch",
+      "fax" : "+352 45 44 24 500",
+      "mail" : "sarra.koubaa@ciglesch.lu",
+      "nom" : "CIGL - Esch sur Alzette",
+      "nomContact" : "Lippis",
+      "onlineReg" : false,
+      "prenomContact" : "Luciano",
+      "statut" : "ASBL",
+      "telephone" : "+352 54 42 45 208"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4802",
       "localite" : "Lamadelaine",
       "nom" : "Lycée Mathias Adam",
@@ -30932,6 +31203,94 @@
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4024",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "371, Route de Belval"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4141",
+      "localite" : "Esch Sur Alzette",
+      "nom" : "CIGL - Esch sur Alzette",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "86, Rue Victor Hugo"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1635",
+   "coursId" : "LA-LB-1635",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "05/01/2027",
+   "dateFin" : "06/04/2027",
+   "dateInscription" : "De 08h00 à 16h00 du mercredi au vendredi à partir du mois d'août",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprend des conversations simples sur des sujets habituels.\r\nPeut suivre des instructions et comprendre des dialogues du quotidien (ex. réservation d’hôtel, conversation téléphonique).\r\nComprend des annonces dans des lieux publics (ex. gare, aéroport)." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut lire et comprendre des textes un peu plus longs (ex. articles simples, courriels professionnels de base).\r\nPeut comprendre des descriptions détaillées d’endroits, de personnes ou d’événements.\r\nPeut comprendre des messages sur des réseaux sociaux et y répondre de manière simple." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut parler de son expérience, exprimer son opinion de façon basique (ex. \"Je pense que c’est une bonne idée.\").\r\nPeut raconter un souvenir ou une expérience en enchaînant plusieurs phrases (ex. \"L’été dernier, je suis allé en Espagne. C’était très beau.\").\r\nPeut donner des conseils simples et exprimer ses préférences avec justification." ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Peut écrire un texte court structuré sur des sujets connus (ex. raconter un voyage, expliquer une journée type).\r\nPeut écrire un email plus élaboré avec des formules de politesse.\r\nPeut écrire une lettre ou un message pour demander une information." ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "Peut échanger de façon plus fluide sur des sujets familiers et exprimer ses besoins avec plus de précision.\r\nPeut tenir une conversation simple avec un natif sur des sujets quotidiens sans trop d’hésitation.\r\nPeut poser des questions plus complexes et exprimer des réactions (ex. \"Pourquoi pensez-vous cela ?\")." ],
+      "domaine" : "Interaction"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ {
+      "nom" : "Sartini",
+      "prenom" : "Massimo Sauro"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:30 (durée 2h), Jeudi à 08:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67415,
+   "intitule" : "Cours de langues Luxembourgeois A2.2",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4141",
+         "localite" : "Esch sur Alzette",
+         "nom" : "CIGL - Esch sur Alzette",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "86, Rue Victor Hugo"
+      },
+      "code" : "CIGL-Esch",
+      "fax" : "+352 45 44 24 500",
+      "mail" : "sarra.koubaa@ciglesch.lu",
+      "nom" : "CIGL - Esch sur Alzette",
+      "nomContact" : "Lippis",
+      "onlineReg" : false,
+      "prenomContact" : "Luciano",
+      "statut" : "ASBL",
+      "telephone" : "+352 54 42 45 208"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4276",
@@ -32845,7 +33204,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -32929,7 +33288,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 19,
+   "nbInscrits" : 18,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -33600,7 +33959,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 16,
+   "nbInscrits" : 17,
    "nbPlaces" : 25,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -35648,7 +36007,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 18,
+   "nbInscrits" : 21,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -51372,7 +51731,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "HART",
    "matiereNom" : "Histoire de l'art",
-   "nbInscrits" : 0,
+   "nbInscrits" : 18,
    "nbPlaces" : 130,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
@@ -51469,7 +51828,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "HART",
    "matiereNom" : "Histoire de l'art",
-   "nbInscrits" : 0,
+   "nbInscrits" : 18,
    "nbPlaces" : 130,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : false,
