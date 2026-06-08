@@ -1468,7 +1468,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 5,
+   "nbInscrits" : 7,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -7138,7 +7138,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11656,12 +11656,12 @@
    "renseignements" : "The trainer also speaks German, French and Spanish."
 }, {
    "adresseCours" : {
-      "codePostal" : "1338",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Bonnevoie",
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "119, rue du Cimetière"
+      "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
@@ -16079,67 +16079,6 @@
    "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DESS-53",
-   "coursId" : "AR-DESS-53",
-   "coursType" : "CLASSIQUE",
-   "cout" : 40.5,
-   "dateDebut" : "17/08/2026",
-   "dateFin" : "31/08/2026",
-   "description" : "Découvrez l’art du portrait réaliste en noir et blanc et apprenez à donner vie à vos dessins. Grâce à une approche progressive et accessible, vous explorerez les techniques essentielles d’observation, d’ombres et de contrastes pour réaliser un portrait A3 expressif et personnel. Un atelier créatif pour développer votre regard et votre sens artistique, quel que soit votre niveau.",
-   "duree" : "9 leçons",
-   "enseignants" : [ {
-      "nom" : "Yagbasan",
-      "prenom" : "Rengin"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 14:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "14:30",
-      "jour" : "Lundi"
-   } ],
-   "id" : 67336,
-   "intitule" : "Portrait réaliste noir & blanc",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DESS",
-   "matiereNom" : "Dessin",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Matériel à apporter : Une feuille A3 (200 g), des crayons et une gomme."
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -16873,6 +16812,60 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-53",
+   "coursId" : "AR-DESS-53",
+   "coursType" : "CLASSIQUE",
+   "cout" : 40.5,
+   "dateDebut" : "18/08/2026",
+   "dateFin" : "01/09/2026",
+   "description" : "Découvrez l’art du portrait réaliste en noir et blanc et apprenez à donner vie à vos dessins. Grâce à une approche progressive et accessible, vous explorerez les techniques essentielles d’observation, d’ombres et de contrastes pour réaliser un portrait A3 expressif et personnel. Un atelier créatif pour développer votre regard et votre sens artistique, quel que soit votre niveau.",
+   "duree" : "9 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67336,
+   "intitule" : "Portrait réaliste noir & blanc",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMzY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Matériel à apporter : Une feuille A3 (200 g), des crayons et une gomme."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -18047,66 +18040,6 @@
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-AAS-4",
-   "coursId" : "AR-AAS-4",
-   "coursType" : "CLASSIQUE",
-   "cout" : 18.0,
-   "dateDebut" : "25/08/2026",
-   "dateFin" : "25/08/2026",
-   "description" : "Lors de ce workshop d’initiation au collage, les participants seront invités à créer un livre-objet de type leporello autour du thème du bestiaire. À partir d’une sélection d’images mêlant éléments animaliers, botaniques et architecturaux, chacun pourra imaginer et composer des créatures inédites. Cet atelier ludique et créatif est idéal pour stimuler l’imaginaire et explorer de nouvelles formes narratives visuelles, sans aucun prérequis nécessaire.",
-   "duree" : "4 leçons",
-   "enseignants" : [ {
-      "nom" : "Valet",
-      "prenom" : "Léa"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 25-08-2026 à 14:30 (durée 3h20)",
-   "horaires" : [ {
-      "duree" : "3h20",
-      "heure" : "14:30",
-      "jour" : "Mardi"
-   } ],
-   "id" : 67231,
-   "intitule" : "Cut and collage - Bestiaire de poche",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "AAS",
-   "matiereNom" : "Arts et artisanat",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyMzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
    "coursCode" : "AR-LGR-9",
    "coursId" : "AR-LGR-9",
    "coursType" : "CLASSIQUE",
@@ -18155,6 +18088,66 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge du matériel. Un remboursement de 6 euros est à effectuer en espèces le jour même."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-AAS-4",
+   "coursId" : "AR-AAS-4",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "26/08/2026",
+   "dateFin" : "26/08/2026",
+   "description" : "Lors de ce workshop d’initiation au collage, les participants seront invités à créer un livre-objet de type leporello autour du thème du bestiaire. À partir d’une sélection d’images mêlant éléments animaliers, botaniques et architecturaux, chacun pourra imaginer et composer des créatures inédites. Cet atelier ludique et créatif est idéal pour stimuler l’imaginaire et explorer de nouvelles formes narratives visuelles, sans aucun prérequis nécessaire.",
+   "duree" : "4 leçons",
+   "enseignants" : [ {
+      "nom" : "Valet",
+      "prenom" : "Léa"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 26-08-2026 à 14:30 (durée 3h20)",
+   "horaires" : [ {
+      "duree" : "3h20",
+      "heure" : "14:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67231,
+   "intitule" : "Cut and collage - Bestiaire de poche",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "AAS",
+   "matiereNom" : "Arts et artisanat",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcyMzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -22289,7 +22282,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "JA",
    "matiereNom" : "Japonais",
-   "nbInscrits" : 11,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -23820,7 +23813,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PT",
    "matiereNom" : "Portugais",
-   "nbInscrits" : 4,
+   "nbInscrits" : 6,
    "nbPlaces" : 24,
    "niveau" : "A2 du CECRL",
    "onlineRegistration" : true,
@@ -24559,7 +24552,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "JA",
    "matiereNom" : "Japonais",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -33204,7 +33197,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -33707,7 +33700,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 13,
+   "nbInscrits" : 14,
    "nbPlaces" : 25,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : true,
