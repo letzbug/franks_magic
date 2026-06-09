@@ -18,375 +18,6 @@
    "categorieCode" : "IN",
    "categorieCodeUnipop" : "TIC",
    "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-MUME-50",
-   "coursId" : "IN-MUME-50",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "10/06/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "26.05.2026 - 05.06.2026\r\n09H00 - 17H00",
-   "description" : "L'appareil photo numérique.\r\nTéléchargement des photos sur l'ordinateur.\r\nRetravailler les photos avec le programme GIMP2 (Open Source).\r\nImprimer les photos en différents formats.\r\nCataloguer les photos.\r\nGraver les photos sur CD avec CDBurnerXP (Open Source).",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 09:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61829,
-   "intitule" : "Photographie digitale",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "MUME",
-   "matiereNom" : "Multimédia",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Lopes Philippe Tel: 26 70 17 12 e-mail: istuffsandweiler@pt.lu"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "CIN",
-   "categorieCodeUnipop" : "CIN",
-   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
-   "coursCode" : "CIN-LB-27",
-   "coursId" : "CIN-LB-27",
-   "coursType" : "CLASSIQUE",
-   "cout" : 730.0,
-   "dateDebut" : "10/06/2026",
-   "dateFin" : "06/07/2026",
-   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
-   "duree" : "26h",
-   "enseignants" : [ {
-      "nom" : "List",
-      "prenom" : "Carole"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi 15-06-2026 à 18:15 (durée 2h), 18:15 (durée 2h), 18:15 (durée 2h) et 18:15 (durée 2h), Mercredi 10-06-2026 à 18:15 (durée 2h), 18:15 (durée 2h) et 18:15 (durée 2h), Jeudi 11-06-2026 à 18:15 (durée 2h), 18:15 (durée 2h) et 18:15 (durée 2h), Samedi 13-06-2026 à 10:00 (durée 2h), 10:00 (durée 2h) et 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:15",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Samedi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Samedi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 66158,
-   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 8,
-   "nbPlaces" : 9,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5951",
-         "localite" : "Itzig",
-         "nom" : "Itzig",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, rue des arbustes"
-      },
-      "code" : "LLG",
-      "mail" : "carole@lucilingua.lu",
-      "nom" : "Lucilingua S.à r.l.-S.",
-      "nomContact" : "List",
-      "onlineReg" : true,
-      "prenomContact" : "Carole",
-      "statut" : "PREST_EXT",
-      "telephone" : "00352 661 350 521",
-      "websiteUrl" : "https://lucilingua.lu/en/index.html"
-   },
-   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
-}, {
-   "adresseCours" : {
-      "codePostal" : "6960",
-      "localite" : "Senningen",
-      "nom" : "Internetstuff Niederanven",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "128, rue de Trèves"
-   },
-   "adresseInscription" : {
-      "codePostal" : "6960",
-      "localite" : "Senningen",
-      "nom" : "Internetstuff Niederanven",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "128, rue de Trèves"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-87",
-   "coursId" : "IN-TAB-87",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "10/06/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "26.05.2026 - 05.06.2026\r\n09h00 - 16h00",
-   "description" : "Calculs avec des formules: si, recherche verticale.\r\nCalculs avec des cases bloquées.\r\nCalculs avec des formules combinées.\r\nFormatage conditionnel.\r\nFiltres automatiques.\r\nCréation de graphiques.",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 09:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61571,
-   "intitule" : "Microsoft Excel",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 0,
-   "nbPlaces" : 8,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Ehmann Fernand Tel: 621 223 522 e-mail: niederanven@gmail.com"
-}, {
-   "adresseCours" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "adresseInscription" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TRT-114",
-   "coursId" : "IN-TRT-114",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "10/06/2026",
-   "dateFin" : "16/07/2026",
-   "dateInscription" : "26.05.2026 - 05.06.2026\r\n09h00 - 17h00",
-   "description" : "Présentation de l'interface, barres d'outils.\r\nÉtudier les fonctions principales: saisie de données, enregistrer, copier, coller, effacer, imprimer.\r\nLa mise en forme des caractères.\r\nLa mise en forme des paragraphes.\r\nLa mise en page.",
-   "duree" : "12h",
-   "enseignants" : [ {
-      "nom" : "Lopes",
-      "prenom" : "Philippe"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 09:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61833,
-   "intitule" : "Microsoft Word",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TRT",
-   "matiereNom" : "Traitement de texte",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Lopes PhilippeTel: 26 70 17 12e-mail: istuffsandweiler@pt.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "adresseInscription" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-107",
-   "coursId" : "IN-TAB-107",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "10/06/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "26.05.2026 - 05.06.2026\r\n09H00 - 17H00",
-   "description" : "Présentation de l'interface, barres d'outils, barres des menus.\r\nÉtudier les fonctions principales.\r\nCréation de tableaux.\r\nFormatage des cases.\r\nMise en page.\r\nCalculs simples.\r\nCalculs avec des formules: somme, minimum.",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 14:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61831,
-   "intitule" : "Microsoft Excel",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Débutant",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Lopes Philippe Tel: 26 70 17 12 e-mail: istuffsandweiler@pt.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "adresseInscription" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
    "coursCode" : "IN-TAB-108",
    "coursId" : "IN-TAB-108",
    "coursType" : "CLASSIQUE",
@@ -36220,80 +35851,6 @@
    }
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "CIN",
-   "categorieCodeUnipop" : "CIN",
-   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
-   "coursCode" : "CIN-LB-32",
-   "coursId" : "CIN-LB-32",
-   "coursType" : "CLASSIQUE",
-   "cout" : 730.0,
-   "dateDebut" : "18/05/2026",
-   "dateFin" : "10/06/2026",
-   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
-   "duree" : "25h30",
-   "enseignants" : [ {
-      "nom" : "List",
-      "prenom" : "Carole"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 08:30 (durée 1h30), Mardi à 08:30 (durée 1h30), Mercredi à 08:30 (durée 1h30), Jeudi à 08:30 (durée 1h30), Vendredi à 08:30 (durée 1h30)",
-   "horaires" : [ {
-      "duree" : "1h30",
-      "heure" : "08:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h30",
-      "heure" : "08:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h30",
-      "heure" : "08:30",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h30",
-      "heure" : "08:30",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h30",
-      "heure" : "08:30",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66545,
-   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
-   "nbInscrits" : 9,
-   "nbPlaces" : 9,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY1NDU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5951",
-         "localite" : "Itzig",
-         "nom" : "Itzig",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, rue des arbustes"
-      },
-      "code" : "LLG",
-      "mail" : "carole@lucilingua.lu",
-      "nom" : "Lucilingua S.à r.l.-S.",
-      "nomContact" : "List",
-      "onlineReg" : true,
-      "prenomContact" : "Carole",
-      "statut" : "PREST_EXT",
-      "telephone" : "00352 661 350 521",
-      "websiteUrl" : "https://lucilingua.lu/en/index.html"
-   },
-   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
-}, {
-   "adresseCours" : {
       "codePostal" : "3524",
       "localite" : "Dudelange",
       "nom" : "Ecole Brill",
@@ -38221,102 +37778,89 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
+      "codePostal" : "3524",
+      "localite" : "Dudelange",
+      "nom" : "Ecole Brill",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
+      "rueNumero" : "100, rue Norbert Metz"
    },
    "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "codePostal" : "3401",
+      "localite" : "Dudelange",
+      "nom" : "Hôtel de Ville",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
+      "rueNumero" : "Place de Hôtel de Ville, BP 73 "
    },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1303",
-   "coursId" : "LA-FR-1303",
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-84",
+   "coursId" : "IN-BUR-84",
    "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
+   "cout" : 120.0,
    "dateDebut" : "20/04/2026",
-   "dateFin" : "10/06/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Aptitude à accéder à diverses formes d'écrit (personnel, administratif) et à produire dans des structures justes des écrits dans une situation de communication écrite quotidienne, en révisant les règles de grammaire basiques",
+   "dateFin" : "08/06/2026",
+   "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21-538\r\nCoursinformatiques@dudelange.lu",
+   "description" : "Compétences en traitement de texte, tableur et présentation et gestion Outlook.",
    "domainesCompetences" : [ {
-      "competences" : [ "suivre une conversation quotidienne sur des sujets familiers rencontrés régulièrement au travail, à l'école, pendant les loisirs si l'interlocuteur s'exprime clairement, bien qu'il soit parfois nécessaire de faire répéter certains mots ou expression.", " suivre les points principaux d'une longue discussion se déroulant en sa présence, à condition que la langue soit standard et clairement articulée", "comprendre des informations techniques simples, tels que des modes d'emploi, des recettes de cuisine", "comprendre l'information contenue dans la plupart des documents enregistrés ou radiodiffusés (chansons)." ],
-      "domaine" : "Compréhension orale"
+      "competences" : [ "Créer des tables de matière, insertion des formes, des icônes et des graphiques. ", "Créer un coupon de réponse en utilisant les taquets de tabulation. ", "Créer un publipostage pour lettres en utilisant une base de données. ", "Créer un questionnaire en ligne en utilisant les commandes de l’onglet développeur. ", "Effectuer des recherches et des remplacements avancés dans un document. ", "Créer des commandes macro. ", "Créer et intégrer des formules conditionnelles SI imbriquées avec d’autres fonctions SI. ", "Créer et intégrer des formules conditionnelles MOYENNE.SI et MOYENNE.SI.ENS. Utiliser de la validation des données par une liste.", "Utiliser la fonction de recherche verticale RECHERCHEV exacte selon différents critères, dans les bases de données de type listes. ", "Utiliser la fonction SI imbriquée avec les fonctions OU et ET. Présenter les principales fonctions de dates et heures. \r\n", "Présenter les principales fonctions de texte et des fonctions de texte complexes imbriquées. " ],
+      "domaine" : "TABLEUR"
    }, {
-      "competences" : [ "parcourir un texte assez long pour y localiser une information cherchée et réunir des informations provenant de différentes parties du texte afin d'accomplir une tâche spécifique.", "reconnaître les points significatifs d'un article de journal direct et non complexe sur un sujet familier\r\n", "identifier des mots inconnus à l'aide du contexte sur des sujets relatifs à son domaine et à ses intérêts. \r\n" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "communiquer avec une certaine assurance sur des sujets familiers habituels ou non en relation avec ses intérêts et son domaine professionnel. ", "exprimer sa pensée sur un sujet abstrait ou culturel comme un film, des livres, de la musique, etc.", "aborder sans préparation une conversation sur un sujet familier\r\n", "relater en détail ses expériences en décrivant ses sentiments et ses réactions.\r\n", "raconter l'intrigue d'un livre ou d'un film et décrire ses propres réactions, ", "décrire un rêve, un espoir ,une ambition, des peurs \r\n", "décrire un événement, réel ou imaginaire. \r\n", "raconter une histoire.\r\n", "développer une argumentation suffisamment bien pour être compris sans difficulté la plupart du temps." ],
-      "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "réagir à des sentiments tels que la surprise, la joie, la tristesse, la curiosité et l'indifférence et les exprimer.", "soutenir une conversation ou une discussion\r\n", " échanger de l'information sur des sujets familiers, d'intérêt personnel ou pertinents pour la vie quotidienne (par exemple, la famille, les loisirs, le travail, les voyages et les faits d'actualité).", "commenter brièvement le point de vue d'autrui.\r\n", "comparer et opposer des alternatives \r\n", "émettre ou solliciter un point de vue personnel ou une opinion sur des points d'intérêt général.\r\n", "exprimer poliment ses convictions, ses opinions, son accord et son désaccord.\r\n", "commenter brièvement le point de vue d'autrui\r\n", "commencer, poursuivre et terminer une simple conversation en tête-à-tête sur des sujets familiers ou d'intérêt personnel" ],
-      "domaine" : "Interaction orale"
-   }, {
-      "competences" : [ "écrire des descriptions détaillées simples et directes sur une gamme étendue de sujets familiers (centre d'intérêt, famille, aspects culturels) ", "rédiger un programme ( de sorties, de lieux à visiter, ..)\r\n", "rédiger un questionnaire \r\n", "comparer des gens, des pays, des situations..\r\n", "faire le compte rendu d'expériences en décrivant ses souvenirs, ses sentiments, ses réactions, \r\n", "écrire la description d'un évènement, d'un voyage \r\n", "raconter une histoire \r\n", "paraphraser ( écrire à la manière de )\r\n" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "conjuguer les principaux verbes au temps de l'indicatif \r\n", "utiliser le comparatif et le superlatif ", "utiliser les pronoms compléments simples et doubles \r\n", "utiliser l'impératif, les pronoms compléments à l'impératif ", "utiliser les temps du passé ", "utiliser le conditionnel présent et passé \r\n", "utiliser le passif", " utiliser le subjonctif ", "utiliser le gérondif et le participe présent\r\n" ],
-      "domaine" : "Grammaire"
+      "competences" : [ "Gérer les transitions entre les diapositives, animer chaque forme séparément, insérer du texte virtuel.", "Créer des animations pour mouvement d’image et animations pour textes. ", "Créer des animations avec déclencheur, comment minuter et synchroniser les animations et comment créer des animations complexes. ", "Créer des animations des pulsations, comment animer du texte avec des effets spéciaux, comment naviguer parmi les diapositives. " ],
+      "domaine" : "PRESENTATION"
    } ],
-   "duree" : "30h",
+   "duree" : "40h",
    "enseignants" : [ {
-      "nom" : "Jacquet",
-      "prenom" : "Annie"
+      "nom" : "Ioanid",
+      "prenom" : "Paul George"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
+   "horairePrevu" : "Lundi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
    "horaires" : [ {
       "duree" : "2h",
-      "heure" : "12:00",
+      "heure" : "14:00",
       "jour" : "Lundi"
    }, {
       "duree" : "2h",
-      "heure" : "12:00",
+      "heure" : "14:00",
       "jour" : "Mercredi"
    }, {
       "duree" : "2h",
-      "heure" : "12:00",
+      "heure" : "14:00",
       "jour" : "Vendredi"
    } ],
-   "id" : 63742,
-   "intitule" : "Cours de renforcement grammatical",
+   "id" : 65350,
+   "intitule" : "Word, Excel, Powerpoint",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 9,
-   "nbPlaces" : 18,
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 8,
+   "nbPlaces" : 12,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "codePostal" : "3401",
+         "localite" : "Dudelange",
+         "nom" : "Administration Communale de Dudelange",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
+         "rueNumero" : "B.P. 73"
       },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
+      "code" : "A.C. DUDE ",
+      "mail" : "coursdelangues@dudelange.lu",
+      "nom" : "Ville de Dudelange",
+      "nomContact" : "Colin",
       "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
+      "prenomContact" : "Nancy",
+      "statut" : "Administration Communale",
+      "telephone" : "+352 516 121-538"
    },
-   "prerequis" : "niveau A2 oral acquis",
-   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
+   "prerequis" : "Accessible aux personnes ayant une base en informatique\r\nInitiation PC& Internet acquis. ",
+   "renseignements" : "Langues possibles: français, anglais\r\nApplications bureautiques 2/2\r\nAccessible aux personnes à mobilité réduite\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "1750",
@@ -39180,91 +38724,6 @@
       "telephone" : "621 464 422",
       "websiteUrl" : "https://efid.lu/"
    }
-}, {
-   "adresseCours" : {
-      "codePostal" : "3524",
-      "localite" : "Dudelange",
-      "nom" : "Ecole Brill",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "100, rue Norbert Metz"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel de Ville",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73 "
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-84",
-   "coursId" : "IN-BUR-84",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "20/04/2026",
-   "dateFin" : "08/06/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange\r\n51 61 21-538\r\nCoursinformatiques@dudelange.lu",
-   "description" : "Compétences en traitement de texte, tableur et présentation et gestion Outlook.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Créer des tables de matière, insertion des formes, des icônes et des graphiques. ", "Créer un coupon de réponse en utilisant les taquets de tabulation. ", "Créer un publipostage pour lettres en utilisant une base de données. ", "Créer un questionnaire en ligne en utilisant les commandes de l’onglet développeur. ", "Effectuer des recherches et des remplacements avancés dans un document. ", "Créer des commandes macro. ", "Créer et intégrer des formules conditionnelles SI imbriquées avec d’autres fonctions SI. ", "Créer et intégrer des formules conditionnelles MOYENNE.SI et MOYENNE.SI.ENS. Utiliser de la validation des données par une liste.", "Utiliser la fonction de recherche verticale RECHERCHEV exacte selon différents critères, dans les bases de données de type listes. ", "Utiliser la fonction SI imbriquée avec les fonctions OU et ET. Présenter les principales fonctions de dates et heures. \r\n", "Présenter les principales fonctions de texte et des fonctions de texte complexes imbriquées. " ],
-      "domaine" : "TABLEUR"
-   }, {
-      "competences" : [ "Gérer les transitions entre les diapositives, animer chaque forme séparément, insérer du texte virtuel.", "Créer des animations pour mouvement d’image et animations pour textes. ", "Créer des animations avec déclencheur, comment minuter et synchroniser les animations et comment créer des animations complexes. ", "Créer des animations des pulsations, comment animer du texte avec des effets spéciaux, comment naviguer parmi les diapositives. " ],
-      "domaine" : "PRESENTATION"
-   } ],
-   "duree" : "40h",
-   "enseignants" : [ {
-      "nom" : "Ioanid",
-      "prenom" : "Paul George"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 65350,
-   "intitule" : "Word, Excel, Powerpoint",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 8,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Accessible aux personnes ayant une base en informatique\r\nInitiation PC& Internet acquis. ",
-   "renseignements" : "Langues possibles: français, anglais\r\nApplications bureautiques 2/2\r\nAccessible aux personnes à mobilité réduite\r\n"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -41049,97 +40508,6 @@
    "prerequis" : "B1 PART 1/3 toutes compétences acquises"
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1438",
-   "coursId" : "LA-LB-1438",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "10/06/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre des phrases isolées et des expressions fréquemment utilisées. \r\nPeut communiquer lors de tâches simples et habituelles sur des sujets familiers. \r\nPeut décrire simplement sa formation, son environnement et évoquer des sujets qui correspondent à des besoins immédiats.",
-   "domainesCompetences" : [ {
-      "competences" : [ "eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, )\r\n", "eng ganz einfach Weebeschreiwung an enger Stad verstoen (riichtaus, no lénks, no riets, )\r\n", " Informatiounen iwwer Wunnenge verstoen (Gréisst, Präis, Zëmmeren, ) (kafen, verkafen, lounen, verlounen)\r\n", "e Gespréich iwwer alldeeglech Aktivitéite verstoen (am Stot, dobaussen, am Restaurant, )\r\n\r\n\r\n\r\n", " eng Persounebeschreiwung verstoen (um Radio, op enger Party, ) (Ausgesinn, Kleeder, Adjektiver)\r\n" ],
-      "domaine" : "Héierverstoen "
-   }, {
-      "competences" : [ "op engem Panneau eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, )\r\n \r\n", "  an engem Gebai eng wichteg Orientéierungshëllef verstoen (éischte Stack, am Keller, )", "   eng Wunnengsannonce verstoen (Lag, Gréisst, Zëmmeren, )", "  eng Persounebeschreiwung verstoen, d'Ausgesinn an de Charakter  (Annonce, ) (Kierper, Kleeder, Adjektiver)\r\n" ],
-      "domaine" : "Liesverstoen "
-   }, {
-      "competences" : [ " Informatiounen zu Horairë froen oder ginn\r\n\r\n\r\n", " eng ganz einfach Weebeschreiwung gi wann een gefrot gett", " no Informatiounen iwwert e Restaurant froen an eppes bestellen (Ëffnungszäiten, Menü, )", "  eng Wunneng beschreiwen a kommentéieren ", "  iwwer säin Alldag schwätzen (Stot, Gewunnechten, ) (ëmmer, ni, dacks, heiansdo, all Dag, .)", " eng Persoun beschreiwen (Ausgesinn a Charakter)\r\n    ", " soe wat engem gefält a wat net", "Saache matenee vergläichen (méi / manner- wéi ; gär, léiwer am léifsten)\r\n" ],
-      "domaine" : "Mëndlechen Ausdrock "
-   }, {
-      "competences" : [ "eng ganz einfach Weebeschreiwung maachen (SMS oder E-Mail, )\r\n\r\n\r\n", " eng einfach Wunnengsannonce schreiwen", " an enger SMS oder enger E-Mail e Rendezvous ausmaachen", "   eng ganz einfach Persounebeschreiwung opsetzen" ],
-      "domaine" : "Schrëftlechen Ausdrock "
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Hoffmann",
-      "prenom" : "Marie Marguerite"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "17:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "17:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65230,
-   "intitule" : "Luxembourgeois, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 16,
-   "nbPlaces" : 22,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "Niveau A1.2 acquis"
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -41452,105 +40820,6 @@
    },
    "prerequis" : "Niveau A1.2 toutes compétences validées",
    "renseignements" : "Livre A2 \"Schwätzt Dir Lëtzebuergesch?\" de l'INL\r\n\r\n"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie-Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1466",
-   "coursId" : "LA-FR-1466",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "13/04/2026",
-   "dateFin" : "10/06/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
-   "domainesCompetences" : [ {
-      "competences" : [ " comprendre  des informations relatives à la famille,  aux achats,  à l'environnement proche, au travail  \r\n", "comprendre  et suivre des directives et instructions simples : ex l'itinéraire (aller d'un point à l'autre à pied ou \r\n   par les transports en commun)\r\n", "généralement comprendre le sujet d'une discussion claire, simple et lente  \r\n", "comprendre des énoncés très simples qui visent à satisfaire des besoins immédiats de la vie de tous  les jours \r\n\r\n" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "comprendre les signes,  panneaux et affiches courants dans les lieux publics (rues, restaurants, gares, sur le lieu de travail )\r\n ", " reconnaître différents types de  documents  ", "comprendre l'information  de brochures publicitaires et je peux trouver  des   informations précises dans des\r\n  documents quotidiens comme publicités, brochures,  menus  \r\n", "comprendre  une lettre personnelle simple et courte au présent \r\n" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "se présenter, présenter quelqu'un  \r\n", "décrire ses goûts   \r\n", "décrire mon environnement, des lieux, des conditions de vie ", "décrire des activités quotidiennes\r\n", "décrire ou identifier des gens  \r\n" ],
-      "domaine" : "expression orale en continu"
-   }, {
-      "competences" : [ "utiliser des formules de politesse simples \r\n\r\n", "saluer, présenter quelqu'un, remercier \r\n", "poser des questions, répondre à des questions \r\n\r\n", "demander et échanger des renseignements personnels et sur autrui \r\n", "demander des directives et en donner / demander et expliquer son chemin à l'aide   d'une carte \r\n" ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "écrire  des messages  simples et courts (entrer en contact, exprimer  des remerciements ou excuses)                            \r\n\r\n\r\n\t\t", "écrire une suite de phrases simples : sur sa famille, sur son environnement,  sur sa formation, sur  son travail \r\n\r\n", "écrire une lettre personnelle très simple \r\n\t\t" ],
-      "domaine" : "expression écrite"
-   } ],
-   "duree" : "60 leçons",
-   "enseignants" : [ {
-      "nom" : "Pulti",
-      "prenom" : "Orjona"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 18:00 (durée 1h40), Mardi à 18:00 (durée 1h40), Mercredi à 18:00 (durée 1h40), Jeudi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65216,
-   "intitule" : "Français, Culture et Citoyenneté intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 21,
-   "nbPlaces" : 24,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau A1.2 requis",
-   "renseignements" : "accessible aux personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "codePostal" : "2132",
@@ -44511,67 +43780,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch/Alzette",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
-   "coursCode" : "AR-COUT-92",
-   "coursId" : "AR-COUT-92",
-   "coursType" : "CLASSIQUE",
-   "cout" : 162.0,
-   "dateDebut" : "04/03/2026",
-   "dateFin" : "10/06/2026",
-   "description" : ">  Vertiefung der Kenntnisse beim Nähen\r\n>  Anprobe und Anpassungen\r\n>  Zuschneiden\r\n>  Vertiefung der Verarbeitungstechniken für ein Projekt\r\n>  Eigene Projekte",
-   "duree" : "36 leçons",
-   "enseignants" : [ {
-      "nom" : "Engel",
-      "prenom" : "Yvette"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 18:00 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 65051,
-   "intitule" : "Couture - Intermédiaire",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 12,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwNTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "4354",
@@ -49258,176 +48466,6 @@
    "renseignements" : "The classes are taught by a teacher of Croatian language and literature with a master's degree from the University of Zagreb.\r\nFor more information write to: info@hrvatska.lu"
 }, {
    "adresseCours" : {
-      "codePostal" : "3542",
-      "localite" : "Dudelange",
-      "nom" : "Lycée Nic Biever",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "28, rue du Parc"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel De Ville De  Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1116",
-   "coursId" : "LA-FR-1116",
-   "coursType" : "CLASSIQUE",
-   "cout" : 100.0,
-   "dateDebut" : "02/02/2026",
-   "dateFin" : "10/06/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange\r\nCoursdelangues@dudelange.lu \r\ntél: 51 61 21 538",
-   "description" : "Comprendre et utiliser des phrases simples face à des besoins concrets ou des sujets familiers. \r\nSe présenter, échanger des informations personnelles simples. \r\nCommuniquer avec un interlocuteur qui s'exprime clairement et lentement.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre une présentation, une description énoncées simplement. ", "Comprendre les questions courantes et une demande polie. ", "Comprendre tout énoncé chiffré. ", "Comprendre une comparaison. ", "Comprendre une explication/des instructions et consignes simples et courtes. ", "Comprendre globalement un bref récit comportant des verbes simples et courants. ", "Comprendre l'expression facile d'un projet, d'une action à venir. ", "Comprendre une explication brève et simplement exprimée. ", "Comprendre l'expression de l'accord/du désaccord. " ],
-      "domaine" : "COMPREHENSION ORALE"
-   }, {
-      "competences" : [ "Présenter et décrire dans des termes simples et courants une personne, un objet, un fait. ", "Parler de ses goûts, de ses loisirs et activités quotidiennes. ", "Parler suffisamment bien dans les situations du quotidien, dans les lieux de vie et commerce. (Achat-téléphone-parler de sa santé-du temps....) " ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Comprendre aisément une fiche d'inscription aisément, un cv. ", "Distinguer les types de documents écrits. ", "Comprendre globalement de courts textes et/ou lettres écrits en français facile utilisant de termes courants (offre d'emploi, annonce de vente-location.../brochures, pub, menus, horaires, articles de faits divers, lettres personnelles... )" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Ecrire de courts messages d'excuses, d'explication, ", "Ecrire de courts mots d'instructions simples sur les thèmes de la vie quotidienne." ],
-      "domaine" : "EXPRESSION ECRITE"
-   }, {
-      "competences" : [ "Manifester la compréhension et l´incompréhension/l'accord-désaccord. ", "Répondre de diverses manières positivement et négativement. ", "Etre familier avec les gestuelles propres à la culture de la langue apprise. ", "Participer à des conversations sur l'environnement proche (logement/lieux de vie dans ma ville/la famille...) ", "Poser des questions: Demander la parole, demander/comprendre/donner quelque chose, des informations. ", "Echanger dans des termes simples et usuels dans la vie de tous les jours avec des formules simples (de politesse, de présentation, de description et d´explication, d'expression de besoins concrets). \r\n" ],
-      "domaine" : "INTER-AGIR "
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Vallet",
-      "prenom" : "Danielle"
-   }, {
-      "nom" : "Beddar",
-      "prenom" : "Lila"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 19:15 (durée 2h), Mercredi à 19:15 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "19:15",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:15",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:15",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "19:15",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 63065,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 19,
-   "nbPlaces" : 22,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "A1.2 acquis"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-CRO-10",
-   "coursId" : "LA-CRO-10",
-   "coursType" : "CLASSIQUE",
-   "cout" : 135.0,
-   "dateDebut" : "02/02/2026",
-   "dateFin" : "29/06/2026",
-   "dateInscription" : "Always open.",
-   "description" : "Understand short texts, use simple grammatical formulations, understand short dialogues about topics from everyday life, introduce yourself and talk about yourself, write simple sentences...",
-   "domainesCompetences" : [ {
-      "competences" : [ "greeting and introduction", "stating basic information about oneself", "conducting simple conversations about everyday topics (family, jobs, nationalities)", "pronunciation practice" ],
-      "domaine" : "Oral expression"
-   }, {
-      "competences" : [ "describe simple daily activities", "describe things and human characteristics", "write short text in the present tense" ],
-      "domaine" : "Written expression"
-   }, {
-      "competences" : [ "understanding simple texts", "searching for information from the text" ],
-      "domaine" : "Reading comprehension"
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Nekic",
-      "prenom" : "Marina"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:00 (durée 1h30)",
-   "horaires" : [ {
-      "duree" : "1h30",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   } ],
-   "id" : 65276,
-   "intitule" : "Croate",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "CRO",
-   "matiereNom" : "Croate",
-   "nbInscrits" : 0,
-   "nbPlaces" : 12,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyNzY%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8209",
-         "localite" : "Mamer",
-         "nom" : "Société croate Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "8, rue Josy Barthel"
-      },
-      "code" : "HDL",
-      "mail" : "andjelko.markulin@gmail.com",
-      "nom" : "Société croate Luxembourg",
-      "nomContact" : "Markulin",
-      "onlineReg" : true,
-      "prenomContact" : "Andjelko",
-      "statut" : "ASBL",
-      "telephone" : "661 334 119",
-      "websiteUrl" : "https://hrvatska.lu/"
-   },
-   "prerequis" : "No previous knowledge required.",
-   "renseignements" : "The classes are taught by a teacher of Croatian language and literature with a master's degree from the University of Zagreb.\r\nFor more enquiries write to: info@hrvatska.lu"
-}, {
-   "adresseCours" : {
       "codePostal" : "3524",
       "localite" : "Dudelange",
       "nom" : "Ecole Brill",
@@ -49517,6 +48555,76 @@
    },
    "prerequis" : "Accessible aux personnes ayant une base en informatique\r\nInitiation PC& Internet acquis. ",
    "renseignements" : "Langue possible: français, anglais\r\nAccessible aux personnes à mobilité réduite\r\n"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-CRO-10",
+   "coursId" : "LA-CRO-10",
+   "coursType" : "CLASSIQUE",
+   "cout" : 135.0,
+   "dateDebut" : "02/02/2026",
+   "dateFin" : "29/06/2026",
+   "dateInscription" : "Always open.",
+   "description" : "Understand short texts, use simple grammatical formulations, understand short dialogues about topics from everyday life, introduce yourself and talk about yourself, write simple sentences...",
+   "domainesCompetences" : [ {
+      "competences" : [ "greeting and introduction", "stating basic information about oneself", "conducting simple conversations about everyday topics (family, jobs, nationalities)", "pronunciation practice" ],
+      "domaine" : "Oral expression"
+   }, {
+      "competences" : [ "describe simple daily activities", "describe things and human characteristics", "write short text in the present tense" ],
+      "domaine" : "Written expression"
+   }, {
+      "competences" : [ "understanding simple texts", "searching for information from the text" ],
+      "domaine" : "Reading comprehension"
+   } ],
+   "duree" : "30h",
+   "enseignants" : [ {
+      "nom" : "Nekic",
+      "prenom" : "Marina"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 18:00 (durée 1h30)",
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 65276,
+   "intitule" : "Croate",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "CRO",
+   "matiereNom" : "Croate",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUyNzY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8209",
+         "localite" : "Mamer",
+         "nom" : "Société croate Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "8, rue Josy Barthel"
+      },
+      "code" : "HDL",
+      "mail" : "andjelko.markulin@gmail.com",
+      "nom" : "Société croate Luxembourg",
+      "nomContact" : "Markulin",
+      "onlineReg" : true,
+      "prenomContact" : "Andjelko",
+      "statut" : "ASBL",
+      "telephone" : "661 334 119",
+      "websiteUrl" : "https://hrvatska.lu/"
+   },
+   "prerequis" : "No previous knowledge required.",
+   "renseignements" : "The classes are taught by a teacher of Croatian language and literature with a master's degree from the University of Zagreb.\r\nFor more enquiries write to: info@hrvatska.lu"
 }, {
    "adresseCours" : {
       "codePostal" : "3542",
