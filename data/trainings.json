@@ -1,264 +1,5 @@
 [ {
    "adresseCours" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "adresseInscription" : {
-      "codePostal" : "5252",
-      "localite" : "Sandweiler",
-      "nom" : "Internetstuff Sandweiler",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "43, rue Michel Rodange"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-108",
-   "coursId" : "IN-TAB-108",
-   "coursType" : "CLASSIQUE",
-   "cout" : 75.0,
-   "dateDebut" : "11/06/2026",
-   "dateFin" : "16/07/2026",
-   "dateInscription" : "26.05.2026 - 05.06.2026\r\n09H00 - 17H00",
-   "description" : "Calculs avec des formules: si, recherche verticale\r\nCalculs avec des cases bloquées\r\nCalculs avec des formules combinées\r\nFormatage conditionnel\r\nFiltres automatiques\r\nCréation de graphiques",
-   "duree" : "12h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 14:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 61832,
-   "intitule" : "Microsoft Excel",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 0,
-   "nbPlaces" : 6,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "5280",
-         "localite" : "Sandweiler",
-         "nom" : "CIGR - Syrdall",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "Z.I. Rolach-Scheidhof"
-      },
-      "code" : "CIGR-SYRD",
-      "fax" : "+352 26 70 17 12 Tél",
-      "mail" : "ehmann@cigr.lu",
-      "nom" : "CIGR - Syrdall",
-      "nomContact" : "Ehmann",
-      "onlineReg" : false,
-      "prenomContact" : "Fernand",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 223 522",
-      "websiteUrl" : "http://www.cigr.lu"
-   },
-   "renseignements" : "M. Lopes PhilippeTel: 26 70 17 12e-mail: istuffsandweiler@pt.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-NAT-6",
-   "coursId" : "SO-NAT-6",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "11/06/2026",
-   "dateFin" : "11/06/2026",
-   "description" : "Cet atelier vous offre des astuces concrètes pour créer des petits-déjeuners et collations sains, nourrissants et énergisants. Vous apprendrez à éviter les produits ultra-transformés, équilibrer vos apports et proposer des alternatives simples, savoureuses et adaptées à toute la famille.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Rosenfelder",
-      "prenom" : "Patricia Fernande Marie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 11-06-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66097,
-   "intitule" : "Petit-déjeuner / collation pour petits et grands",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "NAT",
-   "matiereNom" : "Naturopathie",
-   "nbInscrits" : 8,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYwOTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-FS-6",
-   "coursId" : "AR-FS-6",
-   "coursType" : "CLASSIQUE",
-   "cout" : 36.0,
-   "dateDebut" : "11/06/2026",
-   "dateFin" : "02/07/2026",
-   "description" : "Le Feng Shui est un art aux techniques ancestrales, le Feng Shui favorise l'harmonie entre l'environnement (maison, bureau etc) et les individus, permettant ainsi de créer des espaces propices à la sérénité, à la créativité et son bien-être.\r\nLes participants découvriront comment l'agencement de leur espace de vie ou de travail peut influencer leur énergie, leur humeur et leurs relations. À l'issue de ce programme, chacun repartira avec des conseils pratiques pour réajuster son environnement, optimiser son bien-être physique et mental, et instaurer un équilibre durable. Ce parcours s'inscrit dans une démarche holistique, visant à reconnecter le corps, l'esprit et l'espace de vie.",
-   "duree" : "8 leçons",
-   "enseignants" : [ {
-      "nom" : "Zarcone",
-      "prenom" : "Magalie",
-      "presentation" : "https://www.instagram.com/g_concept_sa/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 28-05-2026 à 17:10 (durée 1h40), 17:10 (durée 1h40), 17:10 (durée 1h40) et 17:10 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63985,
-   "intitule" : "Transformez votre Intérieur avec le Feng Shui - 2 Partie",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FS",
-   "matiereNom" : "Feng Shui",
-   "nbInscrits" : 4,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5ODU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "À apporter : carnet de notes, colle, ciseaux, stylo, feutres, et un plan de votre maison à l’échelle (si possible), pour les exercices pratiques pendant les séances"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-COA-13",
-   "coursId" : "SO-COA-13",
-   "coursType" : "CLASSIQUE",
-   "cout" : 13.5,
-   "dateDebut" : "11/06/2026",
-   "dateFin" : "11/06/2026",
-   "description" : "Cet atelier aide les parents à comprendre leur ado, gérer tensions et conflits, et retrouver sérénité et lien au quotidien. Vous découvrirez les grandes tendances du comportement adolescent et ce qui peut expliquer certaines réactions, pourquoi les humeurs changent, les oublis se multiplient et le plaisir immédiat prime parfois sur tout le reste. Grâce à des exemples concrets du quotidien, des exercices pratiques comme la reformulation ou la mise en perspective, des questions de réflexion et des échanges en groupe, vous apprendrez à ajuster votre rôle parental, instaurer de nouvelles règles adaptées à votre famille et désamorcer les conflits avant qu’ils ne s’enveniment. Vous repartirez avec des stratégies simples et applicables immédiatement pour renforcer votre relation, apaiser le quotidien et créer une dynamique familiale harmonieuse. Ce n’est ni vous, ni votre ado le problème, mais la compréhension et l’accompagnement de cette période clé de sa vie.",
-   "duree" : "3 leçons",
-   "enseignants" : [ {
-      "nom" : "Namegabe",
-      "prenom" : "Kellya Mfitu Maria-Elisabeth"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 11-06-2026 à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66210,
-   "intitule" : "Mon ado et moi: et si le problème n'était ni lui ni vous?  Mode d’emploi pour ados… enfin presque",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COA",
-   "matiereNom" : "Coaching",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Les participants sont priés d’apporter un stylo et un cahier pour prendre des notes. "
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -32108,6 +31849,80 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-FS-6",
+   "coursId" : "AR-FS-6",
+   "coursType" : "CLASSIQUE",
+   "cout" : 36.0,
+   "dateDebut" : "11/06/2026",
+   "dateFin" : "02/07/2026",
+   "description" : "Le Feng Shui est un art aux techniques ancestrales, le Feng Shui favorise l'harmonie entre l'environnement (maison, bureau etc) et les individus, permettant ainsi de créer des espaces propices à la sérénité, à la créativité et son bien-être.\r\nLes participants découvriront comment l'agencement de leur espace de vie ou de travail peut influencer leur énergie, leur humeur et leurs relations. À l'issue de ce programme, chacun repartira avec des conseils pratiques pour réajuster son environnement, optimiser son bien-être physique et mental, et instaurer un équilibre durable. Ce parcours s'inscrit dans une démarche holistique, visant à reconnecter le corps, l'esprit et l'espace de vie.",
+   "duree" : "8 leçons",
+   "enseignants" : [ {
+      "nom" : "Zarcone",
+      "prenom" : "Magalie",
+      "presentation" : "https://www.instagram.com/g_concept_sa/"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 28-05-2026 à 17:10 (durée 1h40), 17:10 (durée 1h40), 17:10 (durée 1h40) et 17:10 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63985,
+   "intitule" : "Transformez votre Intérieur avec le Feng Shui - 2 Partie",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FS",
+   "matiereNom" : "Feng Shui",
+   "nbInscrits" : 4,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjM5ODU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "À apporter : carnet de notes, colle, ciseaux, stylo, feutres, et un plan de votre maison à l’échelle (si possible), pour les exercices pratiques pendant les séances"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SCI",
    "categorieCodeUnipop" : "SCH",
    "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
@@ -43167,78 +42982,6 @@
    },
    "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.\r\nPour les élèves ayant suivi un premier semestre, l'apprentissage du crochet de lunéville est proposé. ",
    "renseignements" : "Matériel à apporter : coton à broder type échevette (DMC), fil à coudre, tissu coton opaque (type popeline), chutes de tissu. Fournitures disponibles en mercerie ou en ligne (Rascol, Amazon, Mondial Tissus)"
-}, {
-   "adresseCours" : {
-      "codePostal" : "2309",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Technique du Centre",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "106, avenue Pasteur"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2563",
-      "localite" : "Luxembourg",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://www.luxchine.org/"
-   },
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-MED-22",
-   "coursId" : "SO-MED-22",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "19/03/2026",
-   "dateFin" : "11/06/2026",
-   "dateInscription" : "jusqu'au 6 mars 2026",
-   "description" : "Répétition des sept points de la posture assise correcte, des huit formes de la méditation en mouvement et des méthodes essentielles de méditation dans le but d'harmoniser le corps, l'esprit et la respiration. Enseignement de la relaxation, de la méditation debout, de la méditation assise, de la méditation en mouvement et de la méditation en mangeant. Théorie de la méditation Chan et sa mise en pratique dans la vie quotidienne. Séances de continuation.",
-   "duree" : "16h",
-   "enseignants" : [ {
-      "nom" : "Lin",
-      "prenom" : "Li-Chuan"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Jeudi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63606,
-   "intitule" : "Méditation Chan",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "MED",
-   "matiereNom" : "Méditation",
-   "nbInscrits" : 7,
-   "nbPlaces" : 12,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2563",
-         "localite" : "Luxembourg",
-         "nom" : "Association Culturelle Chinoise Lux.",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, rue Jean Schaack"
-      },
-      "code" : "ACCL",
-      "fax" : "/",
-      "mail" : "luxchine@pt.lu",
-      "nom" : "Association Culturelle Chinoise Lux.",
-      "nomContact" : "Wagener",
-      "onlineReg" : false,
-      "prenomContact" : "Marie-Paule",
-      "statut" : "ASBL",
-      "telephone" : "+352 236 208 59",
-      "websiteUrl" : "https://www.luxchine.org/"
-   },
-   "prerequis" : "Avoir suivi le cours débutant avec ACCL.",
-   "renseignements" : "Accès pour personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
