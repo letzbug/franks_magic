@@ -14716,6 +14716,114 @@
    }
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-43",
+   "coursId" : "CIN-LB-43",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "11/08/2026",
+   "dateFin" : "07/09/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi 07-09-2026 à 18:15 (durée 2h), Mardi à 18:15 (durée 2h), Jeudi à 18:15 (durée 2h), Samedi à 10:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67490,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc0OTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DES-13",
+   "coursId" : "AR-DES-13",
+   "coursType" : "CLASSIQUE",
+   "cout" : 22.5,
+   "dateDebut" : "11/08/2026",
+   "dateFin" : "11/08/2026",
+   "description" : "Cet été, venez apprendre à décorer une pièce de votre intérieur. Vous apportez le plan (ou les mesures) de la pièce sur laquelle vous souhaitez travailler, et nous créons ensemble un univers harmonieux et coloré : un moodboard sur ordinateur (initiation à Canva), ainsi qu’une initiation à la modélisation 3D de votre espace.",
+   "duree" : "5 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi 11-08-2026 à 14:30 (durée 4h10)",
+   "horaires" : [ {
+      "duree" : "4h10",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   } ],
+   "id" : 67324,
+   "intitule" : "Workshop d'été : Apprendre à décorer une pièce de son intérieur",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DES",
+   "matiereNom" : "Design",
+   "nbInscrits" : 1,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMjQ%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -14775,63 +14883,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge du matériel. Un remboursement de 6 euros est à effectuer en espèces le jour même."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DES-13",
-   "coursId" : "AR-DES-13",
-   "coursType" : "CLASSIQUE",
-   "cout" : 22.5,
-   "dateDebut" : "11/08/2026",
-   "dateFin" : "11/08/2026",
-   "description" : "Cet été, venez apprendre à décorer une pièce de votre intérieur. Vous apportez le plan (ou les mesures) de la pièce sur laquelle vous souhaitez travailler, et nous créons ensemble un univers harmonieux et coloré : un moodboard sur ordinateur (initiation à Canva), ainsi qu’une initiation à la modélisation 3D de votre espace.",
-   "duree" : "5 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi 11-08-2026 à 14:30 (durée 4h10)",
-   "horaires" : [ {
-      "duree" : "4h10",
-      "heure" : "14:30",
-      "jour" : "Mardi"
-   } ],
-   "id" : 67324,
-   "intitule" : "Workshop d'été : Apprendre à décorer une pièce de son intérieur",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DES",
-   "matiereNom" : "Design",
-   "nbInscrits" : 1,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjczMjQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -21163,72 +21214,77 @@
    "renseignements" : "Évaluation continue de la progression des apprenants. Supports de cours fournis"
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
    },
    "adresseInscription" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "Service des inscriptions (par courrier)Man to Human a.s.b.l",
+      "codePostal" : "en ligne",
+      "localite" : "En Ligne",
+      "nom" : "En ligne: https://www.lux-amitie.lu./",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "2c, porte de France"
+      "rueNumero" : "En ligne: https://www.lux-amitie.lu./"
    },
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1651",
-   "coursId" : "LA-LB-1651",
+   "coursCode" : "LA-FR-1355",
+   "coursId" : "LA-FR-1355",
    "coursType" : "CLASSIQUE",
-   "cout" : 138.0,
+   "cout" : 180.0,
    "dateDebut" : "21/09/2026",
-   "dateFin" : "16/12/2026",
-   "dateInscription" : "Jusqu'au 18.09.2026 à 23h59.",
-   "description" : "Ce cours de luxembourgeois niveau A1.1 développe les quatre compétences linguistiques : compréhension orale, compréhension écrite, expression orale et expression écrite. Les apprenants acquièrent les bases lexicales et grammaticales nécessaires pour communiquer dans des situations simples de la vie quotidienne. À la fin du cours, ils seront capables de comprendre et d'utiliser des expressions courantes conformément au niveau A1.1 du CECR.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Compréhension orale\r\nCompréhension écrite\r\nExpression orale\r\nExpression écrite" ],
-      "domaine" : "Langues"
+   "dateFin" : "02/12/2026",
+   "dateInscription" : "En ligne: https://www.lux-amitie.lu./",
+   "description" : "EXPRESSION ORALE et ECRITE : L'apprenant peut raconter des expériences, exprimer son opinion et justifier brièvement son point de vue. Il peut produire un discours simple et cohérent sur des sujets familiers ou d'intérêt personnel.\r\nCOMPREHENSION ORALE et ECRITE : L'apprenant peut comprendre les points essentiels de documents clairs portant sur des sujets courants. Il est capable d'identifier les informations principales ainsi que certains détails pertinents dans des textes et échanges de complexité moyenne.",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Marrec",
+      "prenom" : "Ghyslaine Christine Sonia"
    } ],
-   "duree" : "46 leçons",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 19:00 (durée 1h40), Mercredi à 19:00 (durée 1h40)",
-   "horaires" : [ ],
-   "id" : 67457,
-   "intitule" : "Luxembourgeois",
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:30 (durée 1h40), Mardi à 09:30 (durée 1h40), Jeudi à 09:30 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "09:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63905,
+   "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
    "nbInscrits" : 0,
-   "nbPlaces" : 30,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc0NTc%3D",
+   "nbPlaces" : 24,
+   "niveau" : "B1.2 du CECRL",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "Man to Human",
+         "codePostal" : "0000",
+         "localite" : "Luxembourg",
+         "nom" : "Lux-Amitié",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "2c, porte de France"
+         "rueNumero" : "Lux-Amitié"
       },
-      "code" : "MTH",
-      "mail" : "ferber.olivier@gmail.com",
-      "nom" : "Man to Human",
-      "nomContact" : "Ferber",
-      "onlineReg" : true,
-      "prenomContact" : "Olivier",
+      "code" : "LUXA",
+      "mail" : "infoluxamitie@gmail.com",
+      "nom" : "Lux-Amitié",
+      "nomContact" : "-Amitié",
+      "onlineReg" : false,
+      "prenomContact" : "Lux",
       "statut" : "ASBL",
-      "telephone" : "691 333 331"
+      "telephone" : "621 534 221"
    },
-   "prerequis" : "Aucun prérequis n'est nécessaire.",
-   "renseignements" : "Supports pédagogiques fournis. Participation active des apprenants à travers des activités de compréhension et d'expression orales et écrites."
+   "prerequis" : "Avoir le niveau B1.1"
 }, {
    "adresseCours" : {
       "codePostal" : "5627",
@@ -22314,6 +22370,74 @@
    },
    "prerequis" : "Niveau A1 acquis",
    "renseignements" : "Langues véhiculaires utilisées: français et anglais.\r\nAccès pour personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "adresseInscription" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-Sur-Alzette",
+      "nom" : "Service des inscriptions (par courrier)Man to Human a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2c, porte de France"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1651",
+   "coursId" : "LA-LB-1651",
+   "coursType" : "CLASSIQUE",
+   "cout" : 138.0,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "Jusqu'au 18.09.2026 à 23h59.",
+   "description" : "Ce cours de luxembourgeois niveau A1.1 développe les quatre compétences linguistiques : compréhension orale, compréhension écrite, expression orale et expression écrite. Les apprenants acquièrent les bases lexicales et grammaticales nécessaires pour communiquer dans des situations simples de la vie quotidienne. À la fin du cours, ils seront capables de comprendre et d'utiliser des expressions courantes conformément au niveau A1.1 du CECR.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Compréhension orale\r\nCompréhension écrite\r\nExpression orale\r\nExpression écrite" ],
+      "domaine" : "Langues"
+   } ],
+   "duree" : "46 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 19:00 (durée 1h40), Mercredi à 19:00 (durée 1h40)",
+   "horaires" : [ ],
+   "id" : 67457,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 30,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc0NTc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "Man to Human",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2c, porte de France"
+      },
+      "code" : "MTH",
+      "mail" : "ferber.olivier@gmail.com",
+      "nom" : "Man to Human",
+      "nomContact" : "Ferber",
+      "onlineReg" : true,
+      "prenomContact" : "Olivier",
+      "statut" : "ASBL",
+      "telephone" : "691 333 331"
+   },
+   "prerequis" : "Aucun prérequis n'est nécessaire.",
+   "renseignements" : "Supports pédagogiques fournis. Participation active des apprenants à travers des activités de compréhension et d'expression orales et écrites."
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
