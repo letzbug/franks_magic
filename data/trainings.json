@@ -2037,7 +2037,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -20560,6 +20560,138 @@
    "renseignements" : "Langues utilisées: anglais surtout, mais aussi luxembourgeois ou français, si nécessaire.\r\nAccès pour personnes à mobilité réduite.\r\nOn utilisera les mêmes manuels du cours A1.1 (en poursuivant avec la leçon 11)."
 }, {
    "adresseCours" : {
+      "codePostal" : "4277",
+      "localite" : "Esch / Alzette",
+      "nom" : "Lycée Hubert Clément Esch",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, rue Général Patton"
+   },
+   "anneeScolaire" : "2026/2027",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-JA-33",
+   "coursId" : "LA-JA-33",
+   "coursType" : "CLASSIQUE",
+   "cout" : 229.5,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "05/07/2027",
+   "dateInscription" : "à partir du mois de juillet jusqu'au 16 octobre 2026 au plus tard.",
+   "description" : "Développer des compétences de communication de base en japonais pour parler simplement dans des contextes familiers (par exemple: famille, travail, santé, temps). L'objectif est également de pouvoir lire les hiragana et les katakana à 100% et de les écrire avec une certaine aisance.",
+   "duree" : "51h",
+   "enseignants" : [ {
+      "nom" : "Ito",
+      "prenom" : "Yukiko"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 19:30 (durée 1h30)",
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "19:30",
+      "jour" : "Lundi"
+   } ],
+   "id" : 67049,
+   "intitule" : "Japonais",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "JA",
+   "matiereNom" : "Japonais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwNDk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4277",
+         "localite" : "Esch / Alzette",
+         "nom" : "Lycée Hubert Clement",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue General Patton"
+      },
+      "code" : "LHCE",
+      "fax" : "57 24 04",
+      "mail" : "secretariat@lhce.lu",
+      "nom" : "Lycée Hubert Clement",
+      "nomContact" : "Miller",
+      "onlineReg" : true,
+      "prenomContact" : "Jessica",
+      "statut" : "MENFPS",
+      "telephone" : "55 71 55",
+      "websiteUrl" : "https://www.lhce.lu/"
+   },
+   "prerequis" : "Niveau A1 déjà complété. Être prêt à réviser de façon autonome et à consolider les acquis.",
+   "renseignements" : "Langue véhiculaire : français et anglais\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "4277",
+      "localite" : "Esch / Alzette",
+      "nom" : "Lycée Hubert Clément Esch",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, rue Général Patton"
+   },
+   "anneeScolaire" : "2026/2027",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-JA-32",
+   "coursId" : "LA-JA-32",
+   "coursType" : "CLASSIQUE",
+   "cout" : 229.5,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "05/07/2027",
+   "dateInscription" : "à partir du mois de juillet jusqu'au 16 octobre 2026 au plus tard",
+   "description" : "Comprendre et utiliser des expressions et des phrases de base dans la vie quotidienne: se présenter, poser et répondre à des questions simples dans des contextes familiers (par exemple: famille, achats, loisirs, transport, travail). S'initier à la lecture et au système d'écriture japonais: les deux syllabaires (hiragana et katakana) ainsi qu'une exposition aux kanji de base.",
+   "duree" : "51h",
+   "enseignants" : [ {
+      "nom" : "Ito",
+      "prenom" : "Yukiko"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 1h30)",
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   } ],
+   "id" : 67048,
+   "intitule" : "Japonais",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "JA",
+   "matiereNom" : "Japonais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwNDg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4277",
+         "localite" : "Esch / Alzette",
+         "nom" : "Lycée Hubert Clement",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue General Patton"
+      },
+      "code" : "LHCE",
+      "fax" : "57 24 04",
+      "mail" : "secretariat@lhce.lu",
+      "nom" : "Lycée Hubert Clement",
+      "nomContact" : "Miller",
+      "onlineReg" : true,
+      "prenomContact" : "Jessica",
+      "statut" : "MENFPS",
+      "telephone" : "55 71 55",
+      "websiteUrl" : "https://www.lhce.lu/"
+   },
+   "prerequis" : "Avoir une première familiarité avec l'apprentissage des langues et être prêt à réviser de façon autonome.",
+   "renseignements" : "Langue véhiculaire : français et anglais\r\nRenseignement: Manuel «Marugoto A1» à acheter sur place"
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -23026,6 +23158,138 @@
    },
    "prerequis" : "Niveau B1.1 du CECRL accompli",
    "renseignements" : "Langues véhiculaires utilisées: français et anglais.\r\nAccès pour personnes à mobilité réduite."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4277",
+      "localite" : "Esch / Alzette",
+      "nom" : "Lycée Hubert Clément Esch",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, rue Général Patton"
+   },
+   "anneeScolaire" : "2026/2027",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-JA-35",
+   "coursId" : "LA-JA-35",
+   "coursType" : "CLASSIQUE",
+   "cout" : 229.5,
+   "dateDebut" : "23/09/2026",
+   "dateFin" : "07/07/2027",
+   "dateInscription" : "à partir du mois de juillet jusqu'au 16 octobre 2026 au plus tard",
+   "description" : "Comprendre des conversations plus longues et variées, y compris celles impliquant des points de vue, des sentiments ou des contextes un peu moins familiers. Saisir l'essentiel d'échanges sur des sujets de la vie quotidienne, même lorsque les locuteurs parlent à une vitesse naturelle.",
+   "duree" : "51h",
+   "enseignants" : [ {
+      "nom" : "Ito",
+      "prenom" : "Yukiko"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 19:30 (durée 1h30)",
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "19:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67051,
+   "intitule" : "Japonais",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "JA",
+   "matiereNom" : "Japonais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwNTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4277",
+         "localite" : "Esch / Alzette",
+         "nom" : "Lycée Hubert Clement",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue General Patton"
+      },
+      "code" : "LHCE",
+      "fax" : "57 24 04",
+      "mail" : "secretariat@lhce.lu",
+      "nom" : "Lycée Hubert Clement",
+      "nomContact" : "Miller",
+      "onlineReg" : true,
+      "prenomContact" : "Jessica",
+      "statut" : "MENFPS",
+      "telephone" : "55 71 55",
+      "websiteUrl" : "https://www.lhce.lu/"
+   },
+   "prerequis" : "Niveau A2.2 déjà complété. Être prêt à réviser de façon autonome et à utiliser activement les acquis.",
+   "renseignements" : "Langue véhiculaire: français et anglais \r\nRenseignements : Manuel «Marugoto A2/B1 » à acheter; il peut également être acquis lors du premier cours.   "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4277",
+      "localite" : "Esch / Alzette",
+      "nom" : "Lycée Hubert Clément Esch",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, rue Général Patton"
+   },
+   "anneeScolaire" : "2026/2027",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-JA-34",
+   "coursId" : "LA-JA-34",
+   "coursType" : "CLASSIQUE",
+   "cout" : 229.5,
+   "dateDebut" : "23/09/2026",
+   "dateFin" : "07/07/2027",
+   "dateInscription" : "à partir du mois de juin/juillet jusqu'au 16 octobre 2026 au plus tard",
+   "description" : "Pouvoir participer à des échanges simples et directs et communiquer plus largement leurs idées, donner un avis et échanger des informations sur des sujets quotidiens.",
+   "duree" : "51h",
+   "enseignants" : [ {
+      "nom" : "Ito",
+      "prenom" : "Yukiko"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:00 (durée 1h30)",
+   "horaires" : [ {
+      "duree" : "1h30",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67050,
+   "intitule" : "Japonais",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "JA",
+   "matiereNom" : "Japonais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwNTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4277",
+         "localite" : "Esch / Alzette",
+         "nom" : "Lycée Hubert Clement",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "2, rue General Patton"
+      },
+      "code" : "LHCE",
+      "fax" : "57 24 04",
+      "mail" : "secretariat@lhce.lu",
+      "nom" : "Lycée Hubert Clement",
+      "nomContact" : "Miller",
+      "onlineReg" : true,
+      "prenomContact" : "Jessica",
+      "statut" : "MENFPS",
+      "telephone" : "55 71 55",
+      "websiteUrl" : "https://www.lhce.lu/"
+   },
+   "prerequis" : "Niveau A2.1 déjà complété. Être prêt à réviser de façon autonome et à mettre en pratique les acquis.",
+   "renseignements" : "Langue véhiculaire : français et anglais\r\nRenseignement : Manuel «Marugoto A2.2» à acheter; il peut également être acquis lors du premier cours.   "
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -56042,7 +56306,7 @@
       "competences" : [ "Talk about past experiences, daily activities, and plans." ],
       "domaine" : "Japanese language"
    } ],
-   "duree" : "52h",
+   "duree" : "58h",
    "enseignants" : [ {
       "nom" : "Gallion",
       "prenom" : "Atsuko"
@@ -56119,7 +56383,7 @@
       "competences" : [ "Learn greetings, self-introduction, and basic communication skills for daily life." ],
       "domaine" : "Japanese language"
    } ],
-   "duree" : "52h",
+   "duree" : "60h",
    "enseignants" : [ {
       "nom" : "Gallion",
       "prenom" : "Atsuko"
@@ -56141,7 +56405,7 @@
    "nbPlaces" : 15,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/samlapps/gicea-portal-prod/login?aWQ9NjAxNTE%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjAxNTE%3D",
    "organisateur" : {
       "adresse" : {
          "codePostal" : "9233",
