@@ -98,7 +98,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SAN",
    "matiereNom" : "Santé",
-   "nbInscrits" : 25,
+   "nbInscrits" : 27,
    "nbPlaces" : 200,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -845,79 +845,6 @@
    "adresseCours" : {
       "codePostal" : "1133",
       "localite" : "Luxembourg",
-      "nom" : "Centre culturel Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue des Ardennes"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1496",
-   "coursId" : "LA-LB-1496",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "15/06/2026",
-   "dateFin" : "09/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Schlechter",
-      "prenom" : "Anna"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:30 (durée 1h40), Mercredi à 17:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:30",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "17:30",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66133,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 21,
-   "nbPlaces" : 22,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "A2.1",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1133",
-      "localite" : "Luxembourg",
       "nom" : "Centre Culturel Bonnevoie",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
@@ -1133,65 +1060,6 @@
    },
    "prerequis" : "A1.1",
    "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu .\r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8041",
-      "localite" : "Strassen",
-      "nom" : "https://inscriptions.strassen.lu/",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://inscriptions.strassen.lu/"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1522",
-   "coursId" : "LA-LB-1522",
-   "coursType" : "CLASSIQUE",
-   "cout" : 132.0,
-   "dateDebut" : "15/06/2026",
-   "dateFin" : "15/07/2026",
-   "dateInscription" : "26/03/2026",
-   "description" : "Communiquer de façon simple avec un interlocuteur « bienveillant »;\r\nComprendre des mots familiers et des expressions courantes au sujet de sa personne;\r\nExprimer ses besoins, exprimer ce qu`on aime ou ce qu`on n`aime pas, décrire ses activités journalières",
-   "duree" : "44h",
-   "enseignants" : [ ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 08:30 (durée 2h), Mardi à 08:30 (durée 2h), Mercredi à 08:30 (durée 2h), Jeudi à 08:30 (durée 2h), Vendredi à 08:30 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 66224,
-   "intitule" : "Cours de luxembourgeois intensif A 1.1",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
-   "nbPlaces" : 15,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8018",
-         "localite" : "Strassen",
-         "nom" : "Pavillon Ecole Hueflach",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "7, rue du cimetière "
-      },
-      "code" : "A.C. STRA",
-      "fax" : "+352 310 262 325",
-      "mail" : "coursdusoir@strassen.lu",
-      "nom" : "Commune de Strassen",
-      "nomContact" : "Bour",
-      "onlineReg" : false,
-      "prenomContact" : "Liette",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 310 262 1",
-      "websiteUrl" : "https://www.strassen.lu/"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "2309",
@@ -1428,7 +1296,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 11,
    "nbPlaces" : 20,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : false,
@@ -2229,7 +2097,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PSY",
    "matiereNom" : "Psychologie",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3204,7 +3072,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "UC",
    "matiereNom" : "Upcycling",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3670,7 +3538,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 3,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -4114,72 +3982,64 @@
    "prerequis" : "A1.1 du CECRL"
 }, {
    "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Forum Campus Geeseknäppchen",
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "40, bd Pierre Dupong"
+      "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-59",
-   "coursId" : "BP-EN-59",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-COA-15",
+   "coursId" : "SO-COA-15",
    "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
+   "cout" : 9.0,
    "dateDebut" : "02/07/2026",
-   "dateFin" : "09/07/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
+   "dateFin" : "02/07/2026",
+   "description" : "Prendre du recul sur son quotidien de parent, mieux comprendre les tensions et découvrir des solutions concrètes pour améliorer la relation avec ses enfants.\r\nÀ travers des situations du quotidien et des échanges entre parents, vous repartirez avec des outils simples, pratiques et directement applicables pour favoriser une relation plus apaisée et coopérative.",
+   "duree" : "2 leçons",
    "enseignants" : [ {
-      "nom" : "Mribah",
-      "prenom" : "Mehdi"
+      "nom" : "Van Vaerenberg",
+      "prenom" : "Jennifer"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 02-07-2026 à 18:00 (durée 3h),\nJeudi 09-07-2026 à 18:00 (durée 3h)",
+   "horairePrevu" : "Jeudi 02-07-2026 à 12:00 (durée 1h40)",
    "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
+      "duree" : "1h40",
+      "heure" : "12:00",
       "jour" : "Jeudi"
    } ],
-   "id" : 58217,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 4,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
+   "id" : 66740,
+   "intitule" : "Parentalité au quotidien : apaiser les tensions et encourager la coopération",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COA",
+   "matiereNom" : "Coaching",
+   "nbInscrits" : 1,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMTc%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3NDA%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
+         "rueNumero" : "14, Porte de France"
       },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
       "onlineReg" : true,
-      "prenomContact" : "Equipe",
       "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -4302,66 +4162,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La conférence dure 2 heures et est entièrement gratuite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-COA-15",
-   "coursId" : "SO-COA-15",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "02/07/2026",
-   "dateFin" : "02/07/2026",
-   "description" : "Prendre du recul sur son quotidien de parent, mieux comprendre les tensions et découvrir des solutions concrètes pour améliorer la relation avec ses enfants.\r\nÀ travers des situations du quotidien et des échanges entre parents, vous repartirez avec des outils simples, pratiques et directement applicables pour favoriser une relation plus apaisée et coopérative.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Van Vaerenberg",
-      "prenom" : "Jennifer"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 02-07-2026 à 12:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66740,
-   "intitule" : "Parentalité au quotidien : apaiser les tensions et encourager la coopération",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COA",
-   "matiereNom" : "Coaching",
-   "nbInscrits" : 1,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3NDA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -4544,72 +4344,65 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
+      "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-60",
-   "coursId" : "BP-EN-60",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-97",
+   "coursId" : "SO-YOG-97",
    "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
+   "cout" : 9.0,
    "dateDebut" : "04/07/2026",
-   "dateFin" : "11/07/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
+   "dateFin" : "04/07/2026",
+   "description" : "Venez découvrir comment le Yoga du Rire peut devenir un véritable compagnon pour explorer et libérer vos émotions ! Cet atelier ludique et interactif vous invite à expérimenter vos émotions de manière positive, à travers des exercices collectifs, des jeux interactifs et des rires spontanés. Vous apprendrez à accueillir vos ressentis, à stimuler votre bien-être et à éveiller la joie qui est en vous.\r\nPartagez des moments de légèreté, de complicité et de convivialité tout en apprenant à mieux vous connecter avec vous-même et avec les autres. Que ce soit entre amis, en famille ou dans un cadre professionnel, cet atelier transforme chaque émotion en une expérience positive et mémorable.\r\nUne expérience unique, où rire, émotions et plaisir se rencontrent pour vous offrir un véritable moment de bonheur partagé.",
+   "duree" : "2 leçons",
    "enseignants" : [ {
-      "nom" : "Hiéronimus",
-      "prenom" : "Céline Anne"
+      "nom" : "Dos Santos Tomás",
+      "prenom" : "Sónia Isabel"
    } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Samedi 11-07-2026 à 09:00 (durée 3h),\nSamedi 04-07-2026 à 09:00 (durée 3h)",
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Samedi 04-07-2026 à 10:20 (durée 1h40)",
    "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Samedi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
+      "duree" : "1h40",
+      "heure" : "10:20",
       "jour" : "Samedi"
    } ],
-   "id" : 58219,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 12,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
+   "id" : 64053,
+   "intitule" : "Workshop - Explorer ses émotions : un voyage au cœur de la joie avec le Yoga du Rire",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 2,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMTk%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwNTM%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
+         "rueNumero" : "14, Porte de France"
       },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
       "onlineReg" : true,
-      "prenomContact" : "Equipe",
       "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
    },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+   "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
 }, {
    "adresseCours" : {
       "codePostal" : "1343",
@@ -4648,7 +4441,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIO",
    "matiereNom" : "Biologie",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -5160,205 +4953,99 @@
    "renseignements" : "Please bring a smartphone.\r\n\r\nThe instructor speaks Luxembourgish, French, and German."
 }, {
    "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
+      "rueNumero" : "coursdelangues@walfer.lu"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-97",
-   "coursId" : "SO-YOG-97",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-154",
+   "coursId" : "LA-FR-154",
    "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "04/07/2026",
-   "dateFin" : "04/07/2026",
-   "description" : "Venez découvrir comment le Yoga du Rire peut devenir un véritable compagnon pour explorer et libérer vos émotions ! Cet atelier ludique et interactif vous invite à expérimenter vos émotions de manière positive, à travers des exercices collectifs, des jeux interactifs et des rires spontanés. Vous apprendrez à accueillir vos ressentis, à stimuler votre bien-être et à éveiller la joie qui est en vous.\r\nPartagez des moments de légèreté, de complicité et de convivialité tout en apprenant à mieux vous connecter avec vous-même et avec les autres. Que ce soit entre amis, en famille ou dans un cadre professionnel, cet atelier transforme chaque émotion en une expérience positive et mémorable.\r\nUne expérience unique, où rire, émotions et plaisir se rencontrent pour vous offrir un véritable moment de bonheur partagé.",
-   "duree" : "2 leçons",
+   "cout" : 180.0,
+   "dateDebut" : "06/07/2026",
+   "dateFin" : "31/07/2026",
+   "dateInscription" : "toute l'année entre 08:00 et 11:30 et 13.30-16.00 hrs",
+   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre de petits textes simples sur des sujets courants" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Comprendre une histoire simple au présent au passé composé et des instructions si le débit de parole est lent et le vocabulaire simple." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Participer à un dialogue simple et pas trop rapide en répondant ou en posant des questions à l'interlocuteur.  ", "Exprimer des notions futures ou des actions au passé." ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Ecrire un petit texte suivi en utilisant un vocabulaire usuel relatant des actions élémentaires au présent, futur ou passé composé." ],
+      "domaine" : "Expression écrite"
+   } ],
+   "duree" : "60h",
    "enseignants" : [ {
-      "nom" : "Dos Santos Tomás",
-      "prenom" : "Sónia Isabel"
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
    } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 04-07-2026 à 10:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Samedi"
-   } ],
-   "id" : 64053,
-   "intitule" : "Workshop - Explorer ses émotions : un voyage au cœur de la joie avec le Yoga du Rire",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 2,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjQwNTM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
-}, {
-   "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-60",
-   "coursId" : "BP-FR-60",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "04/07/2026",
-   "dateFin" : "11/07/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Kazemi Gorabari",
-      "prenom" : "Hamed"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Samedi 11-07-2026 à 09:00 (durée 3h),\nSamedi 04-07-2026 à 09:00 (durée 3h)",
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:00 (durée 3h),\nMardi à 08:00 (durée 3h),\nMercredi à 08:00 (durée 3h),\nJeudi à 08:00 (durée 3h),\nVendredi à 08:00 (durée 3h)",
    "horaires" : [ {
       "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Samedi"
+      "heure" : "08:00",
+      "jour" : "Lundi"
    }, {
       "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Samedi"
+      "heure" : "08:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Vendredi"
    } ],
-   "id" : 58220,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "id" : 61428,
+   "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 4,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMjA%3D",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
+         "rueNumero" : "B.P. 1"
       },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-61",
-   "coursId" : "BP-EN-61",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "06/07/2026",
-   "dateFin" : "10/07/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Alhajjaji",
-      "prenom" : "Shamsaldin Ahmed Shamsaldin"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi 06-07-2026 à 12:00 (durée 2h),\nMercredi 08-07-2026 à 12:00 (durée 2h),\nVendredi 10-07-2026 à 12:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 58221,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 3,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMjE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -5732,101 +5419,6 @@
    "nbInscrits" : 1,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-154",
-   "coursId" : "LA-FR-154",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "06/07/2026",
-   "dateFin" : "31/07/2026",
-   "dateInscription" : "toute l'année entre 08:00 et 11:30 et 13.30-16.00 hrs",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre de petits textes simples sur des sujets courants" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Comprendre une histoire simple au présent au passé composé et des instructions si le débit de parole est lent et le vocabulaire simple." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Participer à un dialogue simple et pas trop rapide en répondant ou en posant des questions à l'interlocuteur.  ", "Exprimer des notions futures ou des actions au passé." ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "Ecrire un petit texte suivi en utilisant un vocabulaire usuel relatant des actions élémentaires au présent, futur ou passé composé." ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Deventer",
-      "prenom" : "Pierre"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 08:00 (durée 3h),\nMardi à 08:00 (durée 3h),\nMercredi à 08:00 (durée 3h),\nJeudi à 08:00 (durée 3h),\nVendredi à 08:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 61428,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -6561,70 +6153,66 @@
    "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
-      "nom" : "Forum Campus Geeseknäppchen",
+      "nom" : "Lycée Athénée ",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "40, bd Pierre Dupong"
+      "rueNumero" : "24 Boulevard Pierre Dupong"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-62",
-   "coursId" : "BP-EN-62",
+   "adresseInscription" : {
+      "codePostal" : "2163",
+      "localite" : "Luxembourg",
+      "nom" : "via courriel ou site internet",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "47 avenue Monterey"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-847",
+   "coursId" : "LA-FR-847",
    "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
+   "cout" : 520.0,
    "dateDebut" : "13/07/2026",
-   "dateFin" : "15/07/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Rea",
-      "prenom" : "Jason"
-   } ],
+   "dateFin" : "17/07/2026",
+   "dateInscription" : "A compter du 15 mai 2026 - en ligne",
+   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1- Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
+   "duree" : "20h",
+   "enseignants" : [ ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi 13-07-2026 à 18:00 (durée 3h),\nMercredi 15-07-2026 à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 58223,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 5,
-   "nbPlaces" : 12,
+   "horairePrevu" : "Lundi à 09:00 (durée 4h),\nMardi à 09:00 (durée 4h),\nMercredi à 09:00 (durée 4h),\nJeudi à 09:00 (durée 4h),\nVendredi à 09:00 (durée 4h)",
+   "horaires" : [ ],
+   "id" : 60359,
+   "intitule" : "cours de français : session intensive d'été",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMjM%3D",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "codePostal" : "2163",
+         "localite" : "Luxembourg",
+         "nom" : "Institut Français du Luxembourg",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
+         "rueNumero" : "47, Avenue Monterey"
       },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+      "code" : "IFL",
+      "mail" : "cours@ifluxembourg.lu",
+      "nom" : "Institut Français du Luxembourg",
+      "nomContact" : "Hausmesser",
+      "onlineReg" : false,
+      "prenomContact" : "Isabelle",
+      "statut" : "ASBL",
+      "telephone" : "462 166 39",
+      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
    },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
+   "renseignements" : "Groupes de niveaux homogènes composés de 4 à 8 apprenants."
 }, {
    "adresseCours" : {
       "codePostal" : "8018",
@@ -7468,138 +7056,6 @@
    },
    "prerequis" : "A1.2 CECRL",
    "renseignements" : "Langue véhiculaire aussi le Français "
-}, {
-   "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Athénée ",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "24 Boulevard Pierre Dupong"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2163",
-      "localite" : "Luxembourg",
-      "nom" : "via courriel ou site internet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "47 avenue Monterey"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-847",
-   "coursId" : "LA-FR-847",
-   "coursType" : "CLASSIQUE",
-   "cout" : 520.0,
-   "dateDebut" : "13/07/2026",
-   "dateFin" : "17/07/2026",
-   "dateInscription" : "A compter du 15 mai 2026 - en ligne",
-   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1- Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
-   "duree" : "20h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 09:00 (durée 4h),\nMardi à 09:00 (durée 4h),\nMercredi à 09:00 (durée 4h),\nJeudi à 09:00 (durée 4h),\nVendredi à 09:00 (durée 4h)",
-   "horaires" : [ ],
-   "id" : 60359,
-   "intitule" : "cours de français : session intensive d'été",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 8,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2163",
-         "localite" : "Luxembourg",
-         "nom" : "Institut Français du Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "47, Avenue Monterey"
-      },
-      "code" : "IFL",
-      "mail" : "cours@ifluxembourg.lu",
-      "nom" : "Institut Français du Luxembourg",
-      "nomContact" : "Hausmesser",
-      "onlineReg" : false,
-      "prenomContact" : "Isabelle",
-      "statut" : "ASBL",
-      "telephone" : "462 166 39",
-      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
-   },
-   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
-   "renseignements" : "Groupes de niveaux homogènes composés de 4 à 8 apprenants."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Forum Campus Geesseknäppchen",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "40, bd Pierre Dupong"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-62",
-   "coursId" : "BP-FR-62",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "13/07/2026",
-   "dateFin" : "15/07/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Carvalho",
-      "prenom" : "Mónica"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi 13-07-2026 à 18:00 (durée 3h),\nMercredi 15-07-2026 à 18:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 58224,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 1,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMjQ%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -9588,76 +9044,74 @@
    "renseignements" : "La formatrice se charge du matériel nécessaire. Un remboursement de 5 € en espèces devra être remis directement à la formatrice le jour de la formation."
 }, {
    "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-64",
-   "coursId" : "BP-EN-64",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-752",
+   "coursId" : "LA-FR-752",
    "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
+   "cout" : 120.0,
    "dateDebut" : "20/07/2026",
-   "dateFin" : "24/07/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Mate Roback",
-      "prenom" : "Lorien"
+   "dateFin" : "01/09/2026",
+   "domainesCompetences" : [ {
+      "competences" : [ "langue" ],
+      "domaine" : "formation pour adultes"
    } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi 20-07-2026 à 12:00 (durée 2h),\nMercredi 22-07-2026 à 12:00 (durée 2h),\nVendredi 24-07-2026 à 12:00 (durée 2h)",
+   "duree" : "40h",
+   "enseignants" : [ {
+      "nom" : "Vilay",
+      "prenom" : "Venemany"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 18:50 (durée 1h40), Mardi à 18:50 (durée 1h40), Mercredi à 18:50 (durée 1h40)",
    "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
+      "duree" : "1h40",
+      "heure" : "18:50",
       "jour" : "Lundi"
    }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Mardi"
    }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
+      "duree" : "1h40",
+      "heure" : "18:50",
+      "jour" : "Mercredi"
    } ],
-   "id" : 58227,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 1,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
+   "id" : 59823,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "B1 du CECRL",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMjc%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk4MjM%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "codePostal" : "4965",
+         "localite" : "Clémency",
+         "nom" : "A-PRENDRE",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
+         "rueNumero" : "10, rue de l'École"
       },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
+      "code" : "APR",
+      "mail" : "venemany@a-prendre.lu",
+      "nom" : "A-PRENDRE SIS",
+      "nomContact" : "PRENDRE",
       "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+      "prenomContact" : "A-",
+      "statut" : "ASBL",
+      "telephone" : "/",
+      "websiteUrl" : "https://a-prendre.lu/"
    },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+   "prerequis" : "A2.2",
+   "renseignements" : "livre et cahier d'activités à acheter:\r\n- Edito Pro B1 - Livre + DVD-rom + didierfle.app Broché  Illustré, 5 août 2020\r\n- Edito Pro B1 - Cahier + CD MP3 + didierfle.app Broché  MP3 audio, 11 janvier 2021"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -9759,7 +9213,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PIL",
    "matiereNom" : "Pilates",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -10170,76 +9624,6 @@
    "renseignements" : "Groupes de niveaux homogènes composés de 4 à 8 apprenants."
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-752",
-   "coursId" : "LA-FR-752",
-   "coursType" : "CLASSIQUE",
-   "cout" : 120.0,
-   "dateDebut" : "20/07/2026",
-   "dateFin" : "01/09/2026",
-   "domainesCompetences" : [ {
-      "competences" : [ "langue" ],
-      "domaine" : "formation pour adultes"
-   } ],
-   "duree" : "40h",
-   "enseignants" : [ {
-      "nom" : "Vilay",
-      "prenom" : "Venemany"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 18:50 (durée 1h40), Mardi à 18:50 (durée 1h40), Mercredi à 18:50 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "18:50",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 59823,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 15,
-   "niveau" : "B1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTk4MjM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4965",
-         "localite" : "Clémency",
-         "nom" : "A-PRENDRE",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "10, rue de l'École"
-      },
-      "code" : "APR",
-      "mail" : "venemany@a-prendre.lu",
-      "nom" : "A-PRENDRE SIS",
-      "nomContact" : "PRENDRE",
-      "onlineReg" : true,
-      "prenomContact" : "A-",
-      "statut" : "ASBL",
-      "telephone" : "/",
-      "websiteUrl" : "https://a-prendre.lu/"
-   },
-   "prerequis" : "A2.2",
-   "renseignements" : "livre et cahier d'activités à acheter:\r\n- Edito Pro B1 - Livre + DVD-rom + didierfle.app Broché  Illustré, 5 août 2020\r\n- Edito Pro B1 - Cahier + CD MP3 + didierfle.app Broché  MP3 audio, 11 janvier 2021"
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -10409,7 +9793,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PIL",
    "matiereNom" : "Pilates",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -10656,7 +10040,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SOP",
    "matiereNom" : "Sophrologie",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -11394,7 +10778,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "AAS",
    "matiereNom" : "Arts et artisanat",
-   "nbInscrits" : 1,
+   "nbInscrits" : 0,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11516,7 +10900,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIO",
    "matiereNom" : "Biologie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -11601,76 +10985,99 @@
    }
 }, {
    "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
+      "rueNumero" : "coursdelangues@walfer.lu"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-66",
-   "coursId" : "BP-FR-66",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-156",
+   "coursId" : "LA-FR-156",
    "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
+   "cout" : 180.0,
    "dateDebut" : "03/08/2026",
-   "dateFin" : "07/08/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Trako",
-      "prenom" : "Mikel"
+   "dateFin" : "28/08/2026",
+   "dateInscription" : "toute l'année entre 08:00 et 11:30 et 13.30-16.00 hrs",
+   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre de petits textes simples sur des sujets courants" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Comprendre une histoire simple au présent au passé composé et des instructions si le débit de parole est lent et le vocabulaire simple." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Participer à un dialogue simple et pas trop rapide en répondant ou en posant des questions à l'interlocuteur.  ", "Exprimer des notions futures ou des actions au passé." ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Ecrire un petit texte suivi en utilisant un vocabulaire usuel relatant des actions élémentaires au présent, futur ou passé composé." ],
+      "domaine" : "Expression écrite"
    } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi 03-08-2026 à 09:00 (durée 2h),\nMercredi 05-08-2026 à 09:00 (durée 2h),\nVendredi 07-08-2026 à 09:00 (durée 2h)",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Deventer",
+      "prenom" : "Pierre"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:00 (durée 3h),\nMardi à 08:00 (durée 3h),\nMercredi à 08:00 (durée 3h),\nJeudi à 08:00 (durée 3h),\nVendredi à 08:00 (durée 3h)",
    "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "09:00",
+      "duree" : "3h",
+      "heure" : "08:00",
       "jour" : "Lundi"
    }, {
-      "duree" : "2h",
-      "heure" : "09:00",
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
       "jour" : "Mercredi"
    }, {
-      "duree" : "2h",
-      "heure" : "09:00",
+      "duree" : "3h",
+      "heure" : "08:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "3h",
+      "heure" : "08:00",
       "jour" : "Vendredi"
    } ],
-   "id" : 58230,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "id" : 61430,
+   "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 1,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMzA%3D",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
+         "rueNumero" : "B.P. 1"
       },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -12607,101 +12014,6 @@
    }
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-156",
-   "coursId" : "LA-FR-156",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "03/08/2026",
-   "dateFin" : "28/08/2026",
-   "dateInscription" : "toute l'année entre 08:00 et 11:30 et 13.30-16.00 hrs",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre de petits textes simples sur des sujets courants" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "Comprendre une histoire simple au présent au passé composé et des instructions si le débit de parole est lent et le vocabulaire simple." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "Participer à un dialogue simple et pas trop rapide en répondant ou en posant des questions à l'interlocuteur.  ", "Exprimer des notions futures ou des actions au passé." ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "Ecrire un petit texte suivi en utilisant un vocabulaire usuel relatant des actions élémentaires au présent, futur ou passé composé." ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Deventer",
-      "prenom" : "Pierre"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 08:00 (durée 3h),\nMardi à 08:00 (durée 3h),\nMercredi à 08:00 (durée 3h),\nJeudi à 08:00 (durée 3h),\nVendredi à 08:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "3h",
-      "heure" : "08:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 61430,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -13289,7 +12601,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "COMMU",
    "matiereNom" : "Communication",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -13775,7 +13087,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIO",
    "matiereNom" : "Biologie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13923,76 +13235,95 @@
    "renseignements" : "Please bring fine ink pens, a pencil, watercolors, brushes, a cloth, a small water container, and a sketchbook. For full practice, use watercolor or thick paper with a rigid support, plus any portable tools you like.\r\n"
 }, {
    "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7201",
+      "localite" : "Walferdange",
+      "nom" : "coursdelangues@walfer.lu",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
+      "rueNumero" : "coursdelangues@walfer.lu"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-67",
-   "coursId" : "BP-FR-67",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-965",
+   "coursId" : "LA-FR-965",
    "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
+   "cout" : 180.0,
    "dateDebut" : "10/08/2026",
-   "dateFin" : "14/08/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Morais Martins",
-      "prenom" : "Luisa Maria"
+   "dateFin" : "02/09/2026",
+   "dateInscription" : "toute l'année entre 08:00 et 11:30 et de 13.30 à 16.00 hrs",
+   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des instructions et des consignes orales\r\n", "comprendre des expressions familières de la vie quotidienne\r\n", "comprendre quelqu'un qui se présente\r\n", "comprendre des indications chiffrées\r\n", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30 " ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier", "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes\r\ncomprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)\r\n", "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information " ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)\r\n", "décrire succinctement son environnement\r\n", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue " ],
+      "domaine" : "Expression écrite"
    } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi 10-08-2026 à 12:00 (durée 2h),\nMercredi 12-08-2026 à 12:00 (durée 2h),\nVendredi 14-08-2026 à 12:00 (durée 2h)",
+   "duree" : "60h",
+   "enseignants" : [ {
+      "nom" : "Verri",
+      "prenom" : "Valentino"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 4h),\nMardi à 09:00 (durée 4h),\nMercredi à 09:00 (durée 4h),\nJeudi à 09:00 (durée 4h)",
    "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
+      "duree" : "4h",
+      "heure" : "09:00",
       "jour" : "Lundi"
    }, {
-      "duree" : "2h",
-      "heure" : "12:00",
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "4h",
+      "heure" : "09:00",
       "jour" : "Mercredi"
    }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
+      "duree" : "4h",
+      "heure" : "09:00",
+      "jour" : "Jeudi"
    } ],
-   "id" : 58231,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
+   "id" : 61002,
+   "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 1,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMzE%3D",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "codePostal" : "7201",
+         "localite" : "Walferdange",
+         "nom" : "Administration Communale de Walferdange",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
+         "rueNumero" : "B.P. 1"
       },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+      "code" : "A.C. WALF",
+      "fax" : "+352 33 30 60",
+      "mail" : "coursdelangues@walfer.lu",
+      "nom" : "Uelzechtdall-Gemengen",
+      "nomContact" : "Conzemius",
+      "onlineReg" : false,
+      "prenomContact" : "Luc",
+      "statut" : "Administration Communale",
+      "telephone" : "33 01 44 207",
+      "websiteUrl" : "http://www.walfer.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -14124,97 +13455,6 @@
    "nbInscrits" : 0,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "7201",
-         "localite" : "Walferdange",
-         "nom" : "Administration Communale de Walferdange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 1"
-      },
-      "code" : "A.C. WALF",
-      "fax" : "+352 33 30 60",
-      "mail" : "coursdelangues@walfer.lu",
-      "nom" : "Uelzechtdall-Gemengen",
-      "nomContact" : "Conzemius",
-      "onlineReg" : false,
-      "prenomContact" : "Luc",
-      "statut" : "Administration Communale",
-      "telephone" : "33 01 44 207",
-      "websiteUrl" : "http://www.walfer.lu"
-   }
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "7201",
-      "localite" : "Walferdange",
-      "nom" : "coursdelangues@walfer.lu",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "coursdelangues@walfer.lu"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-965",
-   "coursId" : "LA-FR-965",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "10/08/2026",
-   "dateFin" : "02/09/2026",
-   "dateInscription" : "toute l'année entre 08:00 et 11:30 et de 13.30 à 16.00 hrs",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
-   "domainesCompetences" : [ {
-      "competences" : [ "comprendre des instructions et des consignes orales\r\n", "comprendre des expressions familières de la vie quotidienne\r\n", "comprendre quelqu'un qui se présente\r\n", "comprendre des indications chiffrées\r\n", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30 " ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier", "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes\r\ncomprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)\r\n", "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information " ],
-      "domaine" : "Expression orale"
-   }, {
-      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)\r\n", "décrire succinctement son environnement\r\n", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue " ],
-      "domaine" : "Expression écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Verri",
-      "prenom" : "Valentino"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:00 (durée 4h),\nMardi à 09:00 (durée 4h),\nMercredi à 09:00 (durée 4h),\nJeudi à 09:00 (durée 4h)",
-   "horaires" : [ {
-      "duree" : "4h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "4h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "4h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "4h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 61002,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 20,
-   "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
@@ -16074,7 +15314,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIO",
    "matiereNom" : "Biologie",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -16099,76 +15339,68 @@
    "renseignements" : "Le point de rendez-vous est fixé à Steinfort Adventure – parking principal. \r\n\r\nCette activité se déroule en plein air. Il est recommandé d’apporter une gourde d’eau et de s’habiller en fonction des conditions météorologiques du jour."
 }, {
    "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée Athénée ",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
+      "rueNumero" : "24 Boulevard Pierre Dupong"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-67",
-   "coursId" : "BP-EN-67",
+   "adresseInscription" : {
+      "codePostal" : "2163",
+      "localite" : "Luxembourg",
+      "nom" : "via courriel ou site internet",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "47 avenue Monterey"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-850",
+   "coursId" : "LA-FR-850",
    "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
+   "cout" : 520.0,
    "dateDebut" : "24/08/2026",
    "dateFin" : "28/08/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Mate Roback",
-      "prenom" : "Lorien"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi 24-08-2026 à 09:00 (durée 2h),\nMercredi 26-08-2026 à 09:00 (durée 2h),\nVendredi 28-08-2026 à 09:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "09:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 58235,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 4,
-   "nbPlaces" : 18,
+   "dateInscription" : "A compter du 15 mai 2026 - en ligne",
+   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1- Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
+   "duree" : "20h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h),\nMardi à 09:00 (durée 3h),\nMercredi à 09:00 (durée 3h),\nJeudi à 09:00 (durée 3h),\nVendredi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 60362,
+   "intitule" : "cours de français : session intensive d'été",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 8,
    "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMzU%3D",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+         "codePostal" : "2163",
+         "localite" : "Luxembourg",
+         "nom" : "Institut Français du Luxembourg",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
+         "rueNumero" : "47, Avenue Monterey"
       },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
+      "code" : "IFL",
+      "mail" : "cours@ifluxembourg.lu",
+      "nom" : "Institut Français du Luxembourg",
+      "nomContact" : "Hausmesser",
+      "onlineReg" : false,
+      "prenomContact" : "Isabelle",
+      "statut" : "ASBL",
+      "telephone" : "462 166 39",
+      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
    },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
+   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
+   "renseignements" : "Groupes de niveaux homogènes composés de 4 à 8 apprenants."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -16361,70 +15593,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "prerequis" : "Matériel à apporter : technique libre (dessin, aquarelle, gouache, pastel). Prévoir support A3 min., carnet ou feuilles, matériel personnel. Chevalet et siège pliant facultatifs. Eau, protection solaire et vêtements adaptés recommandés."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Athénée ",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "24 Boulevard Pierre Dupong"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2163",
-      "localite" : "Luxembourg",
-      "nom" : "via courriel ou site internet",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "47 avenue Monterey"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-850",
-   "coursId" : "LA-FR-850",
-   "coursType" : "CLASSIQUE",
-   "cout" : 520.0,
-   "dateDebut" : "24/08/2026",
-   "dateFin" : "28/08/2026",
-   "dateInscription" : "A compter du 15 mai 2026 - en ligne",
-   "description" : "Cours collectifs de français disponibles du niveau A1.1 au C1- Les cours sont conformes au CECR et compatibles avec une préparation aux examens du DELF et du DALF.",
-   "duree" : "20h",
-   "enseignants" : [ ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h),\nMardi à 09:00 (durée 3h),\nMercredi à 09:00 (durée 3h),\nJeudi à 09:00 (durée 3h),\nVendredi à 09:00 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 60362,
-   "intitule" : "cours de français : session intensive d'été",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 8,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2163",
-         "localite" : "Luxembourg",
-         "nom" : "Institut Français du Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "47, Avenue Monterey"
-      },
-      "code" : "IFL",
-      "mail" : "cours@ifluxembourg.lu",
-      "nom" : "Institut Français du Luxembourg",
-      "nomContact" : "Hausmesser",
-      "onlineReg" : false,
-      "prenomContact" : "Isabelle",
-      "statut" : "ASBL",
-      "telephone" : "462 166 39",
-      "websiteUrl" : "https://www.institut-francais-luxembourg.lu/"
-   },
-   "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
-   "renseignements" : "Groupes de niveaux homogènes composés de 4 à 8 apprenants."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -25428,84 +24596,6 @@
    "renseignements" : "Notwendigkeit, die eigene Nähmaschine zum Kursort mitzubringen und diese bei der Umsetzung der Projekte verwenden. | Nécessité d'apporter sa propre machine à coudre au site du cours et de l'utiliser pour le travail de projet."
 }, {
    "adresseCours" : {
-      "codePostal" : "1750",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Garçons",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "41A Av.Victor Hugo"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1421",
-   "coursId" : "LA-FR-1421",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "28/09/2026",
-   "dateFin" : "17/12/2026",
-   "dateInscription" : "Inscription sur rdv: info@efid.lu",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre une histoire simple au présent au passé composé et des instructions si le débit de parole est lent et le vocabulaire simple." ],
-      "domaine" : "Compréhension orale "
-   }, {
-      "competences" : [ "Ecrire un petit texte suivi en utilisant un vocabulaire usuel relatant des actions élémentaires au présent, futur ou passé composé." ],
-      "domaine" : "Expression écrite"
-   }, {
-      "domaine" : "Interaction orale "
-   }, {
-      "competences" : [ "Participer à un dialogue simple et pas trop rapide en répondant ou en posant des questions à l'interlocuteur.", "Exprimer des notions futures ou des actions au passé." ],
-      "domaine" : "Expression orale "
-   }, {
-      "competences" : [ "Comprendre de petits textes simples sur des sujets courants" ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Mardi à 14:00 (durée 3h), Jeudi à 14:00 (durée 3h)",
-   "horaires" : [ ],
-   "id" : 65129,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjk%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8211",
-         "localite" : "Mamer",
-         "nom" : "EFID",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, Route d'Arlon"
-      },
-      "code" : "EFID",
-      "mail" : "info@efid.lu",
-      "nom" : "Excellence for Integration and Development",
-      "nomContact" : "Tesch",
-      "onlineReg" : true,
-      "prenomContact" : "Nicolas",
-      "statut" : "ASBL",
-      "telephone" : "621 464 422",
-      "websiteUrl" : "https://efid.lu/"
-   }
-}, {
-   "adresseCours" : {
       "codePostal" : "66706",
       "localite" : "Perl",
       "nom" : "Deutsch-Luxemburgisches Schengen-Lyzeum Perl",
@@ -25702,82 +24792,6 @@
       "statut" : "MENFPS",
       "telephone" : "+49 6867 9111 246",
       "websiteUrl" : "https://www.schengenlyzeum.eu/"
-   }
-}, {
-   "adresseCours" : {
-      "codePostal" : "1750",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée de Garçons",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "41A Av.Victor Hugo"
-   },
-   "adresseInscription" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1423",
-   "coursId" : "LA-FR-1423",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "28/09/2026",
-   "dateFin" : "17/12/2026",
-   "dateInscription" : "Inscription sur rdv: info@efid.lu",
-   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples.",
-   "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant peut comprendre une conversation simple et en rapporter le contenu.", "L'apprenant est en mesure de comprendre un échange simple entre natifs, dans un éventail de domaines plus large." ],
-      "domaine" : "Compréhension orale "
-   }, {
-      "competences" : [ "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées par écrit." ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "L'apprenant peut engager une conversation simplement dans plusieurs domaines et notamment professionnels. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
-      "domaine" : "Expression orale "
-   }, {
-      "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne.", "L'apprenant est en mesure de lire les correspondances officielles et les courriels professionnels.", "L'apprenant peut trouver rapidement les informations demandées dans un texte." ],
-      "domaine" : "Compréhension écrite"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ ],
-   "id" : 65131,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMzE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "8211",
-         "localite" : "Mamer",
-         "nom" : "EFID",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, Route d'Arlon"
-      },
-      "code" : "EFID",
-      "mail" : "info@efid.lu",
-      "nom" : "Excellence for Integration and Development",
-      "nomContact" : "Tesch",
-      "onlineReg" : true,
-      "prenomContact" : "Nicolas",
-      "statut" : "ASBL",
-      "telephone" : "621 464 422",
-      "websiteUrl" : "https://efid.lu/"
    }
 }, {
    "adresseCours" : {
@@ -32643,7 +31657,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -32837,90 +31851,6 @@
       "websiteUrl" : "https://www.lux-online-educ-center.com"
    },
    "prerequis" : "Niveau A2 toutes compétences validées - Pouvoir lire et écrire en alphabet latin"
-}, {
-   "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1550",
-   "coursId" : "LA-FR-1550",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "09/07/2026",
-   "dateInscription" : "13/05 au 30/05 8h00-18h00",
-   "description" : "Peut comprendre des expressions et un vocabulaire fréquent relatifs à ce qui me concerne de très près. \r\nPeut parler de sujets simples de la vie de tous les jours\r\nPeut saisir l'essentiel d'annonces et de messages simples.\r\nPeut lire des textes courts très simples.\r\nPeut trouver une information particulière dans des documents courants comme les publicités, les prospectus, les menus et les horaires et peut comprendre des lettres courtes et simples.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Je peux comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui me concerne de très près (par exemple moi-même, ma famille, les achats, l'environnement proche, le travail). Je peux saisir l'essentiel d'annonces et de messages simples et clairs." ],
-      "domaine" : "La compétence en réception orale : l'écoute"
-   }, {
-      "competences" : [ "Je peux lire des textes courts très simples. Je peux trouver une information particulière prévisible dans des documents courants comme les publicités, les prospectus, les menus et les horaires et je peux comprendre des lettres personnelles courtes et simples." ],
-      "domaine" : "La compétence en réception écrite : la lecture"
-   }, {
-      "competences" : [ "Je peux écrire des notes et messages simples et courts. Je peux écrire une lettre personnelle très simple, par exemple, de remerciements." ],
-      "domaine" : "La compétence en production écrite : écrire"
-   }, {
-      "competences" : [ "Je peux communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers. " ],
-      "domaine" : "La compétence en production d'interaction"
-   } ],
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Pepino",
-      "prenom" : "Stéphanie Marguerite"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Lundi à 09:00 (durée 3h), Mardi à 09:00 (durée 3h), Mercredi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "3h",
-      "heure" : "09:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66700,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 24,
-   "nbPlaces" : 25,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://www.lux-online-educ-center.com/inscriptions?aWQ9NjY3MDA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4665",
-         "localite" : "Oberkorn",
-         "nom" : "Luxembourg Online Education Center",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "68 rue Charles Schambourg"
-      },
-      "code" : "LOEC",
-      "mail" : "lux.online.education.center@gmail.com",
-      "nom" : "Luxembourg Online Education Center",
-      "nomContact" : "Chies",
-      "onlineReg" : true,
-      "prenomContact" : "Martine",
-      "statut" : "ASBL",
-      "telephone" : "+352 661 195 032",
-      "websiteUrl" : "https://www.lux-online-educ-center.com"
-   },
-   "prerequis" : "Français A1.1 et A1.2 validés - toutes compétences acquises\r\nPouvoir lire et écrire en alphabet latin"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -33168,7 +32098,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 16,
+   "nbInscrits" : 15,
    "nbPlaces" : 18,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -34177,7 +33107,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 8,
+   "nbInscrits" : 10,
    "nbPlaces" : 18,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -37724,7 +36654,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "20/04/2026",
-   "dateFin" : "10/07/2026",
+   "dateFin" : "17/07/2026",
    "dateInscription" : "Inscription sur rdv: info@efid.lu",
    "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples.",
    "domainesCompetences" : [ {
@@ -37889,7 +36819,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "20/04/2026",
-   "dateFin" : "10/07/2026",
+   "dateFin" : "17/07/2026",
    "dateInscription" : "inscription sur rdv: info@efid.lu",
    "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
@@ -37979,7 +36909,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "20/04/2026",
-   "dateFin" : "10/07/2026",
+   "dateFin" : "17/07/2026",
    "dateInscription" : "inscription sur rdv: info@efid.lu",
    "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
@@ -38239,7 +37169,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "20/04/2026",
-   "dateFin" : "10/07/2026",
+   "dateFin" : "17/07/2026",
    "dateInscription" : "Inscription sur rdv: info@efid.lu",
    "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
    "domainesCompetences" : [ {
@@ -38332,7 +37262,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "20/04/2026",
-   "dateFin" : "10/07/2026",
+   "dateFin" : "17/07/2026",
    "dateInscription" : "inscription sur rdv: info@efid.lu",
    "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
@@ -38497,7 +37427,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 180.0,
    "dateDebut" : "20/04/2026",
-   "dateFin" : "10/07/2026",
+   "dateFin" : "17/07/2026",
    "dateInscription" : "inscription sur rdv: info@efid.lu",
    "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
    "domainesCompetences" : [ {
