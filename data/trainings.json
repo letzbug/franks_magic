@@ -40,7 +40,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 12,
+   "nbInscrits" : 13,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -775,7 +775,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PSY",
    "matiereNom" : "Psychologie",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -839,7 +839,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1231,7 +1231,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1444,7 +1444,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "COA",
    "matiereNom" : "Coaching",
-   "nbInscrits" : 1,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -1628,7 +1628,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1689,7 +1689,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -2216,7 +2216,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2342,7 +2342,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 8,
+   "nbInscrits" : 9,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2817,7 +2817,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BE",
    "matiereNom" : "Bien-être",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3058,7 +3058,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 2,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -3301,7 +3301,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3840,7 +3840,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 3,
+   "nbInscrits" : 8,
    "nbPlaces" : 12,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -4349,7 +4349,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SOP",
    "matiereNom" : "Sophrologie",
-   "nbInscrits" : 0,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -4891,6 +4891,80 @@
    },
    "prerequis" : "débutant/test de placement / attestation de niveau de -12mois.",
    "renseignements" : "Groupes de niveaux homogènes composés de 4 à 8 apprenants."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-45",
+   "coursId" : "CIN-LB-45",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "13/07/2026",
+   "dateFin" : "29/07/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ {
+      "nom" : "Kraus",
+      "prenom" : "Marianne"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 67613,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc2MTM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
       "codePostal" : "8018",
@@ -5772,7 +5846,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 2,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -6355,7 +6429,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ARS",
    "matiereNom" : "Arts de la scène",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 150,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -8595,7 +8669,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PIL",
    "matiereNom" : "Pilates",
-   "nbInscrits" : 4,
+   "nbInscrits" : 6,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -8718,7 +8792,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SOP",
    "matiereNom" : "Sophrologie",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -9578,7 +9652,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIO",
    "matiereNom" : "Biologie",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -9855,7 +9929,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "COA",
    "matiereNom" : "Coaching",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -10033,17 +10107,24 @@
    "dateFin" : "10/08/2026",
    "description" : "Venez participer à cet atelier qui vous apportera la maîtrise de vos gestes pour réaliser de belles pièces et où votre créativité pourra avec plaisir et satisfaction s'exprimer.\r\nVous apprendrez à utiliser les outils pour modelage, les différents procédés d'exécution et la malléabilité de l'argile.\r\nLaissez-vous aller à la création!",
    "duree" : "6 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Zaavy",
+      "prenom" : "Carole"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Lundi à 10:20 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "10:20",
+      "jour" : "Lundi"
+   } ],
    "id" : 67202,
    "intitule" : "Cours de Modelage - Céramique",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "CERA",
    "matiereNom" : "Céramique",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -13267,10 +13348,17 @@
    "dateFin" : "01/09/2026",
    "description" : "Découvrez l’art du portrait réaliste en noir et blanc et apprenez à donner vie à vos dessins. Grâce à une approche progressive et accessible, vous explorerez les techniques essentielles d’observation, d’ombres et de contrastes pour réaliser un portrait A3 expressif et personnel. Un atelier créatif pour développer votre regard et votre sens artistique, quel que soit votre niveau.",
    "duree" : "9 leçons",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Yagbasan",
+      "prenom" : "Rengin"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 14:30 (durée 2h30)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "14:30",
+      "jour" : "Mardi"
+   } ],
    "id" : 67336,
    "intitule" : "Portrait réaliste noir & blanc",
    "langueCoursCode" : "FR",
@@ -14275,7 +14363,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -15201,7 +15289,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 15,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -19408,7 +19496,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EL",
    "matiereNom" : "Grec",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 24,
    "niveau" : "B1.1 du CECRL",
    "onlineRegistration" : true,
@@ -20194,7 +20282,7 @@
    "langueCoursNom" : "Espagnol",
    "matiereCode" : "ES",
    "matiereNom" : "Espagnol",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 17,
    "niveau" : "Conversation",
    "onlineRegistration" : true,
@@ -31603,111 +31691,6 @@
    "prerequis" : "Connaître l'alphabet latin est une obligation - Ability to read and write in latin alphabet."
 }, {
    "adresseCours" : {
-      "codePostal" : "3532",
-      "localite" : "Dudelange",
-      "nom" : "Ecole DEICH",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "31, rue du stade Jos Nos Baum"
-   },
-   "adresseInscription" : {
-      "codePostal" : "3401",
-      "localite" : "Dudelange",
-      "nom" : "Hôtel De Ville De  Dudelange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Place de Hôtel de Ville, BP 73"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1534",
-   "coursId" : "LA-FR-1534",
-   "coursType" : "CLASSIQUE",
-   "cout" : 100.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "23/07/2026",
-   "dateInscription" : "Hôtel de Ville de Dudelange. \r\nCoursdelangues@dudelange.lu \r\n51 61 21 538",
-   "description" : "Comprendre et utiliser des phrases simples au quotidien. Se présenter, décrire, échanger des informations personnelles et concrètes simples avec des termes simples et courants. Communiquer avec un interlocuteur qui s'exprime clairement et lentement.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Comprendre des mots familiers, des expressions courantes et simples au sujet de sa famille. \r\n", "Comprendre des mots familiers, des expressions très courantes au sujet de son environnement concret et immédiat, exprimés dans un débit lent et distinct. \r\n", "Comprendre des questions simples, formulées dans un débit plus ou moins lent, au sujet de soi, de sa famille et de son environnement concret et immédiat (profession, logement, lieux de vie...) \r\n", "Identifier les paramètres d'une situation de communication claire, inscrite dans la vie quotidienne. \r\n", "Comprendre une description simple d'une personne, d'un objet, d'un fait, exprimée de façon simple et avec des termes courants. \r\n", "Comprendre les expressions d'appartenance \r\n", "Comprendre les énoncés chiffrés (heures, dates, numéros de téléphone, prix...) \r\n", "Comprendre de courts échanges sur les loisirs et activités \r\n\r\n", "Comprendre de courts échanges sur de simples et brèves indications autour des activités du quotidien. ", "Comprendre des mots familiers, des expressions très courantes ainsi que des énoncés très simples au sujet de soi-même. \r\n" ],
-      "domaine" : "COMPREHENSION ORALE"
-   }, {
-      "competences" : [ " Poser et répondre à des questions simples sur des sujets familiers (famille, lieu de vie, métiers, loisirs et activités) \r\n", "Exprimer son goût et ses préférences \r\n", "Décrire et poser des questions sur le caractère d'une personne, d'un objet \r\n", "Poser et répondre à des questions sur l'heure, la date, le tarif et les activités du quotidien. \r\n", "Parler de ses loisirs et activités. Poser et répondre à des questions simples autour des loisirs et activités. \r\n\r\n", "Suivre et exprimer de brèves et simples indications au quotidien (indiquer, retrouver un emplacement/ suivre une notice simple)" ],
-      "domaine" : "EXPRESSION ORALE"
-   }, {
-      "competences" : [ "Reconnaître des noms, des expressions et des mots courants ; \r\n", "Comprendre des messages simples (horaires, formulaire d'inscription simple, publicité...) \r\n", "Comprendre des indications brèves et simples (ex : Indication de chemin, l'emplacement d'un objet, d'un chemin...)\r\n" ],
-      "domaine" : "COMPREHENSION ECRITE"
-   }, {
-      "competences" : [ "Compléter un formulaire simple \r\n\r\n", "Ecrire un texte court et simple sur soi-même et/ou son environnement immédiat, en s'appuyant sur un matériel donné.", "Ecrire de brèves consignes (sous forme de post it,  court message...)" ],
-      "domaine" : "EXPRESSION ECRITE"
-   } ],
-   "duree" : "50h",
-   "enseignants" : [ {
-      "nom" : "Michelitsch",
-      "prenom" : "Pernelle"
-   }, {
-      "nom" : "Vallet",
-      "prenom" : "Danielle"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 17:25 (durée 2h05), Mardi à 17:25 (durée 2h05), Jeudi à 17:25 (durée 2h05)",
-   "horaires" : [ {
-      "duree" : "2h05",
-      "heure" : "17:25",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h05",
-      "heure" : "17:25",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h05",
-      "heure" : "17:25",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h05",
-      "heure" : "17:25",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h05",
-      "heure" : "17:25",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h05",
-      "heure" : "17:25",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66270,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 21,
-   "nbPlaces" : 22,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "3401",
-         "localite" : "Dudelange",
-         "nom" : "Administration Communale de Dudelange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "B.P. 73"
-      },
-      "code" : "A.C. DUDE ",
-      "mail" : "coursdelangues@dudelange.lu",
-      "nom" : "Ville de Dudelange",
-      "nomContact" : "Colin",
-      "onlineReg" : false,
-      "prenomContact" : "Nancy",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 516 121-538"
-   },
-   "prerequis" : "Avoir le niveau A1.1"
-}, {
-   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -32058,7 +32041,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 18,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : false,
@@ -33629,7 +33612,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BUR",
    "matiereNom" : "Bureautique",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : false,
@@ -43468,77 +43451,6 @@
    "renseignements" : "·  Courriel : education_adultes@ltett.lu\r\n·  Téléphone : 819 201 307 (Mme Valina Liégeois)\r\n"
 }, {
    "adresseCours" : {
-      "localite" : "DISTANCE",
-      "nom" : "DISTANCE"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "par mail ou par sms",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Lycée Athénée 24, bd Pierre Dupong"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1382",
-   "coursId" : "LA-FR-1382",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "24/02/2026",
-   "dateFin" : "02/07/2026",
-   "dateInscription" : "prière de vous adresser par mail à info@esf.lu ou sur le gsm\r\n 621 288749",
-   "description" : "Pouvoir se présenter; Dire où on va. Demander/indiquer le chemin/\r\nGrammaire: présent des verbes ràguliers du 1er groupe, verbes iréguliers: avoir, être, venir, aller, faire\r\nComprendre et échanger des expressions courantes et avoir des notions de grammaire de base.",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Sakovic",
-      "prenom" : "Emira"
-   } ],
-   "format" : "DISTANCE",
-   "horairePrevu" : "Mardi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "10:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 64683,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 15,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6919",
-         "localite" : "Roodt-sur-Syre",
-         "nom" : "Entente sans frontières",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, A Millesch"
-      },
-      "code" : "ESF",
-      "mail" : "emira.sakovic@esf.lu",
-      "nom" : "Entente sans frontières",
-      "nomContact" : "Sakovic",
-      "onlineReg" : false,
-      "prenomContact" : "Emira",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 288 749",
-      "websiteUrl" : "http://esf.lu/"
-   },
-   "prerequis" : "NON",
-   "renseignements" : "Des renseignements compl. peuvent être obtenus: info@esf.lu / en cas d'urgence, au GSM: 621 288 749\r\n"
-}, {
-   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -45698,80 +45610,6 @@
    },
    "prerequis" : "Cours s'adressant à des élèves malvoyants, aveugles ou ayant des troubles neuro-visuels\r\n",
    "renseignements" : "Toute demande est à adresser à M. Frank Groben: frank.groben@cc-cdv.lu Tel.: 45 43 06 - 1\r\nRenseignements supplémentaires: www.cc-cdv.lu"
-}, {
-   "adresseCours" : {
-      "codePostal" : "6919",
-      "localite" : "Luxembourg, Hollerich",
-      "nom" : "Entente sans frontières",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "24, Boulevard Dupong"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg, Hollerich",
-      "nom" : "Entente sans frontières",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "24, Boulevard Dupong"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1174",
-   "coursId" : "LA-FR-1174",
-   "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "10/02/2026",
-   "dateFin" : "30/06/2026",
-   "dateInscription" : "par mail ou sms à partir du mois de janvier 2026",
-   "description" : "Compréhension écrite: comprendre des textes courts et simple Compréhension orale: échanger des informations et des idées simples Expression orale: raconter des informations, des évéenements du passé Expression écrite: rédiger des notes et lettres, mails simples",
-   "duree" : "60h",
-   "enseignants" : [ {
-      "nom" : "Sakovic",
-      "prenom" : "Emira"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Mardi à 18:30 (durée 2h),\nJeudi à 18:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 63397,
-   "intitule" : "Français",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 0,
-   "nbPlaces" : 15,
-   "niveau" : "A1.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "6919",
-         "localite" : "Roodt-sur-Syre",
-         "nom" : "Entente sans frontières",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "19, A Millesch"
-      },
-      "code" : "ESF",
-      "mail" : "emira.sakovic@esf.lu",
-      "nom" : "Entente sans frontières",
-      "nomContact" : "Sakovic",
-      "onlineReg" : false,
-      "prenomContact" : "Emira",
-      "statut" : "ASBL",
-      "telephone" : "+352 621 288 749",
-      "websiteUrl" : "http://esf.lu/"
-   },
-   "prerequis" : "avoir atteint le niveau de A1.1"
 }, {
    "adresseCours" : {
       "codePostal" : "9080",
