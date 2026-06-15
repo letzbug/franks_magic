@@ -11,617 +11,6 @@
    "categorieCode" : "BP",
    "categorieCodeUnipop" : "CIT",
    "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-EN-55",
-   "coursId" : "BP-EN-55",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "18/06/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Trako",
-      "prenom" : "Mikel"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Mardi 16-06-2026 à 14:00 (durée 3h),\nJeudi 18-06-2026 à 14:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 58207,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "EN",
-   "langueCoursNom" : "Anglais",
-   "matiereCode" : "EN",
-   "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 13,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMDc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1278",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "1617",
-      "localite" : "Luxembourg",
-      "nom" : "Clae services asbl",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "1 rue Tony Bourg"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-BUR-75",
-   "coursId" : "IN-BUR-75",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "19/06/2026",
-   "dateInscription" : "Inscription sur place avant le début de la formation.",
-   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
-   "domainesCompetences" : [ {
-      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
-      "domaine" : "Compétences informatiques"
-   } ],
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Hazizaj",
-      "prenom" : "Bashkim"
-   }, {
-      "nom" : "Gomes Da Costa",
-      "prenom" : "Orlando"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "14:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 64079,
-   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "BUR",
-   "matiereNom" : "Bureautique",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1617",
-         "localite" : "Luxembourg",
-         "nom" : "Clae services asbl",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "26, rue de Gasperich"
-      },
-      "code" : "CLAE",
-      "mail" : "patricia.lopes@clae.lu",
-      "nom" : "Clae services asbl",
-      "nomContact" : "Lopes",
-      "onlineReg" : false,
-      "prenomContact" : "Patricia",
-      "statut" : "ASBL",
-      "telephone" : "+352 29 86 86 1",
-      "websiteUrl" : "https://www.clae.lu/"
-   },
-   "prerequis" : "Connaissance de base de l'utilisation du numérique"
-}, {
-   "adresseCours" : {
-      "codePostal" : "1839",
-      "localite" : "Luxembourg",
-      "nom" : "Centre culturel Gare",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "29, rue de Strasbourg"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1499",
-   "coursId" : "LA-LB-1499",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Freimann",
-      "prenom" : "Annick"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 10:20 (durée 1h40), Jeudi à 10:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66136,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 12,
-   "nbPlaces" : 25,
-   "niveau" : "B1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "A2",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1133",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue des Ardennes"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1494",
-   "coursId" : "LA-LB-1494",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Lemal",
-      "prenom" : "Carine"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 08:30 (durée 1h40), Jeudi à 08:30 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "08:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66131,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 14,
-   "nbPlaces" : 22,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "A2.1",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1133",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue des Ardennes"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1492",
-   "coursId" : "LA-LB-1492",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Schlechter",
-      "prenom" : "Anna"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 12:15 (durée 1h40), Jeudi à 12:15 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "12:15",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "12:15",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66129,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 21,
-   "nbPlaces" : 22,
-   "niveau" : "A2.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "prerequis" : "A1.2",
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "1133",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Culturel Bonnevoie",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "2, rue des Ardennes"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2240 ",
-      "localite" : "Luxembourg",
-      "nom" : "Ville de Luxembourg",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "13, rue Notre-Dame "
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-LB-1479",
-   "coursId" : "LA-LB-1479",
-   "coursType" : "CLASSIQUE",
-   "cout" : 50.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "15/12/2026",
-   "dateInscription" : "Du 14 avril 2026 (à partir de 08h30) jusqu'au 28 avril 2026 inclus.\r\nLien d'inscription sur le site clcl.vdl.lu",
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Lemal",
-      "prenom" : "Carine"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 10:20 (durée 1h40), Jeudi à 10:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66116,
-   "intitule" : "Luxembourgeois",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "LB",
-   "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 21,
-   "nbPlaces" : 22,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2240",
-         "localite" : "Luxembourg",
-         "nom" : "Ville de Luxembourg",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13, rue Notre-Dame"
-      },
-      "code" : "VDL",
-      "mail" : "letzebuergeschcoursen@vdl.lu",
-      "nom" : "Ville de Luxembourg",
-      "nomContact" : "Helm",
-      "onlineReg" : false,
-      "prenomContact" : "Martine",
-      "statut" : "Administration Communale",
-      "telephone" : "+352 4796-4150"
-   },
-   "renseignements" : "Par tél. au 4796-4150 ou par e-mail letzebuergeschcoursen@vdl.lu . \r\nAccès pour personnes à mobilité réduite."
-}, {
-   "adresseCours" : {
-      "codePostal" : "2309",
-      "localite" : "Luxembourg",
-      "nom" : "Lycée Technique du Centre",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "106, avenue Pasteur"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2563",
-      "localite" : "Luxembourg",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "https://www.luxchine.org/"
-   },
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-DESS-38",
-   "coursId" : "AR-DESS-38",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "30/06/2026",
-   "dateInscription" : "jusqu'au 1 juin 2026",
-   "description" : "Comparer et apprécier les différents styles de calligraphie chinoise. Préparation de l'encre de Chine, art de bien tenir le pinceau, orientation des traits, taille et style des sinogrammes. Ordre de traits et technique de production du trait. Style proposé : ¿¿¿ - li qì bei.",
-   "duree" : "20h",
-   "enseignants" : [ {
-      "nom" : "Lin",
-      "prenom" : "Li-Chuan"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 18:00 (durée 2h), Mardi à 18:00 (durée 2h), Mercredi à 18:00 (durée 2h), Jeudi à 18:00 (durée 2h), Vendredi à 18:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   }, {
-      "duree" : "2h",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63362,
-   "intitule" : "Calligraphie chinoise",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "DESS",
-   "matiereNom" : "Dessin",
-   "nbInscrits" : 12,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2563",
-         "localite" : "Luxembourg",
-         "nom" : "Association Culturelle Chinoise Lux.",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "15, rue Jean Schaack"
-      },
-      "code" : "ACCL",
-      "fax" : "/",
-      "mail" : "luxchine@pt.lu",
-      "nom" : "Association Culturelle Chinoise Lux.",
-      "nomContact" : "Wagener",
-      "onlineReg" : false,
-      "prenomContact" : "Marie-Paule",
-      "statut" : "ASBL",
-      "telephone" : "+352 236 208 59",
-      "websiteUrl" : "https://www.luxchine.org/"
-   },
-   "renseignements" : "Accès pour personnes à mobilité réduite.\r\nAu coût d'inscription s'ajouteront les frais de participation (110 euros)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
-   "coursCode" : "BP-FR-54",
-   "coursId" : "BP-FR-54",
-   "coursType" : "CLASSIQUE",
-   "cout" : 0.0,
-   "dateDebut" : "16/06/2026",
-   "dateFin" : "18/06/2026",
-   "description" : "Ce cours permet d'avoir un aperçu sur le Luxembourg par la découverte de \r\n-\tson histoire, la géographie, son patrimoine naturel et culturel ; \r\n-\tson système politique, son système éducatif et son système social ;  \r\n-\tson contexte multilingue et ses valeurs.",
-   "duree" : "6h",
-   "enseignants" : [ {
-      "nom" : "Chaib Draa",
-      "prenom" : "Khadidja"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Mardi 16-06-2026 à 14:00 (durée 3h),\nJeudi 18-06-2026 à 14:00 (durée 3h)",
-   "horaires" : [ {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Mardi"
-   }, {
-      "duree" : "3h",
-      "heure" : "14:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 58208,
-   "intitule" : "Découvrir le Grand-Duché de Luxembourg",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 7,
-   "nbPlaces" : 18,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NTgyMDg%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "1273",
-         "localite" : "Luxembourg-Hamm",
-         "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "13c, rue de Bitbourg"
-      },
-      "code" : "MFSVA",
-      "fax" : "+352 247-85730",
-      "mail" : "programme.zesummeliewen@fm.etat.lu",
-      "nom" : "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
-      "nomContact" : "Programme",
-      "onlineReg" : true,
-      "prenomContact" : "Equipe",
-      "statut" : "MENFPS",
-      "telephone" : ".",
-      "websiteUrl" : "https://mfamigr.gouvernement.lu/"
-   },
-   "renseignements" : "Ce cours est organisé dans le cadre du Biergerpakt (Programme du vivre-ensemble interculturel) ainsi que du Contrat d'accueil et d'intégration (CAI)."
-}, {
-   "adresseCours" : {
-      "codePostal" : "-",
-      "localite" : "-",
-      "nom" : "En ligne",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "En ligne"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "BP",
-   "categorieCodeUnipop" : "CIT",
-   "categorieNom" : "PACTE CITOYEN DU VIVRE-ENSEMBLE INTERCULTUREL",
    "coursCode" : "BP-FR-55",
    "coursId" : "BP-FR-55",
    "coursType" : "CLASSIQUE",
@@ -29089,6 +28478,190 @@
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
 }, {
    "adresseCours" : {
+      "codePostal" : "2309",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée Technique du Centre",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "106, avenue Pasteur"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2563",
+      "localite" : "Luxembourg",
+      "nom" : "En ligne",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "https://www.luxchine.org/"
+   },
+   "categorieCode" : "AR",
+   "categorieCodeUnipop" : "ART",
+   "categorieNom" : "ARTS ET ARTISANAT",
+   "coursCode" : "AR-DESS-38",
+   "coursId" : "AR-DESS-38",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "16/06/2026",
+   "dateFin" : "30/06/2026",
+   "dateInscription" : "jusqu'au 1 juin 2026",
+   "description" : "Comparer et apprécier les différents styles de calligraphie chinoise. Préparation de l'encre de Chine, art de bien tenir le pinceau, orientation des traits, taille et style des sinogrammes. Ordre de traits et technique de production du trait. Style proposé : ¿¿¿ - li qì bei.",
+   "duree" : "20h",
+   "enseignants" : [ {
+      "nom" : "Lin",
+      "prenom" : "Li-Chuan"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:00 (durée 2h), Mardi à 18:00 (durée 2h), Mercredi à 18:00 (durée 2h), Jeudi à 18:00 (durée 2h), Vendredi à 18:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 63362,
+   "intitule" : "Calligraphie chinoise",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "DESS",
+   "matiereNom" : "Dessin",
+   "nbInscrits" : 12,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2563",
+         "localite" : "Luxembourg",
+         "nom" : "Association Culturelle Chinoise Lux.",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, rue Jean Schaack"
+      },
+      "code" : "ACCL",
+      "fax" : "/",
+      "mail" : "luxchine@pt.lu",
+      "nom" : "Association Culturelle Chinoise Lux.",
+      "nomContact" : "Wagener",
+      "onlineReg" : false,
+      "prenomContact" : "Marie-Paule",
+      "statut" : "ASBL",
+      "telephone" : "+352 236 208 59",
+      "websiteUrl" : "https://www.luxchine.org/"
+   },
+   "renseignements" : "Accès pour personnes à mobilité réduite.\r\nAu coût d'inscription s'ajouteront les frais de participation (110 euros)."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1278",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1617",
+      "localite" : "Luxembourg",
+      "nom" : "Clae services asbl",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1 rue Tony Bourg"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-BUR-75",
+   "coursId" : "IN-BUR-75",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "16/06/2026",
+   "dateFin" : "19/06/2026",
+   "dateInscription" : "Inscription sur place avant le début de la formation.",
+   "description" : "La formation vise à transmettre des compétences ciblées en vue de permettre à toute personne d'utiliser les outils numériques devenus incontournables dans une recherche d'emploi (espace drive, cloud, diverses applications, échange de données entre média, etc).",
+   "domainesCompetences" : [ {
+      "competences" : [ "Créer et mettre en page un document;\r\nImporter et intégrer des images dans un document;\r\nUtiliser une messagerie électronique;\r\nNumériser un document;\r\nUtiliser un espace de stockage en ligne;\r\nOuvrir et utiliser un document sur plusieurs appareils;\r\nCréer un profil professionnel." ],
+      "domaine" : "Compétences informatiques"
+   } ],
+   "duree" : "6h",
+   "enseignants" : [ {
+      "nom" : "Hazizaj",
+      "prenom" : "Bashkim"
+   }, {
+      "nom" : "Gomes Da Costa",
+      "prenom" : "Orlando"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "14:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 64079,
+   "intitule" : "@jobsearch support - comment utiliser les derniers outils numériques dans une recherche d'emploi",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BUR",
+   "matiereNom" : "Bureautique",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1617",
+         "localite" : "Luxembourg",
+         "nom" : "Clae services asbl",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "26, rue de Gasperich"
+      },
+      "code" : "CLAE",
+      "mail" : "patricia.lopes@clae.lu",
+      "nom" : "Clae services asbl",
+      "nomContact" : "Lopes",
+      "onlineReg" : false,
+      "prenomContact" : "Patricia",
+      "statut" : "ASBL",
+      "telephone" : "+352 29 86 86 1",
+      "websiteUrl" : "https://www.clae.lu/"
+   },
+   "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -34318,83 +33891,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Please bring a notebook, loose sheets, pens, and crayons, pastels, or markers."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4702",
-      "localite" : "Pétange",
-      "nom" : "CIGL - Pétange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "4, rue Pierre Grégoire"
-   },
-   "categorieCode" : "IN",
-   "categorieCodeUnipop" : "TIC",
-   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
-   "coursCode" : "IN-TAB-101",
-   "coursId" : "IN-TAB-101",
-   "coursType" : "CLASSIQUE",
-   "cout" : 30.0,
-   "dateDebut" : "12/05/2026",
-   "dateFin" : "16/06/2026",
-   "dateInscription" : "Lundi à vendredi 9h à 18h",
-   "description" : "Excel Modul 2 Fortgeschritten:\r\n- Rechnen mit Formeln, Funktionen kennen lernen, Funktionen kombinieren für Aufgabenlösung in die Praxis.\r\n- Spalten und Zellen Koordinaten, warum sie so wichtig sind.  \r\n- Filter verwenden. \r\n- Grafik-Diagramm erstellen mit Hilfe von Tabellenfeldern.",
-   "domainesCompetences" : [ {
-      "competences" : [ "Calculer avec des formules avancées et combinées. Calculs avec des formules: Si, recherche verticale.", "Création des graphiques.", "Gérer plusieurs feuilles Excel. Calculs avec des cases bloquées.", "Formatage conditionnel. Figer les volets." ],
-      "domaine" : "Tableurs"
-   } ],
-   "duree" : "10h",
-   "enseignants" : [ {
-      "nom" : "Djomou Tchumo",
-      "prenom" : "Isaac",
-      "site" : "http://www.cigpetange.lu"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mardi à 16:00 (durée 1h45)",
-   "horaires" : [ {
-      "duree" : "1h45",
-      "heure" : "16:00",
-      "jour" : "Mardi"
-   } ],
-   "id" : 61785,
-   "intitule" : "Excel Modul 2-7",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "TAB",
-   "matiereNom" : "Tableurs",
-   "nbInscrits" : 1,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4702",
-         "localite" : "Pétange",
-         "nom" : "CIGL - Pétange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "4, rue Pierre Grégoire"
-      },
-      "code" : "CIGL - P",
-      "fax" : "+352 23 65 20 03",
-      "mail" : "info@cyberhall.lu",
-      "nom" : "CIGL - Pétange",
-      "nomContact" : "Toth",
-      "onlineReg" : false,
-      "prenomContact" : "Laszlo",
-      "statut" : "ASBL",
-      "telephone" : "+352 23 65 17 33 33",
-      "websiteUrl" : "http://www.cigpetange.lu"
-   },
-   "prerequis" : "Minimal Anforderung: Absolvierten  Excel Formation Modul 1  -  Exigence minimale : avoir suivi le module Excel Formation 1",
-   "renseignements" : "Inscrivez-vous avant le 08-05-2026"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -50698,81 +50194,6 @@
    },
    "prerequis" : "connaissances en luxembourgeois",
    "renseignements" : "renseignements complémentaires lors de l'inscription "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4831",
-      "localite" : "Rodange",
-      "nom" : "Ecole Fonderie à Rodange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Ecole Fonderie, 326, route de Longwy"
-   },
-   "adresseInscription" : {
-      "codePostal" : "4818",
-      "localite" : "Rodange",
-      "nom" : "Rodange",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "Centre culturel"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-IT-139",
-   "coursId" : "LA-IT-139",
-   "coursType" : "CLASSIQUE",
-   "cout" : 110.0,
-   "dateDebut" : "06/01/2026",
-   "dateFin" : "16/06/2026",
-   "dateInscription" : "électroniquement sous https://www.sirodange.com/cours-de-langue/",
-   "description" : "Approfondir ses connaissances en faisant des exercices de grammaire avancée, des dictées et des rédactions ainsi que des dialogues libres et des sketches. \r\nInformations pratiques en langue italienne, scènes de la vie quotidienne (marché, restaurant, etc)",
-   "domainesCompetences" : [ {
-      "competences" : [ "L'apprenant apprend à conjuger 130 verbes à l'imparfait + impératif et revise ces mêmes verbes dans les temps déjà appris.\r\n", "L'apprenant apprend à évoluer dans la vie quotidienne et administrative par des sketches et des dialogues libres.\r\n", "Le volet italien écrit permet à l'apprenant la rédaction de demandes et de lettres. " ],
-      "domaine" : "Italien écrit et parlé dans l'usage quotidien"
-   } ],
-   "duree" : "55h",
-   "enseignants" : [ {
-      "nom" : "Fanelli",
-      "prenom" : "Claudia"
-   } ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Mardi à 18:30 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "18:30",
-      "jour" : "Mardi"
-   } ],
-   "id" : 61872,
-   "intitule" : "Italien",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "IT",
-   "matiereNom" : "Italien",
-   "nbInscrits" : 11,
-   "nbPlaces" : 12,
-   "niveau" : "Avancé",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4843",
-         "localite" : "Rodange",
-         "nom" : "Syndicat d'Initiative Rodange",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "43, rue Fontaine d'Olière"
-      },
-      "code" : "SIR",
-      "mail" : "claudia.fanelli@education.lu",
-      "nom" : "Syndicat d'Initiative Rodange",
-      "nomContact" : "Fanelli",
-      "onlineReg" : false,
-      "prenomContact" : "Claudia",
-      "statut" : "ASBL",
-      "telephone" : "+352 691 502 241",
-      "websiteUrl" : "http://www.sirodange.com"
-   },
-   "prerequis" : "Le fait d'avoir suivi les cours d'italien débutant et intermédiaire constitue un avantage.",
-   "renseignements" : "Tél.:  +352 691 50 22 41; +352 621 63 64 12; Le cours est ouvert aux personnes à besoins spécifiques."
 }, {
    "adresseCours" : {
       "codePostal" : "8473",
