@@ -4502,7 +4502,7 @@
    "matiereCode" : "LB",
    "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
    "nbInscrits" : 6,
-   "nbPlaces" : 8,
+   "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
    "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3MzQ%3D",
@@ -11505,10 +11505,33 @@
    "dateFin" : "28/08/2026",
    "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
    "duree" : "26h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "List",
+      "prenom" : "Carole"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 08:30 (durée 2h), Mardi à 08:30 (durée 2h), Mercredi à 08:30 (durée 2h), Jeudi à 08:30 (durée 2h), Vendredi à 08:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "08:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 67746,
    "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
    "langueCoursCode" : "LB",
@@ -21132,7 +21155,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 26,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
