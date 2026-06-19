@@ -11559,6 +11559,57 @@
    "renseignements" : "La formatrice se charge du matériel. Un remboursement de 6 euros est à effectuer en espèces le jour même."
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-46",
+   "coursId" : "CIN-LB-46",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "12/08/2026",
+   "dateFin" : "28/08/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:30 (durée 2h), Mardi à 08:30 (durée 2h), Mercredi à 08:30 (durée 2h), Jeudi à 08:30 (durée 2h), Vendredi à 08:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67746,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 8,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc3NDY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
