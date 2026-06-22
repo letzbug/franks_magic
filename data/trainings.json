@@ -158,7 +158,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PSY",
    "matiereNom" : "Psychologie",
-   "nbInscrits" : 7,
+   "nbInscrits" : 10,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
@@ -280,7 +280,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "PSY",
    "matiereNom" : "Psychologie",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
@@ -342,7 +342,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 12,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -616,7 +616,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NAT",
    "matiereNom" : "Naturopathie",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -1833,7 +1833,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIO",
    "matiereNom" : "Biologie",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -2940,7 +2940,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CUIS",
    "matiereNom" : "Cuisine",
-   "nbInscrits" : 3,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3002,7 +3002,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CTB",
    "matiereNom" : "Création textiles",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 8,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -3063,7 +3063,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "SOP",
    "matiereNom" : "Sophrologie",
-   "nbInscrits" : 5,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -5204,7 +5204,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "DESS",
    "matiereNom" : "Dessin",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 12,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -6304,7 +6304,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIJU",
    "matiereNom" : "Bijoux",
-   "nbInscrits" : 2,
+   "nbInscrits" : 4,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -7321,7 +7321,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "NUT",
    "matiereNom" : "Nutrition",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -7761,7 +7761,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIJU",
    "matiereNom" : "Bijoux",
-   "nbInscrits" : 6,
+   "nbInscrits" : 7,
    "nbPlaces" : 10,
    "niveau" : "Avancé",
    "onlineRegistration" : true,
@@ -8122,7 +8122,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -10074,7 +10074,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "COMMU",
    "matiereNom" : "Communication",
-   "nbInscrits" : 7,
+   "nbInscrits" : 8,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -12298,6 +12298,57 @@
    "renseignements" : "Les élèves doivent venir avec un iPad compatible Procreate, l’app Procreate installée (˜15 €), un Apple Pencil, un iPad chargé avec son chargeur, ainsi qu’un carnet de notes."
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "categorieCode" : "CIN",
+   "categorieCodeUnipop" : "CIN",
+   "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
+   "coursCode" : "CIN-LB-47",
+   "coursId" : "CIN-LB-47",
+   "coursType" : "CLASSIQUE",
+   "cout" : 730.0,
+   "dateDebut" : "20/08/2026",
+   "dateFin" : "07/09/2026",
+   "description" : "Cours d'initiation à la langue luxembourgeoise, axé sur l'expression et la compréhension orale (minimum 24 heures), destiné aux personnes majeures résidant légalement au Luxembourg depuis au moins 20 ans, conformément à l'article 28 de la loi modifiée du 8 mars 2017 relative à la nationalité luxembourgeoise. Les bons à tarif réduit ne peuvent pas être utilisés pour ce cours.",
+   "duree" : "26h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mardi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Jeudi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67782,
+   "intitule" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Cours pour obtenir la nationalité luxembourgeoise avec résidence de 20 ans–art.28, loi 08.03.17",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc3ODI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5951",
+         "localite" : "Itzig",
+         "nom" : "Itzig",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, rue des arbustes"
+      },
+      "code" : "LLG",
+      "mail" : "carole@lucilingua.lu",
+      "nom" : "Lucilingua S.à r.l.-S.",
+      "nomContact" : "List",
+      "onlineReg" : true,
+      "prenomContact" : "Carole",
+      "statut" : "PREST_EXT",
+      "telephone" : "00352 661 350 521",
+      "websiteUrl" : "https://lucilingua.lu/en/index.html"
+   },
+   "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -12336,7 +12387,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BD",
    "matiereNom" : "Bande dessinée",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12459,7 +12510,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "COMMU",
    "matiereNom" : "Communication",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 10,
    "niveau" : "Intermédiaire",
    "onlineRegistration" : true,
@@ -12521,7 +12572,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -12868,7 +12919,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "BIO",
    "matiereNom" : "Biologie",
-   "nbInscrits" : 4,
+   "nbInscrits" : 5,
    "nbPlaces" : 10,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -14268,7 +14319,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 15,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -17502,6 +17553,81 @@
    "prerequis" : "Avoir le niveau B1.1"
 }, {
    "adresseCours" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "adresseInscription" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains (réception)",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1583",
+   "coursId" : "LA-LB-1583",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "du 07-09-2026 au 14-09-2026 de 8h00 à 16h00",
+   "description" : "La Commune de Mondorf-les-Bains, en collaboration avec la Commission du vivre-ensemble interculturel, organisera des cours de langue luxembourgeoise les soirs (niveau débutant) à partir de la rentrée scolaire 2026/2027.\r\n1ière partie du cours débutants",
+   "domainesCompetences" : [ {
+      "competences" : [ null ],
+      "domaine" : "cours de langue"
+   } ],
+   "duree" : "112h",
+   "enseignants" : [ {
+      "nom" : "Schumacher",
+      "prenom" : "Fabrice"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Lundi"
+   } ],
+   "id" : 67093,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5627",
+         "localite" : "Mondorf-Les-Bains",
+         "nom" : "Administration Communale de Mondorf-les-bains",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, Place des Villes Jumellées"
+      },
+      "code" : "A.C. MLB",
+      "mail" : "daniele.kirch@mondorf-les-bains.lu",
+      "nom" : "Commune de Mondorf-les-bains",
+      "nomContact" : "Janitzki",
+      "onlineReg" : false,
+      "prenomContact" : "Tamara",
+      "statut" : "Administration Communale",
+      "telephone" : "23 60 55 24",
+      "websiteUrl" : "https://www.mondorf-les-bains.lu"
+   },
+   "prerequis" : "Les résidents de la Commune de Mondorf-les-Bains et de la Commune de Mondorff (France) sont prioritaires aux non-résidents.",
+   "renseignements" : "Complexe Scolaire G.-D. Maria Teresa\r\n3, Avenue des Villes Jumelées - Mondorf-les-Bains\r\n(salle accessible pour les personnes à mobilité réduite)"
+}, {
+   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Athénée de Luxembourg",
@@ -18933,6 +19059,77 @@
    "renseignements" : "Supports pédagogiques fournis. Participation active des apprenants à travers des activités de compréhension et d'expression orales et écrites."
 }, {
    "adresseCours" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "adresseInscription" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1689",
+   "coursId" : "LA-LB-1689",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "22/09/2026",
+   "dateFin" : "15/12/2026",
+   "dateInscription" : "du 07/09/2026 au 14/09/2026 de 8h00 à 16h00",
+   "description" : "La Commune de Mondorf-les-Bains, en collaboration avec la Commission du vivre-ensemble interculturel, organisera des cours de langue luxembourgeoise les soirs (niveau débutant) à partir de la rentrée scolaire 2026/2027. 1ière partie du cours débutants",
+   "duree" : "112h",
+   "enseignants" : [ {
+      "nom" : "Hein",
+      "prenom" : "Manette"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   } ],
+   "id" : 67677,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5627",
+         "localite" : "Mondorf-Les-Bains",
+         "nom" : "Administration Communale de Mondorf-les-bains",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, Place des Villes Jumellées"
+      },
+      "code" : "A.C. MLB",
+      "mail" : "daniele.kirch@mondorf-les-bains.lu",
+      "nom" : "Commune de Mondorf-les-bains",
+      "nomContact" : "Janitzki",
+      "onlineReg" : false,
+      "prenomContact" : "Tamara",
+      "statut" : "Administration Communale",
+      "telephone" : "23 60 55 24",
+      "websiteUrl" : "https://www.mondorf-les-bains.lu"
+   },
+   "prerequis" : "Les résidents de la Commune de Mondorf-les-Bains et de la Commune de Mondorff (France) sont prioritaires aux non-résidents.",
+   "renseignements" : "Complexe scolaire G.-D. Maria Teresa 3, Avenue des Villes Jumelées - Mondorf-les-Bains (salle accessible pour les personnes à mobilité réduite)"
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -20239,6 +20436,81 @@
    "renseignements" : "Langue véhiculaire : français et anglais\r\nRenseignement : Manuel «Marugoto A2.2» à acheter; il peut également être acquis lors du premier cours.   "
 }, {
    "adresseCours" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "adresseInscription" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains (réception)",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1586",
+   "coursId" : "LA-LB-1586",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "23/09/2026",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "du 07-09-2026 au 14-09-2026 de 8h00 à 16h00",
+   "description" : "La Commune de Mondorf-les-Bains, en collaboration avec la Commission du vivre-ensemble interculturel, organisera des cours de langue luxembourgeoise les soirs (niveau avancé) à partir de la rentrée scolaire 2026-2027.\r\n1ière partie cours avancés",
+   "domainesCompetences" : [ {
+      "competences" : [ null ],
+      "domaine" : "cours de langue"
+   } ],
+   "duree" : "96h",
+   "enseignants" : [ {
+      "nom" : "Schumacher",
+      "prenom" : "Fabrice"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67096,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5627",
+         "localite" : "Mondorf-Les-Bains",
+         "nom" : "Administration Communale de Mondorf-les-bains",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, Place des Villes Jumellées"
+      },
+      "code" : "A.C. MLB",
+      "mail" : "daniele.kirch@mondorf-les-bains.lu",
+      "nom" : "Commune de Mondorf-les-bains",
+      "nomContact" : "Janitzki",
+      "onlineReg" : false,
+      "prenomContact" : "Tamara",
+      "statut" : "Administration Communale",
+      "telephone" : "23 60 55 24",
+      "websiteUrl" : "https://www.mondorf-les-bains.lu"
+   },
+   "prerequis" : "Les résidents de la Commune de Mondorf-les-Bains et de la Commune de Mondorff (France) sont prioritaires aux non-résidents.",
+   "renseignements" : "Complexe scolaire G.-D. Maria Teresa\r\n3, Avenue des Villes Jumelées - Mondorf-les-Bains\r\n(salle accessible pour les personnes à mobilité réduite)"
+}, {
+   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Athénée de Luxembourg",
@@ -20756,6 +21028,77 @@
    },
    "prerequis" : "Niveau A2.1 du CECRL acquis ou avoir suivi et validé Espagnol III ",
    "renseignements" : "Langues véhiculaires utilisées: espagnol, français et anglais.\r\nNouveau cours d'espagnol intermédiaire avant le cours final de conversation plus avancé du niveau B1 du CECRL.\r\nAccès pour personnes à mobilité réduite.\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "adresseInscription" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1690",
+   "coursId" : "LA-LB-1690",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "24/09/2026",
+   "dateFin" : "17/12/2026",
+   "dateInscription" : "du 07/09/2026 au 14/09/2026 de 8h00 à 16h00",
+   "description" : "La Commune de Mondorf-les-Bains, en collaboration avec la Commission du vivre-ensemble interculturel, organisera des cours de langue luxembourgeoise les soirs (niveau avancé) à partir de la rentrée scolaire 2026/2027. 1ière partie cours avancés",
+   "duree" : "96h",
+   "enseignants" : [ {
+      "nom" : "Hein",
+      "prenom" : "Manette"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67678,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5627",
+         "localite" : "Mondorf-Les-Bains",
+         "nom" : "Administration Communale de Mondorf-les-bains",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, Place des Villes Jumellées"
+      },
+      "code" : "A.C. MLB",
+      "mail" : "daniele.kirch@mondorf-les-bains.lu",
+      "nom" : "Commune de Mondorf-les-bains",
+      "nomContact" : "Janitzki",
+      "onlineReg" : false,
+      "prenomContact" : "Tamara",
+      "statut" : "Administration Communale",
+      "telephone" : "23 60 55 24",
+      "websiteUrl" : "https://www.mondorf-les-bains.lu"
+   },
+   "prerequis" : "Les résidents de la Commune de Mondorf-les-Bains et de la Commune de Mondorff (France) sont prioritaires aux non-résidents.",
+   "renseignements" : "Complexe scolaire G.-D. Maria Teresa 3, Avenue des Villes Jumelées - Mondorf-les-Bains (salle accessible pour les personnes à mobilité réduite)"
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -22820,7 +23163,7 @@
    "langueCoursNom" : "Italien",
    "matiereCode" : "IT",
    "matiereNom" : "Italien",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 15,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -25893,7 +26236,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "RU",
    "matiereNom" : "Russe",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 10,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : true,
@@ -27094,7 +27437,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 20,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : true,
@@ -27265,17 +27608,28 @@
    "dateInscription" : "A partir de juillet 2026",
    "description" : "- sech orientéieren dobaussen\r\n- eng Wunneng sichen a beschreiwen\r\n- en normalen Dag / diskutéieren wat war gutt a net gutt\r\n- Persoune beschreiwen (mam Charakter)",
    "duree" : "52h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Lamesch",
+      "prenom" : "Margot Jeannine"
+   } ],
    "format" : "PRESENTIEL",
    "horairePrevu" : "Mardi à 18:30 (durée 2h), Jeudi à 18:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
    "id" : 67099,
    "intitule" : "Luxembourgeois - intermédiaire",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 2,
    "nbPlaces" : 17,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -29262,6 +29616,74 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "adresseInscription" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1584",
+   "coursId" : "LA-LB-1584",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "04/01/2027",
+   "dateFin" : "20/05/2027",
+   "dateInscription" : "du 18-08-2026 au 04-09-2026 de 8h00 à 16h00",
+   "description" : "La Commune de Mondorf-les-Bains, en collaboration avec la Commission du\r\nvivre-ensemble interculturel, organisera des cours de langue luxembourgeoise les soirs (niveau débutant) à partir de la rentrée scolaire 2026/2027\r\n2ième partie du cours débutants",
+   "domainesCompetences" : [ {
+      "competences" : [ null ],
+      "domaine" : "cours de langue"
+   } ],
+   "duree" : "136h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 18:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67094,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5627",
+         "localite" : "Mondorf-Les-Bains",
+         "nom" : "Administration Communale de Mondorf-les-bains",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, Place des Villes Jumellées"
+      },
+      "code" : "A.C. MLB",
+      "mail" : "daniele.kirch@mondorf-les-bains.lu",
+      "nom" : "Commune de Mondorf-les-bains",
+      "nomContact" : "Janitzki",
+      "onlineReg" : false,
+      "prenomContact" : "Tamara",
+      "statut" : "Administration Communale",
+      "telephone" : "23 60 55 24",
+      "websiteUrl" : "https://www.mondorf-les-bains.lu"
+   },
+   "prerequis" : "Les résidents de la Commune de Mondorf-les-Bains et de la Commune de Mondorff (France) sont prioritaires aux non-résidents.",
+   "renseignements" : "Complex scolaire G.-D. Maria Teresa\r\n3, Avenue des Villes Jumelées - Mondorf-les-Bains\r\n(salle accessible pour les personnes à mobilité réduite)"
+}, {
+   "adresseCours" : {
       "codePostal" : "4024",
       "localite" : "Esch Sur Alzette",
       "nom" : "CIGL - Esch sur Alzette",
@@ -29414,6 +29836,70 @@
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "adresseInscription" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1691",
+   "coursId" : "LA-LB-1691",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "05/01/2027",
+   "dateFin" : "18/05/2027",
+   "dateInscription" : "du 07/09/2026 au 14/09/2026 de 8h00 à 16h00",
+   "description" : "La Commune de Mondorf-les-Bains, en collaboration avec la Commission du vivre-ensemble interculturel, organisera des cours de langue luxembourgeoise les soirs (niveau débutant) à partir de la rentrée scolaire 2026/2027. 2ième partie du cours",
+   "duree" : "136h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67679,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5627",
+         "localite" : "Mondorf-Les-Bains",
+         "nom" : "Administration Communale de Mondorf-les-bains",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, Place des Villes Jumellées"
+      },
+      "code" : "A.C. MLB",
+      "mail" : "daniele.kirch@mondorf-les-bains.lu",
+      "nom" : "Commune de Mondorf-les-bains",
+      "nomContact" : "Janitzki",
+      "onlineReg" : false,
+      "prenomContact" : "Tamara",
+      "statut" : "Administration Communale",
+      "telephone" : "23 60 55 24",
+      "websiteUrl" : "https://www.mondorf-les-bains.lu"
+   },
+   "prerequis" : "Les résidents de la Commune de Mondorf-les-Bains et de la Commune de Mondorff (France) sont prioritaires aux non-résidents.",
+   "renseignements" : "Complexe scolaire G.-D. Maria Teresa 3, Avenue des  Villes Jumelées - Mondorf-les-Bains (salle accessible pour les personnes à mobilité réduite)"
 }, {
    "adresseCours" : {
       "codePostal" : "4024",
@@ -29587,6 +30073,138 @@
       "statut" : "ASBL",
       "telephone" : "+352 54 42 45 208"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "adresseInscription" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1587",
+   "coursId" : "LA-LB-1587",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "06/01/2027",
+   "dateFin" : "19/05/2027",
+   "dateInscription" : "du 07/09/2026 au 14-09-2026 de 8h00 à 16h00",
+   "description" : "La Commune de Mondorf-les-Bains, en collaboration avec la Commission du vivre-ensemble interculturel, organisera des cours de langue luxembourgeoise les soirs (niveau avancé) à partir de la rentrée scolaire 2026/2027.\r\n2ième partie du cours avancés",
+   "domainesCompetences" : [ {
+      "competences" : [ null ],
+      "domaine" : "cours de langue"
+   } ],
+   "duree" : "136h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 18:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67097,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "EN",
+   "langueCoursNom" : "Anglais",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5627",
+         "localite" : "Mondorf-Les-Bains",
+         "nom" : "Administration Communale de Mondorf-les-bains",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, Place des Villes Jumellées"
+      },
+      "code" : "A.C. MLB",
+      "mail" : "daniele.kirch@mondorf-les-bains.lu",
+      "nom" : "Commune de Mondorf-les-bains",
+      "nomContact" : "Janitzki",
+      "onlineReg" : false,
+      "prenomContact" : "Tamara",
+      "statut" : "Administration Communale",
+      "telephone" : "23 60 55 24",
+      "websiteUrl" : "https://www.mondorf-les-bains.lu"
+   },
+   "prerequis" : "Les résidents de la Commune de Mondorf-les-Bains et de la Commune de Mondorff (France) sont prioritaires aux non-résidents.",
+   "renseignements" : "Complexe scolaire G.-D. Maria Teresa\r\n3, Avenue des Villes Jumelées - Mondorf-les-Bains\r\n(salle accessible pour les personnes à mobilité réduite)"
+}, {
+   "adresseCours" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "adresseInscription" : {
+      "codePostal" : "5627",
+      "localite" : "Mondorf-Les-Bains",
+      "nom" : "Administration Communale de Mondorf-les-bains",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "1, Place des Villes Jumellées"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1692",
+   "coursId" : "LA-LB-1692",
+   "coursType" : "CLASSIQUE",
+   "cout" : 100.0,
+   "dateDebut" : "07/01/2027",
+   "dateFin" : "17/05/2027",
+   "dateInscription" : "07/09/2026 au 14/09/2026 de 8h00 à 16h00",
+   "description" : "La Commune de Mondorf-les-Bains, en collaboration avec la Commission du vivre-ensemble interculturel, organisera des cours de langue luxembourgeoise les soirs (niveau avancé) à partir de la rentrée scolaire 2026/2027. 2ième partie cours avancés",
+   "duree" : "136h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67686,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "Avancé",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "5627",
+         "localite" : "Mondorf-Les-Bains",
+         "nom" : "Administration Communale de Mondorf-les-bains",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "1, Place des Villes Jumellées"
+      },
+      "code" : "A.C. MLB",
+      "mail" : "daniele.kirch@mondorf-les-bains.lu",
+      "nom" : "Commune de Mondorf-les-bains",
+      "nomContact" : "Janitzki",
+      "onlineReg" : false,
+      "prenomContact" : "Tamara",
+      "statut" : "Administration Communale",
+      "telephone" : "23 60 55 24",
+      "websiteUrl" : "https://www.mondorf-les-bains.lu"
+   },
+   "prerequis" : "Les résidents de la Commune de Mondorf-les-Bains et de la Commune de Mondorff (France) sont prioritaires aux non-résidents.",
+   "renseignements" : "Complexe scolaire G.-D. Maria Teresa 3, Avenue des Villes Jumelées - Mondorf-les-Bains (salle accessible pour les personnes à mobilité réduite)"
 }, {
    "adresseCours" : {
       "codePostal" : "4802",
@@ -30036,7 +30654,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 17,
    "niveau" : "A2.2 du CECRL",
    "onlineRegistration" : true,
@@ -51110,23 +51728,22 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "2449",
-         "localite" : "Luxembourg",
+         "codePostal" : "8039",
+         "localite" : "Strassen",
          "nom" : "Amitiés Italo-Luxembourgeoise de Luxembourg",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "P/A 14, bld Royal"
+         "rueNumero" : "46 rue des Prés"
       },
       "code" : "AILL",
-      "fax" : "+352 49 92 43-071",
-      "mail" : "catherine.vanleeuwen@bdl.lu",
+      "mail" : "amitalux1951@gmail.com",
       "nom" : "Amitiés Italo-Luxembourgeoises de Luxembourg",
       "nomContact" : "Van Leeuwen",
       "onlineReg" : false,
       "prenomContact" : "Catherine",
       "statut" : "ASBL",
-      "telephone" : "+352 49 92 43-316 ",
-      "websiteUrl" : "http://www.amitalux.lu/"
+      "telephone" : "(voir e-mail)",
+      "websiteUrl" : "http://www.amitalux.com"
    },
    "prerequis" : "Avoir suivi le cours LA-IT-145 en 2025"
 }, {
@@ -51331,23 +51948,22 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "2449",
-         "localite" : "Luxembourg",
+         "codePostal" : "8039",
+         "localite" : "Strassen",
          "nom" : "Amitiés Italo-Luxembourgeoise de Luxembourg",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "P/A 14, bld Royal"
+         "rueNumero" : "46 rue des Prés"
       },
       "code" : "AILL",
-      "fax" : "+352 49 92 43-071",
-      "mail" : "catherine.vanleeuwen@bdl.lu",
+      "mail" : "amitalux1951@gmail.com",
       "nom" : "Amitiés Italo-Luxembourgeoises de Luxembourg",
       "nomContact" : "Van Leeuwen",
       "onlineReg" : false,
       "prenomContact" : "Catherine",
       "statut" : "ASBL",
-      "telephone" : "+352 49 92 43-316 ",
-      "websiteUrl" : "http://www.amitalux.lu/"
+      "telephone" : "(voir e-mail)",
+      "websiteUrl" : "http://www.amitalux.com"
    },
    "prerequis" : "Avoir suivi le cours LA-IT-119 en 2025 "
 }, {
@@ -52293,23 +52909,22 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "2449",
-         "localite" : "Luxembourg",
+         "codePostal" : "8039",
+         "localite" : "Strassen",
          "nom" : "Amitiés Italo-Luxembourgeoise de Luxembourg",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "P/A 14, bld Royal"
+         "rueNumero" : "46 rue des Prés"
       },
       "code" : "AILL",
-      "fax" : "+352 49 92 43-071",
-      "mail" : "catherine.vanleeuwen@bdl.lu",
+      "mail" : "amitalux1951@gmail.com",
       "nom" : "Amitiés Italo-Luxembourgeoises de Luxembourg",
       "nomContact" : "Van Leeuwen",
       "onlineReg" : false,
       "prenomContact" : "Catherine",
       "statut" : "ASBL",
-      "telephone" : "+352 49 92 43-316 ",
-      "websiteUrl" : "http://www.amitalux.lu/"
+      "telephone" : "(voir e-mail)",
+      "websiteUrl" : "http://www.amitalux.com"
    },
    "prerequis" : "Avoir suivi le cours LA-IT-120 en 2025"
 }, {
@@ -52374,23 +52989,22 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "2449",
-         "localite" : "Luxembourg",
+         "codePostal" : "8039",
+         "localite" : "Strassen",
          "nom" : "Amitiés Italo-Luxembourgeoise de Luxembourg",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "P/A 14, bld Royal"
+         "rueNumero" : "46 rue des Prés"
       },
       "code" : "AILL",
-      "fax" : "+352 49 92 43-071",
-      "mail" : "catherine.vanleeuwen@bdl.lu",
+      "mail" : "amitalux1951@gmail.com",
       "nom" : "Amitiés Italo-Luxembourgeoises de Luxembourg",
       "nomContact" : "Van Leeuwen",
       "onlineReg" : false,
       "prenomContact" : "Catherine",
       "statut" : "ASBL",
-      "telephone" : "+352 49 92 43-316 ",
-      "websiteUrl" : "http://www.amitalux.lu/"
+      "telephone" : "(voir e-mail)",
+      "websiteUrl" : "http://www.amitalux.com"
    },
    "prerequis" : "Avoir suivi le cours LA-IT-118 en 2025 "
 }, {
@@ -52455,23 +53069,22 @@
    "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "2449",
-         "localite" : "Luxembourg",
+         "codePostal" : "8039",
+         "localite" : "Strassen",
          "nom" : "Amitiés Italo-Luxembourgeoise de Luxembourg",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "P/A 14, bld Royal"
+         "rueNumero" : "46 rue des Prés"
       },
       "code" : "AILL",
-      "fax" : "+352 49 92 43-071",
-      "mail" : "catherine.vanleeuwen@bdl.lu",
+      "mail" : "amitalux1951@gmail.com",
       "nom" : "Amitiés Italo-Luxembourgeoises de Luxembourg",
       "nomContact" : "Van Leeuwen",
       "onlineReg" : false,
       "prenomContact" : "Catherine",
       "statut" : "ASBL",
-      "telephone" : "+352 49 92 43-316 ",
-      "websiteUrl" : "http://www.amitalux.lu/"
+      "telephone" : "(voir e-mail)",
+      "websiteUrl" : "http://www.amitalux.com"
    },
    "prerequis" : "Avoir suivi le cours LA-IT-117 en 2025"
 }, {
