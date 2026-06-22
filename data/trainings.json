@@ -9767,7 +9767,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "CTB",
    "matiereNom" : "Création textiles",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 8,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -14860,6 +14860,82 @@
    "renseignements" : "Course content \r\nDevelopment of A2-level grammar \r\nExpansion of thematic vocabulary\r\nFunctional language: asking for information, giving directions, making requests, describing experiences\r\nGuided speaking practice and interactive activities"
 }, {
    "adresseCours" : {
+      "codePostal" : "1750",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée de Garçons",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "41A Av.Victor Hugo"
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1419",
+   "coursId" : "LA-FR-1419",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "14/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "inscription sur rdv: info@efid.lu",
+   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
+   "domainesCompetences" : [ {
+      "competences" : [ "L'apprenant peut comprendre une conversation simple et en rapporter le contenu.", "L'apprenant est en mesure de comprendre un échange simple entre natifs" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "L'apprenant peut engager une conversation simple. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.\r\n", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
+      "domaine" : "Expression orale en continu"
+   }, {
+      "competences" : [ "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées ." ],
+      "domaine" : "Expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 14:00 (durée 2h), Mardi à 14:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 65127,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "9089",
       "localite" : "Ettelbruck",
       "nom" : "Ettelbruck",
@@ -17628,6 +17704,69 @@
    "renseignements" : "Complexe Scolaire G.-D. Maria Teresa\r\n3, Avenue des Villes Jumelées - Mondorf-les-Bains\r\n(salle accessible pour les personnes à mobilité réduite)"
 }, {
    "adresseCours" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "AL",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "COMPÉTENCES DE BASE",
+   "coursCode" : "AL-ALFR-270",
+   "coursId" : "AL-ALFR-270",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "inscription sur rdv:info@efid.lu",
+   "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul.",
+   "duree" : "80h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h15), Mardi à 09:00 (durée 3h15), Jeudi à 09:00 (durée 1h30)",
+   "horaires" : [ ],
+   "id" : 67488,
+   "intitule" : "Alphabétisation en langue française",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "ALFR",
+   "matiereNom" : "Alphabétisation en langue française",
+   "nbInscrits" : 0,
+   "nbPlaces" : 19,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc0ODg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
       "nom" : "Athénée de Luxembourg",
@@ -17899,6 +18038,69 @@
    },
    "prerequis" : "Aucun prérequis n'est nécessaire.",
    "renseignements" : "Supports pédagogiques fournis. Participation active des apprenants à travers des activités de compréhension et d'expression orales et écrites."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1750",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée de Garçons",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "41A Av.Victor Hugo"
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "AL",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "COMPÉTENCES DE BASE",
+   "coursCode" : "AL-ALFR-264",
+   "coursId" : "AL-ALFR-264",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "inscription sur rdv:info@efid.lu",
+   "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul.",
+   "duree" : "80h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 14:00 (durée 3h), Mercredi à 14:00 (durée 3h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67020,
+   "intitule" : "Alphabétisation en langue française",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "ALFR",
+   "matiereNom" : "Alphabétisation en langue française",
+   "nbInscrits" : 0,
+   "nbPlaces" : 19,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwMjA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -18777,6 +18979,84 @@
    "renseignements" : "Langues véhiculaires utilisées: français et anglais.\r\nAccès pour personnes à mobilité réduite"
 }, {
    "adresseCours" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1422",
+   "coursId" : "LA-FR-1422",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "Inscription sur rdv: info@efid.lu",
+   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre une histoire simple au présent au passé composé et des instructions si le débit de parole est lent et le vocabulaire simple." ],
+      "domaine" : "Compréhension orale "
+   }, {
+      "competences" : [ "Ecrire un petit texte suivi en utilisant un vocabulaire usuel relatant des actions élémentaires au présent, futur ou passé composé." ],
+      "domaine" : "Expression écrite"
+   }, {
+      "domaine" : "Interaction orale "
+   }, {
+      "competences" : [ "Participer à un dialogue simple et pas trop rapide en répondant ou en posant des questions à l'interlocuteur.", "Exprimer des notions futures ou des actions au passé." ],
+      "domaine" : "Expression orale "
+   }, {
+      "competences" : [ "Comprendre de petits textes simples sur des sujets courants" ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Mercredi à 13:00 (durée 3h), Vendredi à 13:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 65130,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMzA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -18843,6 +19123,237 @@
    },
    "prerequis" : "Aucun prérequis n'est nécessaire.",
    "renseignements" : "Supports pédagogiques fournis. Participation active des apprenants à travers des activités de compréhension et d'expression orales et écrites."
+}, {
+   "adresseCours" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1417",
+   "coursId" : "LA-FR-1417",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "inscription sur rdv: info@efid.lu",
+   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des instructions et des consignes orales", "comprendre des expressions familières de la vie quotidienne", "comprendre quelqu'un qui se présente", "comprendre des indications chiffrées", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier", "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes comprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)" ],
+      "domaine" : "Expression orale en continu"
+   }, {
+      "competences" : [ "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information" ],
+      "domaine" : "Interaction orale"
+   }, {
+      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)", "décrire succinctement son environnement", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue" ],
+      "domaine" : "Expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 09:00 (durée 2h), Mardi à 09:00 (durée 2h), Jeudi à 09:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65125,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "1750",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée de Garçons",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "41A Av.Victor Hugo"
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1423",
+   "coursId" : "LA-FR-1423",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "Inscription sur rdv: info@efid.lu",
+   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "L'apprenant peut comprendre une conversation simple et en rapporter le contenu.", "L'apprenant est en mesure de comprendre un échange simple entre natifs, dans un éventail de domaines plus large." ],
+      "domaine" : "Compréhension orale "
+   }, {
+      "competences" : [ "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées par écrit." ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "L'apprenant peut engager une conversation simplement dans plusieurs domaines et notamment professionnels. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
+      "domaine" : "Expression orale "
+   }, {
+      "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne.", "L'apprenant est en mesure de lire les correspondances officielles et les courriels professionnels.", "L'apprenant peut trouver rapidement les informations demandées dans un texte." ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 14:00 (durée 2h), Mardi à 14:00 (durée 2h), Mercredi à 14:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65131,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMzE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1420",
+   "coursId" : "LA-FR-1420",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "21/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "inscription sur rdv: info@efid.lu",
+   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
+   "domainesCompetences" : [ {
+      "competences" : [ "L'apprenant peut comprendre une conversation simple et en rapporter le contenu.", "L'apprenant est en mesure de comprendre un échange simple entre natifs" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "L'apprenant est confronté à des textes variés balayant les domaines de la vie quotidienne." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "L'apprenant peut engager une conversation simple. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.\r\n", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
+      "domaine" : "Expression orale en continu"
+   }, {
+      "competences" : [ "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées ." ],
+      "domaine" : "Expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 11:00 (durée 2h), Mardi à 11:00 (durée 2h), Jeudi à 11:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65128,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjg%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -18916,6 +19427,69 @@
    },
    "prerequis" : "/",
    "renseignements" : "Langues véhiculaires utilisées: français et anglais.\r\nAccès pour personnes à mobilité réduite."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1750",
+      "localite" : "Luxembourg",
+      "nom" : "Lycée de Garçons",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "41A Av.Victor Hugo"
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "AL",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "COMPÉTENCES DE BASE",
+   "coursCode" : "AL-ALFR-266",
+   "coursId" : "AL-ALFR-266",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "22/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "inscription sur rdv: info@efid.lu",
+   "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul.",
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Mardi à 14:00 (durée 3h), Jeudi à 14:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67023,
+   "intitule" : "Alphabétisation en langue française",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "ALFR",
+   "matiereNom" : "Alphabétisation en langue française",
+   "nbInscrits" : 0,
+   "nbPlaces" : 19,
+   "niveau" : "Avancé 2",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwMjM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -19491,6 +20065,84 @@
    },
    "prerequis" : "Niveau A2.2 du CECRL acquis",
    "renseignements" : "Langues véhiculaires utilisées: espagnol, français et anglais.\r\nRéalisation des exercices pour les tests B1 du CECRL de l'Institut Cervantes.\r\nAccès pour personnes à mobilité réduite."
+}, {
+   "adresseCours" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1421",
+   "coursId" : "LA-FR-1421",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "22/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "Inscription sur rdv: info@efid.lu",
+   "description" : "Décrire votre environnement personnel et professionnel (personnes, lieux, études, travail), échanger des informations et des idées simples, raconter un événement court et simple, écrire des notes et lettres simples, comprendre des textes courts et simples",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre une histoire simple au présent au passé composé et des instructions si le débit de parole est lent et le vocabulaire simple." ],
+      "domaine" : "Compréhension orale "
+   }, {
+      "competences" : [ "Ecrire un petit texte suivi en utilisant un vocabulaire usuel relatant des actions élémentaires au présent, futur ou passé composé." ],
+      "domaine" : "Expression écrite"
+   }, {
+      "domaine" : "Interaction orale "
+   }, {
+      "competences" : [ "Participer à un dialogue simple et pas trop rapide en répondant ou en posant des questions à l'interlocuteur.", "Exprimer des notions futures ou des actions au passé." ],
+      "domaine" : "Expression orale "
+   }, {
+      "competences" : [ "Comprendre de petits textes simples sur des sujets courants" ],
+      "domaine" : "Compréhension écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Mardi à 13:30 (durée 2h), Mercredi à 13:30 (durée 2h), Jeudi à 13:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65129,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
@@ -20231,77 +20883,83 @@
    "renseignements" : "Langues véhiculaires utilisées lors du cours: français, luxembourgeois, allemand, anglais.\r\nAccès pour personnes à mobilité réduite"
 }, {
    "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Athénée de Luxembourg",
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID ",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "24, boulevard Pierre Dupong"
+      "rueNumero" : "19, route d'Arlon "
    },
    "adresseInscription" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Athénée de Luxembourg",
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "24, boulevard Pierre Dupong"
+      "rueNumero" : "19, route d'Arlon "
    },
-   "anneeScolaire" : "2026/2027",
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-EL-20",
-   "coursId" : "LA-EL-20",
+   "coursCode" : "LA-FR-1418",
+   "coursId" : "LA-FR-1418",
    "coursType" : "CLASSIQUE",
-   "cout" : 234.0,
+   "cout" : 180.0,
    "dateDebut" : "23/09/2026",
-   "dateFin" : "02/05/2027",
-   "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
-   "description" : "Comprendre le contenu essentiel de sujets concrets ou abstraits dans un discours complexe, y compris une discussion technique dans sa spécialité. Communiquer avec un degré de spontanéité et d'aisance telle qu'une conversation avec un interlocuteur natif. S'exprimer de façon claire et détaillée sur une grande gamme de sujets. Émettre un avis sur un sujet d'actualité et exposer les avantages et les inconvénients de différentes possibilités. Le focus est mis sur l'expression orale et la compréhension auditive dans ce cours.",
-   "duree" : "52 leçons",
-   "enseignants" : [ {
-      "nom" : "Simou",
-      "prenom" : "Areti"
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "inscription sur rdv: info@efid.lu",
+   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des instructions et des consignes orales", "comprendre des expressions familières de la vie quotidienne", "comprendre quelqu'un qui se présente", "comprendre des indications chiffrées", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes comprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes", "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)" ],
+      "domaine" : "Expression orale en continu"
+   }, {
+      "competences" : [ "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information" ],
+      "domaine" : "Interaction orale"
+   }, {
+      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)", "décrire succinctement son environnement", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue" ],
+      "domaine" : "Expression écrite"
    } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi à 17:50 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "17:50",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66755,
-   "intitule" : "Grec moderne IV - conversation",
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Mercredi à 09:30 (durée 3h30), Jeudi à 10:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 65126,
+   "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "EL",
-   "matiereNom" : "Grec",
-   "nbInscrits" : 2,
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
    "nbPlaces" : 24,
-   "niveau" : "B1.2 du CECRL",
+   "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3NTU%3D",
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjY%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1430",
-         "localite" : "Luxembourg",
-         "nom" : "Athénée de Luxembourg",
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "24, bld Pierre Dupong"
+         "rueNumero" : "19, Route d'Arlon"
       },
-      "code" : "AL",
-      "mail" : "coursdusoir@al.lu",
-      "nom" : "Athénée de Luxembourg",
-      "nomContact" : "Gaspar",
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
       "onlineReg" : true,
-      "prenomContact" : "Rosa",
-      "statut" : "MENFPS",
-      "telephone" : "+352 44 02 49 6560",
-      "websiteUrl" : "http://www.al.lu"
-   },
-   "prerequis" : "Niveau B1.1 du CECRL accompli",
-   "renseignements" : "Langues véhiculaires utilisées: français et anglais.\r\nAccès pour personnes à mobilité réduite."
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4277",
@@ -20434,6 +21092,69 @@
    },
    "prerequis" : "Niveau A2.1 déjà complété. Être prêt à réviser de façon autonome et à mettre en pratique les acquis.",
    "renseignements" : "Langue véhiculaire : français et anglais\r\nRenseignement : Manuel «Marugoto A2.2» à acheter; il peut également être acquis lors du premier cours.   "
+}, {
+   "adresseCours" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "AL",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "COMPÉTENCES DE BASE",
+   "coursCode" : "AL-ALFR-265",
+   "coursId" : "AL-ALFR-265",
+   "coursType" : "CLASSIQUE",
+   "cout" : 0.0,
+   "dateDebut" : "23/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "inscription sur rdv: info@efid.lu",
+   "description" : "Acquérir ou améliorer ses compétences en lecture, écriture et calcul.",
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Mercredi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67022,
+   "intitule" : "Alphabétisation en langue française",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "ALFR",
+   "matiereNom" : "Alphabétisation en langue française",
+   "nbInscrits" : 0,
+   "nbPlaces" : 19,
+   "niveau" : "Avancé 1",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwMjI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "5627",
@@ -20948,6 +21669,79 @@
    },
    "prerequis" : "Niveau A1.2 acquis. Manuels à acheter: \r\nHurra, Po polsku 2 (podrecznik studenta), ISBN: 978-83-963530-9-2 et Hurra, Po polsku 2 (zeszyt cwiczen), ISBN: 978-83-67351-00-3 des auteurs Agnieszka Dixon et Agnieszka Jasinska",
    "renseignements" : "Accès pour personnes à mobilité réduite\r\nCe cours s'adresse également aux gens qui sont d'origine polonaise. Le rappel des règles et de la structure de la langue permet de retrouver rapidement une certaine assurance et fluidité dans l'expression."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Athénée de Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, boulevard Pierre Dupong"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Athénée de Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, boulevard Pierre Dupong"
+   },
+   "anneeScolaire" : "2026/2027",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-EL-20",
+   "coursId" : "LA-EL-20",
+   "coursType" : "CLASSIQUE",
+   "cout" : 234.0,
+   "dateDebut" : "23/09/2026",
+   "dateFin" : "02/05/2027",
+   "dateInscription" : "Mardi 15 septembre 2026 de 17h30 à 19h30 ou en ligne",
+   "description" : "Comprendre le contenu essentiel de sujets concrets ou abstraits dans un discours complexe, y compris une discussion technique dans sa spécialité. Communiquer avec un degré de spontanéité et d'aisance telle qu'une conversation avec un interlocuteur natif. S'exprimer de façon claire et détaillée sur une grande gamme de sujets. Émettre un avis sur un sujet d'actualité et exposer les avantages et les inconvénients de différentes possibilités. Le focus est mis sur l'expression orale et la compréhension auditive dans ce cours.",
+   "duree" : "52 leçons",
+   "enseignants" : [ {
+      "nom" : "Simou",
+      "prenom" : "Areti"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 17:50 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "17:50",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 66755,
+   "intitule" : "Grec moderne IV - conversation",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "EL",
+   "matiereNom" : "Grec",
+   "nbInscrits" : 2,
+   "nbPlaces" : 24,
+   "niveau" : "B1.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY3NTU%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1430",
+         "localite" : "Luxembourg",
+         "nom" : "Athénée de Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "24, bld Pierre Dupong"
+      },
+      "code" : "AL",
+      "mail" : "coursdusoir@al.lu",
+      "nom" : "Athénée de Luxembourg",
+      "nomContact" : "Gaspar",
+      "onlineReg" : true,
+      "prenomContact" : "Rosa",
+      "statut" : "MENFPS",
+      "telephone" : "+352 44 02 49 6560",
+      "websiteUrl" : "http://www.al.lu"
+   },
+   "prerequis" : "Niveau B1.1 du CECRL accompli",
+   "renseignements" : "Langues véhiculaires utilisées: français et anglais.\r\nAccès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
