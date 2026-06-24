@@ -519,6 +519,157 @@
    }
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1463",
+   "coursId" : "LA-LB-1463",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "29/06/2026",
+   "dateFin" : "31/07/2026",
+   "dateInscription" : "Lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "Comprendre des expressions fréquemment utilisées, demander des renseignements personnels, décrire son environnement et communiquer de façon simple.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann d'Haaptpunkte vun Noriichten, Reportagen, Sendungen um Radio an op der Tëlee ... iwwert aktuell Themen oder Theme vu perséinlechem oder berufflechem Interessi verstoen, wann (zimlech) lues an däitlech geschwat gëtt", "Kann einfach a kloer Annoncen a Messagë verstoen, wa lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen iwwert geleefeg a vertraut Themen oder Interessegebidder versteon, wann (zimlech) lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen an alldeegleche Situatioune verstoen, wann däitlech an an enger Standardsprooch geschwat gëtt", "Kann einfach Informatiounen iwwer Erfarungen, Erliefnisser an Evenementer verstoen", "Kann einfach Informatiounen iwwert Pläng, Projeten, Dreem, Hoffnungen an Ziler verstoen", "Ka Virschléi, Rotschléi an Aluedungen verstoen", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatioune vestoen" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Kann d'Haaptpunkten an Texter, Artikelen, Meldungen, Geschichten verstoen, wann se däitlech an an enger Standardsprooch verfaasst sinn", "Kann (einfach a kuerz) Texter iwwert Themen vun allgemengem, perséinlechem oder berufflechem Interessi verstoen, wann se an enger däitlecher Standardsprooch verfaasst sinn", "Ka Beschreiwunge vun Evenementer an Erliefnesser, Gefiller a Wënsch an enger Korrespondenz (Bréif, Email) verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Kann an alldeegleche Situatiounen meeschtens eens ginn (um Telefon, a Geschäfter, Hotellen a Restauranten, beim Dokter ...)", "Kann ouni Preparatioun Gespréicher iwwer den Alldag, vertraut a geleefeg Themen an Interessegebidder féieren (z.B. Famill, Fräizäit, Beruff/Schoul, Reesen an Aktualitéit)", "Kann Informatiounen, Meenungen an Iddien iwwert einfach Themen oder praktesch Problemer austauschen", "Kann a privaten an a berufflechen Situatiounen Virschléi, Rotschléi an Aluedungen ausschwätzen an drop (héiflech) reagéieren", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatiounen ausschwätzen" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Kann op eng einfach Manéier d'Handlung vun engem Buch oder Film erzielen a seng Reaktiounen ausdrécken", "Kann op eng einfach Manéier Erfarungen, Evenementer an Erliefnisser erzielen", "Kann einfach Informatiounen iwwert perséinlech a berufflech Erfarunge ginn", "Kann op eng einfach Manéier Dreem, Hoffnungen an Ziler erzielen, beschreiwen oder erklären", "Kann op eng einfach Manéier Meenungen oder Projeten a Pläng begrënnen oder erklären", "Ka sech op eng einfach Manéier iwwert Theme vun allgemengem, perséinlechen oder berufflechem Interessi ausdrécken", "Kann op eng einfach Manéier säin Ëmfeld, säin Alldag, seng Liewensëmstänn beschreiwen an erklären", "Kann op eng einfach Manéier seng Beruffs- a Fräzäitaktivitéite beschreiwern a vergläichen", "Kann op eng einfach Manéier Situatiounen, Plazen, Saachen a Leit beschreiwen a vergläichen", "Ka mat einfache Wierder iwwer seng Gesondheet schwätzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann en einfachen a kohärenten Text iwwert vertraut Themen oder Interessegebidder schreiwen", "Kann an enger perséinlecher Korrespondenz (Emailen, Bréiwer) seng Erfarungen an Impressioune schrëftlech beschreiwen", "Ka kuerz an einfach Messagen an Texter schreiwen (z.B. fir Merci ze soen, fir ze gratuléieren, fir anzelueden ...)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 19:15 (durée 2h), Mardi à 19:15 (durée 2h), Mercredi à 19:15 (durée 2h), Jeudi à 19:15 (durée 2h), Vendredi à 19:15 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65457,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Bonnes connaissances en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1461",
+   "coursId" : "LA-LB-1461",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "29/06/2026",
+   "dateFin" : "31/07/2026",
+   "dateInscription" : "lundi-jeudide 08:00 - 16:00 heures",
+   "description" : "Décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter/décliner une invitation, demander un service, raconter un évènement, verbes et grammaire de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann Informatiounen an Uweisungen an einfachen Texter verstoen", "Kann e ganz einfachen Text iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Korrespondenz verstoen (Kaarten, E-mailen...)" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann e kuerzen einfachen Text op eng Kaart oder Mail schreiwen", "Kann e Formulaire ausfëllen (Numm, Adress, Nationalitéit, Zivilstand)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   }, {
+      "competences" : [ "Versteet Begréissungsformelen an Héiflechkeetsformelen", "Kann Informatiounen iwwer Zuelen, Auerzäiten, Plazen verstoen", "Kann einfach Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld verstoen", "Kann einfach Informatiounen an alldeegleche Situatiounen verstoen, wa lues an däitlech geschwat gëtt", "Kann en einfacht Gespréich iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Beschreiwung vun enger Persoun oder vun enger Saach verstoen", "Kann eng ganz einfach Weebeschreiwung verstoen", "Ka geleefeg Verben am Präsens an an der Vergaangenheet verstoen", "Ka kuerz an einfach Informatiounen, Instruktiounen, Wënsch a Preferenze verstoen", "Ka geleefeg Verben am Präsenz verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 14:45 (durée 2h), Mardi à 14:45 (durée 2h), Mercredi à 14:45 (durée 2h), Jeudi à 14:45 (durée 2h), Vendredi à 14:45 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65455,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances de base en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -577,6 +728,294 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1458",
+   "coursId" : "LA-LB-1458",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "29/06/2026",
+   "dateFin" : "31/07/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Versteet Begréissungsformelen ", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "oder Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "oder Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "oder Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:00 (durée 2h), Mardi à 08:00 (durée 2h), Mercredi à 08:00 (durée 2h), Jeudi à 08:00 (durée 2h), Vendredi à 08:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65452,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements supplémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1462",
+   "coursId" : "LA-LB-1462",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "29/06/2026",
+   "dateFin" : "31/07/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Comprendre le contenu essentiel au travail, à l'école, dans les loisirs. Se débrouiller lors d'un voyage. Produire un discours simple et cohérent sur des sujets divers. Raconter et dérire un évènement, rêve, projet. Expliquer une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann an alldeeglech Situatiounen einfach Informatioune verstoen", "Kann a private Gespréicher Alldagsthemen erkenne wa lues an däitlech geschwat gëtt", "Ka, wa lues an däitlech geschwat gëtt, kloer an einfach ausgedréckten Haltungen (Gefalen, Mëssfalen) zu alldeeglechen Themen erkennen", "Ka kuerz, einfach Instruktiuone verstoen" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Kann e ganz einfachen Text iwwer e vertraut Thema verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Gëtt a kuerzen, alldeegleche Situatiounen (Buttek, Post, Bank,...) eens", "Kann an alldeegleche Situatiounen op einfach Manéier Bedierfnisser a Wënsch ausdrécken", "Kann a provaten an a beruffleche Situatiounen einfach Propositoune maachen an op Propositiounen reagéieren" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Ka kuerz Informatiounen iwwer Persounen, Aktivitéiten a Liewensverhältnisser ginn a froen", "Kann eng Persoun beschreiwen", "Ka Saachen aus dem alldeeglechen Ëmfeld beschreiwen", "Ka Preferenzen a Meenungen iwwer Alldagsthemen ganz einfach ausdrécken" ],
+      "domaine" : "Monologescht Schwätzen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h), Vendredi à 17:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65456,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissance en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1460",
+   "coursId" : "LA-LB-1460",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "29/06/2026",
+   "dateFin" : "31/07/2026",
+   "dateInscription" : "lundi-jeudide 08:00 - 16:00 heures",
+   "description" : "Décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter/décliner une invitation, demander un service, raconter un évènement, verbes et grammaire de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann Informatiounen an Uweisungen an einfachen Texter verstoen", "Kann e ganz einfachen Text iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Korrespondenz verstoen (Kaarten, E-mailen...)" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann e kuerzen einfachen Text op eng Kaart oder Mail schreiwen", "Kann e Formulaire ausfëllen (Numm, Adress, Nationalitéit, Zivilstand)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   }, {
+      "competences" : [ "Versteet Begréissungsformelen an Héiflechkeetsformelen", "Kann Informatiounen iwwer Zuelen, Auerzäiten, Plazen verstoen", "Kann einfach Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld verstoen", "Kann einfach Informatiounen an alldeegleche Situatiounen verstoen, wa lues an däitlech geschwat gëtt", "Kann en einfacht Gespréich iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Beschreiwung vun enger Persoun oder vun enger Saach verstoen", "Kann eng ganz einfach Weebeschreiwung verstoen", "Ka geleefeg Verben am Präsens an an der Vergaangenheet verstoen", "Ka kuerz an einfach Informatiounen, Instruktiounen, Wënsch a Preferenze verstoen", "Ka geleefeg Verben am Präsenz verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 10:15 (durée 2h), Mardi à 10:15 (durée 2h), Mercredi à 10:15 (durée 2h), Jeudi à 10:15 (durée 2h), Vendredi à 10:15 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65454,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances de base en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1459",
+   "coursId" : "LA-LB-1459",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "29/06/2026",
+   "dateFin" : "31/07/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Versteet Begréissungsformelen ", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "oder Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "oder Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "oder Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 12:30 (durée 2h), Mardi à 12:30 (durée 2h), Mercredi à 12:30 (durée 2h), Jeudi à 12:30 (durée 2h), Vendredi à 12:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65453,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements supplémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -995,7 +1434,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 9,
+   "nbInscrits" : 10,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -8670,6 +9109,153 @@
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1609",
+   "coursId" : "LA-FR-1609",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "18/09/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Peut comprendre quelques mots familiers.", "Peut comprendre des instructions très simples (consignes de classe).", "Peut comprendre des questions simples sur l'identité (nom, prénom, adresse et nationalité)", "Peut comprendre des informations chiffrées simples (téléphone et adresse.)." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Peut reconnaître des noms, mots, expressions courantes (par exemple sur des panneaux, des affiches publicitaires).", "Peut repérer des données, des chiffres ou d'autres informations et suivre des indications brèves et simples." ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Peut utiliser des expressions élémentaires de salutation et congé", "Peut poser des questions personnelles, répondre à des questions personnelles (sur l'identité).", "Peut présenter très brièvement quelqu'un (membre de sa famille, ami, ...).", "Peut se débrouiller avec les nombres (pour être capable de donner ses coordonnées)." ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Peut recopier des mots, des chiffres.", "Peut noter des mots, des chiffres en vue de se les remémorer.", "Peut remplir une fiche d'hôtel ou un formulaire simple." ],
+      "domaine" : "Expression écrite"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:00 (durée 2h30), Mardi à 08:00 (durée 2h30), Vendredi à 08:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67368,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1611",
+   "coursId" : "LA-FR-1611",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "18/09/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "comprendre le contenu essentiel au travail, à l'école et aux loisirs. Se débrouiller lors d'un voyage. Tenir un discours simple et cohérent sur des sujets divers. Raconter et décrire un évènement, rêve ou un projet. Expliquer une idée",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des nouvelles", "comprendre des différents dialogues", "comprendre un message téléphonique enregistré", "comprendre un petit documentaire" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre des annonces publicitaires", "comprendre des informations et instructions", "comprendre l'horoscope", "comprendre des menus", "comprendre des articles de presse et différents genres de textes" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "donner son avis, poser des questions, conseiller", "faire des comparaisons, faire un résumé", "donner des informations simples sur un problème de santé", "parler des expériences personnelles", "parler des fêtes et traditions de son pays", "se présenter, donner et demander des informations de caractère personnel, professionnel et des loisirs", "faire des déscriptions au passé" ],
+      "domaine" : "expression orale"
+   }, {
+      "competences" : [ "répondre à des questions d'interprétation, à une enquête", "remplir des documents" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 14:30 (durée 2h30), Mardi à 14:30 (durée 2h30), Vendredi à 14:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67370,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissances en français",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
    "categorieCode" : "CIN",
    "categorieCodeUnipop" : "CIN",
    "categorieNom" : "COURS D'ACCÈS À LA NATIONALITÉ",
@@ -8862,6 +9448,518 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Un remboursement de 30 € pour le matériel utilisé devra être effectué en espèces directement auprès de la formatrice."
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1610",
+   "coursId" : "LA-FR-1610",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "18/09/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter, décliner une invitation, demander un service, raconter un événement au passé, verbes et grammaires de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Lire et comprendre des textes courts et simples\r\n", "Trouver une information particulière prévisible dans des documents simples et courants comme les prospectus, les petites annonces, les menus \r\n.", "Comprendre des consignes et des textes courts et simples\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers\r\n", "Avoir des échanges très brefs sans pour autant poursuivre une conversation\r\n", "Utiliser une série de phrases ou d'expressions simples pour décrire sa famille et d'autres gens, ses conditions de vie, sa formation et son activité professionnelle actuelle, récente ou passée " ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Ecrire des notes et des messages simples et courts \r\n", "Ecrire une lettre ou un récit personnel en phrases très simples \r\n", "Ecrire une dictée très simple\r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui concerne l'apprenant de très près (par ex. lui-même, sa famille, ses achats, son environnements proche, son travail)", "Saisir l'essentiel d'annonces, de messages, de dialogues ou de textes simples et clairs" ],
+      "domaine" : "Compréhension orale"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 11:00 (durée 2h30), Mardi à 11:00 (durée 2h30), Vendredi à 11:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67369,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1465",
+   "coursId" : "LA-LB-1465",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "04/09/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Versteet Begréissungsformelen ", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "oder Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "oder Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "oder Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 12:30 (durée 2h), Mardi à 12:30 (durée 2h), Mercredi à 12:30 (durée 2h), Jeudi à 12:30 (durée 2h), Vendredi à 12:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65461,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements supplémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1464",
+   "coursId" : "LA-LB-1464",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "04/09/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Versteet Begréissungsformelen ", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "oder Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "oder Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "oder Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:00 (durée 2h), Mardi à 08:00 (durée 2h), Mercredi à 08:00 (durée 2h), Jeudi à 08:00 (durée 2h), Vendredi à 08:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65460,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements supplémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1468",
+   "coursId" : "LA-LB-1468",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "04/09/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Comprendre le contenu essentiel au travail, à l'école, dans les loisirs. Se débrouiller lors d'un voyage. Produire un discours simple et cohérent sur des sujets divers. Raconter et dérire un évènement, rêve, projet. Expliquer une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann an alldeeglech Situatiounen einfach Informatioune verstoen", "Kann a private Gespréicher Alldagsthemen erkenne wa lues an däitlech geschwat gëtt", "Ka, wa lues an däitlech geschwat gëtt, kloer an einfach ausgedréckten Haltungen (Gefalen, Mëssfalen) zu alldeeglechen Themen erkennen", "Ka kuerz, einfach Instruktiuone verstoen" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Kann e ganz einfachen Text iwwer e vertraut Thema verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Gëtt a kuerzen, alldeegleche Situatiounen (Buttek, Post, Bank,...) eens", "Kann an alldeegleche Situatiounen op einfach Manéier Bedierfnisser a Wënsch ausdrécken", "Kann a provaten an a beruffleche Situatiounen einfach Propositoune maachen an op Propositiounen reagéieren" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Ka kuerz Informatiounen iwwer Persounen, Aktivitéiten a Liewensverhältnisser ginn a froen", "Kann eng Persoun beschreiwen", "Ka Saachen aus dem alldeeglechen Ëmfeld beschreiwen", "Ka Preferenzen a Meenungen iwwer Alldagsthemen ganz einfach ausdrécken" ],
+      "domaine" : "Monologescht Schwätzen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 2h), Mardi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h), Vendredi à 17:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65465,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissance en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1466",
+   "coursId" : "LA-LB-1466",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "04/09/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "Décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter/décliner une invitation, demander un service, raconter un évènement, verbes et grammaire de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann Informatiounen an Uweisungen an einfachen Texter verstoen", "Kann e ganz einfachen Text iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Korrespondenz verstoen (Kaarten, E-mailen...)" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann e kuerzen einfachen Text op eng Kaart oder Mail schreiwen", "Kann e Formulaire ausfëllen (Numm, Adress, Nationalitéit, Zivilstand)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   }, {
+      "competences" : [ "Versteet Begréissungsformelen an Héiflechkeetsformelen", "Kann Informatiounen iwwer Zuelen, Auerzäiten, Plazen verstoen", "Kann einfach Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld verstoen", "Kann einfach Informatiounen an alldeegleche Situatiounen verstoen, wa lues an däitlech geschwat gëtt", "Kann en einfacht Gespréich iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Beschreiwung vun enger Persoun oder vun enger Saach verstoen", "Kann eng ganz einfach Weebeschreiwung verstoen", "Ka geleefeg Verben am Präsens an an der Vergaangenheet verstoen", "Ka kuerz an einfach Informatiounen, Instruktiounen, Wënsch a Preferenze verstoen", "Ka geleefeg Verben am Präsenz verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 10:15 (durée 2h), Mardi à 10:15 (durée 2h), Mercredi à 10:15 (durée 2h), Jeudi à 10:15 (durée 2h), Vendredi à 10:15 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65463,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances de base en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2 am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1467",
+   "coursId" : "LA-LB-1467",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "04/09/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "Décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter/décliner une invitation, demander un service, raconter un évènement, verbes et grammaire de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann e ganz einfachen Text iwwert e vertraut Thema verstoen", "Kann Informatiounen an Uweisungen an einfachen Texter verstoen", "Kann eng ganz einfach Korrespondenz verstoen (Kaarten, E-mailen...)" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Kann e kuerzen einfachen Text op eng Kaart oder Mail schreiwen", "Kann e Formulaire ausfëllen (Numm, Adress, Nationalitéit, Zivilstand)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   }, {
+      "competences" : [ "Versteet Begréissungsformelen an Héiflechkeetsformelen", "Kann Informatiounen iwwer Zuelen, Auerzäiten, Plazen verstoen", "Kann einfach Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld verstoen", "Kann einfach Informatiounen an alldeegleche Situatiounen verstoen, wa lues an däitlech geschwat gëtt", "Kann en einfacht Gespréich iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Beschreiwung vun enger Persoun oder vun enger Saach verstoen", "Kann eng ganz einfach Weebeschreiwung verstoen", "Ka geleefeg Verben am Präsens an an der Vergaangenheet verstoen", "Ka kuerz an einfach Informatiounen, Instruktiounen, Wënsch a Preferenze verstoen", "Ka geleefeg Verben am Präsenz verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 14:45 (durée 2h), Mardi à 14:45 (durée 2h), Mercredi à 14:45 (durée 2h), Jeudi à 14:45 (durée 2h), Vendredi à 14:45 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65464,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances de base en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1469",
+   "coursId" : "LA-LB-1469",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "03/08/2026",
+   "dateFin" : "04/09/2026",
+   "dateInscription" : "Lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "Comprendre des expressions fréquemment utilisées, demander des renseignements personnels, décrire son environnement et communiquer de façon simple.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann d'Haaptpunkte vun Noriichten, Reportagen, Sendungen um Radio an op der Tëlee ... iwwert aktuell Themen oder Theme vu perséinlechem oder berufflechem Interessi verstoen, wann (zimlech) lues an däitlech geschwat gëtt", "Kann einfach a kloer Annoncen a Messagë verstoen, wa lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen iwwert geleefeg a vertraut Themen oder Interessegebidder versteon, wann (zimlech) lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen an alldeegleche Situatioune verstoen, wann däitlech an an enger Standardsprooch geschwat gëtt", "Kann einfach Informatiounen iwwer Erfarungen, Erliefnisser an Evenementer verstoen", "Kann einfach Informatiounen iwwert Pläng, Projeten, Dreem, Hoffnungen an Ziler verstoen", "Ka Virschléi, Rotschléi an Aluedungen verstoen", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatioune vestoen" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Kann d'Haaptpunkten an Texter, Artikelen, Meldungen, Geschichten verstoen, wann se däitlech an an enger Standardsprooch verfaasst sinn", "Kann (einfach a kuerz) Texter iwwert Themen vun allgemengem, perséinlechem oder berufflechem Interessi verstoen, wann se an enger däitlecher Standardsprooch verfaasst sinn", "Ka Beschreiwunge vun Evenementer an Erliefnesser, Gefiller a Wënsch an enger Korrespondenz (Bréif, Email) verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Kann an alldeegleche Situatiounen meeschtens eens ginn (um Telefon, a Geschäfter, Hotellen a Restauranten, beim Dokter ...)", "Kann ouni Preparatioun Gespréicher iwwer den Alldag, vertraut a geleefeg Themen an Interessegebidder féieren (z.B. Famill, Fräizäit, Beruff/Schoul, Reesen an Aktualitéit)", "Kann Informatiounen, Meenungen an Iddien iwwert einfach Themen oder praktesch Problemer austauschen", "Kann a privaten an a berufflechen Situatiounen Virschléi, Rotschléi an Aluedungen ausschwätzen an drop (héiflech) reagéieren", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatiounen ausschwätzen" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Kann op eng einfach Manéier d'Handlung vun engem Buch oder Film erzielen a seng Reaktiounen ausdrécken", "Kann op eng einfach Manéier Erfarungen, Evenementer an Erliefnisser erzielen", "Kann einfach Informatiounen iwwert perséinlech a berufflech Erfarunge ginn", "Kann op eng einfach Manéier Dreem, Hoffnungen an Ziler erzielen, beschreiwen oder erklären", "Kann op eng einfach Manéier Meenungen oder Projeten a Pläng begrënnen oder erklären", "Ka sech op eng einfach Manéier iwwert Theme vun allgemengem, perséinlechen oder berufflechem Interessi ausdrécken", "Kann op eng einfach Manéier säin Ëmfeld, säin Alldag, seng Liewensëmstänn beschreiwen an erklären", "Kann op eng einfach Manéier seng Beruffs- a Fräzäitaktivitéite beschreiwern a vergläichen", "Kann op eng einfach Manéier Situatiounen, Plazen, Saachen a Leit beschreiwen a vergläichen", "Ka mat einfache Wierder iwwer seng Gesondheet schwätzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann en einfachen a kohärenten Text iwwert vertraut Themen oder Interessegebidder schreiwen", "Kann an enger perséinlecher Korrespondenz (Emailen, Bréiwer) seng Erfarungen an Impressioune schrëftlech beschreiwen", "Ka kuerz an einfach Messagen an Texter schreiwen (z.B. fir Merci ze soen, fir ze gratuléieren, fir anzelueden ...)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 19:15 (durée 2h), Mardi à 19:15 (durée 2h), Mercredi à 19:15 (durée 2h), Jeudi à 19:15 (durée 2h), Vendredi à 19:15 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65466,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Bonnes connaissances en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -12796,7 +13894,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "YOG",
    "matiereNom" : "Yoga",
-   "nbInscrits" : 1,
+   "nbInscrits" : 0,
    "nbPlaces" : 10,
    "niveau" : "Débutant",
    "onlineRegistration" : true,
@@ -14650,6 +15748,294 @@
    }
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1686",
+   "coursId" : "LA-LB-1686",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "14/09/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Comprendre le contenu essentiel au travail, à l'école, dans les loisirs. Se débrouiller lors d'un voyage. Produire un discours simple et cohérent sur des sujets divers. Raconter et dérire un évènement, rêve, projet. Expliquer une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann an alldeeglech Situatiounen einfach Informatioune verstoen", "Kann a private Gespréicher Alldagsthemen erkenne wa lues an däitlech geschwat gëtt", "Ka, wa lues an däitlech geschwat gëtt, kloer an einfach ausgedréckten Haltungen (Gefalen, Mëssfalen) zu alldeeglechen Themen erkennen", "Ka kuerz, einfach Instruktiuone verstoen" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Kann e ganz einfachen Text iwwer e vertraut Thema verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Gëtt a kuerzen, alldeegleche Situatiounen (Buttek, Post, Bank,...) eens", "Kann an alldeegleche Situatiounen op einfach Manéier Bedierfnisser a Wënsch ausdrécken", "Kann a provaten an a beruffleche Situatiounen einfach Propositoune maachen an op Propositiounen reagéieren" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Ka kuerz Informatiounen iwwer Persounen, Aktivitéiten a Liewensverhältnisser ginn a froen", "Kann eng Persoun beschreiwen", "Ka Saachen aus dem alldeeglechen Ëmfeld beschreiwen", "Ka Preferenzen a Meenungen iwwer Alldagsthemen ganz einfach ausdrécken" ],
+      "domaine" : "Monologescht Schwätzen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:00 (durée 2h), Mercredi à 08:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67618,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissance en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1684",
+   "coursId" : "LA-LB-1684",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "14/09/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Versteet Begréissungsformelen ", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "oder Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "oder Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "oder Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 08:00 (durée 2h), Mercredi à 08:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67616,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements supplémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1661",
+   "coursId" : "LA-LB-1661",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "14/09/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "oder Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "oder Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "oder Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Versteet Begréissungsformelen ", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67502,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements supplémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1662",
+   "coursId" : "LA-LB-1662",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "14/09/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter/décliner une invitation, demander un service, raconter un évènement, verbes et grammaire de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann Informatiounen an Uweisungen an einfachen Texter verstoen", "Kann e ganz einfachen Text iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Korrespondenz verstoen (Kaarten, E-mailen...)" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann e kuerzen einfachen Text op eng Kaart oder Mail schreiwen", "Kann e Formulaire ausfëllen (Numm, Adress, Nationalitéit, Zivilstand)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   }, {
+      "competences" : [ "Versteet Begréissungsformelen an Héiflechkeetsformelen", "Kann Informatiounen iwwer Zuelen, Auerzäiten, Plazen verstoen", "Kann einfach Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld verstoen", "Kann einfach Informatiounen an alldeegleche Situatiounen verstoen, wa lues an däitlech geschwat gëtt", "Kann en einfacht Gespréich iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Beschreiwung vun enger Persoun oder vun enger Saach verstoen", "Kann eng ganz einfach Weebeschreiwung verstoen", "Ka geleefeg Verben am Präsens an an der Vergaangenheet verstoen", "Ka kuerz an einfach Informatiounen, Instruktiounen, Wënsch a Preferenze verstoen", "Ka geleefeg Verben am Präsenz verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 19:00 (durée 2h), Mercredi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67503,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances de base en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
       "codePostal" : "4171",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "Maison des Citoyens / Haus vun de Bierger",
@@ -16139,6 +17525,83 @@
    }
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1687",
+   "coursId" : "LA-LB-1687",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "15/09/2026",
+   "dateFin" : "15/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Comprendre des expressions fréquemment utilisées, demander des renseignements personnels, décrire son environnement et communiquer de façon simple.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann d'Haaptpunkte vun Noriichten, Reportagen, Sendungen um Radio an op der Tëlee ... iwwert aktuell Themen oder Theme vu perséinlechem oder berufflechem Interessi verstoen, wann (zimlech) lues an däitlech geschwat gëtt", "Kann einfach a kloer Annoncen a Messagë verstoen, wa lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen iwwert geleefeg a vertraut Themen oder Interessegebidder versteon, wann (zimlech) lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen an alldeegleche Situatioune verstoen, wann däitlech an an enger Standardsprooch geschwat gëtt", "Kann einfach Informatiounen iwwer Erfarungen, Erliefnisser an Evenementer verstoen", "Kann einfach Informatiounen iwwert Pläng, Projeten, Dreem, Hoffnungen an Ziler verstoen", "Ka Virschléi, Rotschléi an Aluedungen verstoen", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatioune vestoen" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Kann d'Haaptpunkten an Texter, Artikelen, Meldungen, Geschichten verstoen, wann se däitlech an an enger Standardsprooch verfaasst sinn", "Kann (einfach a kuerz) Texter iwwert Themen vun allgemengem, perséinlechem oder berufflechem Interessi verstoen, wann se an enger däitlecher Standardsprooch verfaasst sinn", "Ka Beschreiwunge vun Evenementer an Erliefnesser, Gefiller a Wënsch an enger Korrespondenz (Bréif, Email) verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Kann an alldeegleche Situatiounen meeschtens eens ginn (um Telefon, a Geschäfter, Hotellen a Restauranten, beim Dokter ...)", "Kann ouni Preparatioun Gespréicher iwwer den Alldag, vertraut a geleefeg Themen an Interessegebidder féieren (z.B. Famill, Fräizäit, Beruff/Schoul, Reesen an Aktualitéit)", "Kann Informatiounen, Meenungen an Iddien iwwert einfach Themen oder praktesch Problemer austauschen", "Kann a privaten an a berufflechen Situatiounen Virschléi, Rotschléi an Aluedungen ausschwätzen an drop (héiflech) reagéieren", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatiounen ausschwätzen" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Kann op eng einfach Manéier d'Handlung vun engem Buch oder Film erzielen a seng Reaktiounen ausdrécken", "Kann op eng einfach Manéier Erfarungen, Evenementer an Erliefnisser erzielen", "Kann einfach Informatiounen iwwert perséinlech a berufflech Erfarunge ginn", "Kann op eng einfach Manéier Dreem, Hoffnungen an Ziler erzielen, beschreiwen oder erklären", "Kann op eng einfach Manéier Meenungen oder Projeten a Pläng begrënnen oder erklären", "Ka sech op eng einfach Manéier iwwert Theme vun allgemengem, perséinlechen oder berufflechem Interessi ausdrécken", "Kann op eng einfach Manéier säin Ëmfeld, säin Alldag, seng Liewensëmstänn beschreiwen an erklären", "Kann op eng einfach Manéier seng Beruffs- a Fräzäitaktivitéite beschreiwern a vergläichen", "Kann op eng einfach Manéier Situatiounen, Plazen, Saachen a Leit beschreiwen a vergläichen", "Ka mat einfache Wierder iwwer seng Gesondheet schwätzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann en einfachen a kohärenten Text iwwert vertraut Themen oder Interessegebidder schreiwen", "Kann an enger perséinlecher Korrespondenz (Emailen, Bréiwer) seng Erfarungen an Impressioune schrëftlech beschreiwen", "Ka kuerz an einfach Messagen an Texter schreiwen (z.B. fir Merci ze soen, fir ze gratuléieren, fir anzelueden ...)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 08:00 (durée 2h), Jeudi à 08:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67620,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Bonnes connaissances en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
       "codePostal" : "4024",
       "localite" : "Esch Sur Alzette",
       "nom" : "CIGL - Esch sur Alzette",
@@ -16225,6 +17688,231 @@
       "statut" : "ASBL",
       "telephone" : "+352 54 42 45 208"
    }
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1664",
+   "coursId" : "LA-LB-1664",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "15/09/2026",
+   "dateFin" : "15/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Comprendre des expressions fréquemment utilisées, demander des renseignements personnels, décrire son environnement et communiquer de façon simple.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann d'Haaptpunkte vun Noriichten, Reportagen, Sendungen um Radio an op der Tëlee ... iwwert aktuell Themen oder Theme vu perséinlechem oder berufflechem Interessi verstoen, wann (zimlech) lues an däitlech geschwat gëtt", "Kann einfach a kloer Annoncen a Messagë verstoen, wa lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen iwwert geleefeg a vertraut Themen oder Interessegebidder versteon, wann (zimlech) lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen an alldeegleche Situatioune verstoen, wann däitlech an an enger Standardsprooch geschwat gëtt", "Kann einfach Informatiounen iwwer Erfarungen, Erliefnisser an Evenementer verstoen", "Kann einfach Informatiounen iwwert Pläng, Projeten, Dreem, Hoffnungen an Ziler verstoen", "Ka Virschléi, Rotschléi an Aluedungen verstoen", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatioune vestoen" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Kann d'Haaptpunkten an Texter, Artikelen, Meldungen, Geschichten verstoen, wann se däitlech an an enger Standardsprooch verfaasst sinn", "Kann (einfach a kuerz) Texter iwwert Themen vun allgemengem, perséinlechem oder berufflechem Interessi verstoen, wann se an enger däitlecher Standardsprooch verfaasst sinn", "Ka Beschreiwunge vun Evenementer an Erliefnesser, Gefiller a Wënsch an enger Korrespondenz (Bréif, Email) verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Kann an alldeegleche Situatiounen meeschtens eens ginn (um Telefon, a Geschäfter, Hotellen a Restauranten, beim Dokter ...)", "Kann ouni Preparatioun Gespréicher iwwer den Alldag, vertraut a geleefeg Themen an Interessegebidder féieren (z.B. Famill, Fräizäit, Beruff/Schoul, Reesen an Aktualitéit)", "Kann Informatiounen, Meenungen an Iddien iwwert einfach Themen oder praktesch Problemer austauschen", "Kann a privaten an a berufflechen Situatiounen Virschléi, Rotschléi an Aluedungen ausschwätzen an drop (héiflech) reagéieren", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatiounen ausschwätzen" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Kann op eng einfach Manéier Erfarungen, Evenementer an Erliefnisser erzielen", "Kann op eng einfach Manéier d'Handlung vun engem Buch oder Film erzielen a seng Reaktiounen ausdrécken", "Kann einfach Informatiounen iwwert perséinlech a berufflech Erfarunge ginn", "Kann op eng einfach Manéier Dreem, Hoffnungen an Ziler erzielen, beschreiwen oder erklären", "Kann op eng einfach Manéier Meenungen oder Projeten a Pläng begrënnen oder erklären", "Ka sech op eng einfach Manéier iwwert Theme vun allgemengem, perséinlechen oder berufflechem Interessi ausdrécken", "Kann op eng einfach Manéier säin Ëmfeld, säin Alldag, seng Liewensëmstänn beschreiwen an erklären", "Kann op eng einfach Manéier seng Beruffs- a Fräzäitaktivitéite beschreiwern a vergläichen", "Kann op eng einfach Manéier Situatiounen, Plazen, Saachen a Leit beschreiwen a vergläichen", "Ka mat einfache Wierder iwwer seng Gesondheet schwätzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann en einfachen a kohärenten Text iwwert vertraut Themen oder Interessegebidder schreiwen", "Kann an enger perséinlecher Korrespondenz (Emailen, Bréiwer) seng Erfarungen an Impressioune schrëftlech beschreiwen", "Ka kuerz an einfach Messagen an Texter schreiwen (z.B. fir Merci ze soen, fir ze gratuléieren, fir anzelueden ...)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 19:00 (durée 2h), Jeudi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67505,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Bonnes connaissances en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1663",
+   "coursId" : "LA-LB-1663",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "15/09/2026",
+   "dateFin" : "15/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Comprendre le contenu essentiel au travail, à l'école, dans les loisirs. Se débrouiller lors d'un voyage. Produire un discours simple et cohérent sur des sujets divers. Raconter et dérire un évènement, rêve, projet. Expliquer une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann an alldeeglech Situatiounen einfach Informatioune verstoen", "Kann a private Gespréicher Alldagsthemen erkenne wa lues an däitlech geschwat gëtt", "Ka, wa lues an däitlech geschwat gëtt, kloer an einfach ausgedréckten Haltungen (Gefalen, Mëssfalen) zu alldeeglechen Themen erkennen", "Ka kuerz, einfach Instruktiuone verstoen" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Kann e ganz einfachen Text iwwer e vertraut Thema verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Gëtt a kuerzen, alldeegleche Situatiounen (Buttek, Post, Bank,...) eens", "Kann an alldeegleche Situatiounen op einfach Manéier Bedierfnisser a Wënsch ausdrécken", "Kann a provaten an a beruffleche Situatiounen einfach Propositoune maachen an op Propositiounen reagéieren" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Ka kuerz Informatiounen iwwer Persounen, Aktivitéiten a Liewensverhältnisser ginn a froen", "Kann eng Persoun beschreiwen", "Ka Saachen aus dem alldeeglechen Ëmfeld beschreiwen", "Ka Preferenzen a Meenungen iwwer Alldagsthemen ganz einfach ausdrécken" ],
+      "domaine" : "Monologescht Schwätzen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 17:00 (durée 2h), Jeudi à 17:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67504,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissance en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1685",
+   "coursId" : "LA-LB-1685",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "15/09/2026",
+   "dateFin" : "15/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter/décliner une invitation, demander un service, raconter un évènement, verbes et grammaire de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann Informatiounen an Uweisungen an einfachen Texter verstoen", "Kann e ganz einfachen Text iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Korrespondenz verstoen (Kaarten, E-mailen...)" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann e kuerzen einfachen Text op eng Kaart oder Mail schreiwen", "Kann e Formulaire ausfëllen (Numm, Adress, Nationalitéit, Zivilstand)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   }, {
+      "competences" : [ "Versteet Begréissungsformelen an Héiflechkeetsformelen", "Kann Informatiounen iwwer Zuelen, Auerzäiten, Plazen verstoen", "Kann einfach Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld verstoen", "Kann einfach Informatiounen an alldeegleche Situatiounen verstoen, wa lues an däitlech geschwat gëtt", "Kann en einfacht Gespréich iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Beschreiwung vun enger Persoun oder vun enger Saach verstoen", "Kann eng ganz einfach Weebeschreiwung verstoen", "Ka geleefeg Verben am Präsens an an der Vergaangenheet verstoen", "Ka kuerz an einfach Informatiounen, Instruktiounen, Wënsch a Preferenze verstoen", "Ka geleefeg Verben am Präsenz verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 08:00 (durée 2h), Jeudi à 08:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67617,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances de base en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -18744,7 +20432,7 @@
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "HART",
    "matiereNom" : "Histoire de l'art",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 24,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -21363,7 +23051,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "ES",
    "matiereNom" : "Espagnol",
-   "nbInscrits" : 1,
+   "nbInscrits" : 2,
    "nbPlaces" : 24,
    "niveau" : "A2.1 du CECRL",
    "onlineRegistration" : true,
@@ -24738,6 +26426,84 @@
    "prerequis" : "Niveau A1"
 }, {
    "adresseCours" : {
+      "codePostal" : "9167",
+      "localite" : "Mertzig",
+      "nom" : "Aal Schoul",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "31A, rue Principale"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9167",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-NL-9",
+   "coursId" : "LA-NL-9",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "28/09/2026",
+   "dateFin" : "07/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter/décliner une invitation, demander un service, raconter un évènement au passé, verbes et grammaire de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre une recette, un mode d'emploi\r\n\r\n", "Comprendre un message, un ordre, un récit d'activité\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Se présenter et parler sur quelqu'un d'autre\r\n\r\n", "Se saluer\r\n", "Dire l'heure, la date et converser sur la météo\r\n\r\n", "Parler de ses activités quotidiennes, commenter une situation\r\n" ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Ecrire un petit message\r\n", "Remplir des formulaires ou fiches\r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "Comprendre les salutations usuelles\r\n", "Comprendre des questions sur l'identité, un lieu, une activité\r\n", "Comprendre une interrogation, négation, confirmation\r\n", "Comprendre l'heure et les dates.\r\n\r\n", "Comprendre la descrption d'un chemin, d'une tâche, d'un avis\r\n" ],
+      "domaine" : "Compréhension  orale"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67491,
+   "intitule" : "Néerlandais",
+   "langueCoursCode" : "NL",
+   "langueCoursNom" : "Néerlandais",
+   "matiereCode" : "NL",
+   "matiereNom" : "Néerlandais",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances de base en néerlandais",
+   "renseignements" : "Renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
       "codePostal" : "9233",
       "localite" : "Diekirch",
       "nom" : "Lycée classique de Diekirch",
@@ -26924,6 +28690,84 @@
    "renseignements" : "Formateur Mme. Valla"
 }, {
    "adresseCours" : {
+      "codePostal" : "9175",
+      "localite" : "Niederfeulen",
+      "nom" : "Aal Primärschoul",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Bongerterwee"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1636",
+   "coursId" : "LA-LB-1636",
+   "coursType" : "CLASSIQUE",
+   "cout" : 120.0,
+   "dateDebut" : "30/09/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "- comprendre le contenu essentiel au travail, à l'école, dans les loisirs. Se débrouiller lors d'un voyage. Produire un discours simple et cohérent sur des sujets divers. Raconter et dérire un évènement, rêve, projet. Expliquer une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann e ganz einfachen Text iwwer e vertraut Thema verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Gëtt a kuerzen, alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank...) eens", "Kann an alldeegleche Situatiounen op einfach Manéier Bedierfnisser a Wënsch ausdrécken", "Kann a privaten an a beruffleche Situatiounen einfach Propositioune maachen an op Propositioune reagéieren" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Ka kuerz Informatiounen iwwer Persounen, Aktivitéiten a Liewensverhältnisser ginn a froen", "Kann eng Persoun beschreiwen", "Ka Saachen aus dem alldeeglechen Ëmfeld beschreiwen", "Ka Preferenzen a Meenungen iwwer Alldagsthemen ganz einfach ausdrécken" ],
+      "domaine" : "Monologescht Schwätzen"
+   }, {
+      "competences" : [ "Kann an alldeegleche Situatiounen einfach Informatioune verstoen", "Kann a private Gespréicher Alldagsthemen erkenne wa lues an däitlech geschwat gëtt", "Ka, wa lues an däitlech geschwat gëtt, kloer an einfach ausgedréckten Haltungen (Gefalen, Mëssfalen) zu alldeeglechen Themen erkennen", "Ka kuerz, einfach Instruktioune verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "40h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 17:00 (durée 2h), Mercredi à 17:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67431,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissances en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription "
+}, {
+   "adresseCours" : {
       "codePostal" : "6122",
       "localite" : "Junglinster",
       "nom" : "Lënster Lycée Junglinster",
@@ -27433,6 +29277,236 @@
       "telephone" : "33 01 44 207",
       "websiteUrl" : "http://www.walfer.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "8380",
+      "localite" : "Kleinbettingen",
+      "nom" : "Ancienne école préscolaire",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "7, rue du Parc"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1648",
+   "coursId" : "LA-LB-1648",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "05/10/2026",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "- se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Versteet Begréissungsformelen", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock "
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 2h30), Mercredi à 09:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67445,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements complémentaires lors de l'inscription "
+}, {
+   "adresseCours" : {
+      "codePostal" : "9168",
+      "localite" : "Mertzig",
+      "nom" : "Al Schoul",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "31A, rue Principale"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1623",
+   "coursId" : "LA-FR-1623",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "05/10/2026",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "comprendre le contenu essentiel au travail, à l'école et aux loisirs. Se débrouiller lors d'un voyage. Tenir un discours simple et cohérent sur des sujets divers. Raconter et décrire un évènement, rêve ou un projet. Expliquer une idée",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des nouvelles", "comprendre des différents dialogues", "comprendre un message téléphonique enregistré", "comprendre un petit documentaire" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre des annonces publicitaires", "comprendre des informations et instructions", "comprendre l'horoscope", "comprendre des menus", "comprendre des articles de presse et différents genres de textes" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter, donner et demander des informations de caractère personnel, professionnel et des loisirs", "faire des déscriptions au passé", "donner son avis, poser des questions, conseiller", "faire des comparaisons, faire un résumé", "donner des informations simples sur un problème de santé", "parler des expériences personnelles", "parler des fêtes et traditions de son pays" ],
+      "domaine" : "expression orale"
+   }, {
+      "competences" : [ "répondre à des questions d'interprétation, à une enquête", "remplir des documents" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 09:00 (durée 2h30), Mercredi à 09:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67484,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissances en français",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "codePostal" : "8473",
+      "localite" : "Eischen",
+      "nom" : "Ecole centrale \"Vir Wëller\"",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, rue de Hobscheid"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1638",
+   "coursId" : "LA-LB-1638",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "05/10/2026",
+   "dateFin" : "14/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "Décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter/décliner une invitation, demander un service, raconter un évènement, verbes et grammaire de base",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann e ganz einfachen Text iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Korrespondenz verstoen (Kaarten, E-mailen...)", "Kann Informatiounen an Uweisungen an einfachen Texter verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen a Kontakt ophuelen", "Kann Zuelen, Datumer an Auerzäite gebrauchen.", "Kann einfach Informatiounen, Uweisungen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann sech oder eng aner Persoun virstellen", "Kann op eng einfach Manéier Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld ginn an duerno froen", "Kann op eng einfach Manéier iwert seng alldeeglech a berufflech Aktivitéiten a seng Fräizait schwätzen", "Kann eng Persoun oder eng Saach ganz einfach beschreiwen", "Ka sech einfach anzwuersch ëremfannen (d.h. de Wee beschreiwen a nom Wee froen)", "Kann an alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank, Gare...) eens gin, wa lues an däitlech geschwat gëtt", "Kann a Beräicher, déi d'Persoun interesséieren oder hir bekannt sin, ganz einfach reagéieren", "Ka geleefeg Verben am Präsenz an an der Vergaagenheet benotzen", "Ka geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann e kuerzen einfachen Text op eng Kaart oder Mail schreiwen", "Kann e Formulaire ausfëllen (Numm, Adress, Nationalitéit, Zivilstand)" ],
+      "domaine" : "Schrëftlechen Ausdrock "
+   }, {
+      "competences" : [ "Versteet Begréissungsformelen an Héiflechkeetsformelen", "Kann Informatiounen iwwer Zuelen, Auerzäiten, Plazen verstoen", "Kann einfach Informatiounen zu (s)enger Persoun an aus dem alldeeglechen Ëmfeld verstoen", "Kann einfach Informatiounen an alldeegleche Situatiounen verstoen, wa lues an däitlech geschwat gëtt", "Kann en einfacht Gespréich iwwert e vertraut Thema verstoen", "Kann eng ganz einfach Beschreiwung vun enger Persoun oder vun enger Saach verstoen", "Kann eng ganz einfach Weebeschreiwung verstoen", "Ka geleefeg Verben am Präsens an an der Vergaangenheet verstoen", "Ka kuerz an einfach Informatiounen, Instruktiounen, Wënsch a Preferenze verstoen", "Ka geleefeg Verben am Präsenz verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67433,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissances de base en luxembourgeois ",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "codePostal" : "3341",
@@ -28195,6 +30269,84 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "8380",
+      "localite" : "Kleinbettingen",
+      "nom" : "Ancienne école préscolaire",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "7, rue du Parc"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1649",
+   "coursId" : "LA-LB-1649",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "06/10/2026",
+   "dateFin" : "17/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "comprendre le contenu essentiel au travail, à l'école, dans les loisirs. Se débrouiller lors d'un voyage. Produire un discours simple et cohérent sur des sujets divers. Raconter et dérire un évènement, rêve, projet. Expliquer une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann e ganz einfachen Text iwwer e vertraut Thema verstoen" ],
+      "domaine" : "Liesverstoen "
+   }, {
+      "competences" : [ "Gëtt a kuerzen, alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank...) eens", "Kann an alldeegleche Situatiounen op einfach Manéier Bedierfnisser a Wënsch ausdrécken", "Kann a privaten an a beruffleche Situatiounen einfach Propositioune maachen an op Propositioune reagéieren" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Ka kuerz Informatiounen iwwer Persounen, Aktivitéiten a Liewensverhältnisser ginn a froen", "Kann eng Persoun beschreiwen", "Ka Saachen aus dem alldeeglechen Ëmfeld beschreiwen", "Ka Preferenzen a Meenungen iwwer Alldagsthemen ganz einfach ausdrécken" ],
+      "domaine" : "Monologescht Schwätzen"
+   }, {
+      "competences" : [ "Kann an alldeegleche Situatiounen einfach Informatioune verstoen", "Kann a private Gespréicher Alldagsthemen erkenne wa lues an däitlech geschwat gëtt", "Ka, wa lues an däitlech geschwat gëtt, kloer an einfach ausgedréckten Haltungen (Gefalen, Mëssfalen) zu alldeeglechen Themen erkennen", "Ka kuerz, einfach Instruktioune verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 09:00 (durée 2h30), Jeudi à 09:00 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67446,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances en luxembourgeois ",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
       "codePostal" : "8209",
       "localite" : "Mamer",
       "nom" : "Maison Citoyenne",
@@ -28311,6 +30463,87 @@
       "statut" : "Administration Communale",
       "telephone" : "/"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "8473",
+      "localite" : "Eischen",
+      "nom" : "Ecole centrale \"Vir Wëller\"",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, rue de Hobscheid"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1640",
+   "coursId" : "LA-LB-1640",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "06/10/2026",
+   "dateFin" : "15/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "comprendre des expressions fréquemment utilisées, demander des renseignements personnels, décrire son environnement et communiquer de façon simple",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann (einfach a kuerz) Texter iwwert Themen vun allgemengem, perséinlechem oder berufflechem Interessi verstoen, wann se an enger däitlecher Standardsprooch verfaasst sinn", "Ka Beschreiwunge vun Evenementer an Erliefnesser, Gefiller a Wënsch an enger Korrespondenz (Bréif, Email) verstoen", "Kann d'Haaptpunkten an Texter, Artikelen, Meldungen, Geschichten verstoen, wann se däitlech an an enger Standardsprooch verfaasst sinn" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Kann an alldeegleche Situatiounen meeschtens eens ginn (um Telefon, a Geschäfter, Hotellen a Restauranten, beim Dokter ...)", "Kann ouni Preparatioun Gespréicher iwwer den Alldag, vertraut a geleefeg Themen an Interessegebidder féieren (z.B. Famill, Fräizäit, Beruff/Schoul, Reesen an Aktualitéit)", "Kann Informatiounen, Meenungen an Iddien iwwert einfach Themen oder praktesch Problemer austauschen", "Kann a privaten an a berufflechen Situatiounen Virschléi, Rotschléi an Aluedungen ausschwätzen an drop (héiflech) reagéieren", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatiounen ausschwätzen" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Kann op eng einfach Manéier d'Handlung vun engem Buch oder Film erzielen a seng Reaktiounen ausdrécken", "Kann op eng einfach Manéier Erfarungen, Evenementer an Erliefnisser erzielen", "Kann einfach Informatiounen iwwert perséinlech a berufflech Erfarunge ginn", "Kann op eng einfach Manéier Dreem, Hoffnungen an Ziler erzielen, beschreiwen oder erklären", "Kann op eng einfach Manéier Meenungen oder Projeten a Pläng begrënnen oder erklären", "Ka sech op eng einfach Manéier iwwert Theme vun allgemengem, perséinlechen oder berufflechem Interessi ausdrécken", "Kann op eng einfach Manéier säin Ëmfeld, säin Alldag, seng Liewensëmstänn beschreiwen an erklären", "Kann op eng einfach Manéier seng Beruffs- a Fräzäitaktivitéite beschreiwern a vergläichen", "Kann op eng einfach Manéier Situatiounen, Plazen, Saachen a Leit beschreiwen a vergläichen", "Ka mat einfache Wierder iwwer seng Gesondheet schwätzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann en einfachen a kohärenten Text iwwert vertraut Themen oder Interessegebidder schreiwen", "Kann an enger perséinlecher Korrespondenz (Emailen, Bréiwer) seng Erfarungen an Impressioune schrëftlech beschreiwen", "Ka kuerz an einfach Messagen an Texter schreiwen (z.B. fir Merci ze soen, fir ze gratuléieren, fir anzelueden ...)" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann d'Haaptpunkte vun Noriichten, Reportagen, Sendungen um Radio an op der Tëlee ... iwwert aktuell Themen oder Theme vu perséinlechem oder berufflechem Interessi verstoen, wann (zimlech) lues an däitlech geschwat gëtt", "Kann einfach a kloer Annoncen a Messagë verstoen, wa lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen iwwert geleefeg a vertraut Themen oder Interessegebidder versteon, wann (zimlech) lues an däitlech geschwat gëtt", "Kann d'Haaptinformatiounen an alldeegleche Situatioune verstoen, wann däitlech an an enger Standardsprooch geschwat gëtt", "Kann einfach Informatiounen iwwer Erfarungen, Erliefnisser an Evenementer verstoen", "Kann einfach Informatiounen iwwert Pläng, Projeten, Dreem, Hoffnungen an Ziler verstoen", "Ka Virschléi, Rotschléi an Aluedungen verstoen", "Kann Uweisungen, Uerderen, Reegelen, Verbueter an Autorisatioune vestoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67435,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "bonnes connaissances en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "codePostal" : "6122",
@@ -28618,6 +30851,80 @@
       "statut" : "MENFPS",
       "telephone" : "+352 27 69 63-211"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "8473",
+      "localite" : "Eischen",
+      "nom" : "Ecole centrale \"Vir Wëller\"",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, rue de Hobscheid"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1637",
+   "coursId" : "LA-LB-1637",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "07/10/2026",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "se présenter et communiquer dans différentes situations de la vie quotidienne avec des moyens linguistiques simples",
+   "domainesCompetences" : [ {
+      "competences" : [ "Versteet Begréissungsformelen", "Versteet einfach Informatiounen zu sech, zu anere Persounen an aus dem alldeeglegen Ëmfeld", "Versteet Informatiounen iwwer Zuelen, Zäiten, Plazen", "Versteet Zuelen, wa lues geschwat gëtt", "Versteet kuerz Instruktiounen a Wënsch", "Versteet wa gefrot gëtt, wéi et ëm geet a ka reagéieren", "Versteet einfach Informatiounen zu sech" ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Versteet a kuerzen, einfachen Texter Informatiounen an Uweisungen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Ka Begréissungs- an Héiflechkeetsformele benotzen", "Ka Begréissungsformele benotzen", "Ka sech oder eng aner Persoun virstellen", "Kann Zuelen, Datumer an Auerzäite gebrauchen", "Kann einfach Wënsch a Preferenzen ausdrécken a vergläichen", "Kann einfach Instruktiounen, Wënsch a Preferenzen ausdrécken a vergläichen", "Kann an einfache Sätz den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Kann den Dagesoflaf, berufflech Aktivitéiten a Fräizäitaktivitéite beschreiwen", "Ka mat einfachen Ausdréck, heiansdo och nëmmen mat isoléierte Wierder, Informatiounen iwwer sech selwer ginn oder iwwer eng Persoun, déi si kennt", "Ka verschidde geleefeg Verben am Präsens benotzen" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67432,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "Renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "codePostal" : "3542",
@@ -29015,6 +31322,312 @@
    }
 }, {
    "adresseCours" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Ecole centrale \"Vir Wëller\" ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1641",
+   "coursId" : "LA-LB-1641",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "08/10/2026",
+   "dateFin" : "17/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "comprendre des points essentiels quand un langage standard est utilisé. Se débrouiller dans la plupart des situations. Raconter un événement et donner brièvement des explications pour une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann alldeeglech Gespréicher verstoen", "Kann de gréissten Deel vun den Informatiounen vu Noriichten, Reportagen, Sendungen um Radio an op der Tëlee ... iwwert aktuell Themen oder Theme vu perséinlichem oder berufflechem Interessi verstoen", "Kann d'Haaptpunkten an engem Gespréich iwwert geleefeg, bekannt a vertraut Themen oder Interessegebieder verstoen (Themen wéi Alldag, Famill, Hobbyen, Aarbecht, Reesen...)", "Kann Informatiounen iwwer Erfarungen, Erliefnisser an Evenementer verstoen ", "Kann Informatiounen iwwert Pläng, Projeten, Dreem, Hoffnungen an Ziler verstoen " ],
+      "domaine" : "Héierverstoen"
+   }, {
+      "competences" : [ "Kann d'Haaptpunkte vun Texter, Artikelen, Geschichten, Meldungen verstoen, déi verständlech verfaasst sinn ", "Kann Texter iwwert Themen vun allgemengem, perséinlichem oder berufflichem Interessi verstoen, wann se verständlech verfaasst sinn", "Kann d'Beschreiwunge vun Evenementer, Erliefnisser, Gefiller a Wënsch an enger perséinlicher Korrespondenz (Bréif, Email) verstoen" ],
+      "domaine" : "Liesverstoen"
+   }, {
+      "competences" : [ "Kann an alldeeglechen, privaten a beruffleche Situatiounen eens gin ", "Kann ouni Preparatioun Gespréicher iwwer den Alldag, vertraut a geleefeg Themen an/oder Interessegebieder féieren (Themen: Alldag, Famill, Hobbyen, Aarbecht, Reesen)", "Kann Iddien, Meenungen an Informatiounen iwwert aktuell Themen oder praktesch Problemer austauschen " ],
+      "domaine" : "Mëndlechen Interaktioun"
+   }, {
+      "competences" : [ "Kann d'Handlung vun engem Buch oder Film erzielen a seng Reaktiounen ausdrécken ", "Kann Evenementer, Erliefnisser an Erfarungen erzielen ", "Ka seng Projeten, Iddien a Meenunge kuerz begrënnen oder erklären ", "Kann Dreem, Hoffnungen oder Ziler beschreiwen, erzielen oder erklären" ],
+      "domaine" : "Mëndlechen Ausdrock"
+   }, {
+      "competences" : [ "Kann e Bréif oder eng strukturéieret Mail schreiwen", "Kann a kuerzen a kohärenten Text iwwert vertraut Themen oder Interessegebieder schreiwen" ],
+      "domaine" : "Schrëftlechen Ausdrock"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67436,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "B1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "très bonnes connaissances en luxembourgeois",
+   "renseignements" : "renseignements complémentaires lors de l'inscription "
+}, {
+   "adresseCours" : {
+      "codePostal" : "8473",
+      "localite" : "Eischen",
+      "nom" : "Ecole centrale \"Vir Wëller\"",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, rue de Hobscheid"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1639",
+   "coursId" : "LA-LB-1639",
+   "coursType" : "CLASSIQUE",
+   "cout" : 60.0,
+   "dateDebut" : "09/10/2026",
+   "dateFin" : "18/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "comprendre le contenu essentiel au travail, à l'école, dans les loisirs. Se débrouiller lors d'un voyage. Produire un discours simple et cohérent sur des sujets divers. Raconter et dérire un évènement, rêve, projet. Expliquer une idée.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Kann e ganz einfachen Text iwwer e vertraut Thema verstoen" ],
+      "domaine" : "Liesverstoen "
+   }, {
+      "competences" : [ "Gëtt a kuerzen, alldeegleche Situatiounen (Buttek, Restaurant, Post, Bank...) eens", "Kann an alldeegleche Situatiounen op einfach Manéier Bedierfnisser a Wënsch ausdrécken", "Kann a privaten an a beruffleche Situatiounen einfach Propositioune maachen an op Propositioune reagéieren" ],
+      "domaine" : "Mëndlech Interaktioun"
+   }, {
+      "competences" : [ "Ka kuerz Informatiounen iwwer Persounen, Aktivitéiten a Liewensverhältnisser ginn a froen", "Kann eng Persoun beschreiwen", "Ka Saachen aus dem alldeeglechen Ëmfeld beschreiwen", "Ka Preferenzen a Meenungen iwwer Alldagsthemen ganz einfach ausdrécken" ],
+      "domaine" : "Monologescht Schwätzen"
+   }, {
+      "competences" : [ "Kann an alldeegleche Situatiounen einfach Informatioune verstoen", "Kann a private Gespréicher Alldagsthemen erkenne wa lues an däitlech geschwat gëtt", "Ka, wa lues an däitlech geschwat gëtt, kloer an einfach ausgedréckten Haltungen (Gefalen, Mëssfalen) zu alldeeglechen Themen erkennen", "Ka kuerz, einfach Instruktioune verstoen" ],
+      "domaine" : "Héierverstoen"
+   } ],
+   "duree" : "20h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67434,
+   "intitule" : "Luxembourgeois",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances en luxembourgeois ",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1614",
+   "coursId" : "LA-FR-1614",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "12/10/2026",
+   "dateFin" : "19/12/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "comprendre le contenu essentiel au travail, à l'école et aux loisirs. Se débrouiller lors d'un voyage. Tenir un discours simple et cohérent sur des sujets divers. Raconter et décrire un évènement, rêve ou un projet. Expliquer une idée",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des différents dialogues", "comprendre un message téléphonique enregistré", "comprendre un petit documentaire", "comprendre des nouvelles" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "comprendre des annonces publicitaires", "comprendre des informations et instructions", "comprendre l'horoscope", "comprendre des menus", "comprendre des articles de presse et différents genres de textes" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter, donner et demander des informations de caractère personnel, professionnel et des loisirs", "faire des déscriptions au passé", "donner son avis, poser des questions, conseiller", "faire des comparaisons, faire un résumé", "donner des informations simples sur un problème de santé", "parler des expériences personnelles", "parler des fêtes et traditions de son pays" ],
+      "domaine" : "expression orale"
+   }, {
+      "competences" : [ "répondre à des questions d'interprétation, à une enquête", "remplir des documents" ],
+      "domaine" : "expression écrite"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 14:00 (durée 3h), Jeudi à 14:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67373,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "connaissances en français",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1612",
+   "coursId" : "LA-FR-1612",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "12/10/2026",
+   "dateFin" : "19/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter, décliner une invitation, demander un service, raconter un événement au passé, verbes et grammaires de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui concerne l'apprenant de très près (par ex. lui-même, sa famille, ses achats, son environnements proche, son travail)", "Saisir l'essentiel d'annonces, de messages, de dialogues ou de textes simples et clairs" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "Lire et comprendre des textes courts et simples\r\n", "Trouver une information particulière prévisible dans des documents simples et courants comme les prospectus, les petites annonces, les menus \r\n.", "Comprendre des consignes et des textes courts et simples\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers\r\n", "Avoir des échanges très brefs sans pour autant poursuivre une conversation\r\n", "Utiliser une série de phrases ou d'expressions simples pour décrire sa famille et d'autres gens, ses conditions de vie, sa formation et son activité professionnelle actuelle, récente ou passée " ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Ecrire des notes et des messages simples et courts \r\n", "Ecrire une lettre ou un récit personnel en phrases très simples \r\n", "Ecrire une dictée très simple\r\n" ],
+      "domaine" : "Expression écrite"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Lundi à 09:00 (durée 3h), Jeudi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67371,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
       "codePostal" : "1278",
       "localite" : "Luxembourg",
       "nom" : "Clae services asbl",
@@ -29095,6 +31708,79 @@
       "websiteUrl" : "https://www.clae.lu/"
    },
    "prerequis" : "Connaissance de base de l'utilisation du numérique"
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "7447",
+      "localite" : "Lintgen",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "57, route de Fischbach"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1613",
+   "coursId" : "LA-FR-1613",
+   "coursType" : "CLASSIQUE",
+   "cout" : 150.0,
+   "dateDebut" : "13/10/2026",
+   "dateFin" : "20/12/2026",
+   "dateInscription" : "lundi-jeudi de 08:00 - 16:00 heures",
+   "description" : "décrire et situer des endroits de la vie quotidienne, demander, indiquer son chemin, accepter, décliner une invitation, demander un service, raconter un événement au passé, verbes et grammaires de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Lire et comprendre des textes courts et simples\r\n", "Trouver une information particulière prévisible dans des documents simples et courants comme les prospectus, les petites annonces, les menus \r\n.", "Comprendre des consignes et des textes courts et simples\r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "Communiquer lors de tâches simples et habituelles ne demandant qu'un échange d'informations simple et direct sur des sujets et des activités familiers\r\n", "Avoir des échanges très brefs sans pour autant poursuivre une conversation\r\n", "Utiliser une série de phrases ou d'expressions simples pour décrire sa famille et d'autres gens, ses conditions de vie, sa formation et son activité professionnelle actuelle, récente ou passée " ],
+      "domaine" : "Expression orale"
+   }, {
+      "competences" : [ "Ecrire des notes et des messages simples et courts \r\n", "Ecrire une lettre ou un récit personnel en phrases très simples \r\n", "Ecrire une dictée très simple\r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent relatifs à ce qui concerne l'apprenant de très près (par ex. lui-même, sa famille, ses achats, son environnements proche, son travail)", "Saisir l'essentiel d'annonces, de messages, de dialogues ou de textes simples et clairs" ],
+      "domaine" : "Compréhension orale"
+   } ],
+   "duree" : "50h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 09:00 (durée 3h), Vendredi à 09:00 (durée 3h)",
+   "horaires" : [ ],
+   "id" : 67372,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -37295,6 +39981,89 @@
    "renseignements" : "Notwendigkeit, die eigene Nähmaschine zum Kursort mitzubringen und diese bei der Umsetzung der Projekte verwenden. | Nécessité d'apporter sa propre machine à coudre au site du cours et de l'utiliser pour le travail de projet."
 }, {
    "adresseCours" : {
+      "codePostal" : "9175",
+      "localite" : "Niederfeulen",
+      "nom" : "Aal Primärschoul ",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Bongertwee"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TRT-130",
+   "coursId" : "IN-TRT-130",
+   "coursType" : "CLASSIQUE",
+   "cout" : 48.0,
+   "dateDebut" : "30/04/2026",
+   "dateFin" : "02/07/2026",
+   "dateInscription" : "lundi-jeudi 8:00-12:00 heures et de 13:00-16:00 heures",
+   "description" : "Mit dem Programm Word umgehen: Menüs und Symbole benutzen, um Texte zu gestalten. Textteile kopieren und verschieben, Schriften ändern, Grafiken einbauen und Tabellen erstellen, Daten und Ordner wiederfinden.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Connaît les rubans et barres d'outils\r\n", "Peut utiliser les fontions de copier/coller\r\n", "Peut ouvrir, sauvegarder, fermer et partager des documents\r\n" ],
+      "domaine" : "Fonctions de base"
+   }, {
+      "competences" : [ "Peut formater les pages (taille, marges, entête, bas de page)\r\n", "Peut formater le texte (police, taille, style, couleur)\r\n", "Peut formater les paragraphes (alignement, espacement, bordure)\r\n", "Peut créer et utiliser les modèles de documents\r\n" ],
+      "domaine" : "Formatage de documents"
+   }, {
+      "competences" : [ "Peut insérer des images de l'ordinateur et de l'internet", "Peut formater et redimmensionner les images", "Peut repositionner les images" ],
+      "domaine" : "Images"
+   }, {
+      "competences" : [ "Peut imprimer des documents\r\n" ],
+      "domaine" : "Impression"
+   }, {
+      "competences" : [ "Peut utiliser des tabulateurs", "Peut créer un tableau", "Peut modifier et formater un tableau" ],
+      "domaine" : "Tableau"
+   }, {
+      "competences" : [ "Peut détecter et corriger les erreurs de syntaxe et de grammaire " ],
+      "domaine" : "Autres"
+   } ],
+   "duree" : "16h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65468,
+   "intitule" : "Microsoft Word",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "TRT",
+   "matiereNom" : "Traitement de texte",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "renseignements" : "Renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
       "codePostal" : "2163",
       "localite" : "Luxembourg",
       "nom" : "Institut français du Luxembourg",
@@ -37434,6 +40203,84 @@
    },
    "prerequis" : "Tout le niveau B1 acquis",
    "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
+}, {
+   "adresseCours" : {
+      "codePostal" : "9175",
+      "localite" : "Niederfeulen",
+      "nom" : "Aal Primärschoul",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Bongerterwee"
+   },
+   "adresseInscription" : {
+      "codePostal" : "9151",
+      "localite" : "Eschdorf",
+      "nom" : "Landakademie",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "2, am Foumichterwee"
+   },
+   "categorieCode" : "IN",
+   "categorieCodeUnipop" : "TIC",
+   "categorieNom" : "TECHNOLOGIES D'INFORMATION ET DE LA COMMUNICATION ",
+   "coursCode" : "IN-TAB-112",
+   "coursId" : "IN-TAB-112",
+   "coursType" : "CLASSIQUE",
+   "cout" : 48.0,
+   "dateDebut" : "27/04/2026",
+   "dateFin" : "22/06/2026",
+   "dateInscription" : "lundi - jeudi de 08:00 - 16:00 heures",
+   "description" : "Schneller Einstieg in das Tabellenkalkulationsprogramm Excel. Grundlagen des Programms: Zellen, Spalten und Zeilen formatieren, mit einfachen Formeln und Funktionen Berechnungen ausführen, kleine Statistiken und Budgets aufstellen und Arbeitsblätter mit Grafiken aufpeppen.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Peut créer un nouveau fichier Excel\t\t\t\t\t\t\r\n", "connaît les barres d'outil\t\t\t\t\t\t\r\n", "sait naviguer dans les feuilles de calculs\t\t\t\t\t\t\r\n" ],
+      "domaine" : "Fonctions de base"
+   }, {
+      "competences" : [ "sait entrer et modifier des données dans les cellules\t\t\t\t\t\t\r\n", "sait copier, supprimer des cellules, colonnes et des lignes\t\t\t\t\t\t\r\n", "sait formater des cellules\t\t\t\t\t\t\r\n" ],
+      "domaine" : "Feuille de calcul"
+   }, {
+      "competences" : [ "connaît des adresses de cellules\t\t\t\t\t\t\r\n", "sait calculer et créer des formules\t\t\t\t\t\t\r\n", "connaît les fonctions principales et sait les utiliser avec l'assistant\r\n" ],
+      "domaine" : "Calculs, formules et fonctions"
+   }, {
+      "competences" : [ "peut créer des graphiqes simples\t\t\t\t\t\t\r\n" ],
+      "domaine" : "Graphiques"
+   } ],
+   "duree" : "16h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 19:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 65467,
+   "intitule" : "Microsoft Excel",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "TAB",
+   "matiereNom" : "Tableurs",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "7447",
+         "localite" : "Lintgen",
+         "nom" : "Landakademie",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "57, route de Fischbach"
+      },
+      "code" : "LANAKA",
+      "fax" : "+352 89 95 68-40",
+      "mail" : "fabio@landakademie.lu",
+      "nom" : "Landakademie",
+      "nomContact" : "Da Silva Loureiro",
+      "onlineReg" : false,
+      "prenomContact" : "Fabio",
+      "statut" : "ASBL",
+      "telephone" : "89 95 68 28",
+      "websiteUrl" : "https://www.landakademie.lu/"
+   },
+   "prerequis" : "Connaissances de base Windows",
+   "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -45410,7 +48257,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 229.5,
    "dateDebut" : "24/02/2026",
-   "dateFin" : "21/07/2026",
+   "dateFin" : "22/07/2026",
    "description" : "Création et fabrication de Bijoux en Argent en utilisant des techniques bijoutières traditionnelles.",
    "duree" : "51 leçons",
    "enseignants" : [ {
