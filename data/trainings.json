@@ -130,67 +130,6 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-COA-14",
-   "coursId" : "SO-COA-14",
-   "coursType" : "CLASSIQUE",
-   "cout" : 13.5,
-   "dateDebut" : "25/06/2026",
-   "dateFin" : "25/06/2026",
-   "description" : "Du chaos à l´harmonie: réussir sa famille recomposée:\r\nLa théorie, c’est bien. Le vécu, c’est autre chose. On sous-estime souvent la complexité d’une famille recomposée : c’est une expérience intense, que seule l’immersion dans le quotidien permet de véritablement saisir. Cet atelier propose des solutions concrètes pour aider chacun à y trouver sa place.\r\nEntre divergences sur l’éducation, enfants qui testent les limites, rôle parfois incertain du beau-parent et tensions avec l’ex-partenaire, le quotidien peut vite devenir épuisant. Même avec les meilleures intentions, il est facile de se sentir dépassé, coincé entre ses responsabilités de parent, les exigences du couple et les dynamiques complexes de la recomposition familiale.\r\nVous apprendrez comment décoder les réactions des enfants (souvent liées à des besoins de sécurité ou à des conflits de loyauté) pour transformer les tensions en équilibre durable et renforcer le rôle du beau-parent, à poser des règles cohérentes qui sécurisent les enfants et protègent le couple, et à désamorcer les conflits avant qu’ils ne s’installent.",
-   "duree" : "3 leçons",
-   "enseignants" : [ {
-      "nom" : "Namegabe",
-      "prenom" : "Kellya Mfitu Maria-Elisabeth"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 25-06-2026 à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66211,
-   "intitule" : "Du chaos à l’entente : Réussir sa famille recomposée -  Trouver sa juste place et gérer les conflits",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COA",
-   "matiereNom" : "Coaching",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMTE%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Les participants sont priés d’apporter un stylo et un cahier pour prendre des notes. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SCI",
    "categorieCodeUnipop" : "SCH",
    "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
@@ -493,7 +432,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 12,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -981,17 +920,40 @@
       "domaine" : "Mëndlechen Ausdrock"
    } ],
    "duree" : "50h",
-   "enseignants" : [ ],
+   "enseignants" : [ {
+      "nom" : "Haas",
+      "prenom" : "Natalie"
+   } ],
    "format" : "DISTANCE",
    "horairePrevu" : "Lundi à 12:30 (durée 2h), Mardi à 12:30 (durée 2h), Mercredi à 12:30 (durée 2h), Jeudi à 12:30 (durée 2h), Vendredi à 12:30 (durée 2h)",
-   "horaires" : [ ],
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:30",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:30",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:30",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:30",
+      "jour" : "Vendredi"
+   } ],
    "id" : 65453,
    "intitule" : "Luxembourgeois",
    "langueCoursCode" : "LB",
    "langueCoursNom" : "Luxembourgeois",
    "matiereCode" : "LB",
    "matiereNom" : "Luxembourgeois",
-   "nbInscrits" : 0,
+   "nbInscrits" : 11,
    "nbPlaces" : 25,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -1083,7 +1045,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 14,
    "nbPlaces" : 20,
    "niveau" : "A1.2 du CECRL",
    "onlineRegistration" : false,
@@ -1174,7 +1136,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
-   "nbInscrits" : 0,
+   "nbInscrits" : 15,
    "nbPlaces" : 20,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : false,
@@ -1240,7 +1202,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Découvrir le GDL en français",
-   "nbInscrits" : 5,
+   "nbInscrits" : 6,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3671,6 +3633,67 @@
       "telephone" : "247 56 400",
       "websiteUrl" : "http://www.unipop.lu"
    }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-COA-14",
+   "coursId" : "SO-COA-14",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "09/07/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "Du chaos à l´harmonie: réussir sa famille recomposée:\r\nLa théorie, c’est bien. Le vécu, c’est autre chose. On sous-estime souvent la complexité d’une famille recomposée : c’est une expérience intense, que seule l’immersion dans le quotidien permet de véritablement saisir. Cet atelier propose des solutions concrètes pour aider chacun à y trouver sa place.\r\nEntre divergences sur l’éducation, enfants qui testent les limites, rôle parfois incertain du beau-parent et tensions avec l’ex-partenaire, le quotidien peut vite devenir épuisant. Même avec les meilleures intentions, il est facile de se sentir dépassé, coincé entre ses responsabilités de parent, les exigences du couple et les dynamiques complexes de la recomposition familiale.\r\nVous apprendrez comment décoder les réactions des enfants (souvent liées à des besoins de sécurité ou à des conflits de loyauté) pour transformer les tensions en équilibre durable et renforcer le rôle du beau-parent, à poser des règles cohérentes qui sécurisent les enfants et protègent le couple, et à désamorcer les conflits avant qu’ils ne s’installent.",
+   "duree" : "3 leçons",
+   "enseignants" : [ {
+      "nom" : "Namegabe",
+      "prenom" : "Kellya Mfitu Maria-Elisabeth"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 09-07-2026 à 17:10 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "17:10",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66211,
+   "intitule" : "Du chaos à l’entente : Réussir sa famille recomposée -  Trouver sa juste place et gérer les conflits",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "COA",
+   "matiereNom" : "Coaching",
+   "nbInscrits" : 3,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "Les participants sont priés d’apporter un stylo et un cahier pour prendre des notes. "
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -24005,7 +24028,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "PL",
    "matiereNom" : "Polonais",
-   "nbInscrits" : 3,
+   "nbInscrits" : 4,
    "nbPlaces" : 24,
    "niveau" : "A1.1 du CECRL",
    "onlineRegistration" : true,
@@ -48257,7 +48280,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 229.5,
    "dateDebut" : "24/02/2026",
-   "dateFin" : "22/07/2026",
+   "dateFin" : "04/08/2026",
    "description" : "Création et fabrication de Bijoux en Argent en utilisant des techniques bijoutières traditionnelles.",
    "duree" : "51 leçons",
    "enseignants" : [ {
