@@ -8,128 +8,6 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-COA-13",
-   "coursId" : "SO-COA-13",
-   "coursType" : "CLASSIQUE",
-   "cout" : 13.5,
-   "dateDebut" : "25/06/2026",
-   "dateFin" : "25/06/2026",
-   "description" : "Cet atelier aide les parents à comprendre leur ado, gérer tensions et conflits, et retrouver sérénité et lien au quotidien. Vous découvrirez les grandes tendances du comportement adolescent et ce qui peut expliquer certaines réactions, pourquoi les humeurs changent, les oublis se multiplient et le plaisir immédiat prime parfois sur tout le reste. Grâce à des exemples concrets du quotidien, des exercices pratiques comme la reformulation ou la mise en perspective, des questions de réflexion et des échanges en groupe, vous apprendrez à ajuster votre rôle parental, instaurer de nouvelles règles adaptées à votre famille et désamorcer les conflits avant qu’ils ne s’enveniment. Vous repartirez avec des stratégies simples et applicables immédiatement pour renforcer votre relation, apaiser le quotidien et créer une dynamique familiale harmonieuse. Ce n’est ni vous, ni votre ado le problème, mais la compréhension et l’accompagnement de cette période clé de sa vie.",
-   "duree" : "3 leçons",
-   "enseignants" : [ {
-      "nom" : "Namegabe",
-      "prenom" : "Kellya Mfitu Maria-Elisabeth"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi 25-06-2026 à 17:10 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "17:10",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66210,
-   "intitule" : "Mon ado et moi: et si le problème n'était ni lui ni vous?  Mode d’emploi pour ados… enfin presque",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "COA",
-   "matiereNom" : "Coaching",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Débutant",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyMTA%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "Les participants sont priés d’apporter un stylo et un cahier pour prendre des notes. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-PSY-23",
-   "coursId" : "SCI-PSY-23",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "25/06/2026",
-   "dateFin" : "09/07/2026",
-   "description" : "Ce cours s’inscrit dans la continuité directe de « Psychologie : Les bases » et s’adresse aux participants disposant déjà de notions fondamentales en psychologie.\r\nL’objectif est d’aller au-delà des bases afin d’explorer plus en profondeur les mécanismes qui influencent le comportement humain au quotidien.\r\nAu fil des séances, différentes thématiques essentielles seront abordées, telles que les émotions, la motivation, la mémoire, la communication et le développement humain, présentées de manière structurée, claire et accessible.\r\nL’approche privilégie la compréhension concrète plutôt que la théorie pure, afin de donner des repères utiles pour mieux saisir pourquoi les individus pensent, ressentent et agissent de certaines façons.\r\nLes participants développeront ainsi une lecture plus fine du comportement humain, tant pour leur propre fonctionnement que pour celui des autres.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Frédérick",
-      "prenom" : "Gilles"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 66572,
-   "intitule" : "Psychologie 2 – Approfondissement des mécanismes du comportement humain",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "PSY",
-   "matiereNom" : "Psychologie",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY1NzI%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Ce cours est destiné aux personnes ayant suivi « Psychologie : Les bases ». - SCI-PSY-18"
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SCI",
    "categorieCodeUnipop" : "SCH",
    "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
@@ -34605,6 +34483,67 @@
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
 }, {
    "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-23",
+   "coursId" : "SCI-PSY-23",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "25/06/2026",
+   "dateFin" : "09/07/2026",
+   "description" : "Ce cours s’inscrit dans la continuité directe de « Psychologie : Les bases » et s’adresse aux participants disposant déjà de notions fondamentales en psychologie.\r\nL’objectif est d’aller au-delà des bases afin d’explorer plus en profondeur les mécanismes qui influencent le comportement humain au quotidien.\r\nAu fil des séances, différentes thématiques essentielles seront abordées, telles que les émotions, la motivation, la mémoire, la communication et le développement humain, présentées de manière structurée, claire et accessible.\r\nL’approche privilégie la compréhension concrète plutôt que la théorie pure, afin de donner des repères utiles pour mieux saisir pourquoi les individus pensent, ressentent et agissent de certaines façons.\r\nLes participants développeront ainsi une lecture plus fine du comportement humain, tant pour leur propre fonctionnement que pour celui des autres.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Frédérick",
+      "prenom" : "Gilles"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66572,
+   "intitule" : "Psychologie 2 – Approfondissement des mécanismes du comportement humain",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 10,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY1NzI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Ce cours est destiné aux personnes ayant suivi « Psychologie : Les bases ». - SCI-PSY-18"
+}, {
+   "adresseCours" : {
       "codePostal" : "2309",
       "localite" : "Luxembourg",
       "nom" : "Lycée Technique du Centre",
@@ -43451,7 +43390,7 @@
    "dateInscription" : "27/03 au 09/04/2026",
    "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes et des phrases très simples visant à répondre à des besoins concrets. Peut se présenter à d'autres personnes et poser des questions à une personne à leur sujet - par ex. où elle habite, quelles personnes elle connaît et quelles choses lui appartiennent - et répondre au même genre de questions. Peut interagir facilement si l'autre personne parle lentement et clairement et est coopérative.",
    "domainesCompetences" : [ {
-      "competences" : [ "1. eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. eng ganz einfach Weebeschreiwung an enger Stad verstoen (riichtaus, no lénks, no riets, ...) \t \t", " 3. Informatiounen iwwer Wunnenge verstoen (Gréisst, Präis, Zëmmeren, ...) (kafen, verkafen, lounen, verlounen)\t \t \r\n\t\t\t \t \r\n", "4. e Gespréich iwwer alldeeglech Aktivitéite verstoen (am Stot, dobaussen, am Restaurant, ...)\t \t \r\n\t\t", "5. eng Persounebeschreiwung verstoen (um Radio, op enger Party) (Ausgesinn, Kleeder, Adjektiver)" ],
+      "competences" : [ "4. e Gespréich iwwer alldeeglech Aktivitéite verstoen (am Stot, dobaussen, am Restaurant, ...)\t \t \r\n\t\t", "1. eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. eng ganz einfach Weebeschreiwung an enger Stad verstoen (riichtaus, no lénks, no riets, ...) \t \t", " 3. Informatiounen iwwer Wunnenge verstoen (Gréisst, Präis, Zëmmeren, ...) (kafen, verkafen, lounen, verlounen)\t \t \r\n\t\t\t \t \r\n", "5. eng Persounebeschreiwung verstoen (um Radio, op enger Party) (Ausgesinn, Kleeder, Adjektiver)" ],
       "domaine" : "Compréhension Orale  Héierverstoen (HV)"
    }, {
       "competences" : [ "1. op engem Panneau eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. an engem Gebai eng wichteg Orientéierungshëllef verstoen (éischte Stack, am Keller, ...)\t \t \r\n\t\t", "3. eng Wunnengsannonce verstoen (Lag, Gréisst, Zëmmeren, ...)", "4. eng Persounebeschreiwung verstoen, d'Ausgesinn an de Charakter  (Annonce, ...) (Kierper, Kleeder, Adjektiver)" ],
@@ -46064,67 +46003,6 @@
    },
    "prerequis" : "Merci de prendre note que pendant les vacances scolaires au Luxembourg, aucun cours n’aura lieu.",
    "renseignements" : "La formatrice achète le matériel et se fait rembourser par les participants. "
-}, {
-   "adresseCours" : {
-      "codePostal" : "4354",
-      "localite" : "Esch-Sur-Alzette",
-      "nom" : "CNFPC-Esch/Alzette",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "22, rue Henri Koch"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coOrganisateurs" : [ "CNFPC-Esch/Alzette" ],
-   "coursCode" : "AR-COUT-93",
-   "coursId" : "AR-COUT-93",
-   "coursType" : "CLASSIQUE",
-   "cout" : 175.5,
-   "dateDebut" : "05/03/2026",
-   "dateFin" : "25/06/2026",
-   "description" : ">  Vertiefung der Kenntnisse beim Nähen\r\n>  Anprobe und Anpassungen\r\n>  Zuschneiden\r\n>  Vertiefung der Verarbeitungstechniken für ein Projekt\r\n>  Eigene Projekte",
-   "duree" : "39 leçons",
-   "enseignants" : [ {
-      "nom" : "Engel",
-      "prenom" : "Yvette"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 08:30 (durée 2h30)",
-   "horaires" : [ {
-      "duree" : "2h30",
-      "heure" : "08:30",
-      "jour" : "Jeudi"
-   } ],
-   "id" : 65053,
-   "intitule" : "Couture - Avancé",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "COUT",
-   "matiereNom" : "Couture",
-   "nbInscrits" : 10,
-   "nbPlaces" : 10,
-   "niveau" : "Avancé",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUwNTM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -51896,6 +51774,9 @@
    "dateDebut" : "19/01/2026",
    "dateFin" : "02/07/2026",
    "domainesCompetences" : [ {
+      "competences" : [ "Write correctly by copying very common words (names, animals, objects)\r\nCheck if words and sentences are understandable\r\nUse the most common spellings \r\n" ],
+      "domaine" : "Writing"
+   }, {
       "competences" : [ "Listen to and imitate the pronunciation of German sounds\r\nMemorize and reproduce statements\r\nExpress oneself in a comprehensible way on familiar topics\r\nRespond to questions with short sentences and simple expressions\r\nParticipate in role-plays in different contexts using short sentences and simple expressions\r\n" ],
       "domaine" : "Speaking"
    }, {
@@ -51904,9 +51785,6 @@
    }, {
       "competences" : [ "Read and understand very short and simple sentences. Try to read unfamiliar words and expressions\r\nUnderstand meaning from illustrations\r\nIdentify isolated words in a sentence or very short text in response to very simple questions\r\nReconstruct simple and short sentences using word cards\r\n" ],
       "domaine" : "Reading comprehension"
-   }, {
-      "competences" : [ "Write correctly by copying very common words (names, animals, objects)\r\nCheck if words and sentences are understandable\r\nUse the most common spellings \r\n" ],
-      "domaine" : "Writing"
    } ],
    "duree" : "60h",
    "enseignants" : [ {
@@ -53480,7 +53358,7 @@
       "competences" : [ "L'apprenant peut engager une conversation simple. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.\r\n", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
       "domaine" : "Expression orale en continu"
    }, {
-      "competences" : [ "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées ." ],
+      "competences" : [ "L'apprenant peut faire part de ses idées .", "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne." ],
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
