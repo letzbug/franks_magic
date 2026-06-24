@@ -4956,57 +4956,77 @@
       "paysNom" : "Luxembourg",
       "rueNumero" : "14, Porte de France"
    },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-PSY-22",
-   "coursId" : "SCI-PSY-22",
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1589",
+   "coursId" : "LA-FR-1589",
    "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
+   "cout" : 180.0,
    "dateDebut" : "15/07/2026",
-   "dateFin" : "15/07/2026",
-   "description" : "Stress und dauerhafte Überlastung betreffen viele Menschen — besonders im Familien-, Pflege- und Gesundheitsalltag. Dieser kurze Kurs bietet eine klare und praktische Einführung darin, wie Stress entsteht, was er signalisiert und was tatsächlich hilfreich ist.\r\n\r\nIm Mittelpunkt stehen Verständnis und konkrete Werkzeuge für reale Situationen — keine Schnelllösungen, keine Wundermethoden, keine Gruppentherapie.\r\n\r\nTageskurs  — geeignet u. a. für Eltern, Gesundheits- und Pflegeberufe, Schichtarbeitende und Personen mit flexiblem Zeitplan",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Frédérick",
-      "prenom" : "Gilles"
+   "dateFin" : "11/08/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
+   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
+   "domainesCompetences" : [ {
+      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n" ],
+      "domaine" : "compréhension orale"
+   }, {
+      "competences" : [ "reconnaître des noms, mots et expressions courants", "comprendre des messages simples (sms ou de type « carte postale ») ", "suivre des indications brèves et simples" ],
+      "domaine" : "compréhension écrite"
+   }, {
+      "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) ", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
+      "domaine" : "expression orale en continu"
+   }, {
+      "competences" : [ "questionner quelqu’un sur son identité, son travail, ses loisirs, son environnement et répondre à des questions analogues ", "utiliser des formules (basiques) d’adresse et de congé \r\n", "demander un prix\r\n" ],
+      "domaine" : "interaction orale"
+   }, {
+      "competences" : [ "écrire un SMS/message basique (pour donner rdv par exemple)\r\n", " remplir un formulaire d’inscription \r\n", "se présenter brièvement\r\n" ],
+      "domaine" : "expression écrite"
    } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Mercredi 15-07-2026 à 10:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Mercredi"
-   } ],
-   "id" : 66255,
-   "intitule" : "Stress und mentale Überlastung verstehen - Was wirklich passiert, und was im Alltag hilft",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "PSY",
-   "matiereNom" : "Psychologie",
+   "duree" : "60 leçons",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Lundi à 11:10 (durée 2h30), Mardi à 11:10 (durée 2h30), Mercredi à 11:10 (durée 2h30), Jeudi à 11:10 (durée 2h30), Vendredi à 11:10 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 67086,
+   "intitule" : "Français, culture et citoyenneté Intensif",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
    "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTU%3D",
+   "nbPlaces" : 22,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
+         "rueNumero" : "5, Av Marie Thérèse"
       },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   }
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "alphabétisation acquise",
+   "renseignements" : "accessible aux personnes à mobilité réduite"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -6619,77 +6639,57 @@
       "paysNom" : "Luxembourg",
       "rueNumero" : "14, Porte de France"
    },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1589",
-   "coursId" : "LA-FR-1589",
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-22",
+   "coursId" : "SCI-PSY-22",
    "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
-   "dateDebut" : "15/07/2026",
-   "dateFin" : "11/08/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 09h30 à 13h00",
-   "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes, des énoncés très simples visant à satisfaire des besoins concrets. Peut se présenter ou présenter quelqu'un, poser et répondre à des questions personnelles. Peut communiquer de façon simple (débit lent et clair).",
-   "domainesCompetences" : [ {
-      "competences" : [ " comprendre des mots familiers et des expressions très courantes ", " comprendre des questions simples ", "comprendre des indications simples (nom, adresse, heure, prix…) \r\n", "comprendre une prise de rendez-vous\r\n" ],
-      "domaine" : "compréhension orale"
-   }, {
-      "competences" : [ "reconnaître des noms, mots et expressions courants", "comprendre des messages simples (sms ou de type « carte postale ») ", "suivre des indications brèves et simples" ],
-      "domaine" : "compréhension écrite"
-   }, {
-      "competences" : [ "se présenter et présenter quelqu’un (nom, prénom, âge, nationalité, pays d’origine, profession) ", "parler de sa famille (et utiliser les possessifs) ", "parler de ses activités au quotidien et (verbes pronominaux) et les situer dans le temps ", "indiquer les lieux où on se rend et les moyens de transports utilisés ", " indiquer son numéro de téléphone, son adresse postale et son adresse électronique" ],
-      "domaine" : "expression orale en continu"
-   }, {
-      "competences" : [ "questionner quelqu’un sur son identité, son travail, ses loisirs, son environnement et répondre à des questions analogues ", "utiliser des formules (basiques) d’adresse et de congé \r\n", "demander un prix\r\n" ],
-      "domaine" : "interaction orale"
-   }, {
-      "competences" : [ "écrire un SMS/message basique (pour donner rdv par exemple)\r\n", " remplir un formulaire d’inscription \r\n", "se présenter brièvement\r\n" ],
-      "domaine" : "expression écrite"
+   "cout" : 9.0,
+   "dateDebut" : "16/07/2026",
+   "dateFin" : "16/07/2026",
+   "description" : "Stress und dauerhafte Überlastung betreffen viele Menschen — besonders im Familien-, Pflege- und Gesundheitsalltag. Dieser kurze Kurs bietet eine klare und praktische Einführung darin, wie Stress entsteht, was er signalisiert und was tatsächlich hilfreich ist.\r\n\r\nIm Mittelpunkt stehen Verständnis und konkrete Werkzeuge für reale Situationen — keine Schnelllösungen, keine Wundermethoden, keine Gruppentherapie.\r\n\r\nTageskurs  — geeignet u. a. für Eltern, Gesundheits- und Pflegeberufe, Schichtarbeitende und Personen mit flexiblem Zeitplan",
+   "duree" : "2 leçons",
+   "enseignants" : [ {
+      "nom" : "Frédérick",
+      "prenom" : "Gilles"
    } ],
-   "duree" : "60 leçons",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Lundi à 11:10 (durée 2h30), Mardi à 11:10 (durée 2h30), Mercredi à 11:10 (durée 2h30), Jeudi à 11:10 (durée 2h30), Vendredi à 11:10 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 67086,
-   "intitule" : "Français, culture et citoyenneté Intensif",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi 16-07-2026 à 10:20 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "10:20",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 66255,
+   "intitule" : "Stress und mentale Überlastung verstehen - Was wirklich passiert, und was im Alltag hilft",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
    "nbInscrits" : 0,
-   "nbPlaces" : 22,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : false,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYyNTU%3D",
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
+         "rueNumero" : "14, Porte de France"
       },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "alphabétisation acquise",
-   "renseignements" : "accessible aux personnes à mobilité réduite"
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
