@@ -43390,7 +43390,7 @@
    "dateInscription" : "27/03 au 09/04/2026",
    "description" : "Peut comprendre et utiliser des expressions familières et quotidiennes et des phrases très simples visant à répondre à des besoins concrets. Peut se présenter à d'autres personnes et poser des questions à une personne à leur sujet - par ex. où elle habite, quelles personnes elle connaît et quelles choses lui appartiennent - et répondre au même genre de questions. Peut interagir facilement si l'autre personne parle lentement et clairement et est coopérative.",
    "domainesCompetences" : [ {
-      "competences" : [ "4. e Gespréich iwwer alldeeglech Aktivitéite verstoen (am Stot, dobaussen, am Restaurant, ...)\t \t \r\n\t\t", "1. eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. eng ganz einfach Weebeschreiwung an enger Stad verstoen (riichtaus, no lénks, no riets, ...) \t \t", " 3. Informatiounen iwwer Wunnenge verstoen (Gréisst, Präis, Zëmmeren, ...) (kafen, verkafen, lounen, verlounen)\t \t \r\n\t\t\t \t \r\n", "5. eng Persounebeschreiwung verstoen (um Radio, op enger Party) (Ausgesinn, Kleeder, Adjektiver)" ],
+      "competences" : [ "1. eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. eng ganz einfach Weebeschreiwung an enger Stad verstoen (riichtaus, no lénks, no riets, ...) \t \t", " 3. Informatiounen iwwer Wunnenge verstoen (Gréisst, Präis, Zëmmeren, ...) (kafen, verkafen, lounen, verlounen)\t \t \r\n\t\t\t \t \r\n", "4. e Gespréich iwwer alldeeglech Aktivitéite verstoen (am Stot, dobaussen, am Restaurant, ...)\t \t \r\n\t\t", "5. eng Persounebeschreiwung verstoen (um Radio, op enger Party) (Ausgesinn, Kleeder, Adjektiver)" ],
       "domaine" : "Compréhension Orale  Héierverstoen (HV)"
    }, {
       "competences" : [ "1. op engem Panneau eng Informatioun iwwert en Horaire verstoen (Zuch, Bus, ...)", "2. an engem Gebai eng wichteg Orientéierungshëllef verstoen (éischte Stack, am Keller, ...)\t \t \r\n\t\t", "3. eng Wunnengsannonce verstoen (Lag, Gréisst, Zëmmeren, ...)", "4. eng Persounebeschreiwung verstoen, d'Ausgesinn an de Charakter  (Annonce, ...) (Kierper, Kleeder, Adjektiver)" ],
@@ -51774,9 +51774,6 @@
    "dateDebut" : "19/01/2026",
    "dateFin" : "02/07/2026",
    "domainesCompetences" : [ {
-      "competences" : [ "Write correctly by copying very common words (names, animals, objects)\r\nCheck if words and sentences are understandable\r\nUse the most common spellings \r\n" ],
-      "domaine" : "Writing"
-   }, {
       "competences" : [ "Listen to and imitate the pronunciation of German sounds\r\nMemorize and reproduce statements\r\nExpress oneself in a comprehensible way on familiar topics\r\nRespond to questions with short sentences and simple expressions\r\nParticipate in role-plays in different contexts using short sentences and simple expressions\r\n" ],
       "domaine" : "Speaking"
    }, {
@@ -51785,6 +51782,9 @@
    }, {
       "competences" : [ "Read and understand very short and simple sentences. Try to read unfamiliar words and expressions\r\nUnderstand meaning from illustrations\r\nIdentify isolated words in a sentence or very short text in response to very simple questions\r\nReconstruct simple and short sentences using word cards\r\n" ],
       "domaine" : "Reading comprehension"
+   }, {
+      "competences" : [ "Write correctly by copying very common words (names, animals, objects)\r\nCheck if words and sentences are understandable\r\nUse the most common spellings \r\n" ],
+      "domaine" : "Writing"
    } ],
    "duree" : "60h",
    "enseignants" : [ {
@@ -53358,7 +53358,7 @@
       "competences" : [ "L'apprenant peut engager une conversation simple. Il est capable de mobiliser son vocabulaire pour expliquer des notions ou des démarches élémentaires.\r\n", "L'apprenant peut rapporter les propos de quelqu'un et les hiérarchiser éventuellement." ],
       "domaine" : "Expression orale en continu"
    }, {
-      "competences" : [ "L'apprenant peut faire part de ses idées .", "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne." ],
+      "competences" : [ "L'apprenant est capable de répondre à un courriel.", "L'apprenant peut décrire le caractère d'une personne.", "L'apprenant peut faire part de ses idées ." ],
       "domaine" : "Expression écrite"
    } ],
    "duree" : "60h",
