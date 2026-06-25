@@ -70,67 +70,6 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-CUIS-61",
-   "coursId" : "AR-CUIS-61",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "26/06/2026",
-   "dateFin" : "26/06/2026",
-   "description" : "Savourez un moment de douceur autour d’une tasse de thé et de délicieuses gourmandises sucrées, poétiques et parfumées aux fleurs séchées que nous réaliserons ensemble : crème brûlée à la rose, éclairs à la lavande, biscuits aux pétales séchés…\r\n\r\nAccessible à tous les niveaux et à tous les âges, cet atelier gourmand est une invitation à la découverte, à la créativité et au plaisir des sens.\r\n\r\nUn moment convivial et chaleureux à partager en famille ou entre amis, pour allier cuisine, poésie et bien-être.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Renneboog",
-      "prenom" : "Ellen"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi 26-06-2026 à 16:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "16:20",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 67015,
-   "intitule" : "Cuisiner avec des fleurs",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "CUIS",
-   "matiereNom" : "Cuisine",
-   "nbInscrits" : 8,
-   "nbPlaces" : 12,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwMTU%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge du matériel, et un remboursement en espèces sera demandé le jour même, d’un montant de 15 euros."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -182,67 +121,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Apportez un cahier pour prendre des notes et un tapis de yoga. \r\nLa formatrice maîtrise également l’anglais et le portugais."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "AR",
-   "categorieCodeUnipop" : "ART",
-   "categorieNom" : "ARTS ET ARTISANAT",
-   "coursCode" : "AR-UC-5",
-   "coursId" : "AR-UC-5",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "27/06/2026",
-   "dateFin" : "27/06/2026",
-   "description" : "Apprenez à créer des bougies originales et uniques à base de cire végétale, en donnant une seconde vie à des objets du quotidien tels que de vieilles tasses à thé, de petits bols ou encore des coquillages.\r\n\r\nAu fil de l’atelier, vous explorerez différentes couleurs, parfums et associations créatives pour concevoir des pièces décoratives personnalisées et pleines de charme.\r\n\r\nAccessible à tous les niveaux, ce cours invite à la détente, à la créativité et au plaisir de faire soi-même, dans une ambiance conviviale et inspirante.",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Renneboog",
-      "prenom" : "Ellen"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 27-06-2026 à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Samedi"
-   } ],
-   "id" : 67017,
-   "intitule" : "Fabrication de bougies naturelles à partir d’objets recyclés",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "UC",
-   "matiereNom" : "Upcycling",
-   "nbInscrits" : 9,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwMTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "renseignements" : "La formatrice se charge de fournir le matériel. Un remboursement en espèces de 20 euros sera demandé le jour même."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -10882,6 +10760,63 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-25",
+   "coursId" : "SCI-PSY-25",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "05/08/2026",
+   "dateFin" : "05/08/2026",
+   "description" : "Ce cours permet de découvrir les différentes formes de stress rencontrées au quotidien et de mieux comprendre leurs manifestations, tant sur le plan physique que mental et émotionnel. Les participants apprendront à identifier les principales sources de stress afin de pouvoir les anticiper et en réduire l’impact en amont. Une attention particulière sera portée à l’analyse des effets du stress sur la performance, la concentration et la productivité, aussi bien dans la sphère professionnelle que personnelle. Enfin, le cours propose des outils concrets, pratiques et directement applicables pour mieux réguler le stress au quotidien, renforcer son équilibre et développer des stratégies efficaces pour faire face aux situations exigeantes.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 05-08-2026 à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67847,
+   "intitule" : "Reprendre le contrôle : gérer son stress avant le burnout",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc4NDc%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
@@ -11309,6 +11244,63 @@
    "categorieCode" : "SCI",
    "categorieCodeUnipop" : "SCH",
    "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-26",
+   "coursId" : "SCI-PSY-26",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "07/08/2026",
+   "dateFin" : "07/08/2026",
+   "description" : "Ce cours met en lumière le rôle central de la communication dans le management d’équipe et son influence sur la qualité des relations de travail ainsi que sur la dynamique collective. Les participants développeront une communication positive et efficace afin de renforcer la confiance, l’engagement et la performance au sein de leur équipe. Ils apprendront également à identifier les sources de tensions, à prévenir les malentendus et à gérer les conflits de manière constructive. Enfin, le cours s’appuie sur différents outils de diagnostic permettant de mieux analyser les interactions, de comprendre le fonctionnement de son équipe et d’adapter son style de management aux besoins de chacun.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 07-08-2026 à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 67849,
+   "intitule" : "Créer une communication fluide et constructive avec son équipe",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc4NDk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
    "coursCode" : "SCI-COMMU-16",
    "coursId" : "SCI-COMMU-16",
    "coursType" : "CLASSIQUE",
@@ -11358,6 +11350,131 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Horaires du cours : De 9h20 à 12h00, puis de 12h50 à 18h00."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-125",
+   "coursId" : "SO-YOG-125",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "07/08/2026",
+   "dateFin" : "28/08/2026",
+   "description" : "Offrez-vous une pause bien-être avec une séance complète de Hatha Yoga traditionnel enrichi par les connaissances posturales de la méthode du Dr Bernadette De Gasquet. Vous serez guidé à travers un enchaînement de postures, des exercices de respiration et des techniques de relaxation qui favorisent la réduction du stress et la conscience corporelle. Des échanges philosophiques et de bien-être peuvent également être proposés.",
+   "duree" : "4 leçons",
+   "enseignants" : [ {
+      "nom" : "Andreos",
+      "prenom" : "Aurélie",
+      "presentation" : "https://aurelie-yoga-ayurveda.com/"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 12:00 (durée 0h50)",
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 67853,
+   "intitule" : "HATHA YOGA LUNCH - Spécial été",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc4NTM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "renseignements" : "A apporter: Un tapis de yoga ainsi qu’une sangle et une brique de yoga. Veuillez noter qu'il n'y a ni vestiaires ni douches sur place. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SO",
+   "categorieCodeUnipop" : "ACP",
+   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
+   "coursCode" : "SO-YOG-124",
+   "coursId" : "SO-YOG-124",
+   "coursType" : "CLASSIQUE",
+   "cout" : 18.0,
+   "dateDebut" : "07/08/2026",
+   "dateFin" : "28/08/2026",
+   "description" : "Offrez-vous une parenthèse énergisante en plein cœur de la journée avec un cours de yoga Vinyasa, accessible aux débutants. Pendant 50 minutes, venez explorer un flow fluide et rythmé, alliant mouvement et respiration, pour libérer les tensions, retrouver de la vitalité et améliorer votre posture. Dans ce cours, l'accent est mis sur les bases essentielles du Vinyasa, enrichi avec les connaissances posturales de la méthode du Dr Bernadette de Gasquet. Vous apprendrez à pratiquer en respectant votre corps, à renforcer votre centre et à gagner en souplesse, tout en profitant d'un moment pour vous recentrer. Que vous soyez novice ou simplement en quête d'un moment de bien-être et de dynamisme, ce cours est fait pour vous.",
+   "duree" : "4 leçons",
+   "enseignants" : [ {
+      "nom" : "Andreos",
+      "prenom" : "Aurélie",
+      "presentation" : "https://aurelie-yoga-ayurveda.com/"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 13:00 (durée 0h50)",
+   "horaires" : [ {
+      "duree" : "0h50",
+      "heure" : "13:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 67852,
+   "intitule" : "Yoga Vinyasa Lunch - Spécial été",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "YOG",
+   "matiereNom" : "Yoga",
+   "nbInscrits" : 0,
+   "nbPlaces" : 12,
+   "niveau" : "Tous les niveaux",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc4NTI%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : "Merci de noter qu’il n’y aura pas de cours pendant les vacances scolaires au Luxembourg.",
+   "renseignements" : "Merci d’apporter un tapis de yoga ainsi qu’une sangle et une brique de yoga.\r\nVeuillez noter qu’il n’y a ni vestiaires ni douches disponibles sur notre site."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -12119,6 +12236,63 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-27",
+   "coursId" : "SCI-PSY-27",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "12/08/2026",
+   "dateFin" : "12/08/2026",
+   "description" : "Ce cours vise à développer une intelligence émotionnelle solide en mettant en évidence son rôle essentiel dans la performance individuelle, la qualité des relations professionnelles et la réussite collective. Les participants exploreront les six émotions fondamentales afin de mieux comprendre leur utilité, leurs manifestations et les moyens de les réguler de manière adaptée. Ils seront également amenés à prendre du recul sur les différentes sphères de leur vie pour identifier des pistes concrètes d’amélioration et favoriser un meilleur équilibre au quotidien. Enfin, le cours permettra d’identifier les caractéristiques clés d’un salarié performant et engagé, et de comprendre comment les compétences émotionnelles contribuent au développement de ces qualités.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi 12-08-2026 à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 67850,
+   "intitule" : "Faire de ses émotions un levier de mieux-être au quotidien",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc4NTA%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
    "categorieCode" : "AR",
    "categorieCodeUnipop" : "ART",
    "categorieNom" : "ARTS ET ARTISANAT",
@@ -12288,6 +12462,63 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "Les élèves doivent venir avec un iPad compatible Procreate, l’app Procreate installée (˜15 €), un Apple Pencil, un iPad chargé avec son chargeur, ainsi qu’un carnet de notes."
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-28",
+   "coursId" : "SCI-PSY-28",
+   "coursType" : "CLASSIQUE",
+   "cout" : 13.5,
+   "dateDebut" : "14/08/2026",
+   "dateFin" : "14/08/2026",
+   "description" : "Ce cours permet de mieux comprendre les deux facettes du perfectionnisme, en distinguant le perfectionnisme sain, moteur de progression, du perfectionnisme malsain, souvent source de pression et d’insatisfaction. Les participants seront amenés à identifier leurs propres mécanismes de fonctionnement et à développer de nouvelles façons d’agir afin de renforcer leur résilience mentale et leur capacité d’adaptation face aux défis du quotidien. Le cours propose également des stratégies concrètes pour adopter une approche du travail plus efficace, gagner en flexibilité et améliorer durablement sa performance tout en préservant son bien-être.",
+   "duree" : "3 leçons",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi 14-08-2026 à 18:00 (durée 2h30)",
+   "horaires" : [ {
+      "duree" : "2h30",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 67851,
+   "intitule" : "Booster son efficacité en éliminant les freins comportementaux",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 0,
+   "nbPlaces" : 10,
+   "niveau" : "Débutant",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9Njc4NTE%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   }
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -17463,6 +17694,80 @@
    "renseignements" : "renseignements complémentaires lors de l'inscription"
 }, {
    "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, montée de Clausen"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, montée de Clausen"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1693",
+   "coursId" : "LA-LB-1693",
+   "coursType" : "CLASSIQUE",
+   "cout" : 132.0,
+   "dateDebut" : "15/09/2026",
+   "dateFin" : "03/12/2026",
+   "dateInscription" : "A partir de 15/07/2026 du lundi au vendredi de 09h30 à 12h15 et de 13h30 à 17h00",
+   "description" : "Saluer, demander comment ça va (phrase-types ; verbes avoir/être et réguliers). Se présenter, présenter quelqu'un (pays d'origine, langues, nationalité, âge, anniversaire, dire si enfant ou non). Parler de soi - demander quelqu'un des informations simples le concernant (situation de famille, no tél etc.) sa profession ou activités (quoi, quand, où). Dire la montre + expressions relatives, dire comment on se déplace, Parler un peu de la météo.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Décrire ou expliquer de manière simple ses plans et leur réalisation - Donner des instructions simples & dire ce qui interdit (en privé et publique). Exprimer joie/surprise/pitié. Expliquer chemin." ],
+      "domaine" : "Orale"
+   }, {
+      "competences" : [ "Exprimer/comprendre les préférences et des opinions.\r\nDonner et comprendre des renseignements simples d'événements et expériences personnelles. Comprendre prévisions météo, description d'un chemin, décrire maladies (symptômes). Mener conversation téléphonique.\r\n\r\n" ],
+      "domaine" : "Compréhension Orale"
+   }, {
+      "competences" : [ "Écrire des sms, des mails, des excuses et note professionnelle et privé." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "44h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 11:00 (durée 2h), Jeudi à 11:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67796,
+   "intitule" : "Luxembourgeois A1.1",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1343",
+         "localite" : "Luxembourg",
+         "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, Montée de Clausen"
+      },
+      "code" : "CASA",
+      "fax" : "+352 46 90 70",
+      "mail" : "infocasa@pt.lu",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "nomContact" : "Ferreira Trindade",
+      "onlineReg" : false,
+      "prenomContact" : "José",
+      "statut" : "ASBL",
+      "telephone" : "+352 432749/464819",
+      "websiteUrl" : "https://www.casa-asbl.lu"
+   },
+   "renseignements" : "Le cours de Luxembourgeois est présentiel."
+}, {
+   "adresseCours" : {
       "codePostal" : "4024",
       "localite" : "Esch Sur Alzette",
       "nom" : "CIGL - Esch sur Alzette",
@@ -17700,6 +18005,81 @@
    },
    "prerequis" : "connaissance en luxembourgeois",
    "renseignements" : "renseignements complémentaires lors de l'inscription"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "Centre d'Appui Social et Assoc",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, montée de Clausen"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "Centre d'Appui Social et Assoc",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, montée de Clausen"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-LB-1694",
+   "coursId" : "LA-LB-1694",
+   "coursType" : "CLASSIQUE",
+   "cout" : 132.0,
+   "dateDebut" : "15/09/2026",
+   "dateFin" : "03/12/2026",
+   "dateInscription" : "A partir de 15/07/2026 du lundi au vendredi de 09h30 à 12h15 et de 13h30 à 17h00",
+   "description" : "Parler/comprendre/demander en détail la montre et toutes les expressions autour du temps Parler/comprendre/demander les achats (épicerie/supermarché, marché) commander au restaurant et sur une kermesse Parler/comprendre/demander: les emballages et le recyclage S'exprimer/comprendre/demander:les prépositions an-bei-op.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Décrire ou expliquer de manière simple ses plans et leur réalisation - Donner des instructions simples, dire ce qui interdit (en privé et publique).", "Écrire des sms, des mails, des excuses et note professionnelle et privé." ],
+      "domaine" : "Production Orale"
+   }, {
+      "competences" : [ "Exprimer/comprendre les préférences et des opinions. Donner et comprendre des renseignements simples d'événements et expériences personnelles." ],
+      "domaine" : "Compréhension Orale"
+   }, {
+      "competences" : [ "Écrire des sms, des mails, des excuses et note professionnelle et privé." ],
+      "domaine" : "Production écrite"
+   } ],
+   "duree" : "44h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 14:00 (durée 2h), Jeudi à 14:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67798,
+   "intitule" : "Luxembourgeois A1.2",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "LB",
+   "matiereNom" : "Luxembourgeois",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1343",
+         "localite" : "Luxembourg",
+         "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, Montée de Clausen"
+      },
+      "code" : "CASA",
+      "fax" : "+352 46 90 70",
+      "mail" : "infocasa@pt.lu",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "nomContact" : "Ferreira Trindade",
+      "onlineReg" : false,
+      "prenomContact" : "José",
+      "statut" : "ASBL",
+      "telephone" : "+352 432749/464819",
+      "websiteUrl" : "https://www.casa-asbl.lu"
+   },
+   "prerequis" : "Niveau A1.1",
+   "renseignements" : "Le cours de Luxembourgeois est présentiel ."
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -18383,6 +18763,83 @@
    "renseignements" : "Accès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, Montée de Clausen"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, Montée de Clausen"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1647",
+   "coursId" : "LA-FR-1647",
+   "coursType" : "CLASSIQUE",
+   "cout" : 132.0,
+   "dateDebut" : "16/09/2026",
+   "dateFin" : "07/12/2026",
+   "dateInscription" : "À partir du 15/07/2026, du lundi au vendredi, de 09h30 à 12h15 et de 13h30 à 17h00.",
+   "description" : "Communiquer avec des mots et des phrases simples; - Comprendre des mots et des expressions familiers ou très courants; - se présenter; - poser des questions simples et y répondre; - prendre un RDV; - remplir un formulaire simple; - remplir ses coordonnées; - écrire une carte postale; - décrire son lieu d'habitation et les personnes.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent (simple) relatifs à soi-même, à la famille, au travail, aux achats;\r\n", "Je peux saisir l'essentiel d'annonces / messages simples." ],
+      "domaine" : "Comprendre / Écouter "
+   }, {
+      "competences" : [ "Je peux lire des textes courts et simples, trouver une information dans des documents comme des publicités, des prospectus, des menus...\r\nJe peux comprendre des lettres personnelles courts et simples.\r\n" ],
+      "domaine" : "Comprendre / Lire "
+   }, {
+      "competences" : [ "Discuter (en classe entière ou en petits groupes) de divers sujets d'actualité, de société, de culture,\r\n- Echanger des idées, des opinions et bénéficier d'une correction  linguistique, \r\n- Mieux s'exprimer, avec plus de spontanéité et d'aisance,\r\n- Améliorer la compréhension grâce à des documents authentiques variés (audio, vidéo, presse écrite, extraits de livres, de films...)  " ],
+      "domaine" : "Parler / Prendre part à une conversation"
+   }, {
+      "competences" : [ "Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille, mes conditions de vie, mon activité professionnelle actuelle ou récente." ],
+      "domaine" : "Parler / S'exprimer oralement en continue "
+   } ],
+   "duree" : "44h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 11:00 (durée 2h), Mercredi à 11:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67793,
+   "intitule" : "Français - A1.1",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1343",
+         "localite" : "Luxembourg",
+         "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, Montée de Clausen"
+      },
+      "code" : "CASA",
+      "fax" : "+352 46 90 70",
+      "mail" : "infocasa@pt.lu",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "nomContact" : "Ferreira Trindade",
+      "onlineReg" : false,
+      "prenomContact" : "José",
+      "statut" : "ASBL",
+      "telephone" : "+352 432749/464819",
+      "websiteUrl" : "https://www.casa-asbl.lu"
+   },
+   "renseignements" : "Le cours de Français est en présentiel. "
+}, {
+   "adresseCours" : {
       "localite" : "DISTANCE",
       "nom" : "DISTANCE"
    },
@@ -18535,6 +18992,86 @@
       "websiteUrl" : "https://www.csl.lu/fr/lllc/"
    },
    "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
+}, {
+   "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, Montée de Clausen"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, Montée de Clausen"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1649",
+   "coursId" : "LA-FR-1649",
+   "coursType" : "CLASSIQUE",
+   "cout" : 132.0,
+   "dateDebut" : "16/09/2026",
+   "dateFin" : "04/12/2026",
+   "dateInscription" : "À partir de 15/07/2026, du lundi au vendredi, de 09h30 à 12h15 et de 13h30 à 17h00",
+   "description" : "Être capable de : - communiquer simplement dans son environnement personnel et professionnel pour décrire des lieux et des personnes ; parler de sa famille, de ses activités, de son travail ; échanger des informations, suivre et donner des instructions.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre des expressions et un vocabulaire très fréquent (simple) relatifs à soi-même, à la famille, au travail, aux achats;\r\n", "Je peux saisir l'essentiel d'annonces / messages simples." ],
+      "domaine" : "Comprendre / Écouter "
+   }, {
+      "competences" : [ "Je peux lire des textes courts et simples, trouver une information dans des documents comme des publicités, des prospectus, des menus...\r\nJe peux comprendre des lettres personnelles courts et simples.\r\n" ],
+      "domaine" : "Comprendre / Lire "
+   }, {
+      "competences" : [ "Je suis capable de communiquer lors des tâches simples et habituelles (sujets et activités familiers) Échanges brefs." ],
+      "domaine" : "Parler / Prendre part à une conversation"
+   }, {
+      "competences" : [ "Je peux utiliser une série de phrases ou d'expressions pour décrire en termes simples ma famille, mes conditions de vie, mon activité professionnelle actuelle ou récente." ],
+      "domaine" : "Parler / S'exprimer oralement en continue "
+   }, {
+      "competences" : [ "Écrire des notes et des messages simples et courts, je peux écrire une lettre personnelle simple (par exemple, des remerciements). " ],
+      "domaine" : "Écrire "
+   } ],
+   "duree" : "44h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mercredi à 14:00 (durée 2h), Vendredi à 14:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67795,
+   "intitule" : "Français - A1.2",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 20,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1343",
+         "localite" : "Luxembourg",
+         "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, Montée de Clausen"
+      },
+      "code" : "CASA",
+      "fax" : "+352 46 90 70",
+      "mail" : "infocasa@pt.lu",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "nomContact" : "Ferreira Trindade",
+      "onlineReg" : false,
+      "prenomContact" : "José",
+      "statut" : "ASBL",
+      "telephone" : "+352 432749/464819",
+      "websiteUrl" : "https://www.casa-asbl.lu"
+   },
+   "renseignements" : "Le cours de Français est présentiel."
 }, {
    "adresseCours" : {
       "codePostal" : "4024",
@@ -18974,6 +19511,70 @@
       "telephone" : "+352 54 42 45 208"
    },
    "prerequis" : "Savoir lire et écrire "
+}, {
+   "adresseCours" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, Montée de Clausen"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1343",
+      "localite" : "Luxembourg",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "15, Montée de Clausen"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1648",
+   "coursId" : "LA-FR-1648",
+   "coursType" : "CLASSIQUE",
+   "cout" : 132.0,
+   "dateDebut" : "18/09/2026",
+   "dateFin" : "07/12/2026",
+   "dateInscription" : "A partir du 15/07/2026 du lundi au vendredi de 09h30 à 12h15 et de 13h30 à 17h00",
+   "description" : "Communiquer avec des mots et des phrases simples; - Comprendre des mots et des expressions familiers ou très courants; - se présenter; - poser des questions simples et y répondre; - prendre un RDV; - remplir un formulaire simple; - remplir ses coordonnées; - écrire une carte postale; - décrire son lieu d'habitation et les personnes.",
+   "duree" : "44h",
+   "enseignants" : [ ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 14:00 (durée 2h), Vendredi à 11:00 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67794,
+   "intitule" : "Français - A1.1",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 25,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1343",
+         "localite" : "Luxembourg",
+         "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "15, Montée de Clausen"
+      },
+      "code" : "CASA",
+      "fax" : "+352 46 90 70",
+      "mail" : "infocasa@pt.lu",
+      "nom" : "C.A.S.A - Centre d'Appui Social et Associatif",
+      "nomContact" : "Ferreira Trindade",
+      "onlineReg" : false,
+      "prenomContact" : "José",
+      "statut" : "ASBL",
+      "telephone" : "+352 432749/464819",
+      "websiteUrl" : "https://www.casa-asbl.lu"
+   },
+   "renseignements" : "Le cours est en présentiel"
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
@@ -21751,7 +22352,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "PT",
    "matiereNom" : "Portugais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 24,
    "niveau" : "B1 du CECRL",
    "onlineRegistration" : true,
