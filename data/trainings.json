@@ -13626,7 +13626,7 @@
    "coursCode" : "SO-YOG-121",
    "coursId" : "SO-YOG-121",
    "coursType" : "CLASSIQUE",
-   "cout" : 4.5,
+   "cout" : 18.0,
    "dateDebut" : "22/08/2026",
    "dateFin" : "12/09/2026",
    "description" : "Un cours de yoga doux et accessible pour relâcher les tensions, retrouver de la mobilité et se reconnecter à son corps. Pensé pour les débutants, les personnes raides, sédentaires ou sportives, ce cours propose une approche simple et progressive du yoga, incluant des postures debout, assises et allongées. À travers des mouvements fluides, des postures de base et un travail de respiration, chacun avance à son rythme dans une ambiance détendue et bienveillante. L’objectif est de délier le corps, d’améliorer la souplesse, de gagner en mobilité et de réduire le stress ainsi que les tensions du quotidien. Aucune expérience en yoga n’est nécessaire : il n’est pas besoin d’être souple pour commencer. Un moment pour respirer, ralentir et se sentir mieux dans son corps tout au long de l’été.",
@@ -22434,83 +22434,82 @@
    "renseignements" : "Langues véhiculaires utilisées lors du cours: français, luxembourgeois, allemand, anglais.\r\nAccès pour personnes à mobilité réduite"
 }, {
    "adresseCours" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID ",
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Entente sans frontières",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
+      "rueNumero" : "24, Boulevard Dupong"
    },
    "adresseInscription" : {
-      "codePostal" : "8211",
-      "localite" : "Mamer",
-      "nom" : "EFID",
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Entente sans frontières",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "19, route d'Arlon "
+      "rueNumero" : "24, Boulevard Dupong"
    },
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1418",
-   "coursId" : "LA-FR-1418",
+   "coursCode" : "LA-FR-869",
+   "coursId" : "LA-FR-869",
    "coursType" : "CLASSIQUE",
-   "cout" : 180.0,
+   "cout" : 132.0,
    "dateDebut" : "23/09/2026",
-   "dateFin" : "11/12/2026",
-   "dateInscription" : "inscription sur rdv: info@efid.lu",
-   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "en ligne en envoyant un mail à info@esf.lu ou emira.sakovic@esf.lu",
+   "description" : "Compréhension écrite: comprendre des textes courts et simplescontenant du vocabulaire fréquent; Compréhension orale: comprendre des informations de la vie courante et des idées simples; Expression orale: raconter un événement court et simple; raconter des informations, des événements du passé Expression écrite: rédiger des notes et lettres, mails simples",
    "domainesCompetences" : [ {
-      "competences" : [ "comprendre des instructions et des consignes orales", "comprendre des expressions familières de la vie quotidienne", "comprendre quelqu'un qui se présente", "comprendre des indications chiffrées", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30" ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes comprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes", "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)" ],
-      "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information" ],
-      "domaine" : "Interaction orale"
-   }, {
-      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)", "décrire succinctement son environnement", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue" ],
-      "domaine" : "Expression écrite"
+      "competences" : [ "Compréhension écrite, compréhension orale, expression écrite, expression orale" ],
+      "domaine" : "Compréhension et expression"
    } ],
-   "duree" : "60h",
-   "enseignants" : [ ],
-   "format" : "BLENDED",
-   "horairePrevu" : "Mercredi à 09:30 (durée 3h30), Jeudi à 10:30 (durée 2h30)",
-   "horaires" : [ ],
-   "id" : 65126,
+   "duree" : "44h",
+   "enseignants" : [ {
+      "nom" : "Sakovic",
+      "prenom" : "Emira"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 16:15 (durée 2h), Mercredi à 16:15 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:15",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:15",
+      "jour" : "Mercredi"
+   } ],
+   "id" : 60641,
    "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
    "matiereCode" : "FR",
    "matiereNom" : "Français",
    "nbInscrits" : 0,
-   "nbPlaces" : 24,
-   "niveau" : "A1.1 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjY%3D",
+   "nbPlaces" : 17,
+   "niveau" : "A2.1 du CECRL",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "8211",
-         "localite" : "Mamer",
-         "nom" : "EFID",
+         "codePostal" : "6919",
+         "localite" : "Roodt-sur-Syre",
+         "nom" : "Entente sans frontières",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "19, Route d'Arlon"
+         "rueNumero" : "19, A Millesch"
       },
-      "code" : "EFID",
-      "mail" : "info@efid.lu",
-      "nom" : "Excellence for Integration and Development",
-      "nomContact" : "Tesch",
-      "onlineReg" : true,
-      "prenomContact" : "Nicolas",
+      "code" : "ESF",
+      "mail" : "emira.sakovic@esf.lu",
+      "nom" : "Entente sans frontières",
+      "nomContact" : "Sakovic",
+      "onlineReg" : false,
+      "prenomContact" : "Emira",
       "statut" : "ASBL",
-      "telephone" : "621 464 422",
-      "websiteUrl" : "https://efid.lu/"
-   }
+      "telephone" : "+352 621 288 749",
+      "websiteUrl" : "http://esf.lu/"
+   },
+   "prerequis" : "Niveau A1.1"
 }, {
    "adresseCours" : {
       "codePostal" : "4277",
@@ -23267,7 +23266,7 @@
    "langueCoursNom" : "Français",
    "matiereCode" : "EL",
    "matiereNom" : "Grec",
-   "nbInscrits" : 2,
+   "nbInscrits" : 3,
    "nbPlaces" : 24,
    "niveau" : "B1.2 du CECRL",
    "onlineRegistration" : true,
@@ -23295,84 +23294,239 @@
    "renseignements" : "Langues véhiculaires utilisées: français et anglais.\r\nAccès pour personnes à mobilité réduite."
 }, {
    "adresseCours" : {
-      "codePostal" : "1430",
-      "localite" : "Luxembourg",
-      "nom" : "Athénée de Luxembourg",
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID ",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "24, boulevard Pierre Dupong"
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "adresseInscription" : {
+      "codePostal" : "8211",
+      "localite" : "Mamer",
+      "nom" : "EFID",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "19, route d'Arlon "
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1418",
+   "coursId" : "LA-FR-1418",
+   "coursType" : "CLASSIQUE",
+   "cout" : 180.0,
+   "dateDebut" : "23/09/2026",
+   "dateFin" : "11/12/2026",
+   "dateInscription" : "inscription sur rdv: info@efid.lu",
+   "description" : "Vous présenter, faire connaissance avec quelqu'un, faire des achats, parler de vos habitudes de vie (logement, loisirs), lire et remplir des formulaires simples, des invitations, des cartes postales",
+   "domainesCompetences" : [ {
+      "competences" : [ "comprendre des instructions et des consignes orales", "comprendre des expressions familières de la vie quotidienne", "comprendre quelqu'un qui se présente", "comprendre des indications chiffrées", "comprendre un récit en lien avec des contenus connus qui n'excède pas 1 minute 30" ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "comprendre un texte informatif ou de fiction en lien avec des contenus connus qui n'excèdent pas 15 lignes comprendre un extrait de littérature de jeunesse en lien avec des contenus connus qui n'excède pas 15 lignes", "comprendre des instructions et des consignes écrites", "comprendre une correspondance rapide (5 à 8 lignes) relative à un domaine familier" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "lire à haute voix, réciter.\r\n", "décrire / présenter (une personne, son environnement, son contexte scolaire ou familial)\r\n", "expliquer un choix\r\n", "maîtriser les moyens de la communication sociale (salutations, remerciements)" ],
+      "domaine" : "Expression orale en continu"
+   }, {
+      "competences" : [ "raconter / évoquer une expérience vécue, une leçon de la méthode utilisée, un projet futur", "demander et fournir une information" ],
+      "domaine" : "Interaction orale"
+   }, {
+      "competences" : [ "correspondance (carte postale, courriel, lettre) (6 à 10 lignes)", "décrire succinctement son environnement", "raconter une expérience vécue ou imaginée", "rendre compte d'une histoire lue ou entendue" ],
+      "domaine" : "Expression écrite"
+   } ],
+   "duree" : "60h",
+   "enseignants" : [ ],
+   "format" : "BLENDED",
+   "horairePrevu" : "Mercredi à 09:30 (durée 3h30), Jeudi à 10:30 (durée 2h30)",
+   "horaires" : [ ],
+   "id" : 65126,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 24,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjUxMjY%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "8211",
+         "localite" : "Mamer",
+         "nom" : "EFID",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, Route d'Arlon"
+      },
+      "code" : "EFID",
+      "mail" : "info@efid.lu",
+      "nom" : "Excellence for Integration and Development",
+      "nomContact" : "Tesch",
+      "onlineReg" : true,
+      "prenomContact" : "Nicolas",
+      "statut" : "ASBL",
+      "telephone" : "621 464 422",
+      "websiteUrl" : "https://efid.lu/"
+   }
+}, {
+   "adresseCours" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Entente sans frontières",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, Boulevard Dupong"
    },
    "adresseInscription" : {
       "codePostal" : "1430",
       "localite" : "Luxembourg",
-      "nom" : "Athénée de Luxembourg",
+      "nom" : "Entente sans frontières",
       "paysCode" : "L",
       "paysNom" : "Luxembourg",
-      "rueNumero" : "24, boulevard Pierre Dupong"
+      "rueNumero" : "24, Boulevard Dupong"
    },
-   "anneeScolaire" : "2026/2027",
    "categorieCode" : "LA",
    "categorieCodeUnipop" : "LAN",
    "categorieNom" : "LANGUES",
-   "coursCode" : "LA-ES-152",
-   "coursId" : "LA-ES-152",
+   "coursCode" : "LA-FR-870",
+   "coursId" : "LA-FR-870",
    "coursType" : "CLASSIQUE",
-   "cout" : 234.0,
-   "dateDebut" : "24/09/2026",
-   "dateFin" : "02/05/2027",
-   "dateInscription" : "Mardi, 15 septembre 2026 de 17h30 à 19h30 ou bien en ligne",
-   "description" : "Renforcement de l'expression orale sur des sujets variés (actualité, société, histoire, culture hispanophone). \r\nTechniques d'argumentation et de débat: exposer un point d vue, nuancer, concéder, réfuter.\r\nExpression de l'opinion, du doute, de la concession, de l'hypothèse.\r\nEnrichissement lexical: expressions idiomatiques, collocations, registres de langue.\r\nPréparation aux interactions orales complexes et spontanées.\r\nRévision et approfondissement du subjonctif présent dans ses différents emplois.\r\nRévision contraste de temps du passé.\r\nDébats en groupe sur des sujets d'actualité.",
-   "duree" : "52 leçons",
+   "cout" : 138.0,
+   "dateDebut" : "23/09/2026",
+   "dateFin" : "16/12/2026",
+   "dateInscription" : "en ligne par message ou mail envoyé à infor@esf.lu ou emira.sakovic@esf.lu",
+   "description" : "Compréhension orale: comprendre des questions simples de la vie quotidienne \r\nCompréhension écrite: comprendre des mails courts, des inviations et remplir un formulaire \r\nExpression orale: se présenter, décrire un lieu, parler de ses loisirs \r\nExpression écrite: rédiger un message, un email, une invitation, une carte postale",
+   "domainesCompetences" : [ {
+      "competences" : [ "Compréhension orale; Compréhension écrite;\r\nExpression orale; Expression écrite" ],
+      "domaine" : "Compréhension et expression"
+   } ],
+   "duree" : "46h",
    "enseignants" : [ {
-      "nom" : "Plaza Lopez",
-      "prenom" : "Maria"
-   }, {
-      "nom" : "Ruiz Plaza",
-      "prenom" : "Gloria"
+      "nom" : "Sakovic",
+      "prenom" : "Emira"
    } ],
    "format" : "PRESENTIEL",
-   "horairePrevu" : "Jeudi à 18:45 (durée 1h40)",
+   "horairePrevu" : "Lundi à 18:30 (durée 2h), Mercredi à 18:30 (durée 2h)",
    "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:45",
-      "jour" : "Jeudi"
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Lundi"
    }, {
-      "duree" : "1h40",
-      "heure" : "18:45",
-      "jour" : "Jeudi"
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mercredi"
    } ],
-   "id" : 67059,
-   "intitule" : "Espagnol IV",
+   "id" : 60651,
+   "intitule" : "Français",
    "langueCoursCode" : "FR",
    "langueCoursNom" : "Français",
-   "matiereCode" : "ES",
-   "matiereNom" : "Espagnol",
-   "nbInscrits" : 3,
-   "nbPlaces" : 24,
-   "niveau" : "A2.2 du CECRL",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwNTk%3D",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 17,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
    "organisateur" : {
       "adresse" : {
-         "codePostal" : "1430",
-         "localite" : "Luxembourg",
-         "nom" : "Athénée de Luxembourg",
+         "codePostal" : "6919",
+         "localite" : "Roodt-sur-Syre",
+         "nom" : "Entente sans frontières",
          "paysCode" : "L",
          "paysNom" : "Luxembourg",
-         "rueNumero" : "24, bld Pierre Dupong"
+         "rueNumero" : "19, A Millesch"
       },
-      "code" : "AL",
-      "mail" : "coursdusoir@al.lu",
-      "nom" : "Athénée de Luxembourg",
-      "nomContact" : "Gaspar",
-      "onlineReg" : true,
-      "prenomContact" : "Rosa",
-      "statut" : "MENFPS",
-      "telephone" : "+352 44 02 49 6560",
-      "websiteUrl" : "http://www.al.lu"
+      "code" : "ESF",
+      "mail" : "emira.sakovic@esf.lu",
+      "nom" : "Entente sans frontières",
+      "nomContact" : "Sakovic",
+      "onlineReg" : false,
+      "prenomContact" : "Emira",
+      "statut" : "ASBL",
+      "telephone" : "+352 621 288 749",
+      "websiteUrl" : "http://esf.lu/"
    },
-   "prerequis" : "Niveau A2.1 du CECRL acquis ou avoir suivi et validé Espagnol III ",
-   "renseignements" : "Langues véhiculaires utilisées: espagnol, français et anglais.\r\nNouveau cours d'espagnol intermédiaire avant le cours final de conversation plus avancé du niveau B1 du CECRL.\r\nAccès pour personnes à mobilité réduite.\r\n"
+   "prerequis" : "NON"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Entente sans frontières",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, Boulevard Dupong"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Entente sans frontières",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, Boulevard Dupong"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-871",
+   "coursId" : "LA-FR-871",
+   "coursType" : "CLASSIQUE",
+   "cout" : 138.0,
+   "dateDebut" : "24/09/2026",
+   "dateFin" : "17/12/2026",
+   "dateInscription" : "en ligne en adressant un email à infor@esf.lu ou emira.sakovic@esf.lu\r\npar téléphone au 621288749",
+   "description" : "Compréhension orale: comprendre des questions simples de la vie quotidienne Compréhension écrite: comprendre des mails courts, des inviations et remplir un formulaire Expression orale: se présenter, décrire un lieu, parler de ses loisirs Expression écrite: rédiger un message, un email, une invitation, une carte postale",
+   "domainesCompetences" : [ {
+      "competences" : [ "Compréhension orale; Compréhension écrite;\r\nExpression orale; Expression écrite" ],
+      "domaine" : "Compréhension et expression"
+   } ],
+   "duree" : "46h",
+   "enseignants" : [ {
+      "nom" : "Sakovic",
+      "prenom" : "Emira"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 16:15 (durée 2h), Jeudi à 16:15 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "16:15",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "16:15",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 60652,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 17,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6919",
+         "localite" : "Roodt-sur-Syre",
+         "nom" : "Entente sans frontières",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, A Millesch"
+      },
+      "code" : "ESF",
+      "mail" : "emira.sakovic@esf.lu",
+      "nom" : "Entente sans frontières",
+      "nomContact" : "Sakovic",
+      "onlineReg" : false,
+      "prenomContact" : "Emira",
+      "statut" : "ASBL",
+      "telephone" : "+352 621 288 749",
+      "websiteUrl" : "http://esf.lu/"
+   },
+   "prerequis" : "NON"
 }, {
    "adresseCours" : {
       "codePostal" : "5627",
@@ -23955,6 +24109,160 @@
    },
    "prerequis" : "Manuels à acheter pour A1.1 et A1.2: Hurra, Po polsku 1, nowa edycja (podrecznik studenta); ISBN 978-83-67351-22-5 et\r\nHurra, Po polsku 1, nowa edycja (zeszyt cwiczen); auteurs: Malgorzata Malolepsza, Aneta Szymkiewicz; ISBN 978-83-67351-23-2",
    "renseignements" : "Ce cours s'adresse également aux gens qui sont d'origine polonaise. Le rappel des règles et de la structure de la langue permet de retrouver rapidement une certaine assurance et fluidité dans l'expression.\r\nAccès pour personnes à mobilité réduite"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Athénée de Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, boulevard Pierre Dupong"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "Athénée de Luxembourg",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, boulevard Pierre Dupong"
+   },
+   "anneeScolaire" : "2026/2027",
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-ES-152",
+   "coursId" : "LA-ES-152",
+   "coursType" : "CLASSIQUE",
+   "cout" : 234.0,
+   "dateDebut" : "24/09/2026",
+   "dateFin" : "02/05/2027",
+   "dateInscription" : "Mardi, 15 septembre 2026 de 17h30 à 19h30 ou bien en ligne",
+   "description" : "Renforcement de l'expression orale sur des sujets variés (actualité, société, histoire, culture hispanophone). \r\nTechniques d'argumentation et de débat: exposer un point d vue, nuancer, concéder, réfuter.\r\nExpression de l'opinion, du doute, de la concession, de l'hypothèse.\r\nEnrichissement lexical: expressions idiomatiques, collocations, registres de langue.\r\nPréparation aux interactions orales complexes et spontanées.\r\nRévision et approfondissement du subjonctif présent dans ses différents emplois.\r\nRévision contraste de temps du passé.\r\nDébats en groupe sur des sujets d'actualité.",
+   "duree" : "52 leçons",
+   "enseignants" : [ {
+      "nom" : "Plaza Lopez",
+      "prenom" : "Maria"
+   }, {
+      "nom" : "Ruiz Plaza",
+      "prenom" : "Gloria"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Jeudi à 18:45 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:45",
+      "jour" : "Jeudi"
+   }, {
+      "duree" : "1h40",
+      "heure" : "18:45",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 67059,
+   "intitule" : "Espagnol IV",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "ES",
+   "matiereNom" : "Espagnol",
+   "nbInscrits" : 3,
+   "nbPlaces" : 24,
+   "niveau" : "A2.2 du CECRL",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjcwNTk%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "1430",
+         "localite" : "Luxembourg",
+         "nom" : "Athénée de Luxembourg",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "24, bld Pierre Dupong"
+      },
+      "code" : "AL",
+      "mail" : "coursdusoir@al.lu",
+      "nom" : "Athénée de Luxembourg",
+      "nomContact" : "Gaspar",
+      "onlineReg" : true,
+      "prenomContact" : "Rosa",
+      "statut" : "MENFPS",
+      "telephone" : "+352 44 02 49 6560",
+      "websiteUrl" : "http://www.al.lu"
+   },
+   "prerequis" : "Niveau A2.1 du CECRL acquis ou avoir suivi et validé Espagnol III ",
+   "renseignements" : "Langues véhiculaires utilisées: espagnol, français et anglais.\r\nNouveau cours d'espagnol intermédiaire avant le cours final de conversation plus avancé du niveau B1 du CECRL.\r\nAccès pour personnes à mobilité réduite.\r\n"
+}, {
+   "adresseCours" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg, Hollerich",
+      "nom" : "Entente sans frontières",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, Boulevard Dupong"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg, Hollerich",
+      "nom" : "Entente sans frontières",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, Boulevard Dupong"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1174",
+   "coursId" : "LA-FR-1174",
+   "coursType" : "CLASSIQUE",
+   "cout" : 138.0,
+   "dateDebut" : "24/09/2026",
+   "dateFin" : "17/12/2026",
+   "dateInscription" : "par mail ou sms à partir du mois d'août 2026",
+   "description" : "Compréhension écrite: comprendre des textes courts et simple Compréhension orale: échanger des informations et des idées simples Expression orale: raconter des informations, des évéenements du passé Expression écrite: rédiger des notes et lettres, mails simples",
+   "duree" : "46h",
+   "enseignants" : [ {
+      "nom" : "Sakovic",
+      "prenom" : "Emira"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Mardi à 18:30 (durée 2h), Jeudi à 18:30 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "18:30",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 63397,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "A1.2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6919",
+         "localite" : "Roodt-sur-Syre",
+         "nom" : "Entente sans frontières",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, A Millesch"
+      },
+      "code" : "ESF",
+      "mail" : "emira.sakovic@esf.lu",
+      "nom" : "Entente sans frontières",
+      "nomContact" : "Sakovic",
+      "onlineReg" : false,
+      "prenomContact" : "Emira",
+      "statut" : "ASBL",
+      "telephone" : "+352 621 288 749",
+      "websiteUrl" : "http://esf.lu/"
+   },
+   "prerequis" : "avoir atteint le niveau de A1.1"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -28235,6 +28543,77 @@
    "renseignements" : "Madame MATSUMURA Yurie (yurie.haag@education.lu)"
 }, {
    "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg",
+      "nom" : "par mail ou par sms",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "Lycée Athénée 24, bd Pierre Dupong"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1382",
+   "coursId" : "LA-FR-1382",
+   "coursType" : "CLASSIQUE",
+   "cout" : 132.0,
+   "dateDebut" : "29/09/2026",
+   "dateFin" : "17/12/2026",
+   "dateInscription" : "prière de vous adresser par mail à info@esf.lu ou sur le gsm\r\n 621 288749",
+   "description" : "Pouvoir se présenter/ Dire où on va/ Demander/indiquer le chemin/\r\nGrammaire: présent des verbes réguliers du 1er groupe, verbes irréguliers: avoir, être, venir, aller, faire\r\nComprendre et échanger des expressions courantes et avoir des notions de grammaire de base.",
+   "duree" : "44h",
+   "enseignants" : [ {
+      "nom" : "Sakovic",
+      "prenom" : "Emira"
+   } ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Mardi à 10:00 (durée 2h), Jeudi à 10:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Mardi"
+   }, {
+      "duree" : "2h",
+      "heure" : "10:00",
+      "jour" : "Jeudi"
+   } ],
+   "id" : 64683,
+   "intitule" : "Français",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "A1.1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6919",
+         "localite" : "Roodt-sur-Syre",
+         "nom" : "Entente sans frontières",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, A Millesch"
+      },
+      "code" : "ESF",
+      "mail" : "emira.sakovic@esf.lu",
+      "nom" : "Entente sans frontières",
+      "nomContact" : "Sakovic",
+      "onlineReg" : false,
+      "prenomContact" : "Emira",
+      "statut" : "ASBL",
+      "telephone" : "+352 621 288 749",
+      "websiteUrl" : "http://esf.lu/"
+   },
+   "prerequis" : "NON",
+   "renseignements" : "Des renseignements compl. peuvent être obtenus: info@esf.lu / en cas d'urgence, au GSM: 621 288 749\r\n"
+}, {
+   "adresseCours" : {
       "codePostal" : "4086",
       "localite" : "Esch-Sur-Alzette",
       "nom" : "Ecole primaire Lallange",
@@ -29113,6 +29492,133 @@
       "nom" : "DISTANCE"
    },
    "adresseInscription" : {
+      "codePostal" : "1413",
+      "localite" : "Luxembourg, Hollerich",
+      "nom" : "Entente sans frontières",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, bd Pierre Dupong"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-BA-9",
+   "coursId" : "LA-BA-9",
+   "coursType" : "CLASSIQUE",
+   "cout" : 99.0,
+   "dateDebut" : "02/10/2026",
+   "dateFin" : "18/12/2026",
+   "dateInscription" : "A partir du mois de septembre 2026, par mail ou sms",
+   "description" : "Comprendre des textes courts; pouvoir raconter des événements au présent, passé et futur; comprendre des textes courts ayant un vocabulaire fréquent; comprendre et répondre à son interlocuteur lors des conversations à des thèmes courants. S'exprimer de façon simple, parler de soi et de son entourage; écrire sur les aspects quotidiens",
+   "domainesCompetences" : [ {
+      "competences" : [ "pouvoir décliner les noms, parler au présent, futur et passé, àcrire et dire de brèves expressions courantes; comprendre des textes courts" ],
+      "domaine" : "Compréhension orale et écrite  et expression orale et écrite"
+   } ],
+   "duree" : "22h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Vendredi à 18:30 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67701,
+   "intitule" : "Bosniaque",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BA",
+   "matiereNom" : "Bosniaque",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "A2 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6919",
+         "localite" : "Roodt-sur-Syre",
+         "nom" : "Entente sans frontières",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, A Millesch"
+      },
+      "code" : "ESF",
+      "mail" : "emira.sakovic@esf.lu",
+      "nom" : "Entente sans frontières",
+      "nomContact" : "Sakovic",
+      "onlineReg" : false,
+      "prenomContact" : "Emira",
+      "statut" : "ASBL",
+      "telephone" : "+352 621 288 749",
+      "websiteUrl" : "http://esf.lu/"
+   },
+   "prerequis" : "Oui, avoir des connaissances de base ou avoit atteint le niveau de connaisance A1",
+   "renseignements" : "Le cours donnera un aperçu global sur le lexique, la grammaire et l'héritage culturel de la Bosnie-Herzégovine ainsi que les pays voisins: Croatie, Serbie et Monténégro. \r\nPlus de renseignements au sujet du cours, via email: info@esf.lu "
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
+      "codePostal" : "1430",
+      "localite" : "Luxembourg, Hollerich",
+      "nom" : "Lycée Athénée - Entente sans frontières",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "24, Bd Pierre Dupong"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-BA-8",
+   "coursId" : "LA-BA-8",
+   "coursType" : "CLASSIQUE",
+   "cout" : 99.0,
+   "dateDebut" : "02/10/2026",
+   "dateFin" : "18/12/2026",
+   "dateInscription" : "Par mail ou message téléphnique à partir du mois de septembre 2026",
+   "description" : "Pouvoir se présenter; comprendre et s'engager dans une conversation simple; reconnaître et échanger des expressions courantes et avoir des notions de grammaire de base.",
+   "domainesCompetences" : [ {
+      "competences" : [ "Comprendre, écrire et dire des phrases simples et courtes au présent; Pouvoir se présenter, parler de ses origines et sa famille, faire des achats; conjuger des verbes au présent" ],
+      "domaine" : "Compréhension écrite et orale et expression àcrite et orale"
+   } ],
+   "duree" : "22h",
+   "enseignants" : [ ],
+   "format" : "DISTANCE",
+   "horairePrevu" : "Vendredi à 16:15 (durée 2h)",
+   "horaires" : [ ],
+   "id" : 67700,
+   "intitule" : "Bosniaque",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "BA",
+   "matiereNom" : "Bosniaque",
+   "nbInscrits" : 0,
+   "nbPlaces" : 15,
+   "niveau" : "A1 du CECRL",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "6919",
+         "localite" : "Roodt-sur-Syre",
+         "nom" : "Entente sans frontières",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "19, A Millesch"
+      },
+      "code" : "ESF",
+      "mail" : "emira.sakovic@esf.lu",
+      "nom" : "Entente sans frontières",
+      "nomContact" : "Sakovic",
+      "onlineReg" : false,
+      "prenomContact" : "Emira",
+      "statut" : "ASBL",
+      "telephone" : "+352 621 288 749",
+      "websiteUrl" : "http://esf.lu/"
+   },
+   "renseignements" : "Le cours donnera un aperçu global sur le lexique, la grammaire et l'héritage culturel de la Bosnie et des pays de la région avoisinante (Croatie, Serbie et Monténégro). \r\nPlus derenseignements peuvent être obtenus par mail: info@esf.lu "
+}, {
+   "adresseCours" : {
+      "localite" : "DISTANCE",
+      "nom" : "DISTANCE"
+   },
+   "adresseInscription" : {
       "codePostal" : "7201",
       "localite" : "Walferdange",
       "nom" : "coursdelangues@walfer.lu",
@@ -29962,7 +30468,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Anglais",
-   "nbInscrits" : 0,
+   "nbInscrits" : 1,
    "nbPlaces" : 24,
    "niveau" : "B1 du CECRL",
    "onlineRegistration" : true,
@@ -34877,6 +35383,104 @@
    "renseignements" : "Lors de l'inscription à ce cours vous allez être redirigé vers le site Luxtrust."
 }, {
    "adresseCours" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "Centre Convict",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5,avenue Marie-Thérèse"
+   },
+   "adresseInscription" : {
+      "codePostal" : "2132",
+      "localite" : "Luxembourg",
+      "nom" : "C.F. Lucien Huss a.s.b.l",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "5, Av Marie Thérèse"
+   },
+   "categorieCode" : "LA",
+   "categorieCodeUnipop" : "LAN",
+   "categorieNom" : "LANGUES",
+   "coursCode" : "LA-FR-1304",
+   "coursId" : "LA-FR-1304",
+   "coursType" : "CLASSIQUE",
+   "cout" : 90.0,
+   "dateDebut" : "12/06/2026",
+   "dateFin" : "15/07/2026",
+   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
+   "description" : "Aptitude à accéder à diverses formes d'écrit (personnel, administratif) et à produire dans des structures justes des écrits dans une situation de communication écrite quotidienne, en révisant les règles de grammaire basiques",
+   "domainesCompetences" : [ {
+      "competences" : [ " suivre les points principaux d'une longue discussion se déroulant en sa présence, à condition que la langue soit standard et clairement articulée", "comprendre des informations techniques simples, tels que des modes d'emploi, des recettes de cuisine", "comprendre l'information contenue dans la plupart des documents enregistrés ou radiodiffusés (chansons).", "suivre une conversation quotidienne sur des sujets familiers rencontrés régulièrement au travail, à l'école, pendant les loisirs si l'interlocuteur s'exprime clairement, bien qu'il soit parfois nécessaire de faire répéter certains mots ou expression." ],
+      "domaine" : "Compréhension orale"
+   }, {
+      "competences" : [ "parcourir un texte assez long pour y localiser une information cherchée et réunir des informations provenant de différentes parties du texte afin d'accomplir une tâche spécifique.", "reconnaître les points significatifs d'un article de journal direct et non complexe sur un sujet familier\r\n", "identifier des mots inconnus à l'aide du contexte sur des sujets relatifs à son domaine et à ses intérêts. \r\n" ],
+      "domaine" : "Compréhension écrite"
+   }, {
+      "competences" : [ "communiquer avec une certaine assurance sur des sujets familiers habituels ou non en relation avec ses intérêts et son domaine professionnel. ", "exprimer sa pensée sur un sujet abstrait ou culturel comme un film, des livres, de la musique, etc.", "aborder sans préparation une conversation sur un sujet familier\r\n", "relater en détail ses expériences en décrivant ses sentiments et ses réactions.\r\n", "raconter l'intrigue d'un livre ou d'un film et décrire ses propres réactions, ", "décrire un rêve, un espoir ,une ambition, des peurs \r\n", "décrire un événement, réel ou imaginaire. \r\n", "raconter une histoire.\r\n", "développer une argumentation suffisamment bien pour être compris sans difficulté la plupart du temps." ],
+      "domaine" : "Expression orale en continu"
+   }, {
+      "competences" : [ "réagir à des sentiments tels que la surprise, la joie, la tristesse, la curiosité et l'indifférence et les exprimer.", "soutenir une conversation ou une discussion\r\n", " échanger de l'information sur des sujets familiers, d'intérêt personnel ou pertinents pour la vie quotidienne (par exemple, la famille, les loisirs, le travail, les voyages et les faits d'actualité).", "commenter brièvement le point de vue d'autrui.\r\n", "comparer et opposer des alternatives \r\n", "émettre ou solliciter un point de vue personnel ou une opinion sur des points d'intérêt général.\r\n", "exprimer poliment ses convictions, ses opinions, son accord et son désaccord.\r\n", "commenter brièvement le point de vue d'autrui\r\n", "commencer, poursuivre et terminer une simple conversation en tête-à-tête sur des sujets familiers ou d'intérêt personnel" ],
+      "domaine" : "Interaction orale"
+   }, {
+      "competences" : [ "écrire des descriptions détaillées simples et directes sur une gamme étendue de sujets familiers (centre d'intérêt, famille, aspects culturels) ", "rédiger un programme ( de sorties, de lieux à visiter, ..)\r\n", "rédiger un questionnaire \r\n", "comparer des gens, des pays, des situations..\r\n", "faire le compte rendu d'expériences en décrivant ses souvenirs, ses sentiments, ses réactions, \r\n", "écrire la description d'un évènement, d'un voyage \r\n", "raconter une histoire \r\n", "paraphraser ( écrire à la manière de )\r\n" ],
+      "domaine" : "Expression écrite"
+   }, {
+      "competences" : [ "conjuguer les principaux verbes au temps de l'indicatif \r\n", "utiliser le comparatif et le superlatif ", "utiliser les pronoms compléments simples et doubles \r\n", "utiliser l'impératif, les pronoms compléments à l'impératif ", "utiliser les temps du passé ", "utiliser le conditionnel présent et passé \r\n", "utiliser le passif", " utiliser le subjonctif ", "utiliser le gérondif et le participe présent\r\n" ],
+      "domaine" : "Grammaire"
+   } ],
+   "duree" : "30h",
+   "enseignants" : [ {
+      "nom" : "Jacquet",
+      "prenom" : "Annie"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
+   "horaires" : [ {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Lundi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Mercredi"
+   }, {
+      "duree" : "2h",
+      "heure" : "12:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 63743,
+   "intitule" : "Cours de renforcement grammatical",
+   "langueCoursCode" : "FR",
+   "langueCoursNom" : "Français",
+   "matiereCode" : "FR",
+   "matiereNom" : "Français",
+   "nbInscrits" : 14,
+   "nbPlaces" : 18,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : false,
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "2132",
+         "localite" : "Luxembourg",
+         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "5, Av Marie Thérèse"
+      },
+      "code" : "CFLH",
+      "mail" : "cflh.asbl@gmail.com",
+      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
+      "nomContact" : "Daverdisse",
+      "onlineReg" : false,
+      "prenomContact" : "Helene",
+      "statut" : "ASBL",
+      "telephone" : "+352 26 56 16 92",
+      "websiteUrl" : "http://www.cflh.lu"
+   },
+   "prerequis" : "niveau A2 oral acquis",
+   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
+}, {
+   "adresseCours" : {
       "codePostal" : "4360",
       "localite" : "Esch-sur-Alzette",
       "nom" : "Université Populaire Belval",
@@ -37262,104 +37866,6 @@
       "websiteUrl" : "http://www.cflh.lu"
    },
    "prerequis" : "Niveau A1.2 acquis"
-}, {
-   "adresseCours" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "Centre Convict",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5,avenue Marie-Thérèse"
-   },
-   "adresseInscription" : {
-      "codePostal" : "2132",
-      "localite" : "Luxembourg",
-      "nom" : "C.F. Lucien Huss a.s.b.l",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "5, Av Marie Thérèse"
-   },
-   "categorieCode" : "LA",
-   "categorieCodeUnipop" : "LAN",
-   "categorieNom" : "LANGUES",
-   "coursCode" : "LA-FR-1304",
-   "coursId" : "LA-FR-1304",
-   "coursType" : "CLASSIQUE",
-   "cout" : 90.0,
-   "dateDebut" : "01/06/2026",
-   "dateFin" : "03/07/2026",
-   "dateInscription" : "lundi et jeudi de 14h00 à 17h30\r\nvendredi de 9h30 à 13h00",
-   "description" : "Aptitude à accéder à diverses formes d'écrit (personnel, administratif) et à produire dans des structures justes des écrits dans une situation de communication écrite quotidienne, en révisant les règles de grammaire basiques",
-   "domainesCompetences" : [ {
-      "competences" : [ " suivre les points principaux d'une longue discussion se déroulant en sa présence, à condition que la langue soit standard et clairement articulée", "comprendre des informations techniques simples, tels que des modes d'emploi, des recettes de cuisine", "comprendre l'information contenue dans la plupart des documents enregistrés ou radiodiffusés (chansons).", "suivre une conversation quotidienne sur des sujets familiers rencontrés régulièrement au travail, à l'école, pendant les loisirs si l'interlocuteur s'exprime clairement, bien qu'il soit parfois nécessaire de faire répéter certains mots ou expression." ],
-      "domaine" : "Compréhension orale"
-   }, {
-      "competences" : [ "parcourir un texte assez long pour y localiser une information cherchée et réunir des informations provenant de différentes parties du texte afin d'accomplir une tâche spécifique.", "reconnaître les points significatifs d'un article de journal direct et non complexe sur un sujet familier\r\n", "identifier des mots inconnus à l'aide du contexte sur des sujets relatifs à son domaine et à ses intérêts. \r\n" ],
-      "domaine" : "Compréhension écrite"
-   }, {
-      "competences" : [ "communiquer avec une certaine assurance sur des sujets familiers habituels ou non en relation avec ses intérêts et son domaine professionnel. ", "exprimer sa pensée sur un sujet abstrait ou culturel comme un film, des livres, de la musique, etc.", "aborder sans préparation une conversation sur un sujet familier\r\n", "relater en détail ses expériences en décrivant ses sentiments et ses réactions.\r\n", "raconter l'intrigue d'un livre ou d'un film et décrire ses propres réactions, ", "décrire un rêve, un espoir ,une ambition, des peurs \r\n", "décrire un événement, réel ou imaginaire. \r\n", "raconter une histoire.\r\n", "développer une argumentation suffisamment bien pour être compris sans difficulté la plupart du temps." ],
-      "domaine" : "Expression orale en continu"
-   }, {
-      "competences" : [ "réagir à des sentiments tels que la surprise, la joie, la tristesse, la curiosité et l'indifférence et les exprimer.", "soutenir une conversation ou une discussion\r\n", " échanger de l'information sur des sujets familiers, d'intérêt personnel ou pertinents pour la vie quotidienne (par exemple, la famille, les loisirs, le travail, les voyages et les faits d'actualité).", "commenter brièvement le point de vue d'autrui.\r\n", "comparer et opposer des alternatives \r\n", "émettre ou solliciter un point de vue personnel ou une opinion sur des points d'intérêt général.\r\n", "exprimer poliment ses convictions, ses opinions, son accord et son désaccord.\r\n", "commenter brièvement le point de vue d'autrui\r\n", "commencer, poursuivre et terminer une simple conversation en tête-à-tête sur des sujets familiers ou d'intérêt personnel" ],
-      "domaine" : "Interaction orale"
-   }, {
-      "competences" : [ "écrire des descriptions détaillées simples et directes sur une gamme étendue de sujets familiers (centre d'intérêt, famille, aspects culturels) ", "rédiger un programme ( de sorties, de lieux à visiter, ..)\r\n", "rédiger un questionnaire \r\n", "comparer des gens, des pays, des situations..\r\n", "faire le compte rendu d'expériences en décrivant ses souvenirs, ses sentiments, ses réactions, \r\n", "écrire la description d'un évènement, d'un voyage \r\n", "raconter une histoire \r\n", "paraphraser ( écrire à la manière de )\r\n" ],
-      "domaine" : "Expression écrite"
-   }, {
-      "competences" : [ "conjuguer les principaux verbes au temps de l'indicatif \r\n", "utiliser le comparatif et le superlatif ", "utiliser les pronoms compléments simples et doubles \r\n", "utiliser l'impératif, les pronoms compléments à l'impératif ", "utiliser les temps du passé ", "utiliser le conditionnel présent et passé \r\n", "utiliser le passif", " utiliser le subjonctif ", "utiliser le gérondif et le participe présent\r\n" ],
-      "domaine" : "Grammaire"
-   } ],
-   "duree" : "30h",
-   "enseignants" : [ {
-      "nom" : "Jacquet",
-      "prenom" : "Annie"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Lundi à 12:00 (durée 2h), Mercredi à 12:00 (durée 2h), Vendredi à 12:00 (durée 2h)",
-   "horaires" : [ {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Lundi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Mercredi"
-   }, {
-      "duree" : "2h",
-      "heure" : "12:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 63743,
-   "intitule" : "Cours de renforcement grammatical",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "FR",
-   "matiereNom" : "Français",
-   "nbInscrits" : 13,
-   "nbPlaces" : 18,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : false,
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "2132",
-         "localite" : "Luxembourg",
-         "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "5, Av Marie Thérèse"
-      },
-      "code" : "CFLH",
-      "mail" : "cflh.asbl@gmail.com",
-      "nom" : "Centre de Formation Lucien Huss a.s.b.l",
-      "nomContact" : "Daverdisse",
-      "onlineReg" : false,
-      "prenomContact" : "Helene",
-      "statut" : "ASBL",
-      "telephone" : "+352 26 56 16 92",
-      "websiteUrl" : "http://www.cflh.lu"
-   },
-   "prerequis" : "niveau A2 oral acquis",
-   "renseignements" : "Correspondez par courriel au cflh.asbl@gmail.com"
 }, {
    "adresseCours" : {
       "localite" : "DISTANCE",
@@ -48446,7 +48952,7 @@
    "coursType" : "CLASSIQUE",
    "cout" : 144.0,
    "dateDebut" : "24/02/2026",
-   "dateFin" : "07/07/2026",
+   "dateFin" : "14/07/2026",
    "description" : "Mosaic Wonders invites you into the vibrant world of mosaics. Explore a variety of materials, master different cutting techniques with diverse tools, and discover creative ways to use glass in your compositions. Play with shapes, patterns, colors, and spacing to design unique artworks that spark your creativity and imagination.",
    "duree" : "32 leçons",
    "enseignants" : [ {
