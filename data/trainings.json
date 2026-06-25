@@ -1297,7 +1297,7 @@
    "langueCoursNom" : "Anglais",
    "matiereCode" : "EN",
    "matiereNom" : "Découvrir le GDL en anglais",
-   "nbInscrits" : 10,
+   "nbInscrits" : 11,
    "nbPlaces" : 18,
    "niveau" : "Tous les niveaux",
    "onlineRegistration" : true,
@@ -3720,69 +3720,6 @@
       "websiteUrl" : "http://www.unipop.lu"
    },
    "renseignements" : "La formatrice se charge de fournir le matériel. Un remboursement en espèces de 20 euros sera demandé le jour même."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SO",
-   "categorieCodeUnipop" : "ACP",
-   "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
-   "coursCode" : "SO-YOG-112",
-   "coursId" : "SO-YOG-112",
-   "coursType" : "CLASSIQUE",
-   "cout" : 9.0,
-   "dateDebut" : "11/07/2026",
-   "dateFin" : "11/07/2026",
-   "description" : "Cet atelier est spécialement conçu pour les futurs parents, idéal à partir du 6¿ mois de grossesse, afin de vivre ensemble un temps de connexion et de compréhension du corps. Ce workshop s’appuie sur les principes de la méthode De Gasquet : protection du périnée, respiration physiologique et postures adaptées à la grossesse. ¿ Pourquoi pratiquer le yoga en couple ? - pour renforcer le lien entre les futurs parents, - pour impliquer activement le/ la partenaire dans la grossesse, - pour apprendre des postures et gestes pour le quotidien, - pour soulager les tensions (dos, bassin, jambes lourdes), - pour créer un espace de confiance et de communication. Le/la partenaire apprend des techniques simples de mobilisation du bassin, d’aide aux postures, de massage et de soutien respiratoire. - Modalités d’inscription 1 inscription = 1 personne 2 inscriptions = 1 couple",
-   "duree" : "2 leçons",
-   "enseignants" : [ {
-      "nom" : "Andreos",
-      "prenom" : "Aurélie",
-      "presentation" : "https://aurelie-yoga-ayurveda.com/"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Samedi 11-07-2026 à 10:20 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "10:20",
-      "jour" : "Samedi"
-   } ],
-   "id" : 66157,
-   "intitule" : "Workshop - Yoga Prénatal en Couple - Méthode Dr De Gasquet",
-   "langueCoursCode" : "FR",
-   "langueCoursNom" : "Français",
-   "matiereCode" : "YOG",
-   "matiereNom" : "Yoga",
-   "nbInscrits" : 0,
-   "nbPlaces" : 10,
-   "niveau" : "Tous les niveaux",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjYxNTc%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : "Découvrez qui je suis sur mon site internet: https://aurelie-yoga-ayurveda.com/ \r\n\r\n",
-   "renseignements" : "À apporter : un tapis de yoga, un châle non élastique ou une écharpe de portage, ainsi qu’une serviette. Veuillez noter que le site ne dispose pas de vestiaires ni de douches."
 }, {
    "adresseCours" : {
       "codePostal" : "1430",
