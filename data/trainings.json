@@ -8,68 +8,6 @@
       "rueNumero" : "14, Porte de France"
    },
    "anneeScolaire" : "2025/2026",
-   "categorieCode" : "SCI",
-   "categorieCodeUnipop" : "SCH",
-   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
-   "coursCode" : "SCI-PSY-24",
-   "coursId" : "SCI-PSY-24",
-   "coursType" : "CLASSIQUE",
-   "cout" : 27.0,
-   "dateDebut" : "26/06/2026",
-   "dateFin" : "17/07/2026",
-   "description" : "Dieser Kurs baut direkt auf „Psychologie 1: Grundlagen der Psychologie“ auf und richtet sich an Teilnehmende, die bereits über ein solides Grundverständnis der Psychologie verfügen.\r\n\r\nZiel ist es, über die Grundlagen hinauszugehen und die Mechanismen, die menschliches Verhalten im Alltag prägen, vertieft zu erschließen.\r\n\r\nIm Verlauf des Kurses werden zentrale Themenbereiche wie Emotionen, Motivation, Gedächtnis, Kommunikation und menschliche Entwicklung behandelt. Die Inhalte werden klar strukturiert und verständlich vermittelt, wobei ein besonderer Fokus auf ihrer praktischen Relevanz liegt.\r\n\r\nStatt Psychologie ausschließlich als theoretische Disziplin zu betrachten, bietet der Kurs konkrete Orientierung, um besser zu verstehen, warum Menschen denken, fühlen und handeln, wie sie es tun.\r\n\r\nDie Teilnehmenden entwickeln so ein differenzierteres Verständnis für menschliches Verhalten – sowohl im Hinblick auf sich selbst als auch auf andere.",
-   "duree" : "6 leçons",
-   "enseignants" : [ {
-      "nom" : "Frédérick",
-      "prenom" : "Gilles"
-   } ],
-   "format" : "PRESENTIEL",
-   "horairePrevu" : "Vendredi à 18:00 (durée 1h40)",
-   "horaires" : [ {
-      "duree" : "1h40",
-      "heure" : "18:00",
-      "jour" : "Vendredi"
-   } ],
-   "id" : 66573,
-   "intitule" : "Psychologie 2 – Vertiefung: Die Mechanismen menschlichen Verhaltens verstehen",
-   "langueCoursCode" : "LB",
-   "langueCoursNom" : "Luxembourgeois",
-   "matiereCode" : "PSY",
-   "matiereNom" : "Psychologie",
-   "nbInscrits" : 3,
-   "nbPlaces" : 10,
-   "niveau" : "Intermédiaire",
-   "onlineRegistration" : true,
-   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY1NzM%3D",
-   "organisateur" : {
-      "adresse" : {
-         "codePostal" : "4360",
-         "localite" : "Esch-sur-Alzette",
-         "nom" : "UniPop",
-         "paysCode" : "L",
-         "paysNom" : "Luxembourg",
-         "rueNumero" : "14, Porte de France"
-      },
-      "code" : "UNIPOP",
-      "mail" : "info@unipop.lu",
-      "nom" : "UniPop",
-      "onlineReg" : true,
-      "statut" : "MENFPS",
-      "telephone" : "247 56 400",
-      "websiteUrl" : "http://www.unipop.lu"
-   },
-   "prerequis" : " Dieser Kurs richtet sich an Personen, die „Psychologie 1: Grundlagen der Psychologie“ besucht haben. (SCI-PSY-19)",
-   "renseignements" : "Am Freitag, den 10.07.2026 findet kein Unterricht statt."
-}, {
-   "adresseCours" : {
-      "codePostal" : "4360",
-      "localite" : "Esch-sur-Alzette",
-      "nom" : "Université Populaire Belval",
-      "paysCode" : "L",
-      "paysNom" : "Luxembourg",
-      "rueNumero" : "14, Porte de France"
-   },
-   "anneeScolaire" : "2025/2026",
    "categorieCode" : "SO",
    "categorieCodeUnipop" : "ACP",
    "categorieNom" : "ACTIVITE PHYSIQUE  ET BIEN-ÊTRE",
@@ -35525,6 +35463,68 @@
       "websiteUrl" : "https://www.lyma.lu/"
    },
    "renseignements" : "Pour de plus amples informations, veuillez faire un courriel à couso@lyma.lu\r\nLe jour de la semaine est à titre indicatif. Le jour de la semaine définitif dépendra de la disponibilité du formateur. "
+}, {
+   "adresseCours" : {
+      "codePostal" : "4360",
+      "localite" : "Esch-sur-Alzette",
+      "nom" : "Université Populaire Belval",
+      "paysCode" : "L",
+      "paysNom" : "Luxembourg",
+      "rueNumero" : "14, Porte de France"
+   },
+   "anneeScolaire" : "2025/2026",
+   "categorieCode" : "SCI",
+   "categorieCodeUnipop" : "SCH",
+   "categorieNom" : "SCIENCES HUMAINES ET SOCIALES",
+   "coursCode" : "SCI-PSY-24",
+   "coursId" : "SCI-PSY-24",
+   "coursType" : "CLASSIQUE",
+   "cout" : 27.0,
+   "dateDebut" : "26/06/2026",
+   "dateFin" : "17/07/2026",
+   "description" : "Dieser Kurs baut direkt auf „Psychologie 1: Grundlagen der Psychologie“ auf und richtet sich an Teilnehmende, die bereits über ein solides Grundverständnis der Psychologie verfügen.\r\n\r\nZiel ist es, über die Grundlagen hinauszugehen und die Mechanismen, die menschliches Verhalten im Alltag prägen, vertieft zu erschließen.\r\n\r\nIm Verlauf des Kurses werden zentrale Themenbereiche wie Emotionen, Motivation, Gedächtnis, Kommunikation und menschliche Entwicklung behandelt. Die Inhalte werden klar strukturiert und verständlich vermittelt, wobei ein besonderer Fokus auf ihrer praktischen Relevanz liegt.\r\n\r\nStatt Psychologie ausschließlich als theoretische Disziplin zu betrachten, bietet der Kurs konkrete Orientierung, um besser zu verstehen, warum Menschen denken, fühlen und handeln, wie sie es tun.\r\n\r\nDie Teilnehmenden entwickeln so ein differenzierteres Verständnis für menschliches Verhalten – sowohl im Hinblick auf sich selbst als auch auf andere.",
+   "duree" : "6 leçons",
+   "enseignants" : [ {
+      "nom" : "Frédérick",
+      "prenom" : "Gilles"
+   } ],
+   "format" : "PRESENTIEL",
+   "horairePrevu" : "Vendredi à 18:00 (durée 1h40)",
+   "horaires" : [ {
+      "duree" : "1h40",
+      "heure" : "18:00",
+      "jour" : "Vendredi"
+   } ],
+   "id" : 66573,
+   "intitule" : "Psychologie 2 – Vertiefung: Die Mechanismen menschlichen Verhaltens verstehen",
+   "langueCoursCode" : "LB",
+   "langueCoursNom" : "Luxembourgeois",
+   "matiereCode" : "PSY",
+   "matiereNom" : "Psychologie",
+   "nbInscrits" : 3,
+   "nbPlaces" : 10,
+   "niveau" : "Intermédiaire",
+   "onlineRegistration" : true,
+   "onlineRegistrationUrl" : "https://ssl.education.lu/gicea-portal/#/access?token=aWQ9NjY1NzM%3D",
+   "organisateur" : {
+      "adresse" : {
+         "codePostal" : "4360",
+         "localite" : "Esch-sur-Alzette",
+         "nom" : "UniPop",
+         "paysCode" : "L",
+         "paysNom" : "Luxembourg",
+         "rueNumero" : "14, Porte de France"
+      },
+      "code" : "UNIPOP",
+      "mail" : "info@unipop.lu",
+      "nom" : "UniPop",
+      "onlineReg" : true,
+      "statut" : "MENFPS",
+      "telephone" : "247 56 400",
+      "websiteUrl" : "http://www.unipop.lu"
+   },
+   "prerequis" : " Dieser Kurs richtet sich an Personen, die „Psychologie 1: Grundlagen der Psychologie“ besucht haben. (SCI-PSY-19)",
+   "renseignements" : "Am Freitag, den 10.07.2026 findet kein Unterricht statt."
 }, {
    "adresseCours" : {
       "codePostal" : "4360",
