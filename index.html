@@ -147,9 +147,10 @@
 
     th:nth-child(1), td:nth-child(1){ width:120px; }
     th:nth-child(2), td:nth-child(2){ width:120px; }
-    th:nth-child(4), td:nth-child(4){ width:240px; }
-    th:nth-child(5), td:nth-child(5){ width:200px; }
-    th:nth-child(6), td:nth-child(6){ width:160px; }
+    th:nth-child(4), td:nth-child(4){ width:220px; }
+    th:nth-child(5), td:nth-child(5){ width:170px; }
+    th:nth-child(6), td:nth-child(6){ width:200px; }
+    th:nth-child(7), td:nth-child(7){ width:160px; }
 
     td:nth-child(3){
       white-space: normal;
@@ -331,7 +332,7 @@
           </div>
 
           <div style="min-width:240px; flex:1;">
-            <label>Suche (Titel / Ort / Trainer)</label>
+            <label>Suche (Titel / Ort / Saal / Trainer)</label>
             <input type="text" id="q" placeholder="z.B. yoga, belval, dupont…" />
           </div>
 
@@ -351,12 +352,13 @@
                 <th>Zeit</th>
                 <th>Kurs</th>
                 <th>Ort</th>
+                <th>Saal</th>
                 <th>Trainer</th>
                 <th>Belegung</th>
               </tr>
             </thead>
             <tbody id="tbody">
-              <tr><td colspan="6" class="muted">Noch keine Daten geladen…</td></tr>
+              <tr><td colspan="7" class="muted">Noch keine Daten geladen…</td></tr>
             </tbody>
           </table>
         </div>
@@ -689,6 +691,7 @@ function rebuildSessions(){
 
     const title = c.intitule || "(sans intitulé)";
     const location = (c.adresseCours && (c.adresseCours.nom || c.adresseCours.localite || "")) || "";
+    const room = (c.adresseCours && c.adresseCours.salle) ? String(c.adresseCours.salle) : "";
     const trainer = Array.isArray(c.enseignants) && c.enseignants.length
       ? c.enseignants.map(x => [x.prenom, x.nom].filter(Boolean).join(" ").trim()).filter(Boolean).join(", ")
       : "";
@@ -727,6 +730,7 @@ function rebuildSessions(){
           start: sdt,
           end: edt,
           location,
+          room,
           trainer,
           booked,
           capacity,
@@ -992,7 +996,7 @@ function runQuery(){
     if(!overlaps(s.start, s.end, wStart, wEnd)) return false;
 
     if(qText){
-      const hay = `${s.title} ${s.location} ${s.trainer} ${s.courseId}`.toLowerCase();
+      const hay = `${s.title} ${s.location} ${s.room} ${s.trainer} ${s.courseId}`.toLowerCase();
       if(!hay.includes(qText)) return false;
     }
     if(locText){
@@ -1013,7 +1017,7 @@ function runQuery(){
 
 function renderTable(items){
   if(!items.length){
-    tbody.innerHTML = `<tr><td colspan="6" class="muted">Keine Kurse im gewählten Filter.</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="7" class="muted">Keine Kurse im gewählten Filter.</td></tr>`;
     return;
   }
 
@@ -1047,6 +1051,7 @@ function renderTable(items){
         </div>
       </td>
       <td>${escapeHtml(it.location || "")}</td>
+      <td>${escapeHtml(it.room || "")}</td>
       <td>${escapeHtml(it.trainer || "")}</td>
       <td>${occText}</td>
     </tr>`;
