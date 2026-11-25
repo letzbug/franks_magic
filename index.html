@@ -297,6 +297,7 @@
           <button class="secondary" id="btnWeek">Diese Woche</button>
           <button class="secondary" id="btnMonth">Dieser Monat</button>
           <button id="btnRun">Anwenden</button>
+          <button class="secondary" id="btnNew" aria-pressed="false" title="Kurse mit Kursbeginn ab heute (inklusive)">Neue Kurse</button>
           <button class="secondary" id="btnUniPop">Nur UniPop</button>
           <button class="secondary" id="btnUniPopActive">UniPop mit Einschreibungen</button>
         </div>
@@ -310,6 +311,7 @@
               <option value="today">Heute</option>
               <option value="week">Diese Woche</option>
               <option value="month">Dieser Monat</option>
+              <option value="new">Neue Kurse</option>
             </select>
           </div>
 
@@ -596,10 +598,31 @@ function escapeHtml(s){
   }[c]));
 }
 
+function updateNewButton(){
+  const active = rangePreset.value === "new";
+  const button = el("btnNew");
+  button.setAttribute("aria-pressed", String(active));
+  button.style.borderColor = active ? "rgba(53,208,127,.55)" : "";
+  button.style.background = active ? "rgba(53,208,127,.12)" : "";
+}
+
 function applyPreset(preset){
   const now = luxNow();
 
-  if(preset === "today"){
+  if(preset === "new"){
+    const today = ymdLocal(now);
+    let latest = today;
+    for(const c of rawCourses){
+      const end = parseFRDateDDMMYYYY(c?.dateFin);
+      if(end && ymdLocal(end) > latest) latest = ymdLocal(end);
+    }
+    fromDate.value = today;
+    toDate.value = latest;
+    fromTime.value = "00:00";
+    toTime.value = "23:59";
+    q.value = "";
+    loc.value = "";
+  }else if(preset === "today"){
     const d = new Date(now); d.setHours(0,0,0,0);
     fromDate.value = ymdLocal(d);
     toDate.value = ymdLocal(d);
@@ -685,6 +708,7 @@ function rebuildSessions(){
     const dStart = parseFRDateDDMMYYYY(c.dateDebut);
     const dEnd = parseFRDateDDMMYYYY(c.dateFin);
     if(!dStart || !dEnd) continue;
+    if(rangePreset.value === "new" && dStart < startRange) continue;
 
     const dEndExclusive = new Date(dEnd.getTime() + 24*3600*1000);
     if(!overlaps(dStart, dEndExclusive, startRange, endRange)) continue;
@@ -972,6 +996,7 @@ function renderGoals(){
 
 function runQuery(){
   setWarn("");
+  updateNewButton();
 
   const fd = fromDate.value;
   const td = toDate.value;
@@ -1158,6 +1183,7 @@ btnUniPopActive.addEventListener("click", () => {
 
 // UI wiring
 document.getElementById("btnRun").addEventListener("click", runQuery);
+el("btnNew").addEventListener("click", () => { rangePreset.value="new"; applyPreset("new"); runQuery(); });
 document.getElementById("btnToday").addEventListener("click", () => { rangePreset.value="today"; applyPreset("today"); runQuery(); });
 document.getElementById("btnWeek").addEventListener("click", () => { rangePreset.value="week"; applyPreset("week"); runQuery(); });
 document.getElementById("btnMonth").addEventListener("click", () => { rangePreset.value="month"; applyPreset("month"); runQuery(); });
@@ -1165,7 +1191,14 @@ document.getElementById("btnMonth").addEventListener("click", () => { rangePrese
 rangePreset.addEventListener("change", () => {
   const p = rangePreset.value;
   if(p !== "custom") applyPreset(p);
+  updateNewButton();
 });
+
+for(const input of [fromDate, toDate]){
+  input.addEventListener("change", () => {
+    if(rangePreset.value === "new"){ rangePreset.value = "custom"; updateNewButton(); }
+  });
+}
 
 // init
 (function init(){
